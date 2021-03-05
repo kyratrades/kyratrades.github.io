@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 # Welcome to Jekyll!
 #
@@ -17,7 +17,7 @@ remote_theme: pmarsceill/just-the-docs
 # in the templates via {{ site.myvariable }}.
 title: Kyra Trades
 description: Currently open
-baseurl: "/testing" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kyratrades.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
