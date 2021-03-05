@@ -2,6 +2,7 @@
 layout: default
 title: Audios
 nav_order: 3
+permalink: /audios
 ---
 
 # Customization
