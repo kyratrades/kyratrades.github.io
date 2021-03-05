@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Utilities
-nav_order: 4
+title: Performers
+nav_order: 6
 has_children: true
-permalink: docs/utilities
+permalink: /performers
 ---
 
 # Utilities
