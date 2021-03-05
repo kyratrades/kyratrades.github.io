@@ -6,7 +6,7 @@ has_children: true
 permalink: /shows
 ---
 
-# UI Components
+# Shows
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Compiled lists of my favorite shows. Anything videos that I don't already have are instant wants. Audios would depend on specific casts.
 {: .fs-6 .fw-300 }

@@ -9,5 +9,5 @@ permalink: /performers
 # Performers
 {: .no_toc }
 
-My favorite performers
+Compiled lists of my favorite performers. Anything with them that I don't already have are instant wants.
 {: .fs-6 .fw-300 }
