@@ -1606,7 +1606,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/videos#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/videos#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/videos#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/videos#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/videos#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/videos#beaches">Beaches</a> • <a href="https://kyratrades.github.io/videos#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/videos#beautiful-thing">Beautiful Thing</a> • <a href="https://kyratrades.github.io/videos#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/videos#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/videos#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/videos#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/videos#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/videos#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/videos#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/videos#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/videos#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/videos#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/videos#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/videos#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/videos#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/videos#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/videos#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/videos#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/videos#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/videos#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/videos#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/videos#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/videos#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/videos#beaches">Beaches</a> • <a href="https://kyratrades.github.io/videos#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/videos#beautiful-thing">Beautiful Thing</a> • <a href="https://kyratrades.github.io/videos#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/videos#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/videos#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/videos#before-after">Before After</a> • <a href="https://kyratrades.github.io/videos#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/videos#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/videos#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/videos#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/videos#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/videos#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/videos#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/videos#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/videos#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/videos#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/videos#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/videos#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/videos#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/videos#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -1998,6 +1998,35 @@ CAST
 
 NOTES
 : A few heads show up briefly and a quick video drop after the first two songs. Covers from opening song to final applause, great shot.
+
+## Before After
+
+#### Before After - Southwark Playhouse - September 26, 2020 (Matinee)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: M4V `hard subtitles` `1080p` `1.61 GB`
+
+CAST
+: Hadley Fraser (Ben), Rosalie Craig (Ami)
+
+#### Before After - Southwark Playhouse - September 26, 2020 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: TS `1080p` `3.76 GB`
+
+CAST
+: Hadley Fraser (Ben), Rosalie Craig (Ami)
+
+NOTES
+: From the restream in early 2021. Presumably the 3rd (Sept. 26, 2020 evening) stream, since Hadley made the same mistake - saying "each minute each second each time we draw breath". It should have been you, not we.
 
 ## Big Fish
 
@@ -8593,7 +8622,7 @@ NOTES
 
 # P
 
-<p align="center"><a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
 
 ## Passion
 
@@ -9544,6 +9573,23 @@ CAST
 
 NOTES
 : First preview from the First National Tour!
+
+## The Producers
+
+#### The Producers - Plays In The Park - 2008
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `Commercial DVD`
+
+CAST
+: Paul Salvatoriello (Max Bialystock), Jonathan Schwartz (Leo Bloom), Ed Carlo (Roger De Bris), Gavin Kenny (Carmen Ghia), Emily Portune (Ulla), Dan Cook (Franz Liebkind), Lindsay Rich (Hold Me, Touch Me), Jack Cibrian (Mr. Marks)
+
+NOTES
+: Multicam Proshot. Presented by Plays In The Park.
 
 ## The Prom
 
