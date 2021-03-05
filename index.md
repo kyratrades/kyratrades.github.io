@@ -6,13 +6,7 @@ description: "Open for general trades"
 permalink: /
 ---
 
-# Status
-
-<center>Open for general trades</center>
-{: .fs-6 .fw-300 }
-
----
-# Info
+# Open for general trades
 
 ### No. of items listed:
 
@@ -41,14 +35,6 @@ Audios:
 If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too! Feel free to send a trade request for anything you want, I'll almost certainly find something from your list. However, I may decline a trade if you don't have your formats listed. I only trade for files in their original formats.
 
 You must include a link to and/or an attachment of your list. Whoever initiates a trade will send their links first.
-
-### Standard ratios
-
-<center>1 audio - 1 audio</center>
-
-<center>1 video - 1 video</center>
-
-<center>2 audios - 1 video</center>
 
 ### Files
 I do my best to check each of my items individually and will note down any issues. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have mislabelled anything.
