@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Trading 101
+title: Info
 nav_order: 8
-permalink: /trading-101
+permalink: /info
 ---
 
-# Trading 101
+# Info
 {: .no_toc }
 
 ### Standard trading ratios
@@ -28,6 +28,6 @@ LT
 
 <p align="center"><small>...to be added</small></p>
 
-### Useful Links
+### Trading 101
 
 <center><small><a href="https://sassyguide.weebly.com">Trading Guide</a> • <a href="https://master-releases.carrd.co">Original release formats and sizes</a> • <a href="https://docs.google.com/document/d/1VGVfTxjyPAbHXa_0Bxi396V-sGPJTFoeNGSmZGqC9aw/edit?usp=sharing">Common master release format</a></small></center>
