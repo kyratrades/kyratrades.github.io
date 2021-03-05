@@ -1,35 +1,33 @@
 ---
 layout: default
-title: Useful Info
+title: Trading 101
 nav_order: 8
-permalink: /useful-info
+permalink: /trading-101
 ---
 
-# Useful Info
+# Trading 101
 {: .no_toc }
 
-### Standard trading ratios
+## Standard trading ratios
 
-<p align="center"><small>1 audio - 1 audio</small></p>
-
-<p align="center"><small>1 video - 1 video</small></p>
-
-<p align="center"><small>2 audios - 1 video</small></p>
-
-<p align="center"><small>smalls - 1 audio</small></p>
-
-<p align="center"><small><em>(But I'm usually willing to gift any smalls you're missing)</em></small></p>
+1 audio - 1 audio
+1 video - 1 video
+2 audios - 1 video
+1 smalls - 1 audio
+<small><(but I'm usually willing to gift smalls you're missing, feel free to reach out)</small>
 
 ### Terminology
 
-<p align="center"><small>.NFT: Not For Trade (do not request them)</small></p>
+NFT
+: Not For Trade (do not request them)
 
-<p align="center"><small>.LT: Limited Trades</small></p>
+LT
+: Limited Trades
 
 ### Traders
 
 <p align="center"><small>...to be added</small></p>
 
-### Trading 101
+### Useful Links
 
-<small><a href="https://sassyguide.weebly.com">Trading Guide</a> • <a href=https://master-releases.carrd.co">Original release formats and sizes</a> • <a href="https://docs.google.com/document/d/1VGVfTxjyPAbHXa_0Bxi396V-sGPJTFoeNGSmZGqC9aw/edit?usp=sharing">Common master release format</a></small>
+<small><a href="https://sassyguide.weebly.com">Trading Guide</a> • <a href="https://master-releases.carrd.co">Original release formats and sizes</a> • <a href="https://docs.google.com/document/d/1VGVfTxjyPAbHXa_0Bxi396V-sGPJTFoeNGSmZGqC9aw/edit?usp=sharing">Common master release format</a></small>
