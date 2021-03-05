@@ -11632,7 +11632,7 @@ NOTES
 
 ## Wicked
 
-<p align="center"><small>To be added</small></p>
+<p align="center"><small>...to be added</small></p>
 
 ## The Wild Party (Lippa)
 
