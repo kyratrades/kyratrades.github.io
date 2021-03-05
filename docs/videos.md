@@ -4533,7 +4533,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB `NO SMALLS` `1 DVD`
+: VOB+smalls `1 DVD`
 
 CAST
 : Elena Roger (Eva Perón), Maya Jade Frank (Young Eva), Ricky Martin (Che), Michael Cerveris (Perón), Max von Essen (Magaldi), Rachel Potter (Perón\'s Mistress)
@@ -7560,7 +7560,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB `NO SMALLS` `1.41 GB`
+: VOB+smalls `1.41 GB`
 
 CAST
 : Alun Armstrong, Colm Wilkinson, David Burt, Elaine Paige, Frances Ruffelle, Michael Ball, Patti LuPone, Rebecca Caine, Roger Allam
@@ -10843,7 +10843,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB `NO SMALLS` `1 DVD`
+: VOB+smalls `3 DVDs`
 
 CAST: Michael Crawford (Count Krolock), Mandy Gonzalez (Sarah), Max von Essen (Alfred), René Auberjonois (Abronsius), Ron Orbach (Chagal), Liz McCartney (Rebecca), Leah Hocking (Magda), Mark Price (Boris), Asa Somers (Herbert)
 
@@ -10860,7 +10860,7 @@ CAST
 : Kevin Tarte (Graf von Krolock), Jessica Kessler (Sarah Chagal), Max Niemeyer (Alfred), Stefan Poslovski (Professor Abronsius), Franziska Forster (Magda), Jerzy Jeszke (Yone Chagal), Simone Pohl (Rebecca Chagal), Tim Reichwein (Herbert von Krolock), Stefan Büdenbender (Koukol)
 
 NOTES
-: Originally intended for commercial release.
+: Pro-shot DVD with optional English subtitles, originally intended for commercial release. Includes extras like cast profiles, TV advertisement, press footage, and the closing night finale.
 
 ## Tarzan
 
