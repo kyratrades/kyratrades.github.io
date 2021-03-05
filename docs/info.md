@@ -28,6 +28,21 @@ NFT
 LT
 : Limited Trades
 
+s/w
+: Swing
+
+s/b
+: Standby
+
+u/s
+: Understudy
+
+t/r
+: Temporary Replacement
+
+e/c
+: Emergency Cover
+
 ### Traders
 
 <p align="center"><small>...to be added</small></p>
