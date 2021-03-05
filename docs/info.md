@@ -30,4 +30,4 @@ LT
 
 ### Trading 101
 
-<center><small><a href="https://sassyguide.weebly.com">Trading Guide</a> • <a href="https://master-releases.carrd.co">Original release formats and sizes</a> • <a href="https://docs.google.com/document/d/1VGVfTxjyPAbHXa_0Bxi396V-sGPJTFoeNGSmZGqC9aw/edit?usp=sharing">Common master release format</a></small></center>
+<center><small><a href="https://sassyguide.weebly.com">Trading Guide</a> • <a href="https://master-releases.carrd.co">Original release formats and sizes</a> • <a href="https://docs.google.com/document/d/1VGVfTxjyPAbHXa_0Bxi396V-sGPJTFoeNGSmZGqC9aw/edit?usp=sharing">Common master release format</a> • <a href="https://encora.zagon.pe/index.html">The Encora Archive</a></small></center>
