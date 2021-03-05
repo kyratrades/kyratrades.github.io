@@ -5,112 +5,29 @@ nav_order: 3
 permalink: /audios
 ---
 
-# Customization
+# Videos
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+### Important
+{: .no_toc }
 
-1. TOC
-{:toc}
+<p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
+
+<p align="center"><small>I check every single audio bootleg for missing tracks before listing them onto my site, and will list any issues. However, unlike videos I will not play every single item. Do keep in mind there's still a chance I have missed or mislabelled something, in which case I will offer a replacement and update you when I find the correct copy.</small></p>
+
+<p align="center"><small>If you have a better copy than my existing one (missing tracks, larger file size, original untracked files etc) please do contact me about it. I would love to trade for them!</small></p>
+
+<p align="center"><small>I will include any information I deem relevant (no. of tracks, file size etc). File size is calculated in gibibytes (1 GB = 1024 MB).</small></p>
+
+<p align="center"><small>Happy trading!</small></p>
 
 ---
 
-## Color schemes
-{: .d-inline-block }
-
-New
-{: .label .label-green }
-
-Just the Docs supports two color schemes: light (default), and dark.
-
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
-
-#### Example
+### Navigation
 {: .no_toc }
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+<p align="center"><a href="https://kyratrades.github.io/audios#top">#</a> • <a href="https://kyratrades.github.io/audios#a">A</a> • <a href="https://kyratrades.github.io/audios#b">B</a> • <a href="https://kyratrades.github.io/audios#c">C</a> • <a href="https://kyratrades.github.io/audios#d">D</a> • <a href="https://kyratrades.github.io/audios#e">E</a> • <a href="https://kyratrades.github.io/audios#f">F</a> • <a href="https://kyratrades.github.io/audios#g">G</a> • <a href="https://kyratrades.github.io/audios#h">H</a> • <a href="https://kyratrades.github.io/audios#i">I</a> • <a href="https://kyratrades.github.io/audios#j">J</a> • <a href="https://kyratrades.github.io/audios#k">K</a> • <a href="https://kyratrades.github.io/audios#l">L</a> • <a href="https://kyratrades.github.io/audios#m">M</a> • <a href="https://kyratrades.github.io/audios#n">N</a> • <a href="https://kyratrades.github.io/audios#o">O</a> • <a href="https://kyratrades.github.io/audios#p">P</a> • Q • <a href="https://kyratrades.github.io/audios#r">R</a> • <a href="https://kyratrades.github.io/audios#s">S</a> • <a href="https://kyratrades.github.io/audios#t">T</a> • <a href="https://kyratrades.github.io/audios#u">U</a> • <a href="https://kyratrades.github.io/audios#v">V</a> • <a href="https://kyratrades.github.io/audios#w">W</a> • <a href="https://kyratrades.github.io/audios#x">X</a> • <a href="https://kyratrades.github.io/audios#y">Y</a> • Z </p>
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+---
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
-
-## Custom schemes
-
-### Define a custom scheme
-
-You can add custom schemes.
-If you want to add a scheme named `foo` (can be any name) just add a file `_sass/color_schemes/foo.scss` (replace `foo` by your scheme name) 
-where you override theme variables to change colors, fonts, spacing, etc.
-
-Available variables are listed in the [_variables.scss](https://github.com/pmarsceill/just-the-docs/tree/master/_sass/support/_variables.scss) file.
-
-For example, to change the link color from the purple default to blue, include the following inside your scheme file:
-
-#### Example
-{: .no_toc }
-
-```scss
-$link-color: $blue-000;
-```
-
-_Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependencies to fail.
-Please use scheme files.
-
-### Use a custom scheme
-
-To use the custom color scheme, only set the `color_scheme` parameter in your site's `_config.yml` file:
-```yaml
-color_scheme: foo
-```
-
-### Switchable custom scheme
-
-If you want to be able to change the scheme dynamically, for example via javascript, just add a file `assets/css/just-the-docs-foo.scss` (replace `foo` by your scheme name)
-with the following content:`
-
-{% raw %}
-    ---
-    ---
-    {% include css/just-the-docs.scss.liquid color_scheme="foo" %}
-{% endraw %}
-
-This allows you to switch the scheme via the following javascript.
-
-```js
-jtd.setTheme('foo');
-```
-
-## Override and completely custom styles
-
-For styles that aren't defined as variables, you may want to modify specific CSS classes.
-Additionally, you may want to add completely custom CSS specific to your content.
-To do this, put your styles in the file `_sass/custom/custom.scss`.
-This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied.
-
-For example, if you'd like to add your own styles for printing a page, you could add the following styles.
-
-#### Example
-{: .no_toc }
-
-```scss
-// Print-only styles.
-@media print {
-  .side-bar, .page-header { display: none; }
-  .main-content { max-width: auto; margin: 1em;}
-}
-```
+# \#
