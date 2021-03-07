@@ -8,6 +8,9 @@ permalink: /
 
 # Open for general trades
 
+<center>Please read this page before initiating a trades/center>
+{: .fs-6 .fw-300 }
+
 ### No. of items listed:
 
 <center>Videos: 794</center>
@@ -41,10 +44,11 @@ I do my best to check each of my items individually and will note down any issue
 
 Feel free to send enquiries about any items listed on my site.
 
-### Wants
+### General wants
 These items are an instant trade for me:
 - File upgrades (original smalls, better copies)
 - Any recordings of Megan Hilty, Stephanie J. Block, and Rachel York that I don't have
+For my specfic wants, please check <a href="https://kyratrades.github.io/wants">this page</a>.
 
 ### Links
 All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of ayour choosing.
