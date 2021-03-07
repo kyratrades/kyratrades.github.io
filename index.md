@@ -8,9 +8,6 @@ permalink: /
 
 # Open for general trades
 
-<center>Please read this page before initiating a trade</center>
-{: .fs-6 .fw-300 }
-
 ### No. of items listed:
 
 <center>Videos: 794</center>
@@ -19,6 +16,10 @@ permalink: /
 
 <center>Concerts: 31</center>
 
+---
+
+<center>Please read this page before initiating a trade</center>
+{: .fs-6 .fw-300 }
 
 ### Trading
 Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
