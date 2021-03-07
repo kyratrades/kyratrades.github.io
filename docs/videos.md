@@ -502,6 +502,9 @@ NOTES
 Pro-Shot
 {: .label .label-green }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : MKV `1080p` `8.95 GB` `Amazon WEB-DL`
 
@@ -509,7 +512,7 @@ CAST
 : Clare Halse (Peggy Sawyer), Tom Lister (Julian Marsh), Bonnie Langford (Dorothy Brock), Philip Bertioli (Billy Lawlor), Christopher Howell (Bert Barry), Jasna Ivir (Maggie Jones), Bruce Montague (Abner Dillon), Emma Caffrey (Annie), Clare Rickard (Phyllis Dale), Ella Martine (Lorraine Flemming), Matthew Goodgame (Pat Denning), Graeme Henderson (Andy Lee), Paul Knight (Oscar)
 
 NOTES
-: The West End revival of \"42nd Street\" starring Bonnie Langford as Dorothy Brock who previously played as \"Peggy\" in the UK Tour. Released to cinemas, there are stills some encore screenings going on. This can also be streamed on BroadwayHD. Quality and file format varies across traders.
+: The West End revival of \"42nd Street\" starring Bonnie Langford as Dorothy Brock who previously played as Peggy in the UK Tour.
 
 ## 1776
 
