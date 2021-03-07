@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Wants
-nav_order: 8
-permalink: /wants
+title: Opera
+nav_order: 5
+permalink: /opera
 ---
 
-# Wants
+# Opera
 {: .no_toc }
 
 <p align="center"><small>...to be added</small></p>
