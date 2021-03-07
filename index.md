@@ -8,7 +8,7 @@ permalink: /
 
 # Open for general trades
 
-<center>Please read this page before initiating a trades/center>
+<center>Please read this page before initiating a trade</center>
 {: .fs-6 .fw-300 }
 
 ### No. of items listed:
