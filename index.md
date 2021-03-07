@@ -39,7 +39,7 @@ You must include a link to and/or an attachment of your list. Whoever initiates 
 ### Files
 I do my best to check each of my items individually and will note down any issues. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have mislabelled anything.
 
-Feell free to send enquiries about any items listed on my site.
+Feel free to send enquiries about any items listed on my site.
 
 ### Wants
 These items are an instant trade for me:
