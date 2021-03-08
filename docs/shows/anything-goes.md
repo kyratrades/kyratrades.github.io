@@ -9,7 +9,7 @@ permalink: anything-goes
 # Anything Goes
 {: .no_toc }
 
-Compiled absolutely chronologically to create a timeline.
+<centre>Compiled absolutely chronologically to create a timeline</centre>
 {: .fs-6 .fw-300 }
 
 #### Anything Goes - BBC Radio - 1997
