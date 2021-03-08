@@ -4657,6 +4657,23 @@ CAST
 NOTES
 : Good video overall with no washout and only minor obstruction. Four of the first five minutes are blacked out and there is a three minute blackout for the audience participation during Not V\'one Red Cent, a six minute blackout during Perfect, and the last two minutes of the final song are blacked out. One head that blocks a small part of the front/center part of the stage, but it only blocks the actors feet/legs.
 
+## Do I Hear a Waltz?
+
+#### Do I Hear a Waltz? - Encores! - May 15, 2016 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Melissa Errico (Leona Samish), Richard Troxell (Renato Di Rossi), Karen Ziemba (Signora Fiora), Claybourne Elder (Eddie Yaeger), Sarah Stiles (Giovanna), Nancy Opel (Mrs. McIlhenny), Sarah Hunt (Jennifer Yaeger)
+
+NOTES
+: Excellent HD capture of rarely performed Rodgers and Sondheim musical. A really great cast and some beautiful music. A
+
 ## Dogfight
 
 #### Dogfight - Off-Broadway - August 15, 2012
@@ -9160,7 +9177,7 @@ NOTES
 
 # O
 
-<p align="center"><a href="https://kyratrades.github.io/videos#october-sky">October Sky</a> • <a href="https://kyratrades.github.io/videos#of-mice-and-men">Of Mice and Men</a> • <a href="https://kyratrades.github.io/videos#the-office-a-musical-parody">The Office: a Musical Parody</a> • <a href="https://kyratrades.github.io/videos#oklahoma">Oklahoma!</a> • <a href="https://kyratrades.github.io/videos#oliver">Oliver!</a> • <a href="https://kyratrades.github.io/videos#once-on-this-island">Once On This Island</a> • <a href="https://kyratrades.github.io/videos#once-upon-a-mattress">Once Upon A Mattress</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#october-sky">October Sky</a> • <a href="https://kyratrades.github.io/videos#of-mice-and-men">Of Mice and Men</a> • <a href="https://kyratrades.github.io/videos#the-office-a-musical-parody">The Office: a Musical Parody</a> • <a href="https://kyratrades.github.io/videos#oklahoma">Oklahoma!</a> • <a href="https://kyratrades.github.io/videos#oliver">Oliver!</a> • <a href="https://kyratrades.github.io/videos#on-a-clear-day-you-can-see-forever">On a Clear Day You Can See Forever</a> • <a href="https://kyratrades.github.io/videos#on-the-town">On the Town</a> • <a href="https://kyratrades.github.io/videos#on-the-twentieth-century">On The Twentieth Century</a> • <a href="https://kyratrades.github.io/videos#once-on-this-island">Once On This Island</a> • <a href="https://kyratrades.github.io/videos#once-upon-a-mattress">Once Upon A Mattress</a></p>
 
 ## October Sky
 
@@ -9318,7 +9335,7 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 CAST
-:  Tony Yazbeck (Gabey), Jay Armstrong Johnson (Chip), Clyde Alves (Ozzie), Megan Fairchild (Ivy Smith), Elizabeth Stanley (Claire De Loone), Alysha Umphress (Hildy), Michael Rupert (Pitkin W. Bridgeword), Allison Guinn (Lucy Schmeeler), Jackie Hoffman (Maude P. Dilly)
+: Tony Yazbeck (Gabey), Jay Armstrong Johnson (Chip), Clyde Alves (Ozzie), Megan Fairchild (Ivy Smith), Elizabeth Stanley (Claire De Loone), Alysha Umphress (Hildy), Michael Rupert (Pitkin W. Bridgeword), Allison Guinn (Lucy Schmeeler), Jackie Hoffman (Maude P. Dilly)
 
 NOTES
 : Beautiful HD capture of this new Broadway revival, with no obstructions. Great performances, dancing and vocals from the full company. Great to see the classic musical get a big, bright and proper revival.
