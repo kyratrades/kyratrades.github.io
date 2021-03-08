@@ -1665,7 +1665,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/videos#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/videos#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/videos#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/videos#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/videos#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/videos#beaches">Beaches</a> • <a href="https://kyratrades.github.io/videos#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/videos#beautiful-thing">Beautiful Thing</a> • <a href="https://kyratrades.github.io/videos#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/videos#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/videos#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/videos#before-after">Before After</a> • <a href="https://kyratrades.github.io/videos#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/videos#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/videos#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/videos#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/videos#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/videos#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/videos#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/videos#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/videos#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/videos#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/videos#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/videos#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/videos#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/videos#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-baker-s-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/videos#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/videos#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/videos#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/videos#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/videos#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/videos#beaches">Beaches</a> • <a href="https://kyratrades.github.io/videos#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/videos#beautiful-thing">Beautiful Thing</a> • <a href="https://kyratrades.github.io/videos#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/videos#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/videos#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/videos#before-after">Before After</a> • <a href="https://kyratrades.github.io/videos#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/videos#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/videos#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/videos#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/videos#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/videos#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/videos#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/videos#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/videos#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/videos#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/videos#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/videos#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/videos#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/videos#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -1683,6 +1683,23 @@ CAST
 
 NOTES
 : Preview performance of BTTF\'s pre-West End run. Obstructed by one head. Obstructed by a few heads. Missing the last 15 minutes.
+
+## The Baker's Wife
+
+#### The Baker's Wife - London Rehearsal Reading - 1989
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.88 GB`
+
+CAST
+: Alun Armstrong, Siobhan McCarthy
+
+NOTES
+: Original London cast in a workshop/performance of the complete show. Absolutely beautifully pro-shot with multiple cameras in a dance studio. A+
 
 ## The Band Wagon
 
@@ -4583,6 +4600,36 @@ NOTES
 : Good video for it\'s age of this short lived musical.
 
 ## The Drowsy Chaperone
+
+#### The Drowsy Chaperone - Broadway - May 20, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD menu` `2.60 GB`
+
+CAST
+: Bob Martin (Man in Chair), Sutton Foster (Janet van de Graaf), Beth Leavel (The Drowsy Chaperone), Troy Britton Johnson (Robert Martin), Edward Hibbert (Underling), Eddie Korbich (George), Jason Kravits (Gangster #1), Garth Kravits (Gangster #2), Lenny Wolpe (Mr. Feldzieg), Jennifer Smith (Kitty), Georgia Engel (Mrs. Tottendale), Danny Burstein (Aldolpho), Kecia Lewis-Evans (Trix)
+
+#### The Drowsy Chaperone - Broadway - July 29, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+ISSUES
+: DO NOT REQUEST. Doesn't work at all when loaded into VLC like a DVD. I'd love to trade for a functional copy.
+
+CAST
+: Bob Martin (Man in Chair), Sutton Foster (Janet van de Graaf), Beth Leavel (The Drowsy Chaperone), Troy Britton Johnson (Robert Martin), Noble Shropshire (Underling), Eddie Korbich (George), Jason Kravits (Gangster #1), Garth Kravits (Gangster #2), Georgia Engel (Mrs. Tottendale), Danny Burstein (Aldolpho), Kecia Lewis-Evans (Trix)
+
+NOTES
+: Beautiful Filming and picture. Great shots! A+
 
 #### The Drowsy Chaperone - National Tour - October 8, 2008
 {: .no_toc .d-inline-block }
@@ -8028,6 +8075,18 @@ NOTES
 
 ### MISC
 
+#### Les Misérables - Third National Tour - February 7, 2000
+{: .no_toc .d-inline-block }
+
+FORMAT
+: `1` VOB+smalls `1 DVD` `4.17 GB`
+: `2` MP4 `360p` `14 files` `712 MB`
+
+CAST: Ivan Rutherford (Jean Valjean), Stephen Bishop (Javert), Joan Almedilla (Fantine), Regan Thiel (Cosette), Tim Howar (Marius), Sutton Foster (Éponine), Kurt Kovalenko (Enjolras), JP Dougherty (Thénardier), Christopher Carlson (Gavroche)
+
+NOTES
+: A GREAT video shot from the center of the mezzanine with a digital camera and no obstructions. Great zooming and framing, the taper obviously knew the show. Crystal clear picture and sound quality. A very professionally done cast/crew listing at the beginning of the tape.
+
 #### Les Misérables - Walnut Street Theatre, Philadelphia, PA - May 17, 2008 (Matinee)
 {: .no_toc .d-inline-block }
 
@@ -11219,7 +11278,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#tick--tick----boom-">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
 
 ## Tales of the City
 
