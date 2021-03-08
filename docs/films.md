@@ -139,6 +139,7 @@ IMDB
 : <https://www.imdb.com/title/tt0091419/>
 
 #### Mary Poppins (1964)
+{: .d-inline-block }
 
 Watched
 {: .label .label-yellow }
