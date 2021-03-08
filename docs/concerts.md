@@ -462,3 +462,15 @@ CAST
 
 NOTES
 : \[IMDb\] A concert presentation of the Tim Burton/Danny Elfman classic animated film, as interpreted by some of Broadway\'s ghoulishly talented artists. The proceeds collected will benefit The Actors Fund and Lymphoma Research Foundation.
+
+#### Shoshana Bean: Sing Your Hallelujah
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `5.16 GB`
+
+CAST
+: Shoshana Bean, Gavin Creel, Jared Grimes, Jeremy Jordan, Shayna Steele, Connie Talbot, Daniel J. Watts
+
+NOTES
+: Filmed Live At The Apollo Theater. Streamed at December 12, 2020.
