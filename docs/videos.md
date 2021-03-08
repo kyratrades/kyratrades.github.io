@@ -17,7 +17,7 @@ permalink: /videos
 
 <p align="center"><small>If you have a better copy than my existing one (higher generation, larger file size, original smalls etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
 
-<p align="center"><small>I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).</small></p>
+<p align="center"><small>I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB). Feel free to ask for additional info (e.g. screenshots, files list).</small></p>
 
 <p align="center"><small>Happy trading!</small></p>
 
@@ -2211,6 +2211,21 @@ NOTES
 : Some heads in the bottom of the screen but they are shot around very well and completely avoided whenever possible. Overall, a good video of an amazing cast. A-
 
 ## Bloody Bloody Andrew Jackson
+
+#### Bloody Bloody Andrew Jackson - Broadway - October 31, 2010
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD menu`
+
+CAST
+: Benjamin Walker (Andrew Jackson), Kristine Nielsen (The Storyteller), Maria Elena Ramirez (Rachel / Florida Woman), Darren Goldstein (Calhoun / Andrew Sr.), Jeff Hiller (John Quincy Adams / Cobbler / Messenger / Tour Guide / Florida Man), Lucas Near-Verbrugghe (Van Buren / Keokuk), Bryce Pinkham (Clay / Black Fox), Greg Hildreth (Red Eagle / University President), Ben Steinfeld (Monroe), James Barry (Male Soloist / Citizen / Man), Kate Cullen Roberts (Elizabeth / Erica), Emily Young (Female Soloist / Announcer / Naomi), Cameron Ocasio (Lyncoya), Nadia Quinn (Female Ensemble / Toula)
+
+NOTES
+: Great capture of this show. A high energy rock show based on the life of Andrew Jackson's life. A
 
 #### Bloody Bloody Andrew Jackson - Broadway - November 10, 2010
 {: .no_toc .d-inline-block }
@@ -5331,6 +5346,19 @@ CAST
 NOTES
 : Complete show, nicely filmed with slight generation loss but clear sound and very watchable A-
 
+#### Gypsy - Second Broadway Revival - 1991
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MKV `480p` `3.86 GB`
+: Judging from the codecs (mpeg2;ac3) this is likely a DVD remux
+
+CAST
+: Tyne Daly (Rose), Jonathan Hadary (Herbie), Crista Moore (Louise)
+
+NOTES
+: Surprisingly steady and clear for a 1991 video.
+
 #### Gypsy - Third Broadway Revival - April 3, 2003 (Preview)
 {: .no_toc .d-inline-block }
 
@@ -5342,6 +5370,21 @@ CAST
 
 NOTES
 : Shot from the first row of the balcony, very clear and unobstructed. Includes a CBS News feature, and a clip from the Gypsy performance at the 2003 Tony Awards
+
+#### Gypsy - Ravinia Festival - August 13, 2006 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Jack Willis (Herbie), Jessica Boeyers (Louise)
+
+NOTES
+: AMAZING performace!!! AMAZING filming! Beautiful picture and shots, enough said. A
 
 #### Gypsy - Encores! - July 29, 2007 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -10140,6 +10183,27 @@ CAST
 
 NOTES
 : Well-shot video with some spotlight washout on the wider shots, but otherwise nice. Transferred from VHS and has a counter at the lower right corner.
+
+#### The Scarlet Pimpernel - First National Tour - March 4, 2000
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB `NO SMALLS` `3.99 GB`
+
+CAST
+: Douglas Sills (Sir Percy Blakeney), Amy Bodnar (Marguerite St. Just), William Michals (Chauvelin)
+
+#### The Scarlet Pimpernel - Overland Park - June 27, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Ron Bohmer (Sir Percy Blakeney), Sandra Joseph (Marguerite St. Just), Tim Noland (Chauvelin), Lori Blalock (Marie Gosholtz)
 
 ## School of Rock
 
