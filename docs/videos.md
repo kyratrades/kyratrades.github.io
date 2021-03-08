@@ -4708,7 +4708,51 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
+
+## Elisabeth
+
+#### Elisabeth - Miskolc, Hungary - 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Seres Ildiko (Elisabeth), Szilveszter Szabó P. (Der Tod), Attila Dolhai (e/c Luigi Lucheni)
+
+NOTES
+: Proving that sometimes emergency covers are great, and sometimes they're... well, *interesting* might be the most generous word here. Dolhai only played Rudolf up to this point, so the fact that he was called in as e/c for Lucheni shows just how desperate the staff were.
+
+#### Elisabeth - Scheveningen, the Netherlands - July 22, 2001
+{: .no_toc .d-inline-block }
+
+Director's Tape
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Maaike Widdershoven (Elisabeth), Stanley Burleson (Death), Jeroen Phaff (Franz Joseph), Danny de Munk (Luigi Lucheni)
+
+NOTES
+: Closing night. Directorstape, audio is from the soundboard.
+
+#### Elisabeth - Vienna, Austria - 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `3 DVDs` `Commercial DVD`
+
+CAST
+: Maya Hakvoort (Elisabeth), Máté Kamarás (Der Tod), Serkan Kaya (Luigi Lucheni), André Bauer (Franz Joseph), Fritz Schmid (Rudolf), Else Ludwig (Sophie)
+
+NOTES
+: Official pro-shot DVD release with extra documentary disc. Includes fan-made English subtitles.
 
 ## Everybody\'s Talking About Jamie
 
@@ -7692,7 +7736,7 @@ NOTES
 
 # M
 
-<p align="center"><a id="markdown-toc-mac-beth" href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> • <a id="markdown-toc-macbeth" href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> • <a id="markdown-toc-the-mad-ones" href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> • <a id="markdown-toc-made-in-dagenham" href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> • <a id="markdown-toc-mame" href="https://kyratrades.github.io/videos#mame">Mame</a> • <a id="markdown-toc-mamma-mia" href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> • <a id="markdown-toc-marry-me-a-little" href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> • <a id="markdown-toc-master-class" href="https://kyratrades.github.io/videos#master-class">Master Class</a> • <a id="markdown-toc-master-haroldand-the-boys" href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> • <a id="markdown-toc-matilda-the-musical" href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> • <a id="markdown-toc-me-and-my-girl" href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> • <a id="markdown-toc-mean-girls" href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> • <a id="markdown-toc-les-mis&eacute;rables" href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a id="markdown-toc-miss-saigon" href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> • <a id="markdown-toc-monty-pythons-spamalot" href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a id="markdown-toc-moulin-rouge-the-musical" href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a id="markdown-toc-much-ado-about-nothing" href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> • <a id="markdown-toc-my-fair-lady" href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> • <a id="markdown-toc-the-mystery-of-edwin-drood" href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> &bull; <a href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> &bull; <a href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> &bull; <a href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> &bull; <a href="https://kyratrades.github.io/videos#mame">Mame</a> &bull; <a href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> &bull; <a href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> &bull; <a href="https://kyratrades.github.io/videos#mary-poppins">Mary Poppins</a> &bull; <a href="https://kyratrades.github.io/videos#master-class">Master Class</a> &bull; <a href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> &bull; <a href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> &bull; <a href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> &bull; <a href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> &bull; <a href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> &bull; <a href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> &bull; <a href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> &bull; <a href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> &bull; <a href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> &bull; <a href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> &bull; <a href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
 
 ## Mac Beth
 
@@ -7742,6 +7786,15 @@ CAST
 
 NOTES
 : Final performance: a good mix of wides, mediums, and close-ups shots but a little more obstruction here, but it mostly just blocks the actors\' feet/legs sometimes; some washout in the wides, and the dialogue is pretty quiet sometimes, but it\'s all still understandable. Many changes had been made since the previous video, most notably in The Girl Who Drove Away, Drive, and Sam\'s monologue after I Wouldn\'t Change Anything. A
+
+#### The Mad Ones - Russo Richardson Productions Livestream - January 30, 2021
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `3.84 GB`
+
+CAST
+: Colette Richardson (Samantha Brown), Molly Russo (Kelly Manning), Abiezer Santiago Cruz (Adam), Jennifer Copping (Beverly Brown)
 
 ## Made in Dagenham
 
@@ -7867,6 +7920,20 @@ CAST
 
 NOTES
 : From the online stream during the Barn's run online, November 19-22, 2020. Not sure about filming date. Includes tracked audio ripped from the stream.
+
+## Mary Poppins
+
+#### Mary Poppins - Hamburg - June, 2018
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Elisabeth Hübert (Mary Poppins), David Boyd (Bert), Livio Cecini (George Banks), Julia Lißel (Winifred Banks), Maaike Schuurmans (Miss Andrew), Anna Thorén (Bird Woman), Charles Butcher (Neleus), Heike Schmitz (Mrs. Brill), Niklas Abel (Robertson Ay), Dirk Lohr (Admiral Boom) 
 
 ## Master Class
 
@@ -8435,6 +8502,21 @@ NOTES
 : Filmed from far left mezz and cuts off after the knights find the grail. Filmed two days after Hank Azaria left.
 
 ## Moulin Rouge! The Musical
+
+#### Moulin Rouge! - Pre-Broadway / Boston - August 19, 2018 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Aaron Tveit (Christian), Karen Olivo (Satine), Danny Burstein (Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Tam Mutu (The Duke), Robyn Hurder (Nini), Jacqueline B Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll)
+
+NOTES
+: HD capture of the final PreBroadway performance. A drunk woman's head blocks most of the left side and she does not sit still. This is far from perfect, but if you want a glimpse in the Moulin Rouge...the show is sensational! B
 
 #### Moulin Rouge! - Broadway - December, 2019 
 {: .no_toc .d-inline-block }
@@ -9967,6 +10049,18 @@ CAST
 
 NOTES
 : (not Master\'s notes) Beginning from pre-show where the comedy \'bit\' of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think it\'s shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
+
+#### The Play That Goes Wrong - West End (Duchess Theatre) - March, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot 
+{: .label .label-blue }
+
+FORMAT
+: MTS `12.01 GB`
+
+CAST
+: Ross Green (Chris Bean), Tom Bulpett (s/b Robert Grove), James Watterson (e/c Jonathan Harris), Ellie Morris (Sandra Wilkinson), Milo Clarke (Max Bennett), Michael Keene (Dennis Tyde), Leah Penston (s/b Annie Twilliol), Blayar Benn (Trevor Watson) 
 
 ## Pretty Woman: The Musical
 
