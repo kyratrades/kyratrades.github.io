@@ -1104,6 +1104,18 @@ FORMAT
 CAST
 : Ava Smith (Annie), Lesley Joseph (Miss Hannigan), Alex Bourne (Oliver \"Daddy\" Warbucks), Carolyn Maitland (Grace Farrell), Richard Meek (Rooster Hannigan), Jenny Gayner (Lily St. Regis), Florrie May Wilkinson (Molly), Aliya Bashir (Pepper), Marlie Olivia Love (Duffy), Isobelle Chalmers (July), Emily-May Stephenson (Kate)
 
+#### Annie - Second Dutch Tour - December 8, 2019
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `6.88 GB`
+
+CAST
+: Dalia Neeskens (Annie), Willemijn Verkaik (Miss Hannigan), Edwin Jonker (Oliver "Daddy" Warbucks), Eva van Gessel (Grace Farrell), Sjoerd Spruijt (Rooster Hannigan), Myrthe Huber (Lily St. Regis), Doris Baaten (Franklin D. Roosevelt)
+
 ## Annie 2: Miss Hannigan\'s Revenge
 
 #### Annie 2: Miss Hannigan\'s Revenge - Kennedy Center (Washington DC) - December 23, 1989
@@ -1570,6 +1582,21 @@ CAST
 NOTES
 : Lap shot with no zooms from the front of the theatre. Right top and bottom corners are blacked out by a head, blocks about a third of the screen.
 
+#### Assassins - Library Theatre, Manchester - October, 1993
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Geoffrey Dallamore (The Proprietor), Anthony O'Driscoll (The Balladeer), David Arneil (Lee Harvey Oswald), Jill Martin (Sara Jane Moore), Alexandra Sumner (Lynette "Squeaky" Fromme), Demetri Goritsas (John Hinckley, Jr.), David Fleeshman (Samuel Byck), Ray Mangion (Giuseppe Zangara), Julie Jupp (Emma Goldman), Glenn Hugill (Leon Czolgosz), Jay Marcus (President James Garfield), Peter Benson (Charles Guiteau)
+
+NOTES
+: Sometimes mistakenly labelled 1996. Usually listed as PRO-SHOT, but the camera is far too unsteady to have even been filmed using a tripod. At the start of the video there is a production of the Opera "Armide" which is pro-shot and lasts 2 hours and a quarter, followed by the recording of Assassins (all on the same chapter)
+
 #### Assassins - Pegasus Players, Chicago IL - December 21, 1993
 {: .no_toc .d-inline-block }
 
@@ -1609,10 +1636,22 @@ CAST
 NOTES
 : There are two full length videos of this production which circulate under various dates. This one is most commonly listed as May 29th, but has also been circulated as April 20th, or confused with the other April video and listed as the 4th or 10th. Check your screencaps to confirm which performance you have.
 
+#### Assassins - Long Island - September, 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Bernard Macias (The Proprietor), Jeremy Hudson (Lee Harvey Oswald), Jason Trigger (John Wilkes Booth), Brian Smith (President Gerald Ford/James Blaine), Susan Hall (Sara Jane Moore), Malorie Charak (Lynette "Squeaky" Fromme), Ron Menin (John Hinckley, Jr.), Frank Danko (Samuel Byck), Jerry Maggio (Giuseppe Zangara), Donna Maggio (Emma Goldman), Stephen Wangner (Leon Czolgosz), Patrick Finn (Charles Guiteau)
+
 #### Assassins - Encores! - July 14, 2017 
 {: .no_toc .d-inline-block }
 
- NYCG8R 
+NYCG8R 
 {: .label .label-blue }
 
 FORMAT
