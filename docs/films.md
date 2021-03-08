@@ -8,11 +8,11 @@ permalink: /films
 # Musical films
 {: .no_toc }
 
-<center>`DC` <small>= Director's Cut</small></center>
+<center><code>DC</code> <small>= Director's Cut</small></center>
 
-<center>`EC` <small>= Extended Cut</small></center>
+<center><code>EC</code> <small>= Extended Cut</small></center>
 
-<center>`TC` <small>= Theatrical Cut</small></center>
+<center><code>TC</code> <small>= Theatrical Cut</small></center>
 
 #### 1776 (1972)
 
