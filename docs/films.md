@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Opera
+title: Films
 nav_order: 6
 permalink: /films
 ---
@@ -8,11 +8,11 @@ permalink: /films
 # Musical films
 {: .no_toc }
 
-<center><small>`DC` = Director's Cut</small></center>
+<center>`DC` <small>= Director's Cut</small></center>
 
-<center><small>`EC` = Extended Cut</small></center>
+<center>`EC` <small>= Extended Cut</small></center>
 
-<center><small>`TC` = Theatrical Cut</small></center>
+<center>`TC` <small>= Theatrical Cut</small></center>
 
 #### 1776 (1972)
 
