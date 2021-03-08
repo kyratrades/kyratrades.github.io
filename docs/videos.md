@@ -3139,6 +3139,18 @@ NOTES
 
 ## Chess
 
+#### Chess - Toronto - Equity Fights Aids / Actors Fund Of Canada Benefit - April 12, 1992
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+CAST
+: Robert Longo (Anatoly Sergievsky), Susan Gilmour (Florence Vassy), Rob Lorey (Freddie Trumper), Kelli James (Svetlana Sergievskaya), Jay Turvey (Arbiter), Gordon McLaren (Molokov), Michael Burgess (Gregor Vassy), David Mucci (Walter de Courcey), Colm Wilkinson (Special Guest)
+
+NOTES
+: Colm Wilkinson performs Anthem as an encore at the end of the performance
+
 #### Chess - Actors\' Fund Benefit Concert - September 21, 2003 (Rehearsal)
 {: .no_toc .d-inline-block }
 
@@ -5716,6 +5728,18 @@ FORMAT
 CAST
 : Bonnie Milligan (Pamela), Taylor Iman Jones (Mopsa), Alexandra Socha (Philoclea), Andrew Durand (Musidorus), Jeremy Kushnier (Basilius), Rachel York (Gynecia), Peppermint (Pythio), Tom Alan Robbins (Dametas)
 
+#### Head Over Heels - Broadway - January 5, 2019 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `5.73 GB`
+
+CAST
+: Bonnie Milligan (Pamela), Taylor Iman Jones (Mopsa), Alexandra Socha (Philoclea), Andrew Durand (Musidorus), Jeremy Kushnier (Basilius), Rachel York (Gynecia), Peppermint (Pythio), Tom Alan Robbins (Dametas), Ari Groover (The Lion)
+
+NOTES
+: Act One Only! Last Saturday night show of the Broadway production, also known as the third to last performance on Broadway. Filmed without zooms, there's a lot of washout and the video isn't the best, but it exists.
+
 ## Heathers: The Musical
 
 #### Heathers: The Musical - Off-Broadway - May 25, 2014 
@@ -5820,6 +5844,21 @@ CAST
 NOTES
 : Multi-camera pro-shot. This is a "Producer's Reference Tape", which was filmed so that future touring companies would have a reference, and ensure that choreography, blocking, direction, etc. would remain consistent in future productions. Filmed using two cameras with sound patched in from the soundboard. This has been listed as 1977/1978 often, however, there was there was no Tuesday December 17th in 1977, 1978, 1994 or 1995. Only in 1996. The tour was in Melbourne, FL Dec 17th-19th 1996. As this is in December 1996, Jay Garner and Florence Lacey were replaced by Herman Petras and Jeanne Lehman respectively.
 
+#### Hello, Dolly! - Fourth Broadway Revival - March 30, 2017 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Bette Midler (Dolly Gallagher Levi), David Hyde Pierce (Horace Vandergelder), Christian Dante White (u/s Cornelius Hackl), Kate Baldwin (Irene Molloy), Taylor Trensch (Barnaby Tucker), Beanie Feldstein (Minnie Fay), Will Burton (Ambrose Kemper), Melanie Moore (Ermengarde), Jennifer Simard (Ernestina)
+
+NOTES
+: Filmed from the back of the orchestra. There are times that a cloth that the master is using covers their lens to conceal them. Bette gets a standing ovation after "Hello Dolly" and at Curtain Call.
+
 #### Hello, Dolly! - Fourth Broadway Revival - June 28, 2017
 {: .no_toc .d-inline-block }
 
@@ -5839,7 +5878,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `1 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Donna Murphy (alt Dolly Gallagher Levi), David Hyde Pierce (Horace Vandergelder), Gavin Creel (Cornelius Hackl), Kate Baldwin (Irene Molloy), Taylor Trensch (Barnaby Tucker), Beanie Feldstein (Minnie Fay), Will Burton (Ambrose Kemper), Melanie Moore (Ermengarde), Jennifer Simard (Ernestina), Kevin Ligon (Rudolph)
@@ -5874,7 +5913,7 @@ Issues
 FORMAT
 : VOB+smalls `2 DVDs`
 
-COMMENTS
+ISSUES
 : Missing smalls for Act 1, please let me know if you have them.
 
 CAST
@@ -7548,6 +7587,33 @@ CAST
 NOTES
 : Beautiful HD capture of the new cast and Ashley as Regina. Erika flubs a line during \"Whose House is This\" and the cast spends the remainder of the song recovering. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
 
+#### Mean Girls - Broadway - February, 2020 (Erika's Last)
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `6.25 GB`
+
+CAST
+: Olivia Kaufmann (s/b Cady Heron), Cailen Fu (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Tovi Wayne (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Aaron Alcaraz (s/w Marwan Jitla), Maria Briggs (s/w Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
+
+#### Mean Girls - Broadway - February, 2020 (Olivia and Cailen)
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `6.09 GB`
+
+CAST
+: Erika Henningsen (Cady Heron), Reneé Rapp (Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Aaron Alcaraz (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Brittany Nicholas (s/w Caitlyn Caussin), Curtis Holland (Jason Weems), Daryl Tofa (Marwan Jitla), Becca Petersen (Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
+
+NOTES
+: Erika’s last. Focuses a lot more Erika as opposed to the main action happening, as it’s her last show. Small part of the left area of the stage is blocked by a few heads.
+
 ## Les Misérables
 
 <p align="center"><a href="https://kyratrades.github.io/videos#west-end">West End</a> • <a href="https://kyratrades.github.io/videos#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/videos#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/videos#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/videos#second-broadway-revival-1">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/videos#misc-3">MISC</a></p>
@@ -8664,13 +8730,14 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `1 DVD` `3.19 GB`
+: `1` VOB+smalls `1 DVD` `3.19 GB`
+: `2` VOB+smalls `HomeStarRunnerTron Remaster` `1 DVD` `3.67 GB`
 
 CAST
 : Patti LuPone (Fosca), Michael Cerveris (Giorgio), Audra McDonald (Clara), Allen Fitzpatrick (Colonel Ricci), Richard Easton (Doctor Tambourri), Alexander Gemignani (Lieutenant Torasso)
 
 NOTES
-: Multi-camera Pro-shot filmed for the American Songbook Series from Live at Lincoln Center
+: Multi-camera Pro-shot filmed for the American Songbook Series from Live at Lincoln Center. The remastered version has eliminated the letterboxing and watermark, and boosted the contrast and colors. <a href="https://imgur.com/a/FFMIbgj">Screenshots</a> for comparison.
 
 ## Peter Pan Goes Wrong
 
