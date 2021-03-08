@@ -1872,7 +1872,22 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 CAST
-: Jessie Mueller (Carole King), Jake Epstein (Gerry Goffin), Anika Larsen (Cynthia Weil), Jarrod Spector (Barry Mann), Jeb Brown (Don Kirshner), Liz Larsen (Genie Klein) 
+: Jessie Mueller (Carole King), Jake Epstein (Gerry Goffin), Anika Larsen (Cynthia Weil), Jarrod Spector (Barry Mann), Jeb Brown (Don Kirshner), Liz Larsen (Genie Klein)
+
+#### Beautiful: The Carole King Musical - First National Tour - December 15, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Abby Mueller (Carole King), Liam Tobin (Gerry Goffin), Becky Gulsvig (Cynthia Weil), Ben Fankhauser (Barry Mann)
+
+NOTES
+: Sometimes inaccurately circulated as October 15, 2015; Beautiful HD capture with no obstructions. Wonderful and stunning production with a cast that is perfection! Jessie gives a performance that is incredible, as does the rest of the cast! Can't say enough wonderful things about this production as a whole! A+
 
 #### Beautiful - First National Tour - October 16, 2016 
 {: .no_toc .d-inline-block }
@@ -5536,6 +5551,21 @@ CAST
 
 NOTES
 : Nicely filmed from the balcony. Occasional heads and the balcony railing in the wider shot. Not as many close ups as the other video capture of the show, but this one allows you to appreciate the staging a little more. A
+
+#### Gypsy - Fourth Broadway Revival - September 17, 2008 (Highlights)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Boyd Gaines (Herbie), Leigh Ann Larkin (June), Tony Yazbeck (Tulsa), Marilyn Caskey (Electra), Alison Fraser (Tessie Tura), Lenora Nemetz (Miss Cratchitt / Mazeppa)
+
+NOTES
+: Great Highlights that run almost an hour in length. It is the first 49 minutes of Act One which goes through "You'll Never Get Away From Me" and all of "Rose's Turn" from Act Two. A
 
 #### Gypsy - West End Revival - 2015
 {: .no_toc .d-inline-block }
@@ -10351,7 +10381,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
@@ -11388,9 +11418,20 @@ FORMAT
 CAST
 : David Studwell (Sweeney Todd), Tory Ross (Mrs. Lovett), Jack Mosbacher (Anthony Hope), Mindy Lym (Johanna), Lee Strawn (Judge Turpin), Spencer Kiely (Tobias Ragg), Rojas Dietrich (Beadle Bamford), Fryvecind Gimenez (Beggar Woman)
 
+## Sweet Charity
+
+#### Sweet Charity - Off-Broadway Revival - November 12, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Sutton Foster (Charity Hope Valentine), Shuler Hensley (Oscar Lindquist), Joel Perez (Vittorio Vidal), Asmeret Ghebremichael (Nickie), Emily Padgett (Helene), Joel Perez (Herman)
+
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/videos#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/videos#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
 
 ## Tales of the City
 
@@ -11463,6 +11504,21 @@ FORMAT
 
 CAST
 : Jason Alexander (Vernon Gersch), Stephanie J Block (Sonia Walsk)
+
+## Thoroughly Modern Millie
+
+#### Thoroughly Modern Millie - Broadway - April 13, 2002 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: Recording of another DVD. PLEASE tell me if you have a better copy.
+
+CAST
+: Sutton Foster (Millie Dillmount), Gavin Creel (Jimmy Smith), Marc Kudisch (Mr. Trevor Graydon), Harriet Harris (Mrs. Meers), Sheryl Lee Ralph (Muzzy Van Hossmere), Angela Christian (Miss Dorothy Brown), Ken Leung (Ching Ho), Francis Jue (Bun Foo), Anne L Nathan (Miss Flannery)
+
+NOTES
+: Shot from the second row with lots of close-ups. Very clear and steady video with very good sound.
 
 ## Three Days of Rain
 
@@ -12431,7 +12487,24 @@ CAST
 
 # Y
 
-<p align="center"><a href="https://kyratrades.github.io/videos#young-marx">Young Marx</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#young-frankenstein">Young Frankenstein</a> • <a href="https://kyratrades.github.io/videos#young-marx">Young Marx</a></p>
+
+## Young Frankenstein
+
+#### Young Frankenstein - Seattle / Pre-Broadway - August 28, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+ 
+CAST
+: Roger Bart (Frederick Frankenstein), Shuler Hensley (The Monster), Christopher Fitzgerald (Igor), Sutton Foster (Inga), Megan Mullally (Elizabeth Benning), Andrea Martin (Frau Blücher), Fred Applegate (Inspector Hans Kemp/Harold the Hermit)
+
+NOTES
+: A terrifically talented and funny cast. A beautiful capture of the tryout before Broadway, with many changes sure to come. A
 
 ## Young Marx
 
