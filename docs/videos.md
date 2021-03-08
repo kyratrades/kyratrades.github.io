@@ -5379,7 +5379,7 @@ NOTES
 
 # G
 
-<p align="center"><a href="https://kyratrades.github.io/videos#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/videos#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/videos#grease">Grease</a> • <a href="https://kyratrades.github.io/videos#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/videos#gypsy">Gypsy</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/videos#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/videos#grease">Grease</a> • <a href="https://kyratrades.github.io/videos#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/videos#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/videos#gypsy">Gypsy</a></p>
 
 ## A Gentleman\'s Guide to Love and Murder
 
@@ -5500,9 +5500,26 @@ FORMAT
 CAST
 : Rachel York (\"Little\" Edie Beale / Young Edith Bouvier Beale), Betty Buckley (Edith Bouvier Beale), Sarah Hunt (Young \"Little\" Edie Beale), Josh Young (Joseph Patrick Kennedy Jr. / Jerry), Simon Jones (J.V. Major Bouvier/Norman Vincent Beale), Bryan Batt (George Gould Strong), Davon Williams (Brooks Sr. / Brooks Jr.), Katie Silverman (Jacqueline Bouvier), Peyton Ella (Young Lee Bouvier)
 
+## Groundhog Day
+
+#### Groundhog Day - Broadway - April 1, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Andy Karl (Phil Connors), Barrett Doss (Rita Hanson), Rebecca Faulkenberry (Nancy), John Sanders (Ned Ryerson), Raymond J Lee (Ralph), Andrew Call (Gus), Josh Lamon (Buster), Gerard Canonico (Fred), Heather Ayers (Mrs. Lancaster), William Parry (Jenson), Michael Fatica (Chubby Man), Travis Waldschmidt (Jeff), Joseph Medeiros (Deputy), Taylor Iman Jones (Lady Storm Chaser), Rheaume Crenshaw (Doris), Sean Montgomery (Sheriff), Jenna Rubaii (Joelle), Tari Kelly (Piano Teacher), Vishal Vaidya (Larry), Katy Geraghty (Debbie)
+
+NOTES
+: Excellent HD capture of the new musical based on the movie. The set malfunctioned once and they had to pause and restart the song.
+
 ## Gypsy
 
-#### Gypsy - Second Broadway Revival - 1990 (2)
+#### Gypsy - Second Broadway Revival - 1990 (Full Show)
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -9216,7 +9233,27 @@ NOTES
 
 # P
 
-<p align="center"><a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#The-Pajama-Game">The Pajama Game</a> • <a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
+
+## The Pajama Game
+
+#### The Pajama Game - Broadway (2006 Revival) - February 18, 2006 (Preview)
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+ISSUES
+: Missing VTS_05_0.IFO (for the review) but everything else is there. Show can be played in full from the DVD menu.
+
+CAST
+: Kelli O’Hara (Catherine Babe Williams), Harry Connick Jr (Sid Sorokin), Michael McCormick (Vernon J. Hines), Paula Leggett Chase (Brenda), Joyce Chittick (Mae), Stephen Berger (Charlie), Megan Lawrence (Gladys Hotchkiss), Peter Benson (Prez), Michael McCormick (Ganzenlicker/Pop), Richard Poe (Mr. Hasler), Roz Ryan (Mabel Ellis), Bridget Berger (Virginia), Kate Chapman (Martha), Jennifer Cody (Poopsie), David Eggers (Lewie), Michael Halling (Cyrus), Bianca Marroquin (Carmen), Vince Pesce (Jake), Devin Richards (Joe), Jeffrey Schecter (Ralph), Debra Walton (Shirley)
+
+NOTES
+: Cover-ups (sound only) for the first 3 to 4 minutes during the overture and then a perfect video. Includes scanned Playbill information, as well as NY1's opening night coverage, review and interview with Harry Connick JR and Kelli O'Hara. A
 
 ## Passion
 
