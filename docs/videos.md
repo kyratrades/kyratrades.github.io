@@ -4386,7 +4386,7 @@ NOTES
 
 # D
 
-<p align="center"><a href="https://kyratrades.github.io/videos#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/videos#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/videos#a-delicate-balance">A Delicate Balance</a> • <a href="https://kyratrades.github.io/videos#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/videos#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/videos#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/videos#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/videos#doubt">Doubt</a> • <a href="https://kyratrades.github.io/videos#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+<p align="center"><a href="https://kyratrades.github.io/videos#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/videos#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/videos#a-delicate-balance">A Delicate Balance</a> • <a href="https://kyratrades.github.io/videos#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/videos#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/videos#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/videos#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/videos#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/videos#doubt">Doubt</a> • <a href="https://kyratrades.github.io/videos#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
 
 ## Damn Yankees
 
@@ -4491,6 +4491,23 @@ CAST
 
 NOTES
 : First 10 minutes a little shaky but otherwise a very good video.
+
+## Dirty Rotten Scoundrels
+
+#### Dirty Rotten Scoundrels - Musical Theatre West - July 9, 2016
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Davis Gaines (Lawrence Jameson), Benjamin Schrader (Freddy Benson), Rebecca Johnson (Christine Colgate), Cynthia Ferrer (Muriel Eubanks), Kyle Nudo (Andre Thibault), Jennifer Kranz (Jolene Oakes)
+
+NOTES
+: This version more closely follows the West End version of the show with "Give Them What They Want" as the opening number and "Chimp in a Suit" being cut. Beautifully filmed with no issues.
 
 ## Disaster!
 
@@ -6666,7 +6683,7 @@ NOTES
 
 # L
 
-<p align="center"><a id="markdown-toc-the-last-five-years" href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a id="markdown-toc-legally-blonde" href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a id="markdown-toc-the-lightning-thief-the-percy-jackson-musical" href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a id="markdown-toc-little-miss-sunshine" href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a id="markdown-toc-a-little-night-music" href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a id="markdown-toc-little-shop-of-horrors" href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a id="markdown-toc-little-women" href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a id="markdown-toc-love-cycle-a-soap-operetta" href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a id="markdown-toc-love-never-dies" href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
+<p align="center"><a id="markdown-toc-the-last-five-years" href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a id="markdown-toc-legally-blonde" href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a id="markdown-toc-the-lightning-thief-the-percy-jackson-musical" href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#little-me">Little Me</a> <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a id="markdown-toc-little-miss-sunshine" href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a id="markdown-toc-a-little-night-music" href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a id="markdown-toc-little-shop-of-horrors" href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a id="markdown-toc-little-women" href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a id="markdown-toc-love-cycle-a-soap-operetta" href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a id="markdown-toc-love-never-dies" href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
 
 ## The Last Five Years
 
@@ -6854,6 +6871,21 @@ CAST
 
 ## Lennon
 
+#### Lennon - Broadway - August 6, 2005
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `No DVD menu` `1 DVD` `2.80 GB`
+
+CAST
+: Will Chase (John), Terrence Mann, Julia Murney, Julie Danao, Mandy Gonzalez, Chuck Cooper, Marcy Harriell, Chad Kimball, Michael Potts
+
+NOTES
+: Some great close ups but also some nice wide shots to get good stage shots; sound is clear with some minor clipping. A-
+
 #### Lennon - Broadway - August 21, 2005
 {: .no_toc .d-inline-block }
 
@@ -6885,6 +6917,20 @@ CAST
 
 NOTES
 : Fantastic HD capture of the Broadway transfer of this show, filmed from the orchestra. The video starts part of the way through the first number. Act Two starts after the bus explodes. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
+
+## Little Me
+
+#### Little Me - West End Revival - 1984
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.01 GB`
+
+CAST
+: Russ Abbot, Sheila White, Lynda Baron, Tudor Davis
+
+NOTES
+: Previously incorrectly listed as the Broadway production.
 
 ## The Little Mermaid
 
@@ -11173,7 +11219,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#tick--tick----boom-">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
 
 ## Tales of the City
 
@@ -11260,6 +11306,20 @@ CAST
 
 NOTES
 : Amazingly clear video with great closeups and sound; includes NY1 reviews and interviews.
+
+## tick, tick... BOOM!
+
+#### tick, tick... BOOM! - Korea - 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.68 GB`
+
+CAST
+: Joey McIntyre (Jon), Jerry Dixon (Michael), Natascia Diaz (Susan)
+
+NOTES
+: Features 20 minute Joey McIntyre concert after the show
 
 ## Titanic
 
@@ -11915,6 +11975,21 @@ CAST
 
 NOTES
 : Beautiful HD capture of the Broadway transfer. Some changes for Broadway from the previous Goodman Theater production. Excellent performances from the entire cast with clear picture and great sound throughout; very good video. 2 DVDs. A
+
+#### War Paint - Broadway - April 29, 2017 (Matinee)
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Helena Rubinstein), Christine Ebersole (Elizabeth Arden), John Dossett (Tommy Lewis), Douglas Sills (Harry Fleming)
+
+NOTES
+: The master gets caught during Face to Face. You can hear someone say “TURN IT OFF”. Blackout during that part.
 
 ## We Are The Tigers
 
