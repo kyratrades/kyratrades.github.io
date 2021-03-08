@@ -240,6 +240,25 @@ NOTES
 
 ## Wicked Divas
 
+### Video
+
+#### Wicked Divas - Cincinnati - November 15, 2009
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Megan Hilty, Julia Murney
+
+NOTES
+: Songs include: All That Jazz, Back to Before, Ring Them Bells, Til' There Was You, I Could of Danced All Night, Part of Your World, The Wizard and I, Popular, Defying Gravity, For Good, and I Will Never Leave You.
+
+### Audio
+
 #### Wicked Divas - Cincinnati - November 13, 2009
 {: .no_toc .d-inline-block }
 
@@ -349,6 +368,15 @@ CAST
 NOTES
 : TODAY hosts Savannah Guthrie, Hoda Kotb, and Al Roker will host the event this year. The Broadway performances this year will come from the casts of Ain\'t Too Proud - The Life and Times of The Temptations, Hamilton, Jagged Little Pill, and Mean Girls. Plus, the Radio City Music Hall Rockettes will bring their Christmas magic to the festivities.
 
+#### The American Songbook: Best of Broadway - Boston Symphony Hall - June 17, 2011
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP3 `32 tracks`
+
+CAST
+: The Boston Pops, Stephanie J. Block, Julia Murney
+
 #### Barack On Broadway - Broadway - June 4, 2012
 {: .no_toc .d-inline-block }
 
@@ -361,14 +389,45 @@ CAST
 NOTES
 : An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
 
-#### The American Songbook: Best of Broadway - Boston Symphony Hall - June 17, 2011
+#### Broadway Backwards 8 - New York City - March 28, 2013
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: MP3 `31 tracks`
+: Seems to be missing track 15 (of 32) unless the track numbers are wrong
+
+CAST
+: Stephanie J. Block, Estelle Parsons, Judy Kaye, Bruce Vilanch, Daniel Breaker, Anita Gillette, Tony Sheldon, Jose Llana, Jim Brochu, Ward Billeisen, Tituss Burgess, Robert Creighton, Kyle Dean Massey, John Bolton, Jake Boyd, Mo Brady Ashley Brown, Len Cariou, Victor Garber, Malcolm Gets, Jan Maxwell, Brian Stokes Mitchell, Stacey Oristano, Doris Roberts, Howie Michael Smith, Anthony Warlow, Josh Young, Karen Ziemba
+
+#### Broadway Kitchen Sink - New York - April 4, 2004
 {: .no_toc .d-inline-block }
 
 FORMAT
 : MP3 `32 tracks`
 
 CAST
-: The Boston Pops, Stephanie J. Block, Julia Murney
+: Hosted by Seth Rudetsky with Shoshana Bean, Sarah Uriarte Berry, Stephanie J. Block, David Burtka, Kristy Cates, Sara Gettelfinger, Anita Gillete, Jose Llana, Emily Loesser, Julia Murney, Gina Phillistine, Lyn Phillistine, Anthony Rapp, Cary Shield, Kate Shindle and Don Stephenson
+
+#### Broadway’s Back! - Marquis Theatre - November 30, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP3 `10 tracks`
+
+CAST
+: Bob Martin, Bernadette Peters, Laura Bell Bundy, Jonathan Groff, Lea Michele, Kerry Butler, Cheyenne Jackson, Laura Osnes, Max Crumm, Stephanie J. Block, Annaleigh Ashford, Angela Lansbury, Bob Saget, and more.
+
+#### Bushel and A Peck Benefit - Feinstein’s / 54 Below - March 1, 2015
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP3 `20 tracks`
+
+CAST
+: Julia Murney, Eisa Davis, Laura Osnes, Aaron Lazar, Georgia Stitt, Stephanie J. Block, Benjamin Scheuer, Kenita Miller, Andrew Keenan-Bolger, Kate Wetherhead
 
 #### Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009
 {: .no_toc .d-inline-block }
@@ -439,7 +498,16 @@ FORMAT
 NOTES
 : Liza Minnelli stars in a television concert directed and choreographed by Bob Fosse. She performs such songs as the title number, "Liza with a 'Z'" and "Son of a Preacher Man". The concert concludes with a medley of songs from the film Cabaret (1972).
 
-#### The New York Pops: Make it BIG! 31st Birthday Gala - Carnegie Hall - April 28, 2014 
+#### New York Pops 30th Birthday Gala: Celebrating Collaborations of the Past, Present, and Future - Carnegie Hall - April 29, 2013
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP3 `Untracked`
+
+CAST
+: Nick Adams, Laura Benanti, Stephanie J. Block, Liz Callaway, Will Chase, Megan Hilty, Marilyn Maye, Rob McClure, Donna Murphy, Kelli O’Hara, Laura Osnes, Leslie Uggams, Max von Essen, Anthony Warlow, Betsy Wolfe
+
+#### The New York Pops: Make it BIG! Birthday Gala - Carnegie Hall - April 28, 2014 
 {: .no_toc .d-inline-block }
 
 irnbruise
@@ -474,3 +542,15 @@ CAST
 
 NOTES
 : Filmed Live At The Apollo Theater. Streamed at December 12, 2020.
+
+#### The Yellow Brick Road Not Taken - Gershwin Theatre, NYC - October 27, 2008
+{: .no_toc .d-inline-block }
+
+FORMAT
+: M4A `21 tracks`
+
+CAST
+: Ashanti, Shoshana Bean, Joy Behar, Stephanie J. Block, Mario Cantone, Michelle Federer, Mark Indelicato, Matthew Settle, Jennifer Laura Thompson, P.J. Benjamin, Cristy Candler, Buck Henry, Ben Liebert, Timothy Britten Parker, Daniel Reichard, Kate Reinders and George Wendt; as well as Sonshine Allen, Jerad Bortz, Adam Fleming, Anthony Galde, Kristen Leigh Gorski, Reed Kelly, Kenway Hon Wai K. Kua, Kyle Dean Massey, Lindsay K. Northen, Robert Pendilla, Amanda Rose, Heather Spore, CJ Tyson, Brian Wanee, Jonathan Warren, Katie Webber, Robin Wilner, and Samantha Zack
+
+NOTES
+: Wicked's 5th anniversary tribute to the songs and scenes that didn't make it into the final show. Featuring many alumni of the show returning.Track list: Opening (Thompson, Behar, Company), "Making Good" (Block), "Dear Old Shiz" (Thompson, Company), "Bad Situation" (Thompson, Block, Gorski, Allen, Company), "Making Good" (reprise) (Block), "Easy as Winkie Wine" (Reichard, Indelicato, Thompson, Gorsky, Allen), "Emerald City Stomp/We Deserve Each Other" (Thompson, Reichard, Indelicato, Federer, Company), "Popular" (Mario Cantone), "I'm Not That Girl" abbreviated (Bean), "As If By Magic" (Parker, Bean, Settle), "Step By Step" (Federer), "Dear Old Shiz" (reprise) (Company), "One [Really] Short Day" (Company), "A Sentimental Man/The Chance to Fly" (Wendt, Reinders, Bean, Behar), "For Goodness Sake" (Reinders, Bean), "Defying Gravity" (Ashanti, Block, Bean, Reinders, Thompson, Company).  Also includes a speech by Stephen Schwartz and Winnie Holzman.
