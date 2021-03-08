@@ -466,6 +466,21 @@ CAST
 NOTES
 : You can\'t make out the actor\'s faces. The sound is very clear and fed from the soundboard, but the tap sounds get watered out. It seems this particular performance is cursed with little mishaps here and there. Billy drops his walking stick a few seconds after his appearance when the mirror sequence finishes. A chorus member also slips during we\'re in the money. The ensemble who form into a circle for the mirror sequence form the circle on the right side of the stage (a foot way from the middle) but they move back into the middle a seconds later. The spotlighting on the actors is also very crude, sometimes they lag behind the actor\'s movements and don\'t follow them accurately.
 
+#### 42nd Street - Second Non-Equity US National Tour - March 9, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Caitlin Ehlinger (Peggy Sawyer), Matthew J Taylor (Julian Marsh), Kaitlin Lawrence (Dorothy Brock), Blake Stadnik (Billy Lawlor), Steven Bidwell (Bert Barry), Britte Steele (Maggie Jones), Mark Fishback (Abner Dillon), Natalia Lepore Hagan (Annie), Lamont Brown (Andy Lee), Rob Ouellette (Oscar)
+
+NOTES
+: Beautiful HD capture with no obstructions of the brand new tour. This production has a fast pace and such high energy dance numbers. A really stunning tour that had the audience cheering, highly recommended!
+
 #### 42nd Street - Second Non-Equity US National Tour - June 7, 2016 
 {: .no_toc .d-inline-block }
 
@@ -6628,6 +6643,15 @@ CAST
 
 NOTES
 : Single cam, whole-stage shot, no zooms.
+
+#### Into the Woods - Fiasco Theatre Tour - April 6, 2017
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+CAST
+: Stephanie Umoh (Witch), Evan Harrington (Baker), Eleasha Gamble (Baker's Wife), Laurie Veldheer (Cinderella), Lisa Helmi Johanson (Little Red Riding Hood), Anthony C Chatmon II (Wolf/Cinderella's Prince), Darick Pead (Rapunzel's Prince), Fred Rose (Mysterious Man), Bonne Kramer (Jack's Mother), Bonne Kramer (Cinderella's Stepmother), Darick Pead (Florinda), Anthony C Chatmon II (Lucinda), Lisa Helmi Johanson (Rapunzel), Darick Pead (Milky White)
 
 #### Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night)
 {: .no_toc .d-inline-block }
