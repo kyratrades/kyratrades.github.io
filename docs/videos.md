@@ -6872,7 +6872,7 @@ NOTES
 
 # L
 
-<p align="center"><a id="markdown-toc-the-last-five-years" href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a id="markdown-toc-legally-blonde" href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a id="markdown-toc-the-lightning-thief-the-percy-jackson-musical" href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#little-me">Little Me</a> <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a id="markdown-toc-little-miss-sunshine" href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a id="markdown-toc-a-little-night-music" href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a id="markdown-toc-little-shop-of-horrors" href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a id="markdown-toc-little-women" href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a id="markdown-toc-love-cycle-a-soap-operetta" href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a id="markdown-toc-love-never-dies" href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
+<p align="center"><a id="markdown-toc-the-last-five-years" href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a id="markdown-toc-legally-blonde" href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a id="markdown-toc-the-lightning-thief-the-percy-jackson-musical" href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#little-me">Little Me</a> <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a id="markdown-toc-little-miss-sunshine" href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a id="markdown-toc-a-little-night-music" href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a id="markdown-toc-little-shop-of-horrors" href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a id="markdown-toc-little-women" href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a id="markdown-toc-love-cycle-a-soap-operetta" href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a id="markdown-toc-love-never-dies" href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
 
 ## The Last Five Years
 
@@ -7089,6 +7089,32 @@ CAST
 
 NOTES
 : Digital, master, shot from 4th row of the mezz. Beautiful with lots of closeups of all of the cast members.
+
+## The Light in the Piazza
+
+#### The Light in the Piazza - Broadway - April 21, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.94 GB`
+
+CAST
+: Victoria Clark (Margaret Johnson), Kelli O’Hara (Clara Johnson), Matthew Morrison (Fabrizio Naccarelli), Mark Harelik (Signor Naccarelli), Michael Berresse (Giuseppe Naccarelli), Sarah Uriarte Berry (Franca Naccarelli) 
+
+#### The Light in the Piazza - Broadway - June 15, 2006
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `5.16 GB`
+: Seems like an original caoture during the TV broadcast. Has TiVo menu.
+
+CAST: Victoria Clark (Margaret Johnson), Katie Rose Clarke (Clara Johnson), Aaron Lazar (Fabrizio Naccarelli), Chris Sarandon (Signor Naccarelli), Michael Berresse (Giuseppe Naccarelli), Sarah Uriarte Berry (Franca Naccarelli), Patti Cohenour (Signora Naccarelli), Beau Gravitte (Roy Johnson)
+
+NOTES
+: Live from Lincoln Center Proshot
 
 ## The Lightning Thief: The Percy Jackson Musical
 
