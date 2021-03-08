@@ -10,7 +10,9 @@ permalink: /
 
 ### No. of items listed:
 
-<center>Videos: 866 (excluding Wicked)</center>
+<center>Videos: 866</center>
+
+<center><small>(excluding Wicked)</small></center>
 
 <center>Audios: /</center>
 
