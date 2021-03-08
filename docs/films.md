@@ -15,10 +15,11 @@ permalink: /films
 <center><code>TC</code> <small>= Theatrical Cut</small></center>
 
 #### 1776 (1972)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : `DC` MKV `1080p` `5.85 GB`
-: `EC` MKV `1080p` `5.59 Gb`
+: `EC` MKV `1080p` `5.59 GB`
 : Includes Blu-ray Extras
 
 CAST
@@ -28,6 +29,7 @@ IMDB
 : <https://www.imdb.com/title/tt0068156/>
 
 #### Annie (1999)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `DVD REMUX` `3.88 GB`
@@ -39,6 +41,7 @@ IMDB
 : <https://www.imdb.com/title/tt0207972/>
 
 #### A Chorus Line (1985)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 `816p` `2.24 GB`
@@ -50,6 +53,7 @@ IMDB
 : <https://www.imdb.com/title/tt0088915/>
 
 #### Cabaret (1972)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `1080p` `6.74 GB`
@@ -83,6 +87,7 @@ IMDB
 : <https://www.imdb.com/title/tt0060384/>
 
 #### Evita (1996)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `2.41 GB`
@@ -94,6 +99,7 @@ IMDB
 : <https://www.imdb.com/title/tt0116250/>
 
 #### Gypsy (1962)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `1080p` `10.93 GB`
@@ -105,6 +111,7 @@ IMDB
 : <https://www.imdb.com/title/tt0056048/>
 
 #### Gypsy (1993)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `1080p` `14.62 GB`
@@ -116,6 +123,7 @@ IMDB
 : <https://www.imdb.com/title/tt0107065/>
 
 #### High Society (1956)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `1080p` `11.42 GB`
@@ -127,6 +135,7 @@ IMDB
 : <https://www.imdb.com/title/tt0049314/>
 
 #### Little Shop of Horrors (1986)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : `DC` MP4 `1080p` `1.97 GB`
@@ -139,7 +148,7 @@ IMDB
 : <https://www.imdb.com/title/tt0091419/>
 
 #### Mary Poppins (1964)
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -154,6 +163,10 @@ IMDB
 : <https://www.imdb.com/title/tt00058331/>
 
 #### My Fair Lady (1964)
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
 
 FORMAT
 : MKV `1080p` `6.71 GB`
