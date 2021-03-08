@@ -543,6 +543,30 @@ CAST
 NOTES
 : Filmed Live At The Apollo Theater. Streamed at December 12, 2020.
 
+#### West End Does: Acoustic - London - February 23, 2020
+{: .no_toc .d-inline-block }
+
+elphiethropp
+{: .label .label-blue }
+
+FORMAT
+: MP3 `13 tracks` + MOV `1.33 GB`
+
+CAST:
+Scott Sutcliffe, Alice Fearn, Sophie Evans, Carl Man, Rosa O'Reilly, Rodney Vubya, Courtney Stapleton, Connor Clifford, Frankie Jones, Kelly Agbowu
+
+NOTES
+: Songs only. Includes set list and videos of Don't Forget Me (Alice), Here I Go Again (Carl & Kerry) and For Good (Alice & Sophie).
+
+#### WhatsOnStage Awards - London (Prince of Wales Theatre) - March 3, 2019
+{: .no_toc .d-inline-block }
+
+FORMAT
+: WAV `untracked` `688 MB`
+
+NOTES
+: Hosted by Vicky Vox and Kobna Holdbrook-Smith. Including performances from Carrie Hope Fletcher, Sophie Issacs, T’Shan Williams, Jodie Steele, Rachel Tucker, the cast of Six, the cast of Spring Awakening, and numerous other West End stars
+
 #### The Yellow Brick Road Not Taken - Gershwin Theatre, NYC - October 27, 2008
 {: .no_toc .d-inline-block }
 
@@ -556,4 +580,3 @@ NOTES
 : Wicked’s 5th anniversary tribute to the songs and scenes that didn’t make it into the final show. Featuring many alumni of the show returning.
 : Track list: Opening (Thompson, Behar, Company), “Making Good” (Block), “Dear Old Shiz” (Thompson, Company), “Bad Situation” (Thompson, Block, Gorski, Allen, Company), “Making Good” (reprise) (Block), “Easy as Winkie Wine” (Reichard, Indelicato, Thompson, Gorsky, Allen), “Emerald City Stomp/We Deserve Each Other” (Thompson, Reichard, Indelicato, Federer, Company), “Popular” (Mario Cantone), “I’m Not That Girl” abbreviated (Bean), “As If By Magic” (Parker, Bean, Settle), “Step By Step” (Federer), “Dear Old Shiz” (reprise) (Company), “One [Really] Short Day” (Company), “A Sentimental Man/The Chance to Fly” (Wendt, Reinders, Bean, Behar), “For Goodness Sake” (Reinders, Bean), “Defying Gravity” (Ashanti, Block, Bean, Reinders, Thompson, Company).
 : Also includes a speech by Stephen Schwartz and Winnie Holzman.
-
