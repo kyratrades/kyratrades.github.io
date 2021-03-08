@@ -547,7 +547,7 @@ NOTES
 
 # A
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-addams-family">The Addams Family</a> • <a href="https://kyratrades.github.io/videos#aida">Aida</a> • <a href="https://kyratrades.github.io/videos#aint-too-proud">Ain't Too Proud</a> • <a href="https://kyratrades.github.io/videos#aladdin">Aladdin</a> • <a href="https://kyratrades.github.io/videos#alice-at-the-palace">Alice at the Palace</a> • <a href="https://kyratrades.github.io/videos#alice-by-heart">Alice By Heart</a> • <a href="https://kyratrades.github.io/videos#allegiance">Allegiance</a> • <a href="https://kyratrades.github.io/videos#amadeus">Amadeus</a> • <a href="https://kyratrades.github.io/videos#amélie">Am&eacute;lie</a> • <a href="https://kyratrades.github.io/videos#an-american-in-paris">An American in Paris</a> • <a href="https://kyratrades.github.io/videos#anastasia">Anastasia</a> • <a href="https://kyratrades.github.io/videos#annie">Annie</a> • <a href="https://kyratrades.github.io/videos#annie-2-miss-hannigans-revenge">Annie 2: Miss Hannigan's Revenge</a> • <a href="https://kyratrades.github.io/videos#annie-get-your-gun">Annie Get Your Gun</a> • <a href="https://kyratrades.github.io/videos#anyone-can-whistle">Anyone Can Whistle</a> • <a href="https://kyratrades.github.io/videos#anything-goes">Anything Goes</a> • <a href="https://kyratrades.github.io/videos#aspects-of-love">Aspects of Love</a> • <a href="https://kyratrades.github.io/videos#assassins">Assassins</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-addams-family">The Addams Family</a> • <a href="https://kyratrades.github.io/videos#after-midnight">After Midnight</a> • <a href="https://kyratrades.github.io/videos#aida">Aida</a> • <a href="https://kyratrades.github.io/videos#aint-too-proud">Ain't Too Proud</a> • <a href="https://kyratrades.github.io/videos#aladdin">Aladdin</a> • <a href="https://kyratrades.github.io/videos#alice-at-the-palace">Alice at the Palace</a> • <a href="https://kyratrades.github.io/videos#alice-by-heart">Alice By Heart</a> • <a href="https://kyratrades.github.io/videos#allegiance">Allegiance</a> • <a href="https://kyratrades.github.io/videos#amadeus">Amadeus</a> • <a href="https://kyratrades.github.io/videos#amélie">Am&eacute;lie</a> • <a href="https://kyratrades.github.io/videos#an-american-in-paris">An American in Paris</a> • <a href="https://kyratrades.github.io/videos#anastasia">Anastasia</a> • <a href="https://kyratrades.github.io/videos#annie">Annie</a> • <a href="https://kyratrades.github.io/videos#annie-2-miss-hannigans-revenge">Annie 2: Miss Hannigan's Revenge</a> • <a href="https://kyratrades.github.io/videos#annie-get-your-gun">Annie Get Your Gun</a> • <a href="https://kyratrades.github.io/videos#anyone-can-whistle">Anyone Can Whistle</a> • <a href="https://kyratrades.github.io/videos#anything-goes">Anything Goes</a> • <a href="https://kyratrades.github.io/videos#aspects-of-love">Aspects of Love</a> • <a href="https://kyratrades.github.io/videos#assassins">Assassins</a></p>
 
 ## The Addams Family
 
@@ -678,7 +678,24 @@ FORMAT
 : MP4 `1080p` `7.79 GB`
 
 CAST
-: Johnny Kraaijkamp (Gomez Addams), Pia Douwes (Morticia Addams), Julia Berendse (u/s Wednesday Addams), Tony Neef (Fester Addams), Martijn Vogel (Pugsley Addams), Irene Kuiper (Grandma Addams), Raymond Paardekooper (Lurch), Mylène d’Anjou (Alice Beineke), Dick Cohen (Mal Beineke), Terence van der Loo (Lucas Beineke) 
+: Johnny Kraaijkamp (Gomez Addams), Pia Douwes (Morticia Addams), Julia Berendse (u/s Wednesday Addams), Tony Neef (Fester Addams), Martijn Vogel (Pugsley Addams), Irene Kuiper (Grandma Addams), Raymond Paardekooper (Lurch), Mylène d’Anjou (Alice Beineke), Dick Cohen (Mal Beineke), Terence van der Loo (Lucas Beineke)
+
+## After Midnight
+
+#### After Midnight - Broadway - May 18, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Fantasia Barrino, Dulé Hill, Adriane Lenox, Karine Plantadit-Bageot, Dormeshia Sumbry-Edwards, Justin Prescott, Virgil Gadson, Jared Grimes
+
+NOTES
+: Beautiful HD capture with no obstructions. Such a wonderful fun show that I really enjoyed so much more than I expected! Fantasia did a wonderful job and the dancing was sublime. A+
 
 ## Aida
 
@@ -3584,6 +3601,18 @@ CAST
 NOTES
 : The original Broadway cast filmed prior to moving to Broadway. Professionally filmed using multiple cameras for the Lincoln Center Theatre on Film and Tape (TOFT) archives. Newly surfaced video which is a HUGE improvement over the previous version which has been in circulation for a while. This is also complete and includes the opening announcement alerting the audience that the show is being filmed. Amazing quality, but still has a little generational loss. In black and white. The DVD has been enhanced with chapter stops for all of the musical numbers. This, along with the tapes of Crazy for You and Passion, is amongst the only three TOFT tapes that have been leaked.
 
+#### A Chorus Line - The Netherlands - 2002
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.50 GB`
+
+CAST
+: Wilbert Gieske (Zach), Fons van Kraaij (Larry), Roy Kullick (Don), Marieke van Hulst (Maggie), Birger van Severen (Mike), Hannah van Meurs (Connie), Thomasj Vets (Greg), Ellis van Laarhoven (Cassie), Anouk van Nes (Sheila), Hans van der Heijden (Bobby), Manon Novak (Bebe), Carolien Canters (Judy), Perry Dossett (Richie), Job Vlaar (Al), Eva Roest (Kristine), Jacqueline Aronson (Val), Paul Boereboom (Mark), Hein Gerrits (Paul), Cystine Carreon (Diana), Cyrille Carreon (Tricia), Peter van Dosselaer (Butch), Axel de Graaf (Roy), Regi Severins (Lois), Peter Stoelhorst (Frank), Roeselien Wekker (Vicki)
+
 #### A Chorus Line - New Orleans - February 16, 2003
 {: .no_toc .d-inline-block }
 
@@ -4551,6 +4580,18 @@ CAST
 
 NOTES
 : COMMONLY CONFUSED WITH NOVEMBER 30, 1979. Please check your copy and the screenshots for both to ensure your video is not the same; the 1980 video does not have a commercial, is filmed from the left of the house rather than the right, and features Tom Carder as Che instead of Mandy Patinkin. Washed out color, but it is still present. Very dark. Tracking issues at times, but a pleasant surprise for its age.
+
+#### Evita - Village Players, Toledo Ohio - 1991
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.67 GB`
+
+FILE NOTES
+: Recording of another DVD. Do let me know me if you have a better copy.
+
+CAST
+: Hunter Foster (Che), Sutton Foster (Perón's Mistress)
 
 #### Evita - Sacramento Music Circus - August 17, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -7119,6 +7160,21 @@ CAST
 
 NOTES
 : Beautiful HD capture of the Encores Summer Series. Ellen and Jake were perfection and this was the 2015 show that was not to be missed! The last 15 mins (customers coming in and song/scene finale don\'t feed the plants) are mostly blind shot, where a few times no action can be seen. Everything else is there and beautiful. A-
+
+#### Little Shop of Horrors - São Paulo - Brasil - 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.95 GB`
+
+CAST
+:Lucas Cândido (Seymour), Pâmela Rossini (Audrey), Nando Artes (Sr. Mushnik), Ricardo Aguilar, Henrique Bravi (Orin), Ananda Ismail, Gustavo Mazzei, Maira Cardoso, Marcos Parizatto, Tony Filho Tamara Veiga, Rany Hilston, Marília Nunes
+
+NOTES
+: Pro-shot with zooms. Performance with audience. Great quality (in 1080P - HD).
 
 #### Little Shop of Horrors - Third Mexico City Revival - May 4, 2019
 {: .no_toc .d-inline-block }
