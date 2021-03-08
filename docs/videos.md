@@ -1930,6 +1930,21 @@ CAST
 NOTES
 : House Cam recording of the final West End Cast.
 
+#### Beauty and the Beast (Disney) - Sao Paulo, Brazil - June, 2002
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.03 GB`
+
+CAST
+: Kiara Sasso (Belle), Saulo Vasconcelos (Beast/Prince), Daniel Boaventura (Gaston), Marcos Tumura (Lumière), Ana Taglianetti (Mrs. Potts), Jonathas Joba (Cogsworth), Andrezza Massei (Madame de la Grande Bouche), Keila Bueno (Babette), Beto Marden (Le Fou), Claudio Curi
+
+NOTES
+: Cleaned up nicely from original DVD but a soft source nonetheless so fine details are lacking.
+
 #### Beauty and the Beast (Disney) - UK Tour - 2003
 {: .no_toc .d-inline-block }
 
@@ -10002,6 +10017,21 @@ CAST
 
 NOTES
 : The show is prerecorded up until the last 10 minutes because Brennin Hunt (Roger Davis) hurt his foot. He is seen in his cast during the last 10 minutes. The original cast comes out at the end to sing Seasons of Love again! <https://www.imdb.com/title/tt6881910/>
+
+#### 25 Years of Rent: Measured in Love - NYTW Livestream - March 2, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `9.23 GB`
+
+CAST
+: Gilles Chiasson, Wilson Jermaine Heredia, Rodney Hicks, Christopher Jackson, Kristen Lee Kelly, Tamika Lawrence, Jesse L. Martin, Idina Menzel, Aiko Nakasone, Eva Noblezada, Adam Pascal, Ben Platt, Billy Porter, Anthony Rapp, Daphne Rubin-Vega, Ali Stroker, Tracie Thoms, Byron Utley, Fredi Walker-Browne, Sebastian Arcelus, Annaleigh Ashford, Martha Banta, Adam Chanler-Berat, Linda Chapman, Nicholas Christopher, Paul Clay, Wilson Cruz, Brandon Victor Dixon, Wendy Ettinger, Stephen Graham, Michael Greif, Janet Harckham, Jeremy O. Harris, Neil Patrick Harris, Victoria Leacock Hoffman, Mariko Kojima, Julie Larson, Telly Leung, Kamilah Marshall, Kevin McCollum, Lin-Manuel Miranda, Anaïs Mitchell, Shakina Nayfack, James C. Nicola, Dael Orlandersmith, Councilmember Carlina Rivera, Jai Rodriguez, Jeffrey Seller, Leigh Silverman, Ephraim Sykes, Bernie Telsey, Jennifer Ashley Tepper, Ivo van Hove, Tom Viola, Tim Weil, Angela Wendt, Marlies Yearby, And many more!
+
+NOTES
+: Includes Livestream with Chat, Trivia breakout room, Rent Singalong, Reflections from Andy Señor Jr, James C. Nicola, & Victor I. Cazares, and bonus photos and materials from Rent through the years. 
 
 ## The Rocky Horror Show
 
