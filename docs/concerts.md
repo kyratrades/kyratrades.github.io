@@ -403,6 +403,18 @@ FORMAT
 NOTES
 : Album release concert. Includes an opening set by Carrie Manolakos. Carey Malloy features on \"As Long As You\'re Mine\", Cathleen Wright features on \"Take Me Or Leave Me\", and Megan Hilty features on \"For Good\".
 
+#### Elaine Stritch: At Liberty - West End - May 29, 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p Upscale` `4.61 GB`
+
+NOTES
+: This is the full 2.5 hour Elaine Stritch at Liberty, ripped directly from the DVD. It was also run through an AI-powered HD upscaler to 1080p.
+
 #### Lea Salonga in Concert - Great Performances - November 27, 2020
 {: .no_toc .d-inline-block }
 
