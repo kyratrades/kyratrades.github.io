@@ -9876,6 +9876,14 @@ NOTES
 
 ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `March 9, 1999`, `May 30, 1999 (Highlights)`. I'm willing to trade 2:1 for these.
 
+#### The Scarlet Pimpernel - Broadway - October, 1997
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs` `4.97 GB`
+
+CAST: Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
+
 #### The Scarlet Pimpernel - Broadway - May 8, 1999
 {: .no_toc .d-inline-block }
 
@@ -9896,6 +9904,18 @@ CAST
 
 NOTES
 : Mainly the 29th, but \"The Riddle\" and the curtain call from the 30th are spliced in nicely; also has highlights footage from the 30th
+
+#### The Scarlet Pimpernel - Broadway - October 9, 1999
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.16 GB`
+
+CAST
+: Ron Bohmer (Sir Percy Blakeney), Elizabeth Ward (u/s Marguerite St. Just), Marc Kudisch (Chauvelin)
+
+NOTES
+: Well-shot video with some spotlight washout on the wider shots, but otherwise nice. Transferred from VHS and has a counter at the lower right corner.
 
 ## School of Rock
 
