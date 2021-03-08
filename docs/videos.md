@@ -4746,7 +4746,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `3 DVDs` `Commercial DVD`
+: VOB+smalls `3 DVDs` `Commercial DVD` `English (.srt)`
 
 CAST
 : Maya Hakvoort (Elisabeth), Máté Kamarás (Der Tod), Serkan Kaya (Luigi Lucheni), André Bauer (Franz Joseph), Fritz Schmid (Rudolf), Else Ludwig (Sophie)
@@ -5577,8 +5577,12 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
+: Last 6 minutes or so the video gets a bit glitchy. Not sure if it's a problem with the original or my copy.
 
 CAST
 : Patti LuPone (Rose), Boyd Gaines (Herbie), Laura Benanti (Louise), Leigh Ann Larkin (June), Tony Yazbeck (Tulsa), Marilyn Caskey (Electra), Alison Fraser (Tessie Tura), Nancy Opel (Mazeppa), Bill Bateman (Mr. Goldstone), Jim Bracchitta (Uncle Jocko), Sami Gayle (Baby June)
@@ -10538,7 +10542,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#Snapshots--A-Musical-Scrapbook ">Snapshots: A Musical Scrapbook </a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
@@ -10848,6 +10852,21 @@ CAST
 
 NOTES
 : Quality: Well shot, audio isn't perfect but is good enough. Video quality is nice, true HD.
+
+## Snapshots: A Musical Scrapbook
+
+#### Snapshots: A Musical Scrapbook - A Contemporary Theatre of Connecticut (ACT) - 2021
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `6.57 GB`
+
+CAST
+: Mariand Torres, Ryan Barker, Monica Ramirez, John Cardoza, Olivia Hernandez and Michael McCory Rose
+
+NOTES
+: Streamed Feb. 13-28, 2021; A juxtaposition of Stephen Schwartz’s songs from various musicals such as “Godspell,” “Wicked,” “Pippin,” “Working”.
+: Read more about it [here](https://www.theridgefieldpress.com/arts-leisure/article/Curtain-Call-ACT-s-Snapshots-movie-15954807.php).
 
 ## Something Rotten!
 
@@ -12552,7 +12571,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 `1080p` `2.25GB`
+: MP4 `1080p` `2.25 GB` `English (.srt)`
 
 CAST
 : Shanice Williams (Dorothy), David Alan Grier (Lion), Ne-Yo (Tinman), Elijah Kelley (Scarecrow), Uzo Aduba (Glinda), Queen Latifah (The Wiz), Mary J Blige (Evillene), Stephanie Mills (Aunt Em), Amber Riley (Addaperle)
