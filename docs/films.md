@@ -169,7 +169,7 @@ Watched
 {: .label .label-yellow }
 
 Testing
-{: .label .label-yellow }
+{: .label .label-yellow .d-inline-block }
 
 FORMAT
 : MKV `1080p` `6.71 GB`
