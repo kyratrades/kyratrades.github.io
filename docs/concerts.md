@@ -531,7 +531,7 @@ CAST
 NOTES
 : \[IMDb\] A concert presentation of the Tim Burton/Danny Elfman classic animated film, as interpreted by some of Broadway\'s ghoulishly talented artists. The proceeds collected will benefit The Actors Fund and Lymphoma Research Foundation.
 
-#### Shoshana Bean: Sing Your Hallelujah
+#### Shoshana Bean: Sing Your Hallelujah - 2020
 {: .no_toc .d-inline-block }
 
 FORMAT
