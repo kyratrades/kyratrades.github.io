@@ -4995,7 +4995,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/videos#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -7831,7 +7831,7 @@ NOTES
 
 # M
 
-<p align="center"><a href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> &bull; <a href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> &bull; <a href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> &bull; <a href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> &bull; <a href="https://kyratrades.github.io/videos#mame">Mame</a> &bull; <a href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> &bull; <a href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> &bull; <a href="https://kyratrades.github.io/videos#mary-poppins">Mary Poppins</a> &bull; <a href="https://kyratrades.github.io/videos#master-class">Master Class</a> &bull; <a href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> &bull; <a href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> &bull; <a href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> &bull; <a href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> &bull; <a href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> &bull; <a href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> &bull; <a href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> &bull; <a href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> &bull; <a href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> &bull; <a href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> &bull; <a href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> • <a href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> • <a href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/videos#mame">Mame</a> • <a href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/videos#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/videos#master-class">Master Class</a> • <a href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> • <a href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/videos#the-merchant-of-venice">The Merchant of Venice</a> • <a href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> • <a href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
 
 ## Mac Beth
 
@@ -8189,6 +8189,20 @@ CAST
 
 NOTES
 : Erika’s last. Focuses a lot more Erika as opposed to the main action happening, as it’s her last show. Small part of the left area of the stage is blocked by a few heads.
+
+## Merchant of Venice
+
+#### The Merchant of Venice - Broadway - February 11, 2011
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Byron Jennings (Antonio), David Harbour (Bassanio), Gerry Bamman (Duke of Venice), David Aaron Baker (Gratiano), Heather Lind (Jessica), Christopher Fitzgerald (Launcelot Gobbo), Thomas Michael Hammond (Lorenzo), Marsha Stephanie Blake (Nerissa), Lily Rabe (Portia), Charles Kimbrough (Prince of Arragon), Isaiah Johnson (Prince of Morocco), Peter Francis James (Salerio), Al Pacino (Shylock), Matthew Rauch (Solanio), Richard Topol (Tubal)
+
+NOTES
+: Very clear and lots of closeups, one or two coverups and some wandering. A-
 
 ## Les Misérables
 
@@ -9274,6 +9288,58 @@ FORMAT
 
 CAST
 : Braden Danner (Oliver Twist), David Garlick (The Artful Dodger), Ron Moody (Fagin), Patti LuPone (Nancy)
+
+## On a Clear Day You Can See Forever 
+
+#### On a Clear Day You Can See Forever - Broadway Revival - November 12, 2011 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: David Turner (David Gamble), Jessie Mueller (Melinda Wells), Harry Connick Jr (Dr. Mark Bruckner), Drew Gehling (Warren Smith), Kerry O'Malley (Dr. Sharone Stein), Sarah Stiles (Muriel Bunson)
+
+NOTES
+: First preview performance of this revival. A Beautiful capture of this very fascinating story of a Dr./Patient relationship that crosses boundaries. Harry, David and Jessie turn out wonderful performances.
+
+## On the Town
+
+#### On the Town - Third Broadway Revival - October 1, 2014 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+:  Tony Yazbeck (Gabey), Jay Armstrong Johnson (Chip), Clyde Alves (Ozzie), Megan Fairchild (Ivy Smith), Elizabeth Stanley (Claire De Loone), Alysha Umphress (Hildy), Michael Rupert (Pitkin W. Bridgeword), Allison Guinn (Lucy Schmeeler), Jackie Hoffman (Maude P. Dilly)
+
+NOTES
+: Beautiful HD capture of this new Broadway revival, with no obstructions. Great performances, dancing and vocals from the full company. Great to see the classic musical get a big, bright and proper revival.
+
+## On The Twentieth Century
+
+#### On The Twentieth Century - Broadway Revival - February 21, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Kristin Chenoweth (Lily Garland/Mildred Plotka), Peter Gallagher (Oscar Jaffee), Mary Louise Wilson (Letitia Peabody Primrose), Andy Karl (Bruce Granit), Mark Linn-Baker (Oliver Webb), Michael McGrath (Owen O'Malley)
+
+NOTES
+: Beautiful HD capture with no obstructions. This was done right before Peter missed a slew of performances. Great fun show and of course Kristin turned out a sensational performance, as did the whole cast! A+
+
 
 ## Once On This Island
 
@@ -12769,3 +12835,22 @@ FORMAT
 
 CAST
 : Rory Kinnear (Karl Marx), Nicholas Burns (Willich), Nancy Carroll (Jenny von Westphalen), Oliver Chris (Friedrich Engels), Laura Elphinstone (Nym), Eben Figueiredo (Schramm), Tony Jayawardena (Gert "Doc" Schmidt), Scott Karim (Grabiner/Singer), Alana Ramsey (Mrs. Mullet), Sophie Russell (Librarian), Fode Simbo (Peter), William Troughton (Constable Crimp), Joseph Wilkins (Sergeant Savage), Duncan Wisbey (Mr. Feece/Bearded Man), Miltos Yerolemou (Emmanuel Barthélemy)
+
+# Z
+
+<p align="center"><a href="https://kyratrades.github.io/videos#zorba">Zorba</a></p>
+
+#### Zorba - Encores! - May 6, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: John Turturro (Zorba), Zoe Wanamaker (Madame Hortense), Marin Mazzie (The Leader), Santino Fontana (Nikos), Adam Chanler-Berat (Mimiko), Elizabeth A Davis (The Widow), Robert Cuccioli (Mavrodani), Robert Montano (Manolakas)
+
+NOTES
+: Beautiful HD capture with no obstructions of the New York City Center Encores series. Marin gives beautiful vocals and delivers a wonderful performance. This Kander & Ebb show was a pleasant surprise, so many wonderful performances and songs. Such an enjoyable and impeccable production! A
