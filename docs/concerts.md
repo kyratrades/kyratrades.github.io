@@ -15,7 +15,7 @@ permalink: /concerts
 ### Navigation
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#live-from-lincoln-center">Live From Lincoln Center</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#misc">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#live-from-lincoln-center">Live From Lincoln Center</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a> • <a href="https://kyratrades.github.io/concerts#misc">MISC</a></p>
 
 ---
 
@@ -62,6 +62,32 @@ FORMAT
 
 CAST
 : Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
+
+## Broadway Miscast
+
+#### Broadway Miscast - MCC Theatre - March 4, 2013
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP3 `24 tracks`
+
+CAST
+: Jeremy Jordan, Jonathan Groff, Cheyenne Jackson, Victor Garber, Christian Borle, Jane Krakowski, LaChanze, Megan Hilty, Marin Mazzie, Jesse L. Martin, Nicole Parker, Jason Danieley, Patrick Wilson
+
+NOTES
+: An amazing tribute to Marc Shaiman and Scott Wittman. Audio is on the quiet side and there\'s some creaking from the seat.
+
+#### Broadway Miscast - MCC Theatre - April 3, 2017 
+{: .no_toc .d-inline-block }
+
+wickedlittletown
+{: .label .label-blue }
+
+FORMAT
+: MP3 `23 tracks`
+
+CAST
+: Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
 
 ## Live From Lincoln Center
 
@@ -204,17 +230,6 @@ Token Goat
 FORMAT
 : MP3 `22 tracks`
 
-## Stephanie J. Block
-
-#### Birdland Jazz (New York) - July 8, 2013
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: MP3 `22 tracks`
-
 ## Patti Lupone
 
 #### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
@@ -237,6 +252,38 @@ FORMAT
 
 NOTES
 : On the same DVD as the Anything GOes 'lost footage'
+
+## Seth\'s Broadway Chatterbox
+
+### Wants
+
+Rachel York on Seth\'s Broadway Chatterbox
+
+#### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Seth Rudetsky (Host), Megan Hilty (Guest)
+
+NOTES
+: Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
+
+## Stephanie J. Block
+
+#### Birdland Jazz (New York) - July 8, 2013
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP3 `22 tracks`
 
 ## Wicked Divas
 
@@ -291,53 +338,6 @@ CAST
 
 NOTES
 : Recorded at an outdoor venue and there was some noise from wind and so on. A thunderstorm caused a mass exodus of people running for cover during \"Defying Gravity\" and was the reason the concert ended early.
-
-## Broadway Miscast
-
-#### Broadway Miscast - MCC Theatre - March 4, 2013
-{: .no_toc .d-inline-block }
-
-FORMAT
-: MP3 `24 tracks`
-
-CAST
-: Jeremy Jordan, Jonathan Groff, Cheyenne Jackson, Victor Garber, Christian Borle, Jane Krakowski, LaChanze, Megan Hilty, Marin Mazzie, Jesse L. Martin, Nicole Parker, Jason Danieley, Patrick Wilson
-
-NOTES
-: An amazing tribute to Marc Shaiman and Scott Wittman. Audio is on the quiet side and there\'s some creaking from the seat.
-
-#### Broadway Miscast - MCC Theatre - April 3, 2017 
-{: .no_toc .d-inline-block }
-
-wickedlittletown
-{: .label .label-blue }
-
-FORMAT
-: MP3 `23 tracks`
-
-CAST
-: Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
-
-## Seth\'s Broadway Chatterbox
-
-### Wants
-
-Rachel York on Seth\'s Broadway Chatterbox
-
-#### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
-{: .no_toc .d-inline-block }
-
-Watched
-{: .label .label-yellow }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Seth Rudetsky (Host), Megan Hilty (Guest)
-
-NOTES
-: Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
 
 ## MISC
 
@@ -542,6 +542,19 @@ CAST
 
 NOTES
 : Filmed Live At The Apollo Theater. Streamed at December 12, 2020.
+
+#### Simply Sondheim - Signature Theatre - 2021
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `English (.srt)`
+
+CAST
+: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
+
+NOTES
+: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
+: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
 
 #### West End Does: Acoustic - London - February 23, 2020
 {: .no_toc .d-inline-block }
