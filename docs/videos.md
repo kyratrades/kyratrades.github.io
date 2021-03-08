@@ -6241,10 +6241,11 @@ FORMAT
 : VOB+smalls `1 DVD`
 : Has proper DVD menu. Looking for the 2-disc version(?)
 
-CAST: Daniel Radcliffe (J. Pierrepont Finch), John Larroquette (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Christopher Hanke (Bud Frump), Rob Bartlett (Mr. Twimble), Mary Faber (Smitty), Ellen Harvey (Miss Jones), Michael Park (Bert Bratt)
+CAST
+: Daniel Radcliffe (J. Pierrepont Finch), John Larroquette (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Christopher Hanke (Bud Frump), Rob Bartlett (Mr. Twimble), Mary Faber (Smitty), Ellen Harvey (Miss Jones), Michael Park (Bert Bratt)
 
 NOTES
-Slightly shaky in a few parts, but nothing too bad. Act Two does not have a lot of close-ups and mostly mid-stage shots with no whiteouts; a total of about 4 minutes of blackouts throughout the show; great sound and good video. A- 2 DVDs
+: Slightly shaky in a few parts, but nothing too bad. Act Two does not have a lot of close-ups and mostly mid-stage shots with no whiteouts; a total of about 4 minutes of blackouts throughout the show; great sound and good video. A- 2 DVDs
 
 #### How to Succeed in Business Without Really Trying - Second Broadway Revival - January 11, 2012
 {: .no_toc .d-inline-block }
@@ -6274,7 +6275,8 @@ FORMAT
 : VOB `NO SMALLS` `7 files`
 : DO NOT REQUEST
 
-CAST: Nick Jonas (J. Pierrepont Finch), Beau Bridges (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Michael Urie (Bud Frump), Mary Faber (Smitty)
+CAST
+: Nick Jonas (J. Pierrepont Finch), Beau Bridges (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Michael Urie (Bud Frump), Mary Faber (Smitty)
 
 NOTES
 : Excellent capture of Nick and Michael who had just joined the cast. Nick and Michael do a great job of stepping into the role and making it their own! A
