@@ -20,6 +20,8 @@ permalink: /
 
 <center>Opera: 8</center>
 
+<center>Films: 12</center>
+
 ---
 
 <center>Please read this page before initiating a trade</center>
@@ -60,4 +62,4 @@ For my specfic wants, please check <a href="https://kyratrades.github.io/wants">
 All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of ayour choosing.
  
 ### Gifting policy
-I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots upon request (especially NTLive and RSC), just ask!
+I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots upon request (especially commercial movies, NTLive and RSC), just ask!

@@ -295,6 +295,9 @@ FORMAT
 SunsetBlvd79
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 

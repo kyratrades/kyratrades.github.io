@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Performers
-nav_order: 7
+nav_order: 97
 has_children: true
 permalink: /performers
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shows
-nav_order: 6
+nav_order: 96
 has_children: true
 permalink: /shows
 ---
