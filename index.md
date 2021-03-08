@@ -16,7 +16,7 @@ permalink: /
 
 <center>Concerts: 44</center>
 
-<center>Opera: 5</center>
+<center>Opera: 8</center>
 
 ---
 
