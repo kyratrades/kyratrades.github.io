@@ -32,7 +32,7 @@ permalink: /videos
 
 # \#
 
-<p align="center"><a href="https://kyratrades.github.io/videos#-juliet">&amp; Juliet</a> • <a href="https://kyratrades.github.io/videos#9-to-5-the-musical">9 to 5: The Musical</a> • <a href="https://kyratrades.github.io/videos#13">13</a> • <a href="https://kyratrades.github.io/videos#the-25th-annual-putnam-county-spelling-bee">The 25th Annual Putnam County Spelling Bee</a> • <a href="https://kyratrades.github.io/videos#42nd-street">42nd Street</a> • <a href="https://kyratrades.github.io/videos#1776">1776</a> • <a href="https://kyratrades.github.io/videos#1984">1984</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#-juliet">&amp; Juliet</a> • <a href="https://kyratrades.github.io/videos#9-to-5-the-musical">9 to 5: The Musical</a> • <a href="https://kyratrades.github.io/videos#13">13</a> • <a href="https://kyratrades.github.io/videos#the-25th-annual-putnam-county-spelling-bee">The 25th Annual Putnam County Spelling Bee</a> • <a href="https://kyratrades.github.io/videos#42nd-street">42nd Street</a> • <a href="https://kyratrades.github.io/videos#110-in-the-shade">110 in the Shade</a> • <a href="https://kyratrades.github.io/videos#1776">1776</a> • <a href="https://kyratrades.github.io/videos#1984">1984</a></p>
 
 ## & Juliet
 
@@ -528,6 +528,20 @@ CAST
 
 NOTES
 : The West End revival of \"42nd Street\" starring Bonnie Langford as Dorothy Brock who previously played as Peggy in the UK Tour.
+
+## 110 In The Shade
+
+#### 110 In The Shade - Broadway Revival - April 15, 2007 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Audra McDonald (Lizzie Curry), Steve Kazee (Starbuck), Bobby Steggert (Jimmy Curry), Chris Butler (Noah Curry), John Cullum (H. C. Curry), Christopher Innvar (File), Carla Duren (Snookie)
+
+NOTES
+: Stunning production with perfect cast and wonderful capture. Don't miss this sensational production. A
 
 ## 1776
 
@@ -2629,7 +2643,7 @@ NOTES
 
 # C
 
-<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
 
 ## Cabaret
 
@@ -2815,6 +2829,17 @@ FORMAT
 
 CAST
 : Gunther Konig (Georges), Steve Barton (Albin/Zazá)
+
+## Call Me Madams
+
+#### Call Me Madam - Encores! - February 8, 2019
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+CAST
+: Carmen Cusack (Mrs. Sally Adams), Ben Davis (Cosmo Constantine), Brad Oscar (Senator Gallagher), Adam Heller (Congressman Wilkins), Michael Benjamin Washington (Pemberton Maxwell), Randy Rainbow (Sebastian Sebastian), Jason Gotay (Kenneth Gibson), Carol Kane (Grand Duchess Sophie), Lauren Worsham (Princess Maria), Stanley Wayne Mathis (Senator Brockbank), Darrell Hammond (Grand Duke Otto), Christopher Gurr (Henry Gibson)
 
 ## Camelot
 
@@ -4970,7 +4995,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a></p>
 
 ## Falsettos
 
@@ -5049,7 +5074,21 @@ CAST
 : Elena Shaddow (Fanny), Priscilla Lopez (Honorine), James Snyder (Marius), Megan Sikora (Claudette), Fred Applegate (Panisse), George Hearn (Cesar)
 
 NOTES
-: Nicely filmed show also includes the Post-Show Talkback featuring the original star Florence Henderson. Pretty amazing stories about the original production. A-
+: Nicely filmed show also includes the Post-Show Talkback featuring the origin
+
+## Fantasticks
+
+#### The Fantasticks - Pasadena Playhouse - September 28, 2016
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+CAST
+: Philip Anthony-Rodriguez (El Gallo), Conor Guzman (Matt), Ashley Park (Luisa), Gedde Watanabe (Hucklebee), Regi Davis (Bellomy), Hal Linden (Henry), Amir Talai (Mortimer), Alyse Rockett (The Mute)
+
+NOTES
+: An inventive new production of this long-running Off-Broadway classic. Very nicely captured with no washout and no blackouts. There are some small heads that can occasionally be seen at the bottom of the screen, but they never block the action. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans
 
 ## Fiddler on the Roof
 
@@ -5391,6 +5430,17 @@ CAST
 
 NOTES
 : Some gen loss and low audio. Pro-shot of the one-night-only Actors\' Fund benefit concert.
+
+## A Funny Thing Happened on the Way to the Forum
+
+#### A Funny Thing Happened on the Way to the Forum - Second Broadway Revival - 1996
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.68 GB`
+
+CAST
+: Nathan Lane (Pseudolus), Jim Stanek (Hero), Jessica Boevers (Philia), Mark Linn-Baker (Hysterium), Lewis J Stadlen (Senex), Mary Testa (Domina), Ernie Sabella (Marcus Lycus), Cris Groenendaal (Miles Gloriosus), William Duell (Erronius) 
 
 # G
 
@@ -10566,7 +10616,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#Snapshots--A-Musical-Scrapbook ">Snapshots: A Musical Scrapbook </a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook </a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
