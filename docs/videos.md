@@ -1722,6 +1722,18 @@ CAST
 NOTES
 : Original London cast in a workshop/performance of the complete show. Absolutely beautifully pro-shot with multiple cameras in a dance studio. A+
 
+#### The Baker's Wife - Paper Mill Playhouse - April, 2005 (Highlights)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.92 GB`
+
+CAST
+: Alice Ripley (Geneviève), Lenny Wolpe (Dominique), Max von Essen (Aimable)
+
 ## The Band Wagon
 
 #### The Band Wagon - Encores! - November 13, 2014
@@ -5542,7 +5554,7 @@ CAST
 
 # H
 
-<p align="center"><a href="https://kyratrades.github.io/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/videos#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/videos#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/videos#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
 
 ## Hadestown
 
@@ -5864,6 +5876,21 @@ CAST
 
 NOTES
 : More new performers captured in this phenomenal show. Lexi is lovely as Eliza and makes the role her own. Standout understudies were Sydney and Andrew - both give fantastic performances as Burr and Lafayette/Jefferson. My best capture of this show to date. It's fully captured with no washouts and no blackouts, just a couple very quick dropouts between scenes. There are a couple heads that can be seen occasionally, but they are worked around and don't obstruct the action. It\'s filmed in 16:9, with a mix of wides, mediums and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Hamilton - Chicago - October 2, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Joseph Morales (alt Alexander Hamilton), Ari Afsar (Eliza Hamilton), Joshua Henry (Aaron Burr), Karen Olivo (Angelica Schuyler), Jonathan Kirkland (George Washington), Chris De'Sean Lee (Marquis de Lafayette/Thomas Jefferson), Wallace Smith (Hercules Mulligan/James Madison), Jose Ramos (John Laurens/Philip Hamilton), Samantha Marie Ware (Peggy Schuyler/Maria Reynolds), Alexander Gemignani (King George III)
+
+NOTES
+: Stunning capture of the Chicago company and Joseph's first performance as Hamilton. Such a talented and wonderful cast. Ari and Karen just blew my mind with perfection! A+
 
 #### Hamilton - First National Tour (Angelica) - August 12, 2017 (Matinee) 
 {: .no_toc .d-inline-block }
@@ -6201,6 +6228,56 @@ CAST
 
 NOTES
 : Some mild generation loss. B+
+
+## How to Succeed in Business Without Really Trying
+
+#### How to Succeed in Business Without Really Trying - Second Broadway Revival - March 5, 2011 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: Has proper DVD menu. Looking for the 2-disc version(?)
+
+CAST: Daniel Radcliffe (J. Pierrepont Finch), John Larroquette (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Christopher Hanke (Bud Frump), Rob Bartlett (Mr. Twimble), Mary Faber (Smitty), Ellen Harvey (Miss Jones), Michael Park (Bert Bratt)
+
+NOTES
+Slightly shaky in a few parts, but nothing too bad. Act Two does not have a lot of close-ups and mostly mid-stage shots with no whiteouts; a total of about 4 minutes of blackouts throughout the show; great sound and good video. A- 2 DVDs
+
+#### How to Succeed in Business Without Really Trying - Second Broadway Revival - January 11, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Darren Criss (J. Pierrepont Finch), Beau Bridges (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Christopher Hanke (Bud Frump), Rob Bartlett (Mr. Twimble), Mary Faber (Smitty), Ellen Harvey (Miss Jones), Michael Park (Bert Bratt)
+
+NOTES
+: Excellent capture of Darren's three week stint with the show. Tons of excitement from the audience which made the cast sparkle even more. Show is top shape and Darren is charming as one would expect!
+
+#### How to Succeed in Business Without Really Trying - Second Broadway Revival - February 4, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB `NO SMALLS` `7 files`
+: DO NOT REQUEST
+
+CAST: Nick Jonas (J. Pierrepont Finch), Beau Bridges (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Michael Urie (Bud Frump), Mary Faber (Smitty)
+
+NOTES
+: Excellent capture of Nick and Michael who had just joined the cast. Nick and Michael do a great job of stepping into the role and making it their own! A
 
 ## The Hunchback of Notre Dame (Disney)
 
