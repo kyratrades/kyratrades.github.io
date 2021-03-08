@@ -584,6 +584,27 @@ CAST
 NOTES
 : Many, Many changes from the Pre-Broadway run in Chicago. The show has a very different feel and works much better. The cast is still very strong and very funny. One of the biggest transformations I can remember with a Broadway Transfer! A-
 
+#### The Addams Family - First National Tour - October 18, 2011
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+ISSUES
+: \[<a href="https://imgur.com/a/O5iVf3L">Screen Recording</a>\]My copy is 4 VOB, 4.00 GB. VTS_01_3.VOB is faulty such that I cannot play Act 1 in full and cannot play Act 2 at all from the DVD menu. I would love to trade for a functonal copyy!
+ 
+CAST
+: Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Crista Moore (Alice Beineke), Martin Vidnovic (Mal Beineke), Brian Justin Crum (Lucas Beineke)
+
+NOTES
+: Beautiful capture of the again newly reworked version of the tour. This would technically make it version 3.0. Changes include new songs, reworked, new or cut scenes and plots, that work for the better! A+
+
 #### The Addams Family - Broadway - November 30, 2011
 {: .no_toc .d-inline-block }
 
@@ -1829,7 +1850,19 @@ NOTES
 
 ## Beautiful: The Carole King Musical
 
-#### Beautiful: The Carole King Musical - First National Tour - October 16, 2016 
+#### Beautiful - Pre-Broadway / San Francisco - October 12, 2013
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jessie Mueller (Carole King), Jake Epstein (Gerry Goffin), Anika Larsen (Cynthia Weil), Jarrod Spector (Barry Mann), Jeb Brown (Don Kirshner), Liz Larsen (Genie Klein) 
+
+#### Beautiful - First National Tour - October 16, 2016 
 {: .no_toc .d-inline-block }
 
 SJ Bernly
@@ -1844,7 +1877,7 @@ CAST
 NOTES
 : Great clear capture with no blackouts and no washout. The overture is missing; the capture starts immediately before So Far Away. Some small heads can occasionally be seen, but they don\'t block the action. It\'s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, encore, and playbill scans. 2 DVDs A
 
-#### Beautiful: The Carole King Musical - Broadway - June 24, 2018 
+#### Beautiful - Broadway - June 24, 2018 
 {: .no_toc .d-inline-block }
 
 NYCG8R
@@ -1862,7 +1895,7 @@ CAST
 NOTES
 : A beautiful HD capture of Melissa Benoist\'s run in the show. She develiers a wonderful and beautiful performance as Carole and also has great vocals! The whole cast is spectacular and the show is still running strong for being on broadway for five years! Nice capture with filmed with a mix of wides, mediums and close-ups! Includes curtain call and encore. File quality/format varies across traders.
 
-#### Beautiful: The Carole King Musical - Broadway - October, 2019 
+#### Beautiful - Broadway - October, 2019 
 {: .no_toc .d-inline-block }
 
 StarCuffedJeans
