@@ -8,13 +8,17 @@ permalink: /films
 # Musical films
 {: .no_toc }
 
-<center>This page is more for my personal record than trading. If there's something you're <em>really</em> interested in feel free to reach out, but oterwise I'm not inclined to send these out for trades.</center>
+<center>This page is more for my personal record than trading. If there's something you're <em>really</em> interested in feel free to reach out, but oterwise I'm not inclined to send these out.</center>
+
+---
 
 <center><code>DC</code> <small>= Director's Cut</small></center>
 
 <center><code>EC</code> <small>= Extended Cut</small></center>
 
 <center><code>TC</code> <small>= Theatrical Cut</small></center>
+
+---
 
 #### 1776 (1972)
 {: .no_toc .d-inline-block }
