@@ -8658,6 +8658,21 @@ NOTES
 
 ## Moulin Rouge! The Musical
 
+#### Moulin Rouge! - Pre-Broadway / Boston - August, 2018
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Aaron Tveit (Christian), Karen Olivo (Satine), Danny Burstein (Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Tam Mutu (The Duke), Ricky Rojas (Santiago), Robyn Hurder (Nini), Jacqueline B Arnold (Le Chocolat), Holly James (Arabia), Jeigh Madjus (Babydoll)
+
+NOTES
+: Housecam with clear soundboard audio. A significant step up above the usual housecam quality and it really shows off the production values.
+
 #### Moulin Rouge! - Pre-Broadway / Boston - August 19, 2018 (Closing Night)
 {: .no_toc .d-inline-block }
 
