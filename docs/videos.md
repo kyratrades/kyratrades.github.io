@@ -15,7 +15,7 @@ permalink: /videos
 
 <p align="center"><small>I check every single video bootleg for missing files and glitches before listing them onto my site, and will list any issues. Do keep in mind there's still a chance I have missed or mislabelled something, in which case I will offer a replacement and update you when I find the correct copy.</small></p>
 
-<p align="center"><small>If you have a better copy than my existing one (higher generation, larger file size, original smalls etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
+<p align="center"><small>If you have a better copy than my existing one (lower generation, larger file size, original smalls etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
 
 <p align="center"><small>I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB). Feel free to ask for additional info (e.g. screenshots, files list).</small></p>
 
