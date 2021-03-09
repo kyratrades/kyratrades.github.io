@@ -6474,12 +6474,8 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
-Issues
-{: .label .label-red }
-
 FORMAT
-: VOB `NO SMALLS` `7 files`
-: DO NOT REQUEST
+: VOB+smalls `2 DVDs`
 
 CAST
 : Nick Jonas (J. Pierrepont Finch), Beau Bridges (J.B. Biggley), Rose Hemingway (Rosemary Pilkington), Tammy Blanchard (Hedy La Rue), Michael Urie (Bud Frump), Mary Faber (Smitty)
@@ -9445,14 +9441,8 @@ NOTES
 #### The Pajama Game - Broadway (2006 Revival) - February 18, 2006 (Preview)
 {: .no_toc .d-inline-block }
 
-Issues
-{: .label .label-red }
-
 FORMAT
 : VOB+smalls `1 DVD`
-
-ISSUES
-: Missing VTS_05_0.IFO (for the review) but everything else is there. Show can be played in full from the DVD menu.
 
 CAST
 : Kelli O’Hara (Catherine Babe Williams), Harry Connick Jr (Sid Sorokin), Michael McCormick (Vernon J. Hines), Paula Leggett Chase (Brenda), Joyce Chittick (Mae), Stephen Berger (Charlie), Megan Lawrence (Gladys Hotchkiss), Peter Benson (Prez), Michael McCormick (Ganzenlicker/Pop), Richard Poe (Mr. Hasler), Roz Ryan (Mabel Ellis), Bridget Berger (Virginia), Kate Chapman (Martha), Jennifer Cody (Poopsie), David Eggers (Lewie), Michael Halling (Cyrus), Bianca Marroquin (Carmen), Vince Pesce (Jake), Devin Richards (Joe), Jeffrey Schecter (Ralph), Debra Walton (Shirley)
