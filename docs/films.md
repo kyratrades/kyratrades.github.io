@@ -8,6 +8,8 @@ permalink: /films
 # Musical films
 {: .no_toc }
 
+<center>This page is more for my personal record than trading. If there's something you're <em>really</em> interested in feel free to reach out, but oterwise I'm not inclined to send these out for trades.</center>
+
 <center><code>DC</code> <small>= Director's Cut</small></center>
 
 <center><code>EC</code> <small>= Extended Cut</small></center>
@@ -177,3 +179,19 @@ CAST
 
 IMDB
 : <https://www.imdb.com/title/tt00000058385/>
+
+#### Moulin Rouge (2001)
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: MKV `1080p` `6.71 GB`
+: Includes 50th Anniv Blu-ray Extras
+
+CAST
+: Nicole Kidman, Ewan McGregor, John Leguizamo
+
+IMDB
+: <https://www.imdb.com/title/tt0203009/>
