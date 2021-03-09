@@ -12685,7 +12685,8 @@ NOTES
 
 ## Wicked
 
-<p align="center"><small>...to be added</small></p>
+<p align="center"><small>...to be added,<br>
+for now please check my <a href="https://kyratrades.wixsite.com/home/audios">old site</a>.</small></p>
 
 ## The Wild Party (Lippa)
 
