@@ -251,7 +251,7 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 NOTES
-: On the same DVD as the Anything GOes 'lost footage'
+: On the same DVD as the Anything Goes 'lost footage'
 
 ## Seth\'s Broadway Chatterbox
 
