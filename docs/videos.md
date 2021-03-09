@@ -32,7 +32,7 @@ permalink: /videos
 
 # \#
 
-<p align="center"><a href="https://kyratrades.github.io/videos#-juliet">&amp; Juliet</a> • <a href="https://kyratrades.github.io/videos#9-to-5-the-musical">9 to 5: The Musical</a> • <a href="https://kyratrades.github.io/videos#13">13</a> • <a href="https://kyratrades.github.io/videos#the-25th-annual-putnam-county-spelling-bee">The 25th Annual Putnam County Spelling Bee</a> • <a href="https://kyratrades.github.io/videos#42nd-street">42nd Street</a> • <a href="https://kyratrades.github.io/videos#110-in-the-shade">110 in the Shade</a> • <a href="https://kyratrades.github.io/videos#1776">1776</a> • <a href="https://kyratrades.github.io/videos#1984">1984</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#-juliet">&amp; Juliet</a> • <a href="https://kyratrades.github.io/videos#3-Musketeers">3 Musketeers</a> • <a href="https://kyratrades.github.io/videos#9-to-5-the-musical">9 to 5: The Musical</a> • <a href="https://kyratrades.github.io/videos#13">13</a> • <a href="https://kyratrades.github.io/videos#the-25th-annual-putnam-county-spelling-bee">The 25th Annual Putnam County Spelling Bee</a> • <a href="https://kyratrades.github.io/videos#42nd-street">42nd Street</a> • <a href="https://kyratrades.github.io/videos#110-in-the-shade">110 in the Shade</a> • <a href="https://kyratrades.github.io/videos#1776">1776</a> • <a href="https://kyratrades.github.io/videos#1984">1984</a></p>
 
 ## & Juliet
 
@@ -92,6 +92,23 @@ CAST
 
 NOTES
 : Lots of wide shots with some nice close-ups too. A good video for seeing the set and choreography. Grace has really grown into the role since her debut!
+
+## 3 Musketeers
+
+#### 3 Musketeers - Rotterdam, The Netherlands - 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.83 GB`
+
+CAST
+: Bastiaan Ragas (d'Artagnan), Pia Douwes (Milady), Henk Poort (Athos), Cees Geel (Porthos), Rein Kolpa (Aramis), Stanley Burleson (Cardinal Richelieu), Ellen Evers (Queen Anna), Tooske Breugem (Constance), Willemijn Verkaik, Joost de Jong
+
+NOTES
+: Multicamera Pro Shot
 
 ## 9 to 5: The Musical
 
@@ -2271,6 +2288,18 @@ CAST
 
 NOTES
 : Multi-cam pro-shot broadcast live to cinemas. Filmed on 28 September 2014 at the Victoria Palace Theatre in London's West End. Original livestream, letterboxed.
+
+#### Billy Elliot: The Musical - Netherlands - January, 2015
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Svenno van Kleij (Billy Elliot), Pia Douwes (Mrs. Wilkinson), Bas Heerkes (Dad), Carry Tefsen (Grandma), Reinier Demeijer (Tony), Michiel Deddens (Michael), Bas Grevelink (George), Loes Worm (Mum), Dennis Willekens (Mr. Braithwaite), Fleur Hogenboom (Debbie), Bo Burger (Small Boy)
+
+NOTES
+: Great recording of the Dutch production of Billy Elliot. Similar staging as on Broadway and the UK Tour.
 
 #### Billy Elliot - La Mirada, California - February 20, 2015 
 {: .no_toc .d-inline-block }
@@ -11209,7 +11238,7 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 COMMENTS
-: Disc 1 (Act 1) cannot be played from the DVD menu but the VOBs play fine on their own
+: Disc 1 (Act 1) closes out when attempting to skip around the video timeline; but the VOBs play fine on their own
 
 CAST
 : Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Christina Sajous (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Gaelen Gilliland (The Mayor), Brian Ray Norris (Eugene Krabs), Wesley Taylor (Sheldon Plankton), Catherine Ricafort (Karen the Computer), Jai\'len Christine Li Josey (Pearl Krabs), Kelvin Moon Loh (Perch Perkins), Brandon Espinoza (Patchy the Pirate), Allan K Washington (Gary/Larry the Lobster), Abby C Smith (Mrs. Puff), JC Schuster (Old Man Jenkins), Tom Kenny (French Narrator)
