@@ -456,6 +456,21 @@ FORMAT
 CAST
 : Lindiwe Dlamini, Bongi Duma, Tsidi Manye, Sbusiso Ngema, Whoopi Goldberg, Horace \"Junior\" Wedderburn, Rolando Morales-Matos, Michael James Scott, Lauryn Ciardullo, April Holloway, Nina LaFarga, Katie Terza, Kara Lindsay, Josh Strickland, Mandy Gonzalez, Kerry Butler, Merle Dandridge, Sherie Rene Scott, Adam Pascal, Andrew Barth Feldman, Adam Jacobs, Ashley Brown, Jelani Alladin, Bradley Gibson, Alton Fitzgerald White, Ramona Keller, Tamika Lawrence, Kissy Simmons, Rema Webb, Syndee Winters, Ashley Park, Gavin Creel, Sierra Boggess, Christian Borle, Norm Lewis, Susan Egan, Krysta Rodriguez, James Monroe Iglehart, Broadway Inspirational Voices
 
+#### Do You Hear the People Sing? - Indianapolis - October 7, 2011
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.47 GB`
+
+CAST
+: Stephanie J. Block, Terrence Mann, Lea Salonga, Peter Lockyer, Marie Zamora and Indianapolis Symphony Orchestra
+
+NOTES
+: A beautiful capture of this equally beautiful concert featuring the music of Boublil and Schonberg. Includes songs from Les Miserables, Miss Saigon, The Pirate Queen, Martin Guerre and La Revolution Francaise. This was a truely stunning concert with sensational performances and very well put together. Not only the solo performers shine, but the Orchestra and Choir are stunning! A
+
 #### Eden Espinosa - The Cutting Room - March 4, 2013
 {: .no_toc .d-inline-block }
 
