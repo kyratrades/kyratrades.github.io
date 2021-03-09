@@ -10,4 +10,4 @@ permalink: /audios
 
 <p align="center"><small>...to be added</small></p>
 
-<p align="center"><small>For now please check my <a href="https://kyratrades.wixsite.com/home/audios">old site</a></small></p>
+<p align="center"><small>For now please check my <a href="https://kyratrades.wixsite.com/home/audios">old site</a>.</small></p>
