@@ -1683,7 +1683,7 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 COMMENTS
-: Partially corrupted, but much higher quality than the commonly circulated copy
+: Partially corrupted, but higher quality than the commonly circulated copy
 
 CAST
 : Marc Kudisch (The Proprietor), Neil Patrick Harris (Balladeer/Lee Harvey Oswald), Michael Cerveris (John Wilkes Booth), Becky Ann Baker (Sara Jane Moore), Mary Catherine Garrison (Lynette \"Squeaky\" Fromme), Alexander Gemignani (John Hinckley, Jr.), Mario Cantone (Samuel Byck), Jeffrey Kuhn (Giuseppe Zangara), Anne L Nathan (Emma Goldman), James Barbour (Leon Czolgosz), Denis O\'Hare (Charles Guiteau)
