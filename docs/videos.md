@@ -7873,7 +7873,7 @@ NOTES
 
 # M
 
-<p align="center"><a href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> • <a href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> • <a href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/videos#mame">Mame</a> • <a href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/videos#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/videos#master-class">Master Class</a> • <a href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> • <a href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/videos#the-merchant-of-venice">The Merchant of Venice</a> • <a href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> • <a href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> • <a href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> • <a href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/videos#mame">Mame</a> • <a href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/videos#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/videos#master-class">Master Class</a> • <a href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> • <a href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/videos#the-merchant-of-venice">The Merchant of Venice</a> • <a href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> • <a href="https://kyratrades.github.io/videos#murder-ballad">Murder Ballad</a> • <a href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
 
 ## Mac Beth
 
@@ -8774,6 +8774,23 @@ CAST
 NOTES
 : Aired on PBS Great Performances on November 22, 2019.
 
+## Murder Ballad
+
+#### Murder Ballad - Off-Broadway - July 13, 2013
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Caissie Levy (Sara), Jim Newman (u/s Tom), Rebecca Naomi Jones (Narrator), John Ellison Conlee (Michael)
+
+NOTES
+: Excellent HD capture; performed in the round in a bar setting, so the action takes place all over the theater.
+
 ## My Fair Lady
 
 #### My Fair Lady - UK Tour (2005) - October 12, 2005
@@ -9434,7 +9451,7 @@ NOTES
 
 # P
 
-<p align="center"><a href="https://kyratrades.github.io/videos#The-Pajama-Game">The Pajama Game</a> • <a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-pajama-game">The Pajama Game</a> • <a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
 
 ## The Pajama Game
 
