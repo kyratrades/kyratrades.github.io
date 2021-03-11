@@ -10139,6 +10139,36 @@ FORMAT
 CAST
 : Yoshiki Yamamoto (Erik) & Sort Cast
 
+#### Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+Disc 2 of 4
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Yusuke Hayashi (Erik) & Destin Cast
+ 
+#### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2012
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+Disc 3 of 4
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Hiroo Kasahara (Erik), Hirokazu Sekido (Christine) & Avenir Cast
+
 #### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2012
 {: .no_toc .d-inline-block }
 
@@ -10153,6 +10183,54 @@ FORMAT
 
 CAST
 : Yoshiki Yamamoto (Erik), Shinya Matsumoto (Christine) & Espoir Cast
+
+#### Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Auber Cast
+ 
+#### Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Gluck Cast
+
+#### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Halevy Cast
+ 
+#### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Scribe Cast
 
 ## Pipe Dream
 
