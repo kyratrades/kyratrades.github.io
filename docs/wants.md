@@ -13,7 +13,7 @@ permalink: /wants
 I'm looking for the original smalls of these items and I'm willing to trade for them according to your ratio:
 
 - Hamilton - Broadway - June 19, 2016 | SJ BERNLY | 2 DVDs
-    I’m missing specifically VTS_01_0.VOB of Disc 2
+ I’m missing specifically VTS_01_0.VOB of Disc 2
 
 ## File upgrades
 
