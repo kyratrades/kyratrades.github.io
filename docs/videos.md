@@ -1443,10 +1443,10 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: VOB+smalls `2 DVDs` `NO DVD menu`
 
 COMMENTS
-: NO DVD menu; Quite shaky but good sound
+: Quite shaky but good sound
 
 CAST
 : Rachel York (Reno Sweeney), Erich Bergen (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin), Edward Staudenmayer (Lord Evelyn Oakleigh), Sandra Shipley (Mrs. Evangeline Harcourt), Dennis Kelly (Elisha J. Whitney), Joyce Chittick (Erma)
@@ -2349,6 +2349,9 @@ NOTES
 
 #### Bloody Bloody Andrew Jackson - Broadway - October 31, 2010
 {: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4943,6 +4946,9 @@ Issues
 FORMAT
 : VOB+smalls `1 DVD`
 
+COMMENTS
+: Wrong aspect ratio. Stretch to 16:9 when watching.
+
 CAST
 : Elena Roger (Eva Perón), Maya Jade Frank (Young Eva), Ricky Martin (Che), Michael Cerveris (Perón), Max von Essen (Magaldi), Rachel Potter (Perón\'s Mistress)
 
@@ -7204,10 +7210,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls `1 DVD` `4.00 GB`
-
-COMMENTS
-: Suspected non-original smalls. No DVD menu.
+: VOB+smalls `1 DVD` `NO DVD menu` `4.00 GB`
 
 CAST
 : Bailey Hanks (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Amber Efé (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Ven Daniel (Kyle/Grandmaster Chad/Dewey), Lucia Spina (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Autumn Hurlbert (Leilani)
@@ -7246,6 +7249,9 @@ CAST
 
 SunsetBlvd79
 {: .label .label-blue }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls `No DVD menu` `1 DVD` `2.80 GB`
@@ -9757,6 +9763,9 @@ CAST
 #### The Phantom of the Opera - Broadway - May 20, 2003
 {: .no_toc .d-inline-block }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : VOB `NO SMALLS` `COMPLETE RECORDING`
 
@@ -11686,6 +11695,9 @@ NOTES
 #### Sunset Boulevard - Los Angeles - June 17, 1994
 {: .no_toc .d-inline-block }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : VOB `NO SMALLS` `4.32 GB`
 
@@ -11998,6 +12010,9 @@ NOTES
 
 #### Three Days of Rain - Broadway - May 31, 2006
 {: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB `NO SMALLS` `1 DVD`
@@ -12917,6 +12932,9 @@ NOTES
 
 SunsetBlvd79
 {: .label .label-blue }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
