@@ -94,7 +94,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) `Disc 1 (Act 1) closes out when attempting to skip around the video timeline`
 
-I have a DVD recorder copy for these, looking for the original (first generation) files:
+I have a DVD recorder / re-encoded copy for these, looking for the original (first generation) files:
 
 - Aida - Broadway - March 29, 2000 (Matinee) \| Major
 
@@ -120,6 +120,16 @@ I have a DVD recorder copy for these, looking for the original (first generation
 
 - Thoroughly Modern Millie - Broadway - April 13, 2002 (Preview)
 
+- Wicked - Chicago - August 5, 2006 \| SunsetBlvd79
+
+- Wicked - First National Tour (Emerald City) - March 6, 2007 \| SunsetBlvd79
+
+- Wicked - West End - October 18, 2007 \| SunsetBlvd79
+
+- Wicked - Los Angeles - April 23, 2008 \| SunsetBlvd79
+
+- Wicked - Los Angeles - April 24, 2008 \| SunsetBlvd79
+
 ### Audios
 
 <p align="center"><small>...to be added</small></p>
@@ -135,3 +145,25 @@ I have a DVD recorder copy for these, looking for the original (first generation
     - May 30, 1999 (Highlights)
 
 - Jawbreaker The Musical - Concert Reading - July 30, 2010
+
+- The Best is Yet to Come: The Music of Cy Coleman - Off-Broadway - May 28, 2011
+
+- Sunset Boulevard - West End - July, 1993 (Preview) (House-Cam) `higher quality MP4 version with no graininess and clear footage`
+
+- Elaine Stritch: At Liberty - Broadway - April 10, 2002
+
+- Beautiful: The Carole King Musical - Broadway - April 9, 2014 (SunsetBlvd79's master)  `2 DVD`
+
+- Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013
+
+- The Color Purple - Broadway Revival - December 28, 2015
+
+- Chicago - West End Revival - June 13, 2001
+
+### Audio
+
+- My Fair Lady - BBC Radio 2 Broadcast - December 23, 1995
+
+- Any audios of Patti LuPone on The Baker's Wife
+
+- Network - National Theatre - November 9, 2017 (Preview)
