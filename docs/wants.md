@@ -8,6 +8,17 @@ permalink: /wants
 # Wants
 {: .no_toc }
 
+<details close markdown="block">
+  <summary>
+    Expand for show titles
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+
 ## Smalls
 
 I'm looking for the original smalls of these items and I'm willing to trade for them according to your ratio:
@@ -55,6 +66,8 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 - Three Days of Rain - Broadway - May 31, 2006
 
 - Wonderland - Broadway - April 2, 2011 (Preview) \| SunsetBlvd79
+
+---
 
 ## File upgrades
 
@@ -134,7 +147,11 @@ I have a DVD recorder / re-encoded copy for these, looking for the original (fir
 
 <p align="center"><small>...to be added</small></p>
 
+---
+
 ## Specific wants
+
+### Videos
 
 - Camelot - National Tour (Chicago) - June 7, 2007
 
@@ -160,7 +177,7 @@ I have a DVD recorder / re-encoded copy for these, looking for the original (fir
 
 - Chicago - West End Revival - June 13, 2001
 
-### Audio
+### Audios
 
 - My Fair Lady - BBC Radio 2 Broadcast - December 23, 1995
 
