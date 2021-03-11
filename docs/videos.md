@@ -8654,6 +8654,18 @@ NOTES
 
 ## Moulin Rouge! The Musical
 
+#### Moulin Rouge! - Pre-Broadway / Boston - July 13, 2018 (Preview) (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MOV `1080p` `5 files` `1.03 GB`
+
+CAST
+: Aaron Tveit (Christian), Karen Olivo (Satine), Danny Burstein (Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Tam Mutu (The Duke), Robyn Hurder (Nini)
+
+NOTES
+: Highlights totaling about 14 minutes. Includes clips of Bad Romance, Come What May, Chandelier, Rollin' in the Deep, and the Finale/Bows. Camera often wanders to the ceiling and doesn't capture the stage. Many heads in the way and a lot of spotlight washout. The finale is really the only good clip.
+
 #### Moulin Rouge! - Pre-Broadway / Boston - August, 2018
 {: .no_toc .d-inline-block }
 
