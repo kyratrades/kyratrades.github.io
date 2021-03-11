@@ -64,8 +64,6 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - The Addams Family - First National Tour - October 18, 2011 \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
-- Aida - Broadway - March 29, 2000 (Matinee) \| Major
-
 - Annie Get Your Gun - US Tour - 1993 \| House-Cam `missing last VOB`
 
 - A Christmas Story - Broadway - November 7, 2012 \| SunsetBlvd79 `Disc 2 glitches at 15:43`
@@ -95,6 +93,32 @@ I'm looking for the original files released by the master for these items. I'm e
 - Spider-Man: Turn Off The Dark - Broadway - October 14, 2012 `doesn't work when loaded into VLC as a DVD`
 
 - SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) `Disc 1 (Act 1) closes out when attempting to skip around the video timeline`
+
+I have a DVD recorder copy for these, looking for the original (first generation) files:
+
+- Aida - Broadway - March 29, 2000 (Matinee) \| Major
+
+- Alice at the Palace - Broadway - July, 1981
+
+- Anything Goes - First Broadway Revival - 1988
+
+- Beauty and the Beast (Disney) - UK Tour - 2003
+
+- Evita - Village Players, Toledo Ohio - 1991
+
+- Lennon - Broadway - August 21, 2005
+
+- A Little Night Music - North Shore Music Theatre, Beverly MA - September, 2000
+
+- Little Shop of Horrors - Pre-Broadway - June 5, 2003
+
+- Les Misérables - Broadway - May 18, 2003 (Closing Night) (Highlights)
+
+- Les Misérables - Walnut Street Theatre, Philadelphia, PA - May 17, 2008 (Matinee)
+
+- The Story of My Life - Broadway - February 11, 2009 (Preview)
+
+- Thoroughly Modern Millie - Broadway - April 13, 2002 (Preview)
 
 ### Audios
 
