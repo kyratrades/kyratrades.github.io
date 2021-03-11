@@ -8,6 +8,8 @@ permalink: /wants
 # Wants
 {: .no_toc }
 
+### Quick links
+
 <p align="center"><a href="https://kyratrades.github.io/wants#smalls">Smalls</a> • <a href="https://kyratrades.github.io/wants#file-upgrades">File upgrades</a> • <a href="https://kyratrades.github.io/wants#specific-wants">Specific wants</a></p>
 
 ---
