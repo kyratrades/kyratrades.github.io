@@ -8,14 +8,7 @@ permalink: /wants
 # Wants
 {: .no_toc }
 
-<details close markdown="block">
-  <summary>
-    Expand for show titles
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+<p align="center"><a href="https://kyratrades.github.io/wants#smalls">Smalls</a> • <a href="https://kyratrades.github.io/wants#file-upgrades">File upgrades</a> • <a href="https://kyratrades.github.io/wants#specific-wants">Specific wants</a></p>
 
 ---
 
