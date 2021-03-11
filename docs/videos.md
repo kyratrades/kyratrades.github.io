@@ -643,7 +643,7 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 ISSUES
-: \[<a href="https://imgur.com/a/O5iVf3L">Screen Recording</a>\]My copy is 4 VOB, 4.00 GB. VTS_01_3.VOB is faulty such that I cannot play Act 1 in full and cannot play Act 2 at all from the DVD menu. I would love to trade for a functonal copyy!
+: \[<a href="https://imgur.com/a/O5iVf3L">Screen Recording</a>\] My copy is 4 VOB, 4.00 GB. VTS_01_3.VOB is faulty such that I cannot play Act 1 in full and cannot play Act 2 at all from the DVD menu. I would love to trade for a functonal copyy!
  
 CAST
 : Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Crista Moore (Alice Beineke), Martin Vidnovic (Mal Beineke), Brian Justin Crum (Lucas Beineke)
@@ -779,7 +779,7 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 COMMENTS
-: DVD recorder copy; Would trade for original files
+: Recording of another DVD; Would trade for original files
 
 CAST
 : Heather Headley (Aida), Adam Pascal (Radames), Sherie Rene Scott (Amneris), John Hickok (Zoser), Schele Williams (Nehebka), Damian Perkins (Mereb)
@@ -912,7 +912,7 @@ FORMAT
 : VOB+smalls `1 DVD` `2.79 GB`
 
 COMMENTS
-: A recording of another DVD. Would trade for the original commercial DVD.
+: Recording of another DVD; Would trade for the original commercial DVD.
 
 CAST
 : Meryl Streep (Alice), Debbie Allen (Red Queen)
@@ -1352,7 +1352,7 @@ FORMAT
 : VOB+smalls `1 DVD` `1.74 GB`
 
 COMMENTS
-: Seems to be a recording of another DVD. PLEASE tell me if you have a better copy.
+: Recording of another DVD. PLEASE tell me if you have a better copy.
 
 CAST
 : Patti LuPone (Reno Sweeney), Howard McGillin (Billy Crocker), Kathleen Mahoney-Bennett (Hope Harcourt), Bill McCutcheon (Moonface Martin), Anthony Heald (Lord Evelyn Oakleigh), Rex Everhart (Elisha J. Whitney), Linda Hart (Erma)
@@ -7269,7 +7269,7 @@ FORMAT
 : VOB+smalls `1 DVD` `3.69 GB`
 
 COMMENTS
-: This is merely the recording of another DVD, please tell me if you have the original!
+: Recording of another DVD, please tell me if you have the original!
 
 CAST
 : Will Chase (John), Chad Kimball, Chuck Cooper, Julia Murney, Julie Danao, Mandy Gonzalez, Marcy Harriell, Michael Potts, Terrence Mann
@@ -7483,7 +7483,7 @@ FORMAT
 : VOB+smalls `1 DVD` `4.26 GB`
 
 COMMENTS
-: A recording of another DVD. Do tell me if you have a better copy.
+: Recording of another DVD. Do tell me if you have a better copy.
 
 CAST
 : Donna McKechnie, Jeff McCarthy, Merle Louise, Angela Gaylor, Adam Monley, Chuck Wagner, Diana Canova, Natasha Ashworth, Julia Haubner, Jeremy Holm, Sharon Richards, Curtis Olds, Joy Hermalyn, Susan Derry, Michael Hailing
@@ -7605,7 +7605,7 @@ FORMAT
 : VOB+smalls `1 DVD` `4.01 GB`
 
 COMMENTS
-: Seems to be a recording of another DVD. PLEASE tell me if you have a better copy.
+: Recording of another DVD. PLEASE tell me if you have a better copy.
 
 CAST
 : Hunter Foster (Seymour), Alice Ripley (Audrey), Lee Wilkof (Mushnik), Reg Rogers (Orin), Billy Porter (Audrey II), Dioni Michelle Collins (Crystal), Haneefah Wood (Ronnette), Moeisha McGill (Chiffon)
@@ -8486,7 +8486,7 @@ FORMAT
 : VOB+smalls `1 DVD` `2.79 GB`
 
 COMMENTS
-: Seems to be a recording of another DVD. PLEASE tell me if you have a better copy.
+: Recording of another DVD. PLEASE tell me if you have a better copy.
 
 CAST
 : Hugh Panaro (Jean Valjean), Paul Schoeffler (Javert), Jessica Bogart (Fantine), Julie Craig (Cosette), Josh Young (Marius), Christina DeCicco (Éponine), Jeffrey Coon (Enjolras), Scott Greer (Thénardier), Dawn Spence (Madame Thénardier), Dante Mignucci (Gavroche), Laurel Gwynne Yaros (Little Cosette), Maggie Fitzgerald (Young Éponine), Peter Schmitz (The Bishop), Fran Prisco (Grantaire), Ben Dibble (Combeferre), Steve Pacek (Jean Prouvaire), Constantine Germanacos (Factory Foreman), Denise Whelan (Factory Girl), Mary Martello (Crone)
