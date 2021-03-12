@@ -44,7 +44,11 @@ ___
 
 - The Addams Family
 
+- City of Angels
+
 ### Masters
+
+- Any Pro-Shot and House-Cam
 
 - SJ Bernly
 
