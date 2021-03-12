@@ -276,6 +276,25 @@ NOTES
 
 ## Stephanie J. Block
 
+### Videos
+
+#### xoxoXmas - Birdland Jazz - November 30, 2009
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Christmas concert with some classic tunes and some songs specially written for Stephanie.
+
+### Audios
+
+#### Birdland Jazz (New York) - June 27, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP3 `26 tracks`
+
 #### Birdland Jazz (New York) - July 8, 2013
 {: .no_toc .d-inline-block }
 
@@ -564,6 +583,9 @@ NOTES
 #### Simply Sondheim - Signature Theatre - 2021
 {: .no_toc .d-inline-block }
 
+Pro-Shot
+{: .label .label-green }
+
 FORMAT
 : MP4 `1080p` `English (.srt)`
 
@@ -573,6 +595,50 @@ CAST
 NOTES
 : Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
 : Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
+
+#### Standing Ovations I - New York City - May 23, 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Stephanie J. Block, Felicia Finley, Alison Fraser, Cheyenne Jackson, Erin Leigh Peck, Kate Shindle, Laura Bell Bundy, Matt Cavanaugh, Susan Egan, Max von Essen, Andrea McArdle, Mandy Gonzalez
+
+#### Tom Kitt & Friends - Joe's Pub - October 6, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Tom Kitt with Kelli O'Hara, Aaron Tveit, Alice Ripley, Amy Spanger, Gavin Creel, Billy Porter, Amanda Green, Jenn Colella, Julia Murney and Brooks Ashmanskas
+
+NOTES
+: Shot in 16:9 widescreen. The first song was filmed a bit too dark (forgot to change settings), and the second song is audio-only (I don't remember why), but the rest of the concert video is intact. The video is steady with close zooms. No obstructions on main performers, but off-stage singers in a couple of the group numbers could not be filmed. Great music written by Tom Kitt (including songs from Next To Normal and High Fidelity), performed by some of the greatest talents on Broadway. (My personal favorite is Julia Murney's "Perfect".)
+
+#### Vox Femina Presents: Sing-ular Sensations with Rachel York - Los Angeles - November 8, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP3 `34 tracks`
+
+GUEST
+: Rachel York
+
+VOX FEMINA SOPRANOS: Michele Botz, Suzy Brown, Catherine Card, Alyssa Cossey, Allie Fukushima, Janet Joe, JoAnne Johnston, Judith Martin, Teri Masters, Carolyn McLaurine, Toni Pogue, Mary Read, Jeni Rodrigues, Lauren Schellenbach, Amanda Thomason, Margaret P. Wood
+
+VOX FEMINA ALTOS
+: Lisa Bell, Donna Burroughs, Fances Chee, Jennifer Cheng, Evi Desser, Laurie Fox, Carol Lisek, Anna Lysak, Helen R. Mendoza, Jan Miller, Brenda Moore, Consuelo Moreno, Carly Munson, Marcela Pan, Brooke Randolph, Cris Scaglione, Carol Ann Scherfenberg, Nancy Timmons, Debi Tinsley
 
 #### West End Does: Acoustic - London - February 23, 2020
 {: .no_toc .d-inline-block }
