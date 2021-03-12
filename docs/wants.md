@@ -136,8 +136,6 @@ I have a DVD recorder / re-encoded copy for these, looking for the original (fir
 
 - Wicked - Los Angeles - April 23, 2008 \| SunsetBlvd79
 
-- Wicked - Los Angeles - April 24, 2008 \| SunsetBlvd79
-
 ### Audios
 
 <p align="center"><small>...to be added</small></p>
