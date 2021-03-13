@@ -46,23 +46,13 @@ ___
 
 - City of Angels
 
-### Masters
+- Chicago
+
+### Others
 
 - Any Pro-Shot and House-Cam
 
-- SJ Bernly
-
-- juniper47
-
-- StarCuffedJeans
-
-- Lanelle
-
-- cityofemeraldtrading
-
-- hitmewithyourbethshot
-
-- queenofthedead
+- Any Encores! videos
 
 ---
 
