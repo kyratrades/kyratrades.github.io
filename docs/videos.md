@@ -12989,7 +12989,7 @@ CAST
 NOTES
 : Around an hour of highlights
 
-For Wicked Broadway, from here onwards I'm pretty certain the files are the original release unless otherwise stated.
+<p align="center"><small>For Wicked Broadway, from here onwards I'm pretty certain the files are the original release unless otherwise stated.</small></p>
 
 #### Wicked - Broadway - May 28, 2006
 {: .no_toc .d-inline-block }
