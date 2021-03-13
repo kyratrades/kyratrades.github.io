@@ -10,13 +10,11 @@ permalink: /
 
 ### No. of items listed:
 
-<center>Videos: 866</center>
-
-<center><small>(excluding Wicked)</small></center>
+<center>Videos: 1005</center>
 
 <center>Audios: /</center>
 
-<center>Concerts: 44</center>
+<center>Concerts: 51</center>
 
 <center>Opera: 8</center>
 
