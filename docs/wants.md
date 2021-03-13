@@ -112,6 +112,14 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 
 - Three Days of Rain - Broadway - May 31, 2006
 
+- Wicked - Broadway - October 7, 2007 \| SunsetBlvd79
+
+- Wicked - Broadway - January 13, 2009 \| SunsetBlvd79
+
+- Wicked - Stuttgart - May 1, 2009
+
+- Wicked - International Tour - April 15, 2017
+
 - Wonderland - Broadway - April 2, 2011 (Preview) \| SunsetBlvd79
 
 ---
@@ -154,6 +162,16 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) `Disc 1 (Act 1) closes out when attempting to skip around the video timeline`
 
+- Wicked - Broadway - October 14, 2006 \| SunsetBlvd79 `Stops working somewhere after 1:10:00`
+
+- Wicked - Broadway - July 3, 2007 `just doesn't work at all`
+
+- Wicked - Broadway - March 13, 2008 \| juniper47 `cannot load video from DVD mneu`
+
+- Wicked - First National Tour (Emerald City) - December 12, 2007 \| SunsetBlvd79 `faulty VTS_01_3.VOB`
+
+- Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee) \| SunsetBlvd79 `faulty VTS_01_3.VOB`
+
 I have a DVD recorder / re-encoded copy for these, looking for the original (first generation) files:
 
 - Aida - Broadway - March 29, 2000 (Matinee) \| Major
@@ -180,13 +198,35 @@ I have a DVD recorder / re-encoded copy for these, looking for the original (fir
 
 - Thoroughly Modern Millie - Broadway - April 13, 2002 (Preview)
 
-- Wicked - Chicago - August 5, 2006 \| SunsetBlvd79
+- Wicked - Broadway - January 9, 2005 \| [original DVD menu](https://imgur.com/a/pZJm4fw)
 
-- Wicked - First National Tour (Emerald City) - March 6, 2007 \| SunsetBlvd79
+- Wicked - Broadway - July 24, 2005
 
-- Wicked - West End - October 18, 2007 \| SunsetBlvd79
+- Wicked - Broadway - January 8, 2006 \| [original DVD menu](https://imgur.com/a/Ub9Swlz)
+
+- Wicked - Broadway - January 29, 2006 (Matinee) \| [original DVD menu](https://imgur.com/a/xVGisR0)
+
+- Wicked - Broadway - April 12, 2006 (Highlights) \| [original DVD menu](https://imgur.com/a/ApcGQUy)
+
+- Wicked - Broadway - July 2, 2007 \| SunsetBlvd79 `should have the polaroid menu`
+
+- Wicked - Chicago - August 5, 2006 \| SunsetBlvd79 `should have the polaroid menu`
+
+- Wicked - First National Tour (Emerald City) - May 8, 2005 \| SunsetBlvd79
+
+- Wicked - First National Tour (Emerald City) - March 6, 2007 \| SunsetBlvd79 `should have the polaroid menu`
+
+- Wicked - First National Tour (Emerald City) - December 12, 2007 \| SunsetBlvd79 `should have the polaroid menu`
+
+- Wicked - West End - October 31, 2006 \| SunsetBlvd79 `should have the polaroid menu`
+
+- Wicked - West End - October 18, 2007 \| SunsetBlvd79 `should have the polaroid menu`
+
+- Wicked - Los Angeles - August 9, 2008 \| SunsetBlvd79
 
 - Wicked - Los Angeles - April 23, 2008 \| SunsetBlvd79
+
+- Wicked - Los Angeles - August 9, 2008 \| SunsetBlvd79
 
 ### Audios
 
