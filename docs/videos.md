@@ -691,7 +691,16 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 CAST
-: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke) 
+: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
+
+#### The Addams Family - Merzig, Germany - August 23, 2014 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
 
 #### The Addams Family - Bremen, Germany - November 30, 2014
 {: .no_toc .d-inline-block }
@@ -1982,6 +1991,21 @@ CAST
 
 NOTES
 : Beautiful HD capture of the show, filmed from the orchestra before closing. The video starts when Carole mentions being from Brooklyn. Act Two starts part of the way through "Chains." Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
+
+#### Beautiful - Second UK Tour - February, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS `14.54 GB`
+
+CAST
+: Vicki Manser (alt Carole King), Adam Gillian (Gerry Goffin), Laura Baldwin (Cynthia Weil), Cameron Sharp (Barry Mann), Oliver Boot (Don Kirshner), Susie Fenwick (Genie Klein), Carly Cook (Marilyn Wald), Katrina May (Janelle Woods/Shirelle), Mica Townsend (Little Eva/Shirelle), Julia Dray (s/w Betty), Grant McConey (Nick/Righteous Brother), Jordan Fox (Neil Sedaka/Righteous Brother/Lou Adler), Louise Francis (Lucille/Shirelle)
+
+NOTES
+: This video is never to be publicly shared on YouTube, Tumblr, Facebook, Stage Dork, etc.
 
 ## Beautiful Thing
 
@@ -4347,6 +4371,21 @@ CAST
 
 NOTES
 : Filmed live on stage at the Ethel Barrymore Theatre (New York, NY) and distributed commercially.
+
+#### Company - Plays in the Park NJ - June, 2009
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.08 GB`
+
+CAST
+: Danny Arnold, Holly Curran, Christina Ryan, Erica Cenci, Alison Byrne, George A.Williams, Maddie Orton, Matthew Curtis, Judi Laganga, Jay Lowman, Sandy Taylor, Frank Norek, Lisa Van Doren, Todd Michaels
+
+NOTES
+: Pro-shot video; very nice Danny Arnold, Holly Curran, Christina Ryan, Erica Cenci, Alison Byrne, George A.Williams, Maddie Orton, Matthew Curtis, Judi Laganga, Jay Lowman, Sandy Taylor, Frank Norek, Lisa Van Doren, Todd Michaels
 
 #### Company - New York Philharmonic Concert - April, 2011
 {: .no_toc .d-inline-block }
@@ -9139,6 +9178,21 @@ CAST
 NOTES
 : Kendra Kassebaum was such a phenomenal Diana - her acting was out of this world! Shot in 16:9 widescreen, a tad dark in some low-light scenes, but no obstructions at all. One brief blackout for the first minute of \"Why Stay?\" when a battery change was necessary. But also included (at the end of the DVD) is a clip of \"Why Stay?\" shot in its entirety from 2 days prior to make up for that. Quick drop-outs for applause. Also, the angle where my seat was weird, so there\'s slight tilt in the video. Audio fed in from external source, so the audio is nice and clear.
 
+#### Next to Normal - Fürth, Germany - November 2, 2013
+{: .no_toc .d-inline-block }
+
+musicalwasmyfirstlove
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+ 
+CAST
+: Pia Douwes (Diana), Thomas Borchert (Dan), Dirk Johnston (Gabe), Sabrina Weckerlin (Natalie), Dominik Hees (Henry), Ramin Dustdar (Dr. Fine/Dr. Madden)
+
+NOTES
+: Missing the first 10 minutes of Act 2 ("Wish I Were Here" / "Wär ich nur da") A great quality recording of the German version of "Next to Normal" retitled "Fast Normal" (Almost Normal). The cast is wondeful and got a standing ovation that lasted a couple of minutes.
+
 #### Next to Normal - TheaterWorks Hartford - 2017
 {: .no_toc .d-inline-block }
 
@@ -9153,6 +9207,18 @@ CAST
 
 NOTES
 : Beautiful multicam proshot archive for theatre. Rebroadcast in 2020 during quarantine, introduction and watermark at bottom of screen. Really, a very nice, beautiful video.
+
+#### Next to Normal - Dresden, Germany - April, 2017
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Pia Douwes (Diana), Felix Martin (Dan), Dirk Johnston (Gabe), Sabrina Weckerlin (Natalie), Dominik Hees (Henry), Ramin Dustdar (Dr. Fine/Dr. Madden) 
 
 #### Next to Normal - Syracuse, NY - February, 2018
 {: .no_toc .d-inline-block }
@@ -10569,6 +10635,21 @@ CAST
 NOTES
 : Excellent capture! Josh mistakenly mentions Alyssa in \'Tonight Belongs to You\' despite not being meant to know her name at this point. The last three minutes of the show are from a different performance, during previews, with Brooks Ashmanskas as Barry and Josh Lamon as Sheldon, but it is a full video in total.
 
+#### The Prom - Broadway - March, 2019
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `9.95 GB`
+
+CAST
+: Gabi Campo (u/s Emma Nolan), Brooks Ashmanskas (Barry Glickman), Isabelle McCalla (Alyssa Greene), Beth Leavel (Dee Dee Allen), Christopher Sieber (Trent Oliver), Michael Potts (Mr. Hawkins), Angie Schworer (Angie), Courtenay Collins (Mrs. Greene), David Josefsberg (u/s Sheldon Saperstein), Becca Lee (Kaylee), Susie Carroll (s/w Shelby), Teddy Toye (Nick), Drew Redington (Kevin), Courtney Balan (Olivia Keating)
+
+NOTES
+: This video starts at "Dance With You" and is super focused on Gabi. There are less heads in this than most of my videos and a railing that gets in the way occasionally, but they were mostly worked around. The cast as a whole is doing top notch work, though at times you can tell that Brooks and Izzy are just back from being sick. Overall this is a really great video of one of my favorite shows, and I'm really proud of myself for containing my crying at the end of act one.
+
 ## Promises, Promises
 
 #### Promises, Promises - Broadway Revival - April 1, 2010
@@ -11740,6 +11821,21 @@ CAST
 NOTES
 : Pro-Shot video. Performed in open air theatre at night.
 
+#### Sunset Boulevard - Dortmund, Germany - December, 2016
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Pia Douwes (Norma Desmond), Oliver Arno (Joe Gillis), Hannes Brock (Max von Mayerling), Wietske van Tongeren (Betty Schaeffer), Morgan Moody (Artie Green), Hans Werner Bramer (Cecil B. DeMille), Daniel Berger (Sheldrake)
+
+NOTES
+: Dortmund, Germany. Unique staging of Sunset Boulevard, filmed in 16:9.
+
 #### Sunset Boulevard - UK Tour - April 8, 2018
 {: .no_toc .d-inline-block }
 
@@ -12466,6 +12562,20 @@ CAST
 
 NOTES
 : Act two only, recorded vertically from a box with obstructed view of the stage. Very steady camera, excellent audio quality, and pretty good video!
+
+#### Waitress - Broadway - September, 2018
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST: Nicolette Robinson (Jenna), NaTasha Yvette Williams (Becky), Katie Lowes (Dawn), Drew Gehling (Dr. Pomatter), Adam Shapiro (Ogie), Benny Elledge (Cal), Bill Nolte (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Mariam Bedigian (Lulu), Molly Jobe (t/r Francine Pomatter), Molly Hager (Mother), Matt DeAngelis (Father)
+
+NOTES
+: Incredible capture of Nicolette's first few days in the role, and the first known video of Adam and Katie. The action is very well followed, filmed from the same seats as the May, 2018 video. The quality is gorgeous, and the closeups are beautiful.
 
 #### Waitress - Broadway - January, 2019 
 {: .no_toc .d-inline-block }
