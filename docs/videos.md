@@ -6543,7 +6543,7 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 COMMENTS
-: Act 1 VTS_01_3.VOB has a glitch; Would trade for a good copy
+: Act 1 VTS_01_3.VOB has a glitch at 1:45 (38:11 when playing the DVD); Would trade for a good copy
 
 CAST
 : Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), Lucas Coleman (Jehan Frollo), William Michals (Father Dupin), Samantha Massell (Florika), Ian Patrick Gibb (Lt. Frederic Charlus), Richard Ruiz (King Louis XI), Beth Kirkpatrick (Madam)
