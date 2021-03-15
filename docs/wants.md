@@ -80,6 +80,10 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 
 - Cinderella (Rodgers & Hammerstein) - First National Tour - December 21, 2014
 
+- Earth Girls Are Easy - Reading - September 30, 2002
+
+- Evita - Netherlands - May 22, 1996 \| Pro-Shot `VLC crashes when attempting to load this`
+
 - Grease - Manila, Philippines - August 15, 1995
 
 - Hamilton - Broadway - June 19, 2016 \| SJ Bernly \| 2 DVDs `missing VTS_01_0.VOB of Disc 2`
@@ -142,11 +146,13 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - The Phantom of the Opera - Broadway - April, 1988 `cannot load from the DVD menu AND missing the last VOB`
 
-- The Phantom of the Opera - Broadway - October 7, 2003`cannot load from the DVD menu`
+- The Phantom of the Opera - Broadway - October 7, 2003 `cannot load from the DVD menu`
 
 - The Phantom of the Opera - Third National Tour - January 5, 2006 `VLC stops responding whenever attempting to load the folder`
 
 - The Pirate Queen - Broadway - March 24, 2007 (Preview) `missing VTS_06_1.VOB and VTS_07_1.VOB`
+
+- Something Rotten! - Broadway - June 20, 2016 \| SJ Bernly `looking for the original 2 DVD release`
 
 - Spider-Man: Turn Off The Dark - Broadway - October 14, 2012 `doesn't work when loaded into VLC as a DVD`
 
@@ -162,7 +168,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee) \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
-I have a DVD recorder / re-encoded copy for these, looking for the original (first generation) files:
+#### I have a DVD recorder / re-encoded copy for these, looking for the original (first generation) files:
 
 - Aida - Broadway - March 29, 2000 (Matinee) \| Major
 
@@ -187,6 +193,8 @@ I have a DVD recorder / re-encoded copy for these, looking for the original (fir
 - The Story of My Life - Broadway - February 11, 2009 (Preview)
 
 - Thoroughly Modern Millie - Broadway - April 13, 2002 (Preview)
+
+- The Wedding Singer - Broadway - April 1, 2006 (Preview) \| SunsetBlvd79
 
 - Wicked - Broadway - January 9, 2005 \| [original DVD menu](https://imgur.com/a/pZJm4fw)
 
