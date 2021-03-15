@@ -8,16 +8,37 @@ permalink: /concerts
 # Concerts
 {: .no_toc }
 
-<center><small>Note: Shows in concerts are listed under their respective titles. This page is reserved for other special events. Includes both Videos and Audios.</small></center>
+<center><small>Note: Shows in concerts are listed under their respective titles. This page is reserved for other special events. Includes both videos and audios.</small></center>
 
 ---
 
 ### Navigation
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#live-from-lincoln-center">Live From Lincoln Center</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a> • <a href="https://kyratrades.github.io/concerts#misc">MISC</a></p>
+<details close markdown="block">
+  <summary>
+    Expand for show titles
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ---
+
+## Bernadette Peters
+
+#### Bernadette Peters in Concert Live from Royal Festival Hall - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+NOTES
+: "A diva who effuses sweetness as naturally as she breathes!" - The New York Times. Live from Royal Festival Hall in London, Bernadette Peters combines raw talent with alluring sophistication as she sings many Broadway standards, including "Broadway Baby" (Follies), "Time Heals Everything" (Mack & Mabel), and "Some People" (Gypsy). She also performs a selection of songs from her Grammy-nominated, bestselling album, "I'll Be Your Baby Tonight," as well as several numbers from Stephen Sondheim that were featured in her performance at Carnegie Hall, New York.
 
 ## Bombshell
 
@@ -56,6 +77,7 @@ NOTES
 ### Audio
 
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP3 `33 tracks` `128.1 MB`
@@ -89,49 +111,87 @@ FORMAT
 CAST
 : Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
 
-## Live From Lincoln Center
+## Eden Espinosa
 
-#### Sutton Foster in Concert - S43 E1 - April 20, 2018
+#### Eden Espinosa - The Cutting Room - March 4, 2013
 {: .no_toc .d-inline-block }
 
-Pro-Shot
-{: .label .label-green }
-
 FORMAT
-: MKV `720p` `1.19 GB`
-
-CAST
-: Sutton Foster, Jonathan Groff (Guest)
-
-#### Megan Hilty in Concert - S44 E4 - May 24, 2019
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `720p` `1.18 GB`
-
-CAST
-: Megan Hilty, Eden Espinosa (Guest), Shoshana Bean (Guest)
+: MP3 `31 tracks`
 
 NOTES
-: Includes tracked audio (.m4a) ripped from the show, tracked by me.
+: Album release concert. Includes an opening set by Carrie Manolakos. Carey Malloy features on \"As Long As You\'re Mine\", Cathleen Wright features on \"Take Me Or Leave Me\", and Megan Hilty features on \"For Good\".
 
-#### New York Philharmonic: Celebrating Sondheim - S44 E6 - December 31, 2019
+## Eva Noblezada
+
+#### Eva Noblezada Streamed from Birdland! - November 20, 2020
 {: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 `720p` `1.86 GB`
-
-CAST
-: Bernadette Peters, Katrina Lenk (Guest)
+: MP4 `720p` `1.01 GB`
 
 NOTES
-: Conducted by Alexander Gemignani, the concert will feature some of Sondheim's most beloved works, including suites from \"Sunday in the Park,\" \"Into the Woods,\" \"Sweeney Todd\" and more. Includes the extra "Alexander and Paul Gemignani Talk Sondheim".
+: <https://www.birdlandjazz.com/e/eva-noblezada-streamed-from-birdland--125407574431/>
+
+## Laura Benanti
+
+#### Live from the West Side: Women of Broadway - November 14, 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `1.63 GB`
+
+NOTES
+: <https://texasperformingarts.org/event/women-of-broadway-laura-benanti-virtual-event-2020>
+
+## Lea Salonga
+
+#### Lea Salonga in Concert - Great Performances - November 27, 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `2.66 GB`
+
+NOTES
+: Captured in peak performance with the Sydney Symphony Orchestra, Tony Award-winner Lea Salonga performs the beloved songs she made famous throughout her Broadway career, as well as her signature songs from the animated movie blockbusters "Aladdin" and "Mulan" from the Sydney Opera House.
+
+## Liza Minnelli
+
+#### Liza Minnelli - Liza With A \"Z\": A Concert For Television - 1972
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+NOTES
+: Liza Minnelli stars in a television concert directed and choreographed by Bob Fosse. She performs such songs as the title number, "Liza with a 'Z'" and "Son of a Preacher Man". The concert concludes with a medley of songs from the film Cabaret (1972).
+
+#### A Love Letter to Liza: 75th All-Star Birthday Tribute Celebration - March 12, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `5.47 GB`
+
+NOTES
+; Performances, odes, and birthday wishes from Joel Grey, Lily Tomlin, Catherine Zeta-Jones, Chita Rivera, Joan Collins, Harry Connick, Jr., Ben Vereen and dancers from the Verdon-Fosse Legacy, Ute Lemper, Billy Stritch, Charles Busch, Kathie Lee Gifford, Lea Delaria, Jim Caruso, Jonathan Groff, Sandra Bernhard, Andrew Rannells, Nathan Lane, Mario Cantone, Tony Hale, Coco Peru, John Cameron Mitchell, Michele Lee, Andrea Martin, Seth Sikes, Neil Meron, Lorna Luft, John Kander, Michael Feinstein, Julie Halston, Melissa Manchester, Jason Alexander, Parker Posey, Kathy Griffin, Nicholas King, Kathy Najimy, Hoda Kotb, Michael York, Craig Ferguson, and Haley Swindal.
+
+LINK
+: <https://www.stellartickets.com/o/daniel-nardicio-sam-benedict-matt-berman-and-scott-gorenstein/events/a-love-letter-to-liza-minnelli-75th-all-star-birthday-tribute-celebration>
 
 ## The Meg an\' Sho Show
 
@@ -230,6 +290,21 @@ Token Goat
 FORMAT
 : MP3 `22 tracks`
 
+#### Megan Hilty in Concert - Live From Lincoln Center (S44 E4) - May 24, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `1.18 GB`
+
+CAST
+: Megan Hilty, Eden Espinosa (Guest), Shoshana Bean (Guest)
+
+NOTES
+: Includes tracked audio (.m4a) ripped from the show, tracked by me.
+
 ## Patti Lupone
 
 #### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
@@ -251,7 +326,41 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 NOTES
-: On the same DVD as the Anything Goes 'lost footage'
+: On the same DVD as the [Anything Goes \'lost footage\'](https://kyratrades.github.io/videos#anything-goes---first-broadway-revival---1988-lost-footage-highlights)
+
+#### Live from the West Side: Women of Broadway - October 24, 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `2.75 GB`
+
+NOTES
+: <https://texasperformingarts.org/event/women-of-broadway-patti-lupone-virtual-event-2020>
+
+## Rachel York
+
+#### Vox Femina Presents: Sing-ular Sensations with Rachel York - Los Angeles - November 8, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+Listened
+{: .label .label-yellow }
+
+FORMAT
+: MP3 `34 tracks`
+
+GUEST
+: Rachel York
+
+VOX FEMINA SOPRANOS: Michele Botz, Suzy Brown, Catherine Card, Alyssa Cossey, Allie Fukushima, Janet Joe, JoAnne Johnston, Judith Martin, Teri Masters, Carolyn McLaurine, Toni Pogue, Mary Read, Jeni Rodrigues, Lauren Schellenbach, Amanda Thomason, Margaret P. Wood
+
+VOX FEMINA ALTOS
+: Lisa Bell, Donna Burroughs, Fances Chee, Jennifer Cheng, Evi Desser, Laurie Fox, Carol Lisek, Anna Lysak, Helen R. Mendoza, Jan Miller, Brenda Moore, Consuelo Moreno, Carly Munson, Marcela Pan, Brooke Randolph, Cris Scaglione, Carol Ann Scherfenberg, Nancy Timmons, Debi Tinsley
 
 ## Seth\'s Broadway Chatterbox
 
@@ -274,6 +383,80 @@ CAST
 NOTES
 : Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
 
+## Shoshana Bean
+
+#### Shoshana Bean: Sing Your Hallelujah - 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `5.16 GB`
+
+CAST
+: Shoshana Bean, Gavin Creel, Jared Grimes, Jeremy Jordan, Shayna Steele, Connie Talbot, Daniel J. Watts
+
+NOTES
+: Filmed Live At The Apollo Theater. Streamed at December 12, 2020.
+
+## Shoshana Bean Sings Standards - 1905 Livestream - March 11, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.02 GB`
+
+## Sondheim
+
+#### Sondheim: A Celebration at Carnegie Hall - 1993
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Stephen Sondheim, Betty Buckley, Paul Gemignani, Patti LuPone, Liza Minnelli, Bernadette Peters
+
+NOTES
+: This program features the music of Broadway composer Stephen Sondheim in a 1992 performance at Carnegie Hall. An American Musical Theatre writer for over 40 years, Stephen Sondheim has created the scores for hits such as Passion, Assassins, Bounce, Into The Woods, Sunday In The Park With George, Merrily We Roll Along, Sweeney Todd and Pacific Overtures. Featuring: Liza Minnelli, Patti LuPone, Bernadette Peters, Glenn Close and many more.
+
+#### New York Philharmonic: Celebrating Sondheim - Live From Lincoln Center (S44 E6) - December 31, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `1.86 GB`
+
+CAST
+: Bernadette Peters, Katrina Lenk (Guest)
+
+NOTES
+: Conducted by Alexander Gemignani, the concert will feature some of Sondheim's most beloved works, including suites from \"Sunday in the Park,\" \"Into the Woods,\" \"Sweeney Todd\" and more. Includes the extra "Alexander and Paul Gemignani Talk Sondheim".
+
+#### Simply Sondheim - Signature Theatre - 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `English (.srt)`
+
+CAST
+: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
+
+NOTES
+: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
+: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
+
 ## Stephanie J. Block
 
 ### Videos
@@ -286,6 +469,22 @@ FORMAT
 
 NOTES
 : Christmas concert with some classic tunes and some songs specially written for Stephanie.
+
+#### Stephanie J. Block in Concert - Live from Lincoln Center (S43 E3) - May 4, 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p`
+
+#### The Seth Concert Series - August 16, 2020
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `720p`
+: Screen recording of the livestream on the titles date
 
 ### Audios
 
@@ -303,6 +502,20 @@ juniper47
 
 FORMAT
 : MP3 `22 tracks`
+
+## Sutton Foster
+
+#### Sutton Foster in Concert - Live From Lincoln Center (S43 E1) - April 20, 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p` `1.19 GB`
+
+CAST
+: Sutton Foster, Jonathan Groff (Guest)
 
 ## Wicked Divas
 
@@ -363,17 +576,7 @@ NOTES
 
 ## MISC
 
-#### \#SOBLESSED: Live! (Annoying Actor Friend) - 54 Below - September 20, 2014
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: MP3 `28 tracks`
-
-CAST
-: Corey Cott, Paige Faure, Jessica Grové, Andy Jones, Nikka Graff Lanzarone, Lesli Margherita, Ellyn Marie Marsh, Kyle Dean Massey, Julia Murney, Nic Rouleau, Keala Settle, Tom Souhrada, Stephen Wallem
+### Videos
 
 #### The 94th Annual Macy\'s Thanksgiving Day Parade - NBC - November 26, 2020
 {: .no_toc .d-inline-block }
@@ -389,6 +592,101 @@ CAST
 
 NOTES
 : TODAY hosts Savannah Guthrie, Hoda Kotb, and Al Roker will host the event this year. The Broadway performances this year will come from the casts of Ain\'t Too Proud - The Life and Times of The Temptations, Hamilton, Jagged Little Pill, and Mean Girls. Plus, the Radio City Music Hall Rockettes will bring their Christmas magic to the festivities.
+
+#### Best of Musical Gala 2010 - Dortmund - February 24, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Pia Douwes, Ana Milva Gomez, Elizabeth Huebert, DMJ, Mark Seibert, Patrick Stanke, Willemijn Verkaik, Anton Zetterholm
+
+NOTES
+: Staged concert. Two cams edited together.
+
+#### Do You Hear the People Sing? - Indianapolis - October 7, 2011
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.47 GB`
+
+CAST
+: Stephanie J. Block, Terrence Mann, Lea Salonga, Peter Lockyer, Marie Zamora and Indianapolis Symphony Orchestra
+
+NOTES
+: A beautiful capture of this equally beautiful concert featuring the music of Boublil and Schonberg. Includes songs from Les Miserables, Miss Saigon, The Pirate Queen, Martin Guerre and La Revolution Francaise. This was a truely stunning concert with sensational performances and very well put together. Not only the solo performers shine, but the Orchestra and Choir are stunning! A
+
+#### Hey, Mr. Producer!: The Musical World of Cameron Mackintosh - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Colm Wilkinson, Lea Salonga, Russ Abbot, Julie Andrews, Michael Ball, John Barrowman, Peter Bayliss, Brian Blessed, Vadim Bondar, Kevyn Brackett, David Campbell, Judi Dench, Hal Fowler, Maria Friedman, Ellen Greene, Ruthie Henshall, Laurie Holloway, Jasna Ivir, Hugh Jackman, Teddy Kempner, Trent Kendall, Monroe Kent III, David Kernan, Tom Lehrer
+
+NOTES
+: Live recording of a 1998 concert given at the Lyceum Theater, London, as introduced by Dame Julie Andrews , in the presence of Her Majesty the Queen and HRH the Duke of Edinburgh. It was originally recorded for television. this 164 minutes concert, with at least 56 songs, from some of the biggest, most popular musicals to play New York's Broadway and/or London's West End, shows the magic and influence of Cameron Mackintosh on the world of musical theater. it brings together on one stage quite a few theatrical and celluloid stars, for a total of over 200 performers.
+
+#### The Nightmare Before Christmas - Benefit Concert - October 31, 2020
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `1.42 GB`
+
+CAST
+: Rafael Casal, Adrienne Warren, James Monroe Igle, Danny Burstein, Nik Walker, Lesli Margherita, Rob McClure, Kathryn Allison, Jenni Barber, Erin Clemons, Fergie L. Philippe, Jawan Jackson, Brian Gonzales
+
+NOTES
+: A concert presentation of the Tim Burton/Danny Elfman classic animated film, as interpreted by some of Broadway\'s ghoulishly talented artists. The proceeds collected will benefit The Actors Fund and Lymphoma Research Foundation.
+
+#### Standing Ovations I - New York City - May 23, 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Stephanie J. Block, Felicia Finley, Alison Fraser, Cheyenne Jackson, Erin Leigh Peck, Kate Shindle, Laura Bell Bundy, Matt Cavanaugh, Susan Egan, Max von Essen, Andrea McArdle, Mandy Gonzalez
+
+#### Tom Kitt & Friends - Joe's Pub - October 6, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Tom Kitt with Kelli O'Hara, Aaron Tveit, Alice Ripley, Amy Spanger, Gavin Creel, Billy Porter, Amanda Green, Jenn Colella, Julia Murney and Brooks Ashmanskas
+
+NOTES
+: Shot in 16:9 widescreen. The first song was filmed a bit too dark (forgot to change settings), and the second song is audio-only (I don't remember why), but the rest of the concert video is intact. The video is steady with close zooms. No obstructions on main performers, but off-stage singers in a couple of the group numbers could not be filmed. Great music written by Tom Kitt (including songs from Next To Normal and High Fidelity), performed by some of the greatest talents on Broadway. (My personal favorite is Julia Murney's "Perfect".)
+
+### Audios
+
+#### \#SOBLESSED: Live! (Annoying Actor Friend) - 54 Below - September 20, 2014
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP3 `28 tracks`
+
+CAST
+: Corey Cott, Paige Faure, Jessica Grové, Andy Jones, Nikka Graff Lanzarone, Lesli Margherita, Ellyn Marie Marsh, Kyle Dean Massey, Julia Murney, Nic Rouleau, Keala Settle, Tom Souhrada, Stephen Wallem
 
 #### The American Songbook: Best of Broadway - Boston Symphony Hall - June 17, 2011
 {: .no_toc .d-inline-block }
@@ -410,30 +708,6 @@ CAST
 
 NOTES
 : An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
-
-#### Bernadette Peters in Concert Live from Royal Festival Hall - 1998
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-NOTES
-: "A diva who effuses sweetness as naturally as she breathes!" - The New York Times. Live from Royal Festival Hall in London, Bernadette Peters combines raw talent with alluring sophistication as she sings many Broadway standards, including "Broadway Baby" (Follies), "Time Heals Everything" (Mack & Mabel), and "Some People" (Gypsy). She also performs a selection of songs from her Grammy-nominated, bestselling album, "I'll Be Your Baby Tonight," as well as several numbers from Stephen Sondheim that were featured in her performance at Carnegie Hall, New York.
-
-#### Best of Musical Gala 2010 - Dortmund - February 24, 2010
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Pia Douwes, Ana Milva Gomez, Elizabeth Huebert, DMJ, Mark Seibert, Patrick Stanke, Willemijn Verkaik, Anton Zetterholm
-
-NOTES
-: Staged concert. Two cams edited together.
 
 #### Broadway Backwards 8 - New York City - March 28, 2013
 {: .no_toc .d-inline-block }
@@ -499,81 +773,6 @@ FORMAT
 CAST
 : Lindiwe Dlamini, Bongi Duma, Tsidi Manye, Sbusiso Ngema, Whoopi Goldberg, Horace \"Junior\" Wedderburn, Rolando Morales-Matos, Michael James Scott, Lauryn Ciardullo, April Holloway, Nina LaFarga, Katie Terza, Kara Lindsay, Josh Strickland, Mandy Gonzalez, Kerry Butler, Merle Dandridge, Sherie Rene Scott, Adam Pascal, Andrew Barth Feldman, Adam Jacobs, Ashley Brown, Jelani Alladin, Bradley Gibson, Alton Fitzgerald White, Ramona Keller, Tamika Lawrence, Kissy Simmons, Rema Webb, Syndee Winters, Ashley Park, Gavin Creel, Sierra Boggess, Christian Borle, Norm Lewis, Susan Egan, Krysta Rodriguez, James Monroe Iglehart, Broadway Inspirational Voices
 
-#### Do You Hear the People Sing? - Indianapolis - October 7, 2011
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.47 GB`
-
-CAST
-: Stephanie J. Block, Terrence Mann, Lea Salonga, Peter Lockyer, Marie Zamora and Indianapolis Symphony Orchestra
-
-NOTES
-: A beautiful capture of this equally beautiful concert featuring the music of Boublil and Schonberg. Includes songs from Les Miserables, Miss Saigon, The Pirate Queen, Martin Guerre and La Revolution Francaise. This was a truely stunning concert with sensational performances and very well put together. Not only the solo performers shine, but the Orchestra and Choir are stunning! A
-
-#### Eden Espinosa - The Cutting Room - March 4, 2013
-{: .no_toc .d-inline-block }
-
-FORMAT
-: MP3 `31 tracks`
-
-NOTES
-: Album release concert. Includes an opening set by Carrie Manolakos. Carey Malloy features on \"As Long As You\'re Mine\", Cathleen Wright features on \"Take Me Or Leave Me\", and Megan Hilty features on \"For Good\".
-
-#### Elaine Stritch: At Liberty - West End - May 29, 2004
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `1080p Upscale` `4.61 GB`
-
-NOTES
-: This is the full 2.5 hour Elaine Stritch at Liberty, ripped directly from the DVD. It was also run through an AI-powered HD upscaler to 1080p.
-
-#### Hey, Mr. Producer!: The Musical World of Cameron Mackintosh - 1998
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-CAST
-: Colm Wilkinson, Lea Salonga, Russ Abbot, Julie Andrews, Michael Ball, John Barrowman, Peter Bayliss, Brian Blessed, Vadim Bondar, Kevyn Brackett, David Campbell, Judi Dench, Hal Fowler, Maria Friedman, Ellen Greene, Ruthie Henshall, Laurie Holloway, Jasna Ivir, Hugh Jackman, Teddy Kempner, Trent Kendall, Monroe Kent III, David Kernan, Tom Lehrer
-
-NOTES
-: Live recording of a 1998 concert given at the Lyceum Theater, London, as introduced by Dame Julie Andrews , in the presence of Her Majesty the Queen and HRH the Duke of Edinburgh. It was originally recorded for television. this 164 minutes concert, with at least 56 songs, from some of the biggest, most popular musicals to play New York's Broadway and/or London's West End, shows the magic and influence of Cameron Mackintosh on the world of musical theater. it brings together on one stage quite a few theatrical and celluloid stars, for a total of over 200 performers.
-
-#### Lea Salonga in Concert - Great Performances - November 27, 2020
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `1080p`
-
-NOTES
-: Captured in peak performance with the Sydney Symphony Orchestra, Tony Award-winner Lea Salonga performs the beloved songs she made famous throughout her Broadway career, as well as her signature songs from the animated movie blockbusters "Aladdin" and "Mulan" from the Sydney Opera House.
-
-#### Liza Minnelli - Liza With A \"Z\": A Concert For Television - 1972
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-NOTES
-: Liza Minnelli stars in a television concert directed and choreographed by Bob Fosse. She performs such songs as the title number, "Liza with a 'Z'" and "Son of a Preacher Man". The concert concludes with a medley of songs from the film Cabaret (1972).
-
 #### New York Pops 30th Birthday Gala: Celebrating Collaborations of the Past, Present, and Future - Carnegie Hall - April 29, 2013
 {: .no_toc .d-inline-block }
 
@@ -594,108 +793,6 @@ FORMAT
 
 CAST
 : Steven Reineke (Conductor/Host), Martin Short, John Pizzarelli, Andrea Martin, Christian Borle, Sophie von Haselberg, Matthew Morrison, Patti LuPone, Will Chase, Jane Krakowski, Marissa Jaret Winokur, Nikki Blonsky, Ricki Lake, Jenifer Lewis, Aaron Tveit, Megan Hilty, Katharine McPhee, Capathia Jenkins, Brooks Ashmanskas, Clarke Thorell, Kerry Butler, Corey Reynolds, Laura Bell Bundy, Linda Hart
-
-#### The Nightmare Before Christmas - Benefit Concert - October 31, 2020
-{: .no_toc .d-inline-block }
-
-FORMAT
-: MP4 `1080p` `1.42 GB`
-
-CAST
-: Rafael Casal, Adrienne Warren, James Monroe Igle, Danny Burstein, Nik Walker, Lesli Margherita, Rob McClure, Kathryn Allison, Jenni Barber, Erin Clemons, Fergie L. Philippe, Jawan Jackson, Brian Gonzales
-
-NOTES
-: \[IMDb\] A concert presentation of the Tim Burton/Danny Elfman classic animated film, as interpreted by some of Broadway\'s ghoulishly talented artists. The proceeds collected will benefit The Actors Fund and Lymphoma Research Foundation.
-
-#### Shoshana Bean: Sing Your Hallelujah - 2020
-{: .no_toc .d-inline-block }
-
-FORMAT
-: MP4 `1080p` `5.16 GB`
-
-CAST
-: Shoshana Bean, Gavin Creel, Jared Grimes, Jeremy Jordan, Shayna Steele, Connie Talbot, Daniel J. Watts
-
-NOTES
-: Filmed Live At The Apollo Theater. Streamed at December 12, 2020.
-
-#### Simply Sondheim - Signature Theatre - 2021
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `1080p` `English (.srt)`
-
-CAST
-: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
-
-NOTES
-: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
-: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
-
-#### Sondheim: A Celebration at Carnegie Hall - 1993
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-CAST
-: Stephen Sondheim, Betty Buckley, Paul Gemignani, Patti LuPone, Liza Minnelli, Bernadette Peters
-
-NOTES
-: This program features the music of Broadway composer Stephen Sondheim in a 1992 performance at Carnegie Hall. An American Musical Theatre writer for over 40 years, Stephen Sondheim has created the scores for hits such as Passion, Assassins, Bounce, Into The Woods, Sunday In The Park With George, Merrily We Roll Along, Sweeney Todd and Pacific Overtures. Featuring: Liza Minnelli, Patti LuPone, Bernadette Peters, Glenn Close and many more.
-
-#### Standing Ovations I - New York City - May 23, 2004
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Stephanie J. Block, Felicia Finley, Alison Fraser, Cheyenne Jackson, Erin Leigh Peck, Kate Shindle, Laura Bell Bundy, Matt Cavanaugh, Susan Egan, Max von Essen, Andrea McArdle, Mandy Gonzalez
-
-#### Tom Kitt & Friends - Joe's Pub - October 6, 2008
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Tom Kitt with Kelli O'Hara, Aaron Tveit, Alice Ripley, Amy Spanger, Gavin Creel, Billy Porter, Amanda Green, Jenn Colella, Julia Murney and Brooks Ashmanskas
-
-NOTES
-: Shot in 16:9 widescreen. The first song was filmed a bit too dark (forgot to change settings), and the second song is audio-only (I don't remember why), but the rest of the concert video is intact. The video is steady with close zooms. No obstructions on main performers, but off-stage singers in a couple of the group numbers could not be filmed. Great music written by Tom Kitt (including songs from Next To Normal and High Fidelity), performed by some of the greatest talents on Broadway. (My personal favorite is Julia Murney's "Perfect".)
-
-#### Vox Femina Presents: Sing-ular Sensations with Rachel York - Los Angeles - November 8, 2008
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-Listened
-{: .label .label-yellow }
-
-FORMAT
-: MP3 `34 tracks`
-
-GUEST
-: Rachel York
-
-VOX FEMINA SOPRANOS: Michele Botz, Suzy Brown, Catherine Card, Alyssa Cossey, Allie Fukushima, Janet Joe, JoAnne Johnston, Judith Martin, Teri Masters, Carolyn McLaurine, Toni Pogue, Mary Read, Jeni Rodrigues, Lauren Schellenbach, Amanda Thomason, Margaret P. Wood
-
-VOX FEMINA ALTOS
-: Lisa Bell, Donna Burroughs, Fances Chee, Jennifer Cheng, Evi Desser, Laurie Fox, Carol Lisek, Anna Lysak, Helen R. Mendoza, Jan Miller, Brenda Moore, Consuelo Moreno, Carly Munson, Marcela Pan, Brooke Randolph, Cris Scaglione, Carol Ann Scherfenberg, Nancy Timmons, Debi Tinsley
 
 #### West End Does: Acoustic - London - February 23, 2020
 {: .no_toc .d-inline-block }
