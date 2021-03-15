@@ -6961,6 +6961,21 @@ CAST
 NOTES
 : Sept 9/10, 2010. Exists in 2 versions, one is a DT rip, in 720p and low bitrate sound and video, and and Amazon rip in 1080p and high bitrate sound and video. Ask traders.
 
+#### Into the Woods - Shakespeare In The Park - July 29, 2012 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Donna Murphy (Witch), Denis O'Hare (Baker), Amy Adams (Baker's Wife), Jessie Mueller (Cinderella), Sarah Stiles (Little Red Riding Hood), Gideon Glick (Jack), Ivan Hernandez (Wolf/Cinderella's Prince), Eric R Williams (u/s Rapunzel's Prince), Jack Broderick (Narrator), Chip Zien (Mysterious Man), Kristine Zbornik (Jack's Mother), Ellen Harvey (Cinderella's Stepmother), Chip Zien (Cinderella's Father), Josh Lamon (Steward), Tess Soltau (Rapunzel), Glenn Close (Giant's voice)
+
+NOTES
+: Great HD capture of the much hyped Shakespeare in the Park Production. Beautifully thought out and executed production with a few flubs and bloopers that are hilarious. Donna and Amy were just sensational! A-
+
 #### Into the Woods - Shakespeare In The Park - August 1, 2012 (Preview) 
 {: .no_toc .d-inline-block }
 
@@ -7092,7 +7107,7 @@ NOTES
 
 # J
 
-<p align="center"><a href="https://kyratrades.github.io/videos#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/videos#jawbreaker-the-musical">Jawbreaker The Musical</a> • <a href="https://kyratrades.github.io/videos#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/videos#jesus-christ-superstar">Jesus Christ Superstar</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/videos#jawbreaker-the-musical">Jawbreaker The Musical</a> • <a href="https://kyratrades.github.io/videos#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/videos#jesus-christ-superstar">Jesus Christ Superstar</a> • <a href="https://kyratrades.github.io/videos#jesus-christ-superstar">Joseph and the Amazing Technicolor Dreamcoat</a></p>
 
 ## Jagged Little Pill
 
@@ -7185,6 +7200,17 @@ FORMAT
 
 CAST
 : Jason Tam (Peter Patrone), John Legend (Jesus Christ), Brandon Victor Dixon (Judas Iscariot), Sara Bareilles (Mary Magdalene), Ben Daniels (Pontius Pilate), Norm Lewis (Caiaphas), Jin Ha (Annas), Alice Cooper (King Herod)
+
+## Joseph and the Amazing Technicolor Dreamcoat
+
+#### Joseph and the Amazing Technicolor Dreamcoat - US Tour / Chicago - November 23, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patrick Cassidy (Joseph), Amy Adams (Narrator), Todd DuBail (Pharaoh), Nicolas F Saverine (Jacob)
 
 # K
 
@@ -9287,6 +9313,18 @@ NOTES
 : The musical features music and lyrics by Cole Porter, and a book by Herbert Fields, based on a story by E. Ray Goetz and Arno. Includes rehearsal footage and press reels. A head comes into frame on occasion but on large part a beautiful capture.
 
 ## Newsies
+
+#### Newsies - Pre-Broadway / Paper Mill Playhouse - October, 2011
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `3.92 GB` `Original files`
+
+CAST
+: Jeremy Jordan (Jack Kelly), Kara Lindsay (Katherine Plumber), Andrew Keenan-Bolger (Crutchie), John Dossett (Joseph Pulitzer), Helen Anker (Medda Larkin), RJ Fattori (Les Jacobs), Ben Fankhauser (Davey Jacobs), Ryan Breslin (Race), Andy Richardson (Romeo), Brendon Stimson (Oscar Delancey), Mike Faist (Morris Delancey), Tommy Bracco (Spot Conlon), Aaron J Albano (Finch), Ryan Steele (Specs), Garett Hawe (Albert), John E Brady (Wiesel/Mr. Jacobi/Mayor), Mark Aldrich (Seitz), Laurie Veldheer (Hannah), Ephraim Sykes (Mush)
+
+NOTES
+: Filmed in 16:9 widescreen, almost no obstructions except for a head on the edge of the widest shots. Only very brief drop-outs for applause. Super fun for fans of the show to see the version before it came to Broadway. This is the only known full video of this pre-Broadway production. Yes, there is a typo in Andrew Keenan-Bolger's name in the video's cast list. Sorry. Audio fed in from external source, so the audio is nice and clear. Do not identify master or exact date.
 
 #### Newsies - Broadway - February 10, 2013
 {: .no_toc .d-inline-block }
