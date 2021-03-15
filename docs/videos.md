@@ -823,6 +823,15 @@ CAST
 NOTES
 : Only recording of Taylor Dayne as Amneris. Filmed around a head, bottom center.
 
+#### Aida - Seoul, South Korea - January 14, 2020
+{: .no_toc .d-inline-block }
+
+FORMAT
+: M2TS `24.6 GB`
+
+CAST
+: Yoon Gong Joo (Aida), 정선아 Jeong Sun Ah (Amneris), 김우형 Kim Woo Hyung (radames), 박성환 Park Seong Hwan (Zoser), 유승엽 Yoo Seung Yeop, 오세준 Oh Se Jun, 김성동 Kim Seong Dong
+
 ## Ain\'t Too Proud
 
 #### Ain\'t Too Proud - Pre-Broadway Tour - August 24, 2018 (Opening Night)
