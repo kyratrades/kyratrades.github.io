@@ -4664,8 +4664,11 @@ CAST
 NOTES
 : Act One only! A nice capture with no washout and just one quick dropout during the scene after Waving Through a Window. There is one head that blocks part of the front of the stage, but it's worked around generally doesn't do more than block the actors' legs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent.
 
-#### Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee) (myroadofgoodintentions
+#### Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee)
 {: .no_toc .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
 
 FORMAT
 : MP4 `1080p` `16.79 GB`
