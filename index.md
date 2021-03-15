@@ -12,7 +12,7 @@ permalink: /
 
 <center>Videos: 1043</center>
 
-<center>Audios: TBA</center>
+<center>Audios: <code>TBA</code></center>
 
 <center>Concerts: 61</center>
 
