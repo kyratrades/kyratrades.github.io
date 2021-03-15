@@ -2159,6 +2159,21 @@ FORMAT
 CAST
 : Chantal Janzen (Belle), Stanley Burleson (Beast/Prince), Dick Rienstra (Maurice), René van Kooten (Gaston), Carlo Bozschard (Lumière), Mariska von Holck (Mrs. Potts), Ger Otte (Cogsworth), Caroline Mout (Madame de la Grande Bouche), Nicole Berendsen (Babette), Jorge Verkoost (Le Fou)
 
+#### Beauty and the Beast (Disney) - Wichita, KS - 2016
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `7.26 GB`
+
+CAST
+: Catherine Charlebois (Belle), Thaddeus Pearson (Beast/Prince), Timothy W Robu (Maurice), Johnny Stellard (Gaston), Steve Hitchcock (Lumière), Katie Banks-Todd (Mrs. Potts), James Beaman (Cogsworth), Karen L Robu (Madame de la Grande Bouche), Lexis Danca (Babette), James Heinrichs (Chip), Tanner Pflueger (Le Fou)
+
+NOTES
+: Pro-Shot. Filmed using one camera on a tripod with excellent clear picture and sound.
+
 ## A Bed and a Chair: A New York Love Affair
 
 #### A Bed and a Chair: A New York Love Affair - Encores! Special Event - November 13, 2013
@@ -2699,7 +2714,7 @@ NOTES
 
 # C
 
-<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#Chita-Rivera-The Dancer-s-Life">Chita Rivera: The Dancer's Life</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
 
 ## Cabaret
 
@@ -3822,6 +3837,17 @@ CAST
 NOTES
 : Great Capture of the final performance before the production moved to Broadway. Excellent cast and funny show that explores what is lost in translation. A
 
+## Chita Rivera: The Dancer's Life
+
+#### Chita Rivera: The Dancer's Life - Broadway - January 25, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.93 GB`
+
+CAST
+: Chita Rivera (Herself)
+
 ## A Chorus Line
 
 #### A Chorus Line - Off-Broadway - July 12, 1975
@@ -4537,6 +4563,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
+: VOB+smalls `1 DVD` `3.99 GB`
 : MP4 `480p` `1.33 GB` `DVDRip`
 
 CAST
@@ -4836,7 +4863,24 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/videos#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/videos#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
+
+## Earth Girls Are Easy
+
+#### Earth Girls Are Easy - Reading - September 30, 2002
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.26 GB`
+
+CAST
+: Kristin Chenoweth, Julie Brown, Hunter Foster
+
+NOTES
+: A one night only benefit reading for the Lark Theatre.
 
 ## Elisabeth
 
@@ -4957,6 +5001,24 @@ FILE NOTES
 
 CAST
 : Hunter Foster (Che), Sutton Foster (Perón's Mistress)
+
+#### Evita - Netherlands - May 22, 1996
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+ISSUES
+: VLC crashes whenever I attempt to load it, may be a problem with smalls?
+ 
+CAST
+: Pia Douwes (Eva Perón), Bill van Dijk (Che), Jeroen Phaff (Perón), Frans Limburg (Magaldi), Marleen van der Loo (Perón's Mistress)
 
 #### Evita - Sacramento Music Circus - August 17, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -5086,7 +5148,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/videos#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#follies">Follies</a>> • <a href="https://kyratrades.github.io/videos#fosse">Fosse</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/videos#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -5299,6 +5361,43 @@ CAST
 NOTES
 : There are many scene and dialogue changes made from the Broadway version, as well as a couple new songs added for the tour. Billy and Christine give wonderful performances. This is perfectly captured with no blackouts, no obstruction, and no washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
+## Follies
+
+#### Follies - Lincoln Center Concert - 1985
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Barbara Cook (Sally Durant Plummer), Lee Remick (Phyllis Rogers Stone), Mandy Patinkin (Buddy Plummer), George Hearn (Benjamin Stone), Carol Burnett (Carlotta Campion), Elaine Stritch (Hattie Walker), Phyllis Newman (Stella Deems)
+
+NOTES
+: Concert staging with the New York Philharmonic Orchestra. Starring Carol Burnett, Mandy Patinkin, Barbara Cook and Lee Remick. Proshot and a very nice concert, directly from dvd. A+
+
+#### Follies - National Theatre - November 16, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `6.47 GB` `English (.srt)`
+: HEVC encode of the original livestream (.ts)
+
+CAST
+: Imelda Staunton (Sally Durant Plummer), Janie Dee (Phyllis Rogers Stone), Peter Forbes (Buddy Plummer), Philip Quast (Benjamin Stone), Tracie Bennett (Carlotta Campion), Di Botcher (Hattie Walker), Josephine Barstow (Heidi Schiller), Dawn Hope (Stella Deems), Adrian Grove (Sam Deems), Geraldine Fitzgerald (Solange LaFitte), Norma Atallah (Emily Whitman), Liz Izen (Dee Dee West), Gemma Page (Sandra Crane), Julie Armstrong (Christine Donovan), Gary Raymond (Dimitri Weismann), Billy Boyle (Theodore Whitman), Bruce Graham (Roscoe), Zizi Strallen (Young Phyllis), Fred Haig (Young Buddy), Adam Rhys-Charles (Young Benjamin), Emily Langham (Young Carlotta), Aimee Hodnett (Young Hattie), Alison Langer (Young Heidi), Leisha Mollyneaux (Young Stella), Sarah-Marie Maxwell (Young Solange), Kate Parr (Young Sandra), Jeremy Batt, Liz Ewing, Edwin Ray, Jordan Shaw, Emily Goodenough, Barnaby Thompson
+
+NOTES
+: London’s National Theatre production, broadcast live to cinemas around the world. The National Theatre revival is the first fully staged major London production of Follies to present the original Broadway version of the show. Sondheim and Goldman revised large parts of the show’s script and score for its 1987 London premiere, toning down the underlying bleakness of the Broadway original, and offering a more hopeful finale for its central characters. Director Dominic Cooke revisited early drafts of Goldman’s script, restoring original dialogue and moments that have not been seen in the production since its 1971 Broadway run.
+
+## Fosse
+
+#### 
+
 ## Frankenstein (play by Nick Dear)
 
 #### Frankenstein (play by Nick Dear) - National Theatre - March 17, 2011
@@ -5399,6 +5498,21 @@ CAST
 : Will Chase (Jerry Lukowski), Daniel Stewart Sherman (Dave Bukatinsky), Larry Marshall (Noah \"Horse\" T. Simmons), Danny Gurwin (Malcolm MacGregor), Chris Diamantopoulos (Ethan Girard), Steven Skybell (Harold Nichols), Emily Skinner (Vicki Nichols)
 
 ## Fun Home
+
+#### Fun Home - Broadway - March 29, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Beth Malone (Alison), Emily Skeggs (Medium Alison), Sydney Lucas (Small Alison), Michael Cerveris (Bruce), Judy Kuhn (Helen), Roberta Colindrez (Joan), Oscar Williams (Christian), Joel Perez (Roy), Zell Steele Morrow (John)
+
+NOTES
+: Great HD capture of the Broadway Transfer. Performed mostly in the round, the actors are all over the stage. Judy's performances are so layered and beautiful, as is the entire cast! A-
 
 #### Fun Home - Broadway - June 23, 2016 
 {: .no_toc .d-inline-block }
@@ -6571,7 +6685,21 @@ CAST
 
 # I
 
-<p align="center"><a href="https://kyratrades.github.io/videos#ifthen">If/Then</a> • <a href="https://kyratrades.github.io/videos#in-the-heights">In the Heights</a> • <a href="https://kyratrades.github.io/videos#into-the-woods">Into the Woods</a> • <a href="https://kyratrades.github.io/videos#it-shoulda-been-you">It Shoulda Been You</a> • <a href="https://kyratrades.github.io/videos#its-a-bird-its-a-plane-its-superman">It's a Bird, It's a Plane, It's Superman!</a> • <a href="https://kyratrades.github.io/videos#its-only-a-play">It's Only A Play</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#ifthen">I Love You, You’re Perfect, Now Change</a> • <a href="https://kyratrades.github.io/videos#ifthen">If/Then</a> • <a href="https://kyratrades.github.io/videos#in-the-heights">In the Heights</a> • <a href="https://kyratrades.github.io/videos#into-the-woods">Into the Woods</a> • <a href="https://kyratrades.github.io/videos#it-shoulda-been-you">It Shoulda Been You</a> • <a href="https://kyratrades.github.io/videos#its-a-bird-its-a-plane-its-superman">It's a Bird, It's a Plane, It's Superman!</a> • <a href="https://kyratrades.github.io/videos#its-only-a-play">It's Only A Play</a></p>
+
+## I Love You, You’re Perfect, Now Change
+
+#### I Love You, You’re Perfect, Now Change - London Coliseum Livestream - January, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `3.34 GB`
+
+CAST
+: Alice Fearn, Simon Lipkin, Brenda Edwards, & Oliver Tompsett
 
 ## If/Then
 
@@ -6735,6 +6863,15 @@ CAST
 
 NOTES
 : Reunion concert; Cameraman wanders from the action a little too often, unfortunately. Sound is great however.
+
+#### Into the Woods - Los Angeles / Pre-Broadway - February 15, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.57 GB`
+
+CAST
+: Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), Dame Judi Dench (Giant's voice)
 
 #### Into the Woods - Pittsburgh CLO - August 9, 2009 (Matinee)
 {: .no_toc .d-inline-block }
@@ -8589,6 +8726,17 @@ CAST
 NOTES
 : Highlights running about 65 minutes in total.
 
+#### Miss Saigon - Netherlands - July 4, 1999 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.36 GB`
+
+CAST: Linda Wagenmakers (Kim), Tony Neef (Chris), Willem Nijholt (The Engineer), Mark Dollevoet (John), Claudia de Graaf (Ellen), Cystine Carreon (Gigi)
+
 #### Miss Saigon - Manila - December 24, 2000
 {: .no_toc .d-inline-block }
 
@@ -8701,21 +8849,6 @@ CAST
 
 NOTES
 : Highlights totaling about 14 minutes. Includes clips of Bad Romance, Come What May, Chandelier, Rollin' in the Deep, and the Finale/Bows. Camera often wanders to the ceiling and doesn't capture the stage. Many heads in the way and a lot of spotlight washout. The finale is really the only good clip.
-
-#### Moulin Rouge! - Pre-Broadway / Boston - August, 2018
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Aaron Tveit (Christian), Karen Olivo (Satine), Danny Burstein (Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Tam Mutu (The Duke), Ricky Rojas (Santiago), Robyn Hurder (Nini), Jacqueline B Arnold (Le Chocolat), Holly James (Arabia), Jeigh Madjus (Babydoll)
-
-NOTES
-: Housecam with clear soundboard audio. A significant step up above the usual housecam quality and it really shows off the production values.
 
 #### Moulin Rouge! - Pre-Broadway / Boston - August 19, 2018 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -8841,14 +8974,14 @@ NOTES
 
 ## My Fair Lady
 
-#### My Fair Lady - UK Tour (2005) - October 12, 2005
+#### My Fair Lady - UK Tour - October 12, 2005
 {: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: VOB+smalls `2 DVDs` `5.16 GB`
 
 CAST
 : Amy Nuttall (Eliza Doolittle), Christopher Cazenove (Henry Higgins), Stephen Moore (Colonel Pickering), Russ Abbot (Alfred P. Doolittle), Stephen Carlile (Freddy Eynsford-Hill), Honor Blackman (Mrs. Higgins)
@@ -9100,6 +9233,21 @@ CAST
 NOTES
 : Excellent rare capture of the PreBroadway DC run. This is when the show finally found focus, took shape and fell into place. Such a remarkable and raw performance from Alice here. If you thought you have seen her best performance, think again! A
 
+#### Next to Normal - Broadway - April 10, 2009 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alice Ripley (Diana), J Robert Spencer (Dan), Aaron Tveit (Gabe), Jennifer Damiano (Natalie), Adam Chanler-Berat (Henry), Louis Hobson (Dr. Fine/Dr. Madden)
+
+NOTES
+: Beautiful capture of the full original cast, from the orchestra. This hands down is the best capture of the original cast. This was done early in Alice's run, before she had strained her voice. Wonderful to revisit this show in all its glory! A+
+
 #### Next to Normal - Broadway - March 18, 2010
 {: .no_toc .d-inline-block }
 
@@ -9251,6 +9399,15 @@ CAST
 
 NOTES
 : 45 minutes of beautiful pro-shot material.
+
+#### Nine - Broadway Revival - April, 2003
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.87 GB`
+
+CAST
+: Antonio Banderas (Guido Contini), Mary Stuart Masterson (Luisa), Chita Rivera (Liliane La Fleur), Laura Benanti (Claudia), Jane Krakowski (Carla), Saundra Santiago (Stephanie Necrophorus), Mary Beth Peil (Guido's Mother), Myra Lucretia Taylor (Saraghina), Deirdre Goodwin (Our Lady of the Spa), Nell Campbell (Lina Darling), Linda Mugleston (Olga von Strum), Kristin Marks (Annabella), Sara Gettelfinger (Maria), Rona Figueroa (Juliette), Rachel de Benedet (Diana), Elena Shaddow (Renatta), Kathy Voytko (Sofia), William Ulrich (Little Guido)
 
 ## Noises Off
 
@@ -9526,7 +9683,7 @@ NOTES
 
 # P
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-pajama-game">The Pajama Game</a> • <a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-pajama-game">The Pajama Game</a> • <a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#parade">Parade</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
 
 ## The Pajama Game
 
@@ -9541,6 +9698,23 @@ CAST
 
 NOTES
 : Cover-ups (sound only) for the first 3 to 4 minutes during the overture and then a perfect video. Includes scanned Playbill information, as well as NY1's opening night coverage, review and interview with Harry Connick JR and Kelli O'Hara. A
+
+## Parade
+
+#### Parade - Avery Fisher Hall, Lincoln Center - February 16, 2015
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jeremy Jordan (Leo Frank), Laura Benanti (Lucille Frank), Charlie Franklin (Frankie Epps), Emerson Steele (Mary Phagan), John Ellison Conlee (Hugh Dorsey), Alan Campbell (Governor John Slaton), Joshua Henry (Jim Conley), Nathaniel Stampley (Newt Lee), Andy Mientus (Britt Craig), Eric Anderson (J.N. Starnes), Davis Gaines (Judge Roan), Ramin Karimloo (Tom Watson), Andrea Jones-Sojola (Minola McKnight), Katie Rose Clarke (Mrs. Phagan), Rachel de Benedet (Sally Slaton), John Jellison (Mr. Peavy), Caitlin Houlahan (Iola Stover), Allie Trimm (Essie), Ephie Aardema (Monteen), John Jellison (Luther Rosser), Andrea Jones-Sojola (Angela), Charlie Franklin (Young Confederate Soldier), Eric Leviton (Officer Ivery), Nathaniel Stampley (Riley)
+
+NOTES
+: A fantastic capture of this one-night-only concert at Avery Fisher Hall. Jeremy and Laura give incredible performances, as does Joshua Henry and too many others to name. Jason Robert Brown gives a speech after the curtain call. Truly an epic night of theatre. This is a very near perfect video with no obstruction and only slight washout in wide shots. There are two quick dropouts in the first few minutes, but the concert is otherwise fully captured. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, Jason’s speech, and playbill scans.
 
 ## Passion
 
@@ -9572,6 +9746,22 @@ CAST
 : Donna Murphy (Fosca), Jere Shea (Giorgio), Marin Mazzie (Clara), Gregg Edelman (Colonel Ricci), Tom Aldredge (Doctor Tambourri), Linda Balgord (Fosca's Mother), Cris Groenendaal (Major Rizzolli), William Parry (Lieutenant Barri), Matthew Porretta (Ludovic), Francis Ruivivar (Lieutenant Torasso), George Dvorsky (Private Augenti), Juliet Lambert (Mistress), Marcus Olson (Sergeant Lombardi), John Leslie Wolfe (Fosca's Father) 
 NOTES
 : Pro-Shot filmed just after closing for American Playhouse on PBS.
+
+#### Passion - Netherlands - 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB `NO SMALLS` `2.13 GB`
+: Plus MP4 rip `735 MB`
+
+CAST
+: Vera Mann (Fosca), Stanley Burleson (Giorgio), Pia Douwes (Clara)
 
 #### Passion - Lincoln Center - March 31, 2005
 {: .no_toc .d-inline-block }
@@ -10360,6 +10550,18 @@ CAST
 NOTES
 : FOSSE CUT. Different (and longer) than the eventual TV broadcast with different angles and takes. Bob Fosse\'s master which he edited and returned back to the producers. Ultimately his cut was not used and he was apparently unhappy with the finished version. Generation loss and counter numbers at the bottom of the screen. Staged by Fosse's associate Kathryn Doby, based on his original Broadway staging. FIlmed in Hamilton, Ontario, Canada.
 
+#### Pippin - World AIDS Day Benefit Concert - November 29, 2004
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.14 GB`
+
+CAST
+: Ben Vereen (Leading Player), Billy Porter (Leading Player), Darius de Haas (Leading Player), Rosie O’Donnell (Leading Player), Kate Shindle (Leading Player), Michael Arden (Pippin), Terrence Mann (Charles), Julia Murney (Fastrada), Charles Busch (Berthe), Laura Benanti (Catherine), Cameron Mathison (Lewis), Harrison Chad (Theo), John Tartaglia, Sara Chase, Kristoffer Cusick, Adam Fleming, Barrett Foa, Sriram Ganesan, Julie Garnye, Jordan Gelber, Kearran Giovanni, Jenna Leigh Green, Colin Hanlon, Cheyenne Jackson, Natalie Joy Johnson, Michael Longoria, Jennifer Malenke, Kate Pazakis, Erin Quill, Randy Redd, Robb Sapp, Marty Thomas, Caitlin van Zandt, Josh Young
+
+NOTES
+: If you've been wanting to see Rosie O'Donnell perform "Magic To Do" with a dancer in a bikini top grinding up on her, then look no further! *Ben Vereen, Darius de Haas, Billy Porter, Rosie O'Donell, Kate Shindle as the leading players
+
 ## The Pirate Queen
 
 ### Wants
@@ -10921,7 +11123,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook </a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#Sunday-in-the-Park-with-George">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
@@ -11025,6 +11227,15 @@ NOTES
 : Beautiful HD capture of this wonderful show. Alex is perfectly cast as Dewey and leads the show well. A very nice capture with no obstruction, no washout, and just a couple quick dropouts. It gets a little dark at times and filmed from the right side. The sound is excellent. Includes curtain call and playbill scan. Alex Brightman shows why he deserves his Tony Nomination with a kick ass performance
 
 ## The Secret Garden
+
+#### The Secret Garden - World AIDS Day Concert - December 5, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.18 GB`
+
+CAST
+: Jaclyn Neidenthal (Mary Lennox), Steven Pasquale (Archibald Craven), Laura Benanti (Lily Craven), Will Chase (Dr. Neville Craven), Celia Keenan-Bolger (Martha), Michael Arden (Dickon), Struan Erlenborn (Colin Craven), David Canary (Ben Weatherstaff), Sara Gettelfinger (Rose), Max von Essen (Captain Albert Lennox), Deborah S Craig (Mrs. Winthrop/Alice), Matt Cavenaugh (Lieutenant Ian Shaw), Jenny Powers (Claire), Nehal Joshi (Fakir), Reshma Shetty (Ayah), Barbara Rosenblat (Mrs. Medlock), Benjamin Magnuson (Major Holmes), Shonn Wiley (Lieutenant Peter Wright)
 
 #### The Secret Garden - Lincoln Center - February 21, 2016
 {: .no_toc .d-inline-block }
@@ -11232,9 +11443,26 @@ CAST
 NOTES
 : Quality: Well shot, audio isn't perfect but is good enough. Video quality is nice, true HD.
 
+## Sleepless: A Musical Romance
+
+#### Sleepless - Off-West End - September, 2020
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.03 GB`
+
+CAST
+: Jay McGuiness (Sam), Kimberley Walsh (Annie), Theo Collins (u/s Jonah), Daniel Casey (Walter), Harriet Thorpe (Eleanor), Tania Mathurin (Becky), Cory English (Rob), Annie Wensak (Dr. Marcia Fieldstone), Charlie Bull (Victoria/Ms. Portland), Leanne Garretty (Suzy/Ms. Miami), Dominique Planter (Ms. NYC), Colin Burnicle (NYC Hawker), Matt Holland (Waiter/Taxi), Benjamin Wong (Ernie), Ross McLaren (Gregg)
+
+CAST
+: The cast’s mics occasionally cut out but nothing major. Includes bows.
+
 ## Snapshots: A Musical Scrapbook
 
-#### Snapshots: A Musical Scrapbook - A Contemporary Theatre of Connecticut (ACT) - 2021
+#### Snapshots - A Contemporary Theatre of Connecticut (ACT) - 2021
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -11243,8 +11471,7 @@ FORMAT
 CAST
 : Mariand Torres, Ryan Barker, Monica Ramirez, John Cardoza, Olivia Hernandez and Michael McCory Rose
 
-NOTES
-: Streamed Feb. 13-28, 2021; A juxtaposition of Stephen Schwartz’s songs from various musicals such as “Godspell,” “Wicked,” “Pippin,” “Working”.
+cStreamed Feb. 13-28, 2021; A juxtaposition of Stephen Schwartz’s songs from various musicals such as “Godspell,” “Wicked,” “Pippin,” “Working”.
 : Read more about it [here](https://www.theridgefieldpress.com/arts-leisure/article/Curtain-Call-ACT-s-Snapshots-movie-15954807.php).
 
 ## Something Rotten!
@@ -11263,6 +11490,22 @@ CAST
 
 NOTES
 : Excellent HD capture of this hilarious new musical. The cast is just too perfect in every way. Superb performances, music, story and a great homage to theatre and musicals. Not to be missed! A
+
+#### Something Rotten! - Broadway - June 20, 2016
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD menu`
+: Looking for the original 2 DVD release
+
+CAST
+: Rob McClure (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Catherine Brunell (u/s Portia), Brad Oscar (Nostradamus), David Beach (Brother Jeremiah), Andre Ward (Minstrel/Snug)
+
+NOTES
+: With a mix of original cast and new faces, there are great performances all around. Nicely captured just a couple quick dropouts. There are some heads at the bottom of the screen that regularly block the actors’ feet, but they are worked around as much as possible, and generally don’t affect the main action. There is also some occasional washout, especially in wider shots. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 #### Something Rotten! - Broadway - July 23, 2016
 {: .no_toc .d-inline-block }
@@ -11307,6 +11550,20 @@ CAST
 
 NOTES
 : Audience; surprisingly good for its age with clear sound and nice picture; video includes commercial and TV reviews.
+
+## Songs for a New World
+
+#### Songs for a New World - London Palladium - October, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS `10.43 GB`
+
+CAST
+: Rachel John (Woman 1), Cedric Neal (Man 1), Rachel Tucker (Woman 2), David Hunter (Man 2)
 
 ## The Sound of Music
 
@@ -11623,6 +11880,38 @@ CAST
 NOTES
 : One of the few performances of this wonderful show
 
+## Sunday in the Park with George
+
+#### Sunday in the Park with George - Broadway - October 21–25, 1985
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Mandy Patinkin (Georges Seurat / George), Bernadette Peters (Dot / Marie), Barbara Bryne (Old Lady), Judith Moore (Nurse), Charles Kimbrough (Jules), Dana Ivey (Yvonne), Robert Westenberg (Soldier), Melanie Vaughan (Celeste #1), Mary D'Arcy (Celeste #2), Brent Spiner (Franz), Frank Kopyc (Mr.), Judith Moore (Mrs.), Nancy Opel (Frieda), William Parry (Boatman), Cris Groenendaal (Louis), Danielle Ferland (Louise), Charles Kimbrough (Bob Greenberg), Brent Spiner (Dennis), Dana Ivey (Naomi Eisen), Mary D'Arcy (Elaine), Judith Moore (Harriet Pawling), Cris Groenendaal (Billy Webster), William Parry (Charles Redmond), Robert Westenberg (Alex), Nancy Opel (Betty), Frank Kopyc (Lee Randolph), Barbara Bryne (Blair Daniels)
+
+NOTES
+: Pro-shot for PBS
+
+#### Sunday in the Park with George - Théâtre Du Châtelet, Paris - April 17, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `360p` `651 MB`
+
+CAST
+: Julian Ovenden (Georges Seurat / George), Sophie-Louise Dann (Dot / Marie), Rebecca de Pont Davies (Old Lady), Jessica Walker (Nurse), Nikolas Grace (Jules), Beverly Klein (Yvonne), David Curry (Soldier), Rebecca Bottone (Celeste #1), Francesca Jackson (Celeste #2), Damian Thantrey (Franz), Scott Emerson (Mr.), Elisa Doughty Louis (Mrs.), Christine Buffle (Frieda), Nicholas Garrett (Boatman), Jonathan Gunthorpe (Louis), Laura Gravier-Britten (Louise)
+
+NOTES
+: Pro-Shot filmed for French television. This critically acclaimed production uses a revolving set amid state-of-the-art video backdrops. In English, with French subtitles. Broadcast in May, 2013.
+
 ## Sunset Boulevard
 
 <p align="center"><a href="https://kyratrades.github.io/videos#sydmonton-festival-1">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/videos#west-end-2">West End</a> • <a href="https://kyratrades.github.io/videos#broadway-4">Broadway</a> • <a href="https://kyratrades.github.io/videos#broadway-revival-2">Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#misc-4">MISC</a></p>
@@ -11890,7 +12179,8 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 `1080p` `4.15 GB`
+: `1` VOB+smalls `1 DVD` `Commercial DVD`
+: `2` MP4 `1080p` `4.15 GB`
 
 CAST
 : George Hearn (Sweeney Todd), Patti LuPone (Mrs. Lovett), Davis Gaines (Anthony Hope), Lisa Vroman (Johanna), Timothy Nolen (Judge Turpin), Neil Patrick Harris (Tobias Ragg), John Aler (Beadle Bamford), Victoria Clark (Beggar Woman)
@@ -12027,6 +12317,21 @@ NOTES
 
 <p align="center"><small>AKA Dance of the Vampires</small></p>
 
+#### Tanz Der Vampire - Vienna - October 4, 1997
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `English soft subtitles`
+
+CAST
+: Steve Barton (Graf von Krolock), Cornelia Zenz (Sarah Chagal), Aris Sas (Alfred), Gernot Kranner (Professor Abronsius), James Sbano (Yone Chagal), Eva Maria Marold (Magda), Nik Breidenbach (Herbert von Krolock), Anne Welte (Rebecca Chagal), Torsten Flach (Koukol)
+
+NOTES
+: 2-camera proshot of the original cast with optional English subtitles
+
 #### Dance of the Vampires - Broadway - January 25, 2003 (Closing Night)
 {: .no_toc .d-inline-block }
 
@@ -12111,6 +12416,24 @@ NOTES
 : Amazingly clear video with great closeups and sound; includes NY1 reviews and interviews.
 
 ## tick, tick... BOOM!
+
+#### tick, tick... BOOM! - Off-Broadway - May 31, 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.11 GB`
+
+CAST
+: Raúl Esparza (Jon), Jerry Dixon (Michael), Amy Spanger (Susan)
+
+#### tick, tick... BOOM! - Off-Broadway - September 18, 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.02 GB`
+
+CAST
+: Raúl Esparza (Jon), Jerry Dixon (Michael), Amy Spanger (Susan)
 
 #### tick, tick... BOOM! - Korea - 2002
 {: .no_toc .d-inline-block }
@@ -12454,7 +12777,7 @@ NOTES
 
 # W
 
-<p align="center"><a href="https://kyratrades.github.io/videos#waiting-for-godot">Waiting for Godot</a> • <a href="https://kyratrades.github.io/videos#waitress">Waitress</a> • <a href="https://kyratrades.github.io/videos#war-paint">War Paint</a> • <a href="https://kyratrades.github.io/videos#we-are-the-tigers">We Are The Tigers</a> • <a href="https://kyratrades.github.io/videos#west-side-story">West Side Story</a> • <a href="https://kyratrades.github.io/videos#when-you-wish-the-story-of-walt-disney">When You Wish: The Story of Walt Disney</a> • <a href="https://kyratrades.github.io/videos#wheres-charley">Where's Charley?</a> • <a href="https://kyratrades.github.io/videos#wicked">Wicked</a> • <a href="https://kyratrades.github.io/videos#the-wild-party-lippa">The Wild Party (Lippa)</a> • <a href="https://kyratrades.github.io/videos#the-witches-of-eastwick">The Witches of Eastwick</a> • <a href="https://kyratrades.github.io/videos#the-wiz">The Wiz</a> • <a href="https://kyratrades.github.io/videos#the-wizard-of-oz-webber">The Wizard of Oz (Webber)</a> • <a href="https://kyratrades.github.io/videos#women-on-the-verge-of-a-nervous-breakdown">Women on the Verge of a Nervous Breakdown</a> • <a href="https://kyratrades.github.io/videos#wonderland">Wonderland</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#waiting-for-godot">Waiting for Godot</a> • <a href="https://kyratrades.github.io/videos#waitress">Waitress</a> • <a href="https://kyratrades.github.io/videos#war-paint">War Paint</a> • <a href="https://kyratrades.github.io/videos#we-are-the-tigers">We Are The Tigers</a> • <a href="https://kyratrades.github.io/videos#the-wedding-singer">The Wedding Singer</a> • <a href="https://kyratrades.github.io/videos#west-side-story">West Side Story</a> • <a href="https://kyratrades.github.io/videos#when-you-wish-the-story-of-walt-disney">When You Wish: The Story of Walt Disney</a> • <a href="https://kyratrades.github.io/videos#wheres-charley">Where's Charley?</a> • <a href="https://kyratrades.github.io/videos#wicked">Wicked</a> • <a href="https://kyratrades.github.io/videos#the-wild-party-lippa">The Wild Party (Lippa)</a> • <a href="https://kyratrades.github.io/videos#the-witches-of-eastwick">The Witches of Eastwick</a> • <a href="https://kyratrades.github.io/videos#the-wiz">The Wiz</a> • <a href="https://kyratrades.github.io/videos#the-wizard-of-oz-webber">The Wizard of Oz (Webber)</a> • <a href="https://kyratrades.github.io/videos#women-on-the-verge-of-a-nervous-breakdown">Women on the Verge of a Nervous Breakdown</a> • <a href="https://kyratrades.github.io/videos#wonderland">Wonderland</a></p>
 
 ## Waiting for Godot
 
@@ -12572,7 +12895,8 @@ NYCG8R
 FORMAT
 : VOB+smalls `2 DVDs`
 
-CAST: Nicolette Robinson (Jenna), NaTasha Yvette Williams (Becky), Katie Lowes (Dawn), Drew Gehling (Dr. Pomatter), Adam Shapiro (Ogie), Benny Elledge (Cal), Bill Nolte (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Mariam Bedigian (Lulu), Molly Jobe (t/r Francine Pomatter), Molly Hager (Mother), Matt DeAngelis (Father)
+CAST
+: Nicolette Robinson (Jenna), NaTasha Yvette Williams (Becky), Katie Lowes (Dawn), Drew Gehling (Dr. Pomatter), Adam Shapiro (Ogie), Benny Elledge (Cal), Bill Nolte (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Mariam Bedigian (Lulu), Molly Jobe (t/r Francine Pomatter), Molly Hager (Mother), Matt DeAngelis (Father)
 
 NOTES
 : Incredible capture of Nicolette's first few days in the role, and the first known video of Adam and Katie. The action is very well followed, filmed from the same seats as the May, 2018 video. The quality is gorgeous, and the closeups are beautiful.
@@ -12839,7 +13163,50 @@ CAST
 NOTES
 : Starts at the beginning of \"I Just Wanna\" and missing part of \"Mattie\'s Lament.\" The theater was really full tonight so there are a good number of heads in this video, but they are worked around to the best of my ability. This is a super small theater (less than 160 seats) and at times the cast members were definitely singing to the camera and honestly giving their best performances because of it. All of the things on the upper level (the bathroom, the pathway, and the kitchen) are captured perfectly, and the zooms on the lower level (the living room and bench) look good as well. Obviously because this is a murder mystery kind of show the lighting can get a little bit dark, but my camera handles low lighting incredibly well. This is honestly the best video you could expect from this venue
 
+## The Wedding Singer
+
+#### The Wedding Singer - Broadway - April 1, 2006 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.83 GB` `Non-original`
+: Recording of another DVD
+
+CAST
+: Stephen Lynch (Robbie Hart), Laura Benanti (Julia), Matthew Saldivar (Sammy), Kevin Cahoon (George), Rita Gardner (Rosie), Amy Spanger (Holly), Richard H Blake (Glen), Felicia Finley (Linda)
+
+MASTER'S NOTES
+: Amazingly shot, fun show, beautiful closeups, nice sound. A+ 
+
+NOTES
+: Includes pictures of outside of the theatre and playbill. This was before the changes were made to the production. Blackouts throughout the show.
+
+#### The Wedding Singer - Broadway - April 11, 2006
+: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.19 GB`
+
+CAST
+: Stephen Lynch (Robbie Hart), Laura Benanti (Julia), Matthew Saldivar (Sammy), Kevin Cahoon (George), Rita Gardner (Rosie), Richard H Blake (Glen), Felicia Finley (Linda)
+
 ## West Side Story
+
+#### West Side Story - Amstetten, Austria - November 30, 1993
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.54 GB`
+
+CAST
+: Thomas Sigwald (Tony), Pia Douwes (Maria), Vasiliki Roussi (Anita), Dean Welterlen (Riff), James de Groot (Bernardo) 
+NOTES: Good shoot but not a great camera. Gen loss, audio has an echo to it, colours range from violet to orange, mostly orange. Has a corner timer for the first 28 minutes. Songs in English, dialogue in German. Includes TV appearances. Remastering couldn’t fix all the blockiness but helped with some other things. The same as the video labelled '1994'.
 
 #### West Side Story - Second Broadway Revival - February 23, 2009 (Preview)
 {: .no_toc .d-inline-block }
@@ -12882,6 +13249,21 @@ CAST
 
 NOTES
 : This concert version of the show is abridged with shortened scenes, simple costumes, and no sets or choreography, but Jeremy, Solea, and Karen are absolutely phenomenal with soaring vocals and emotional performances. Very well captured with no dropouts, no obstruction, and no washout. The stage is filmed directly most of the time; the screens are occasionally filmed, usually when the actors are not onstage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### West Side Story - Leicester Curve - December, 2019
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `4.04 GB`
+
+CAST
+: Jamie Muscato (Tony), Adriana Ivelisse (Maria), Carly Mercedes Dyer (Anita), Ronan Burns (Riff), Jonathan Hermosa-Lopez (Bernardo), Isaac Gryn (Action), Damian Buhagiar (Chino), Ryan Anderson (A-Rab), Alex Christian (Baby John), Dale White (Big Deal), Michael O’Reilly (Diesel), Beth Hinton-Lever (Anybodys), Darren Bennett (Lt. Schrank), Christopher Wright (Krupke), Christopher Wright (Doc), Darren Bennett (Glad Hand), Mireia Mambo (Rosalia), Abigail Climer (Consuela), Thea Bunting (Graziella), Katie Lee (Velma), Richard Appiah-Sarpong (Pepe), Dominic Sibanda (Indio)
+
+NOTES
+: Missing 7 minutes at the beginning. No dropouts and no obstruction.
 
 ## When You Wish: The Story of Walt Disney
 
@@ -13332,7 +13714,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Marcie Dodd (Elphaba), Alli Mauzey (Glinda), Kevin Kern (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Brynn O\'Malley (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
@@ -14303,7 +14685,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `1 DVD` `Original`
+: VOB+smalls `1 DVD`
 
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond)
@@ -14318,7 +14700,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `1 DVD` `Original`
+: VOB+smalls `1 DVD`
 
 CAST
 : Julie Reiber (s/b Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Dioni Michelle Collins (u/s Madame Morrible), Natalie Daradich (u/s Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond)
@@ -14333,7 +14715,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Carol Kane (Madame Morrible), Marcie Dodd (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond), Peter John Chursin (Chistery), Linda Kerns (Midwife), Gina Starbuck (Witch\'s Mother), Matthew Stocke (Witch\'s Father / Ozian Official)
@@ -14348,7 +14730,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `1 DVD` `Original`
+: VOB+smalls `1 DVD`
 
 CAST
 : Caissie Levy (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Marcie Dodd (Nessarose), Michael Drolet (Boq), Timothy Britten Parker (Doctor Dillamond), Peter John Chursin (Chistery), Linda Kerns (Midwife), Gina Starbuck (Witch\'s Mother), Matthew Stocke (Witch\'s Father / Ozian Official), Adam Lambert, Alexander Selma, Brooke Wendle, Courtney Corey, DJ Gregory, Dioni Michelle Collins, Gina Starbuck, Jeremy Kocal, Linda Kerns, Lindsay Janisse, Matthew Stocke, Melissa Fahn, Natalie Daradich, Peter John Chursin, Terrance Spencer, Zach Hensler
@@ -14378,7 +14760,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `1 DVD` `Original`
+: VOB+smalls `1 DVD`
 
 CAST
 : Teal Wicks (s/b Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Marcie Dodd (Nessarose), Michael Drolet (Boq), Timothy Britten Parker (Doctor Dillamond), Samantha Zack (u/s Witch\'s Mother)
@@ -14411,7 +14793,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Teal Wicks (Elphaba), Erin Mackey (Glinda), Adam Lambert (u/s Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Briana Yacavone (Nessarose), Michael Drolet (Boq), David DeVries (Doctor Dillamond)
@@ -14426,7 +14808,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Marcie Dodd (s/b Elphaba), Erin Mackey (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Laura Dysarczyk (u/s Nessarose), Michael Drolet (Boq), David DeVries (Doctor Dillamond)
@@ -14441,7 +14823,7 @@ Watched
 {: .label .label-yellow }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), David DeVries (Doctor Dillamond)
@@ -14456,7 +14838,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 : Smalls for both Acts work, NOT the commonly circulated copy
 
 CAST
@@ -14469,7 +14851,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Original`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), Tom Flynn (Doctor Dillamond)
