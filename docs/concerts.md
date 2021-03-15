@@ -355,9 +355,10 @@ FORMAT
 GUEST
 : Rachel York
 
-VOX FEMINA SOPRANOS: Michele Botz, Suzy Brown, Catherine Card, Alyssa Cossey, Allie Fukushima, Janet Joe, JoAnne Johnston, Judith Martin, Teri Masters, Carolyn McLaurine, Toni Pogue, Mary Read, Jeni Rodrigues, Lauren Schellenbach, Amanda Thomason, Margaret P. Wood
+SOPRANOS
+: Michele Botz, Suzy Brown, Catherine Card, Alyssa Cossey, Allie Fukushima, Janet Joe, JoAnne Johnston, Judith Martin, Teri Masters, Carolyn McLaurine, Toni Pogue, Mary Read, Jeni Rodrigues, Lauren Schellenbach, Amanda Thomason, Margaret P. Wood
 
-VOX FEMINA ALTOS
+ALTOS
 : Lisa Bell, Donna Burroughs, Fances Chee, Jennifer Cheng, Evi Desser, Laurie Fox, Carol Lisek, Anna Lysak, Helen R. Mendoza, Jan Miller, Brenda Moore, Consuelo Moreno, Carly Munson, Marcela Pan, Brooke Randolph, Cris Scaglione, Carol Ann Scherfenberg, Nancy Timmons, Debi Tinsley
 
 ## Seth\'s Broadway Chatterbox
