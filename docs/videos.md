@@ -1065,6 +1065,21 @@ CAST
 NOTES
 : A wonderful capture of the tour cast with no obstructions or washout and just a few quick dropouts. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. The best American in Paris video out there.
 
+#### An American in Paris - West End - May, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `10.29 GB` `Amazon WEB-DL` `English soft subtitles`
+
+CAST
+: Robert Fairchild (Jerry Mulligan), Leanne Cope (Lise Dassin), David Seadon-Young (Adam Hochberg), Zoë Rainey (Milo Davenport), Haydn Oakley (Henri Baurel), Jane Asher (Madame Baurel), Ashley Andrews (Mr. Z), Julian Forsyth (Monsieur Baurel), Julia J Nagle (Olga)
+
+NOTES
+: Aired as part of PBS Great Performances on November 2, 2018. Can be found on BroadwayHD to stream.
+
 ## Anastasia
 
 #### Anastasia - Pre-Broadway / Hartford - June 15, 2016 (Matinee) 
@@ -2714,7 +2729,7 @@ NOTES
 
 # C
 
-<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#Chita-Rivera-The Dancer-s-Life">Chita Rivera: The Dancer's Life</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#chita-rivera-the-dancers-life">Chita Rivera: The Dancer's Life</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
 
 ## Cabaret
 
@@ -4863,7 +4878,7 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/videos#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/videos#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/videos#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/videos#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
 
 ## Earth Girls Are Easy
 
@@ -4881,6 +4896,20 @@ CAST
 
 NOTES
 : A one night only benefit reading for the Lark Theatre.
+
+## Elaine Stritch: At Liberty
+
+#### Elaine Stritch: At Liberty - West End - May 29, 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p Upscale` `4.61 GB`
+
+NOTES
+: This is the full 2.5 hour Elaine Stritch at Liberty, ripped directly from the DVD. It was also run through an AI-powered HD upscaler to 1080p.
 
 ## Elisabeth
 
@@ -11123,7 +11152,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#Sunday-in-the-Park-with-George">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunday-in-the-park-with-george">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
