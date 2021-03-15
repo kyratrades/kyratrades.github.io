@@ -13427,7 +13427,7 @@ NOTES
 
 ## Wicked
 
-<p align="center"><a href="https://kyratrades.github.io/videos#broadway-6">Broadway</a> • <a href="https://kyratrades.github.io/videos#chicago-1">Chicago</a> • <a href="https://kyratrades.github.io/videos#first-national-tour-2">First National Tour</a> • <a href="https://kyratrades.github.io/videos#japan">Japan</a> • <a href="https://kyratrades.github.io/videos#west-end-4">West End</a> • <a href="https://kyratrades.github.io/videos#los-angeles">Los Angeles</a> • <a href="https://kyratrades.github.io/videos#stuttgart-1">Stuttgart</a> • <a href="https://kyratrades.github.io/videos#san-francisco">San Francisco</a> • <a href="https://kyratrades.github.io/videos#second-national-tour">Second National Tour</a> • <a href="https://kyratrades.github.io/videos#oberhausen">Oberhausen</a> • <a href="https://kyratrades.github.io/videos#mexico">Mexico</a> • <a href="https://kyratrades.github.io/videos#brazil-1">Brazil</a> • <a href="https://kyratrades.github.io/videos#international-tour">International Tour</a> • <a href="https://kyratrades.github.io/videos#specials-1">Specials</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#broadway-6">Broadway</a> • <a href="https://kyratrades.github.io/videos#chicago-1">Chicago</a> • <a href="https://kyratrades.github.io/videos#first-national-tour-2">First National Tour</a> • <a href="https://kyratrades.github.io/videos#japan">Japan</a> • <a href="https://kyratrades.github.io/videos#west-end-4">West End</a> • <a href="https://kyratrades.github.io/videos#los-angeles">Los Angeles</a> • <a href="https://kyratrades.github.io/videos#stuttgart-1">Stuttgart</a> • <a href="https://kyratrades.github.io/videos#san-francisco">San Francisco</a> • <a href="https://kyratrades.github.io/videos#second-national-tour">Second National Tour</a> • <a href="https://kyratrades.github.io/videos#oberhausen">Oberhausen</a> • <a href="https://kyratrades.github.io/videos#scheveningen">Scheveningen</a> • <a href="https://kyratrades.github.io/videos#mexico">Mexico</a> • <a href="https://kyratrades.github.io/videos#brazil-1">Brazil</a> • <a href="https://kyratrades.github.io/videos#international-tour">International Tour</a> • <a href="https://kyratrades.github.io/videos#specials-1">Specials</a></p>
 
 ### Broadway
 
@@ -13691,6 +13691,21 @@ CAST
 NOTES
 : Includes pre-show announcement and curtain calls. Also includes the final changes carried over from London , including the abbreviated \'Wonderful\' and the pretty light show replacing the big black hat. Shot from rear mezz, no obstructions. One minute coverup after the ballroom (before Popular) and another during Thank Goodness. Several mic problems cause actor\'s voices to cut out, which causes hilarity when the Wizard\'s head mouths silently in Act Two. Really painful Act One for Julia, especially the end of WAI which is half screamed/sung. She apparently got the frog out of her throat during intermission, because she comes back for a triumphant Act Two. Overall, Julia makes some lovely acting choices and has brilliant chemistry with the rest of the cast, especially Katie and Sebastian; their ALAYM is spell-binding. Will never be a fan of her voice, though. Katie is even better than she was in November. The real standout was Cristy\'s Nessarose\...she has the best voice and gives the most
 
+#### Wicked - Broadway - February 9, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
+
+NOTES
+: Julia & Kendra give Electric performances. Hard to believe they can get better, but yet they do. Wonderful picture, sound and clouseups. A
+
 #### Wicked - Broadway - May 22, 2007
 {: .no_toc .d-inline-block }
 
@@ -13775,6 +13790,18 @@ CAST
 
 NOTES
 : First Performances of Stephanie J. Block and Annaleigh Ashford. Beautifully captured and wonderful closeups, jaw dropping footage. Excellent performances all around, Stephanie commands the stage. A+
+
+#### Wicked - Broadway - October 24, 2007 (Matinee) (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.18 GB`
+
+CAST
+: Caissie Levy (u/s Elphaba), Annaleigh Ashford (Glinda), Michael Seelbach (u/s Fiyero), Lenny Wolpe (The Wizard), Carole Shelley (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond), Jason Davies (u/s Chistery)
+
+NOTES
+: Highlights of Caissie’s last Broadway Performance. Includes: Shiz University scene, "The Wizard and I," "What Is This Feeling?," Poppy Field scene, "I'm Not That Girl," Attic scene/ Morrible, "Defying Gravity," "No Good Deed," "For Good," and the Finale.
 
 #### Wicked - Broadway - March 13, 2008
 {: .no_toc .d-inline-block }
@@ -13883,6 +13910,18 @@ CAST
 
 NOTES
 : Full show, beautifully shot. Julie was Elphaba for the 1/13 and 1/14 performances since Nicole would only start on 1/15.
+
+#### Wicked - Broadway - March 7, 2009
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Nicole Parker (Elphaba), Alli Mauzey (Glinda), Aaron Tveit (Fiyero), Anthony Galde (u/s The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
 
 #### Wicked - Broadway - August 16, 2012 (Highlights)
 {: .no_toc .d-inline-block }
@@ -14219,6 +14258,24 @@ CAST
 NOTES
 : About 15 minutes of blackouts in first act. Popular and Defying Gravity are not affected. Second act is AMAZING and near perfect. Whole dvd has GREAT closeups. A
 
+#### Wicked - First National Tour (Emerald City) - March 14, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD` `Non-Original`
+
+CAST
+: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), PJ Benjamin (The Wizard), Alma Cuervo (Madame Morrible), Jennifer Waldman (Nessarose), Logan Lipton (Boq), K Todd Freeman (Doctor Dillamond)
+
+NOTES
+: AMAZING AMAZING AMAZING performances. Murney was sensational, Kendra absolutely hilarious, Alma was fabulous. Shot from the Loge, crystal clear picture and sound, nice closeups. Couple of line flubs. WONDERFUL! A
+
 #### Wicked - First National Tour (Emerald City) - May, 2006 
 {: .no_toc .d-inline-block }
 
@@ -14279,6 +14336,21 @@ CAST
 
 NOTES
 : Contains wonderful picture, sound, color, and most importantly performances. Great fresh new cast on the road. A+
+
+#### Wicked - First National Tour (Emerald City) - July 7, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Coleen Sexton (s/b Elphaba), Laura Woyasz (u/s Glinda), Cliffton Hall (Fiyero), PJ Benjamin (The Wizard), Barbara Tirrell (Madame Morrible), Deedee Magno Hall (Nessarose), Brad Weinstock (Boq), Tom Flynn (Doctor Dillamond)
+
+NOTES
+: Laura was Amazing, very original and hilarious. Coleen was terrific aswell, a very powerful voice. All nicely captured here. A-
 
 #### Wicked - First National Tour (Emerald City) - July 8, 2007
 {: .no_toc .d-inline-block }
@@ -14644,6 +14716,21 @@ CAST
 
 NOTES
 : Act 1 audio is only. The camera pointed too high in Act 2, but it's a high-resolution cam. Audio overall is very good, nice and clear.
+
+#### Wicked - West End - April 12, 2014 (Matinee)
+{: .no_toc .d-inline-block }
+
+cityofemeraldtrading
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Emma Hatton (s/b Elphaba), Savannah Stevenson (Glinda), Jeremy Taylor (Fiyero), Paul Clarkson (u/s The Wizard), Sue Kelvin (Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Russell Walker (u/s Doctor Dillamond)
+
+NOTES
+: Shot from the Dress Circle, no zooms. Some shakyness Some blackouts in act 1 and head obstruction. Video is a bit dark. Includes Curtain Call and Savannah's speech for Emma doing the London Marathon.
 
 #### Wicked - West End - June 4, 2014
 {: .no_toc .d-inline-block }
@@ -15017,6 +15104,15 @@ CAST
 NOTES
 : Act 1 is filmed in 4:3 and Act 2 is filmed in 16:9
 
+#### Wicked - Stuttgart - December 7, 2008 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Willemijn Verkaik (Elphaba), Jana Stelley (alt Glinda), Mathias Edenborn (Fiyero), Stefan Poslovski (u/s The Wizard), Barbara Raunegger (Madame Morrible), Nicole Radeschnig (Nessarose), Stefan Stara (Boq), Matthias Dressel (u/s Doctor Dillamond)
+
 #### Wicked - Stuttgart - February 20, 2009
 {: .no_toc .d-inline-block }
 
@@ -15040,6 +15136,18 @@ FORMAT
 
 CAST
 : Willemijn Verkaik (Elphaba), Lucy Scherer (Glinda), Mathias Edenborn (Fiyero), Carlo Lauber (The Wizard), Helena Blöcker (u/s Madame Morrible), Janine Tippl (Nessarose), Stephan Luethy (Boq), Michael Günther (Doctor Dillamond)
+
+#### Wicked - Stuttgart - January 29, 2010 (Closing Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Roberta Valentini (Elphaba), Lucy Scherer (Glinda), Mathias Edenborn (Fiyero), Carlo Lauber (The Wizard), Barbara Raunegger (Madame Morrible), Janine Tippl (Nessarose), Stephan Luethy (Boq), Michael Günther (Doctor Dillamond)
+
+NOTES
+: Missing room assignments and MOTWH. Very shaky camera
 
 ### San Francisco
 
@@ -15193,6 +15301,21 @@ CAST
 NOTES
 : A wonderful capture of Jessica's final performance with no obstructions or washout. Jessica gave a topnotch performance and added new riffs. There are a few quick dropouts during applause and a nice mix of wides, mediums, and close-ups. Audio is perfect and curtain call is included.
 
+#### Wicked - Second National Tour (Munchkinland) - August 4, 2018
+{: .no_toc .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `17.38 GB`
+
+CAST
+: Mary Kate Morrissey (Elphaba), Ginna Claire Mason (Glinda), Jon Robert Hall (Fiyero), Wayne Schroder (u/s The Wizard), Jody Gelb (Madame Morrible), Catherine Charlebois (t/r Nessarose), Cole Doman (Boq), Chad Jennings (Doctor Dillamond)
+
+NOTES
+: Captured with high quality camera. Some obstructions due to heads and washout but majority very clear high quality.
+
 ### Oberhausen
 
 #### Wicked - Oberhausen - May 2, 2010
@@ -15218,6 +15341,32 @@ CAST
 
 NOTES
 : Closing night. Includes curtain call.
+
+## Scheveningen
+
+#### Wicked - Scheveningen - July 29, 2012 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Willemijn Verkaik (Elphaba), Chantal Janzen (Glinda), Jim Bakkum (Fiyero), Bill van Dijk (The Wizard), Pamela Teves (Madame Morrible), Myrthe Maljers (u/s Nessarose), Niels Jacobs (Boq), Jochem Feste Roozemond (Doctor Dillamond)
+
+NOTES
+: Final matinee for Chantal Janzen. She hits an optional high note in NOMTW. Willemijn also was on fire - she hit F5!
+
+#### Wicked - Scheveningen - January 10, 2013
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Willemijn Verkaik (Elphaba), Céline Purcell (alt Glinda), Ferry Doedens (alt Fiyero), Bill van Dijk (The Wizard), Pamela Teves (Madame Morrible), Christanne de Bruijn (Nessarose), Niels Jacobs (Boq), Jochem Feste Roozemond (Doctor Dillamond)
+
+NOTES
+: Awesome filming quality, very steady, great zooms and close-ups. Willemijn, Cèline, and Ferry are all phenomenal! A very funny mess-up takes place in act two. Penultimate show for production. Final show for Cèline Purcell and Ferry Doedens. Muck-up where Fiyero flies in with a broom instead of a rifle in Catfight
 
 ### Mexico
 
