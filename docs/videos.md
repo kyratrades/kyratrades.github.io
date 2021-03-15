@@ -5678,7 +5678,7 @@ CAST
 
 # G
 
-<p align="center"><a href="https://kyratrades.github.io/videos#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/videos#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/videos#grease">Grease</a> • <a href="https://kyratrades.github.io/videos#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/videos#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/videos#gypsy">Gypsy</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/videos#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/videos#grace">Grace</a> • <a href="https://kyratrades.github.io/videos#grease">Grease</a> • <a href="https://kyratrades.github.io/videos#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/videos#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/videos#gypsy">Gypsy</a></p>
 
 ## A Gentleman\'s Guide to Love and Murder
 
@@ -5728,6 +5728,20 @@ CAST
 
 NOTES
 : Filmed from the back of the balcony. Many heads appear in the frame to start, then when the filmer gets his bearings, the video improves greatly. There are a few times (mostly at the beginning) when the filmer replaces some poor video moments with still shots. These still shots are less than 2 or 3 minutes of the entire show. Overall, a great video, and Megan Hilty is amazing.
+
+## Grace
+
+####  Grace - Broadway - September 20, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Paul Rudd (Steve), Michael Shannon (Sam), Kate Arrington (Sara), Ed Asner (Karl)
+
+NOTES
+: Good clear picture. Filmed in widescreen.
 
 ## Grease
 
@@ -5948,7 +5962,7 @@ CAST
 
 # H
 
-<p align="center"><a href="https://kyratrades.github.io/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/videos#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/videos#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/videos#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/videos#the-history-boys">The History Boys</a> • <a href="https://kyratrades.github.io/videos#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
 
 ## Hadestown
 
@@ -5974,7 +5988,8 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 `1080p` `9.82 GB` `English (.srt)`
+: `1` MP4 `1080p` `9.82 GB` `English (.srt)`
+: `2` Edited version `by slimejuice` `English (.srt)`
 
 CAST
 : Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate), Afra Hines, Ahmad Simmons, John Krause, Kimberly Marable, Timothy Hughes
@@ -6623,6 +6638,17 @@ CAST
 NOTES
 : Some mild generation loss. B+
 
+## The History Boys
+
+#### The History Boys - Broadway - May 6, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Sacha Dhawan (Akthar), Samuel Anderson (Crowther), Dominic Cooper (Dakin), Clive Merrison (Headmaster), Richard Griffiths (Hector), Stephen Campbell Moore (Irwin), Andrew Knott (Lockwood), Frances de la Tour (Mrs. Lintott), Samuel Barnett (Posner), Russell Tovey (Rudge), Jamie Parker (Scripps), James Corden (Timms)
+
 ## How to Succeed in Business Without Really Trying
 
 #### How to Succeed in Business Without Really Trying - Second Broadway Revival - March 5, 2011 (Preview)
@@ -7264,7 +7290,7 @@ NOTES
 
 # L
 
-<p align="center"><a id="markdown-toc-the-last-five-years" href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a id="markdown-toc-legally-blonde" href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/videos#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a id="markdown-toc-the-lightning-thief-the-percy-jackson-musical" href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#little-me">Little Me</a> <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a id="markdown-toc-little-miss-sunshine" href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a id="markdown-toc-a-little-night-music" href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a id="markdown-toc-little-shop-of-horrors" href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a id="markdown-toc-little-women" href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a id="markdown-toc-love-cycle-a-soap-operetta" href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a id="markdown-toc-love-never-dies" href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a href="https://kyratrades.github.io/videos#the-lieutenant-of-inishmore">The Lieutenant of Inishmore</a> • <a href="https://kyratrades.github.io/videos#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a href="https://kyratrades.github.io/videos#little-me">Little Me</a><a href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
 
 ## The Last Five Years
 
@@ -7481,6 +7507,20 @@ CAST
 
 NOTES
 : Digital, master, shot from 4th row of the mezz. Beautiful with lots of closeups of all of the cast members.
+
+## The Lieutenant of Inishmore
+
+#### The Lieutenant of Inishmore - Broadway - April 20, 2006 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.84 GB`
+
+CAST
+: Brian d'Arcy James (Brendan), Dashiell Eaves (Joey), Jeff Binder (James), Alison Pill (Mairead)
+
+NOTES
+: First five minutes are a little shaky but it gets much better after that
 
 ## The Light in the Piazza
 
@@ -8626,6 +8666,21 @@ CAST
 
 NOTES
 : Audience was full of excitement! The last 20 seconds are missing from the very end due to battery issues
+
+#### Les Misérables - Second Broadway Revival - August 21, 2014
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Nathaniel Hackmann (u/s Jean Valjean), Earl Carpenter (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche), Mia Sinclair Jenness (Little Cosette), Angeli Negron (Young Éponine), Adam Monley (The Bishop)
+
+NOTES
+: A fantastic capture of this lavish production. It’s refreshing to see different faces in the lead roles, and both Nathaniel and Earl carry the show well. Nathaniel’s vocals are powerful and he has a great rapport with Caissie and Samantha. A lovely capture overall with no obstruction. Look Down is mostly blacked out and there are a couple quick dropouts during The Bishop scene and Lovely Ladies, but the show is otherwise fully intact. There is also some washout in high contrast wide shots. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 #### Les Misérables - Second Broadway Revival - June 15, 2016 
 {: .no_toc .d-inline-block }
@@ -11152,7 +11207,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunday-in-the-park-with-george">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
+<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#sea-wall-a-life">Sea Wall / A Life</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunday-in-the-park-with-george">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
@@ -11254,6 +11309,24 @@ CAST
 
 NOTES
 : Beautiful HD capture of this wonderful show. Alex is perfectly cast as Dewey and leads the show well. A very nice capture with no obstruction, no washout, and just a couple quick dropouts. It gets a little dark at times and filmed from the right side. The sound is excellent. Includes curtain call and playbill scan. Alex Brightman shows why he deserves his Tony Nomination with a kick ass performance
+
+## Sea Wall / A Life
+
+#### Sea Wall/A Life - Broadway - July, 2019 (Highlights)
+{: .no_toc .d-inline-block }
+
+Hollis Mizner
+{: .label .label-blue }
+
+FORMAT
+: `1` VOB+smalls `1 DVD`
+: `2` MP4 `1080p` `4.07 GB`
+
+CAST
+: Tom Sturridge (Alex), Jake Gyllenhaal (Abe)
+
+NOTES
+: Incomplete.
 
 ## The Secret Garden
 
@@ -11500,7 +11573,8 @@ FORMAT
 CAST
 : Mariand Torres, Ryan Barker, Monica Ramirez, John Cardoza, Olivia Hernandez and Michael McCory Rose
 
-cStreamed Feb. 13-28, 2021; A juxtaposition of Stephen Schwartz’s songs from various musicals such as “Godspell,” “Wicked,” “Pippin,” “Working”.
+NOTES
+: Streamed Feb. 13-28, 2021; A juxtaposition of Stephen Schwartz’s songs from various musicals such as “Godspell,” “Wicked,” “Pippin,” “Working”.
 : Read more about it [here](https://www.theridgefieldpress.com/arts-leisure/article/Curtain-Call-ACT-s-Snapshots-movie-15954807.php).
 
 ## Something Rotten!
@@ -11813,6 +11887,20 @@ CAST
 
 NOTES
 : First Tour Performance. Stunning capture of the Tour. Absolutely no blackouts or obstructions from start to finish. Wonderful performances, beautiful capture and amazing cast. A+
+
+### West End
+
+#### Spring Awakening - West End (Novello Theatre) - May 30, 2009 (Matinee) (Closing Night) (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Aneurin Barnard (Melchior Gabor), Charlotte Wakefield (Wendla Bergmann), Iwan Rheon (Moritz Stiefel), Lucy May Barker (Ilse Neumann), Hayley Gallivan (Martha Bessell), Jamie Blackley (Hanschen Rilow), Harry McEntire (Ernst Robel), Edd Judge (Otto Lämmermeier), Jos Slovick (Georg Zirschnitz), Natasha Barnes (Anna), Evelyn Hoskins (Thea Rilow), Sian Thomas (The Adult Women), Richard Cordery (The Adult Men)
+
+NOTES
+: Highlights of approximately 45 minutes of Act 2 only; filmed in widescreen with nice picture and sound with no coverups until the end of Totally Fucked, then little snippets of video and a full Those You've Known, after which the video footage ends.
 
 ### Broadway Revival
 
@@ -13278,6 +13366,18 @@ CAST
 
 NOTES
 : This concert version of the show is abridged with shortened scenes, simple costumes, and no sets or choreography, but Jeremy, Solea, and Karen are absolutely phenomenal with soaring vocals and emotional performances. Very well captured with no dropouts, no obstruction, and no washout. The stage is filmed directly most of the time; the screens are occasionally filmed, usually when the actors are not onstage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### West Side Story - Leicester Curve - December, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS `13.33 GB`
+
+CAST
+: Jamie Muscato (Tony), Adriana Ivelisse (Maria), Carly Mercedes Dyer (Anita), Ronan Burns (Riff), Jonathan Hermosa-Lopez (Bernardo), Isaac Gryn (Action), Damian Buhagiar (Chino), Ryan Anderson (A-Rab), Alex Christian (Baby John), Dale White (Big Deal), Michael O’Reilly (Diesel), Beth Hinton-Lever (Anybodys), Darren Bennett (Lt. Schrank), Christopher Wright (Krupke), Christopher Wright (Doc), Darren Bennett (Glad Hand), Mireia Mambo (Rosalia), Abigail Climer (Consuela), Thea Bunting (Graziella), Katie Lee (Velma), Richard Appiah-Sarpong (Pepe), Dominic Sibanda (Indio)
 
 #### West Side Story - Leicester Curve - December, 2019
 {: .no_toc .d-inline-block }
