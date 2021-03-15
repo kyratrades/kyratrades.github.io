@@ -15,14 +15,7 @@ permalink: /concerts
 ### Navigation
 {: .no_toc }
 
-<details close markdown="block">
-  <summary>
-    Expand for show titles
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+<p align="center"><a href="https://kyratrades.github.io/concerts#bernadette-peters">Bernadette Peters</a> • <a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#eden-espinosa">Eden Espinosa</a> • <a href="https://kyratrades.github.io/concerts#eva-noblezada">Eva Noblezada</a> • <a href="https://kyratrades.github.io/concerts#laura-benanti">Laura Benanti</a> • <a href="https://kyratrades.github.io/concerts#lea-salonga">Lea Salonga</a> • <a href="https://kyratrades.github.io/concerts#liza-minnelli">Liza Minnelli</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#rachel-york">Rachel York</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#shoshana-bean">Shoshana Bean</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#sutton-foster">Sutton Foster</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a> • <a href="https://kyratrades.github.io/concerts#videos-1">MISC Videos</a> • <a href="https://kyratrades.github.io/concerts#audios-1">MISC Audios</a></p>
 
 ---
 
