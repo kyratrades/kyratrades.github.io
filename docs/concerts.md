@@ -411,6 +411,30 @@ CAST
 NOTES
 : An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
 
+#### Bernadette Peters in Concert Live from Royal Festival Hall - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+NOTES
+: "A diva who effuses sweetness as naturally as she breathes!" - The New York Times. Live from Royal Festival Hall in London, Bernadette Peters combines raw talent with alluring sophistication as she sings many Broadway standards, including "Broadway Baby" (Follies), "Time Heals Everything" (Mack & Mabel), and "Some People" (Gypsy). She also performs a selection of songs from her Grammy-nominated, bestselling album, "I'll Be Your Baby Tonight," as well as several numbers from Stephen Sondheim that were featured in her performance at Carnegie Hall, New York.
+
+#### Best of Musical Gala 2010 - Dortmund - February 24, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Pia Douwes, Ana Milva Gomez, Elizabeth Huebert, DMJ, Mark Seibert, Patrick Stanke, Willemijn Verkaik, Anton Zetterholm
+
+NOTES
+: Staged concert. Two cams edited together.
+
 #### Broadway Backwards 8 - New York City - March 28, 2013
 {: .no_toc .d-inline-block }
 
@@ -511,6 +535,21 @@ FORMAT
 NOTES
 : This is the full 2.5 hour Elaine Stritch at Liberty, ripped directly from the DVD. It was also run through an AI-powered HD upscaler to 1080p.
 
+#### Hey, Mr. Producer!: The Musical World of Cameron Mackintosh - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Colm Wilkinson, Lea Salonga, Russ Abbot, Julie Andrews, Michael Ball, John Barrowman, Peter Bayliss, Brian Blessed, Vadim Bondar, Kevyn Brackett, David Campbell, Judi Dench, Hal Fowler, Maria Friedman, Ellen Greene, Ruthie Henshall, Laurie Holloway, Jasna Ivir, Hugh Jackman, Teddy Kempner, Trent Kendall, Monroe Kent III, David Kernan, Tom Lehrer
+
+NOTES
+: Live recording of a 1998 concert given at the Lyceum Theater, London, as introduced by Dame Julie Andrews , in the presence of Her Majesty the Queen and HRH the Duke of Edinburgh. It was originally recorded for television. this 164 minutes concert, with at least 56 songs, from some of the biggest, most popular musicals to play New York's Broadway and/or London's West End, shows the magic and influence of Cameron Mackintosh on the world of musical theater. it brings together on one stage quite a few theatrical and celluloid stars, for a total of over 200 performers.
+
 #### Lea Salonga in Concert - Great Performances - November 27, 2020
 {: .no_toc .d-inline-block }
 
@@ -595,6 +634,21 @@ CAST
 NOTES
 : Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
 : Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
+
+#### Sondheim: A Celebration at Carnegie Hall - 1993
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Stephen Sondheim, Betty Buckley, Paul Gemignani, Patti LuPone, Liza Minnelli, Bernadette Peters
+
+NOTES
+: This program features the music of Broadway composer Stephen Sondheim in a 1992 performance at Carnegie Hall. An American Musical Theatre writer for over 40 years, Stephen Sondheim has created the scores for hits such as Passion, Assassins, Bounce, Into The Woods, Sunday In The Park With George, Merrily We Roll Along, Sweeney Todd and Pacific Overtures. Featuring: Liza Minnelli, Patti LuPone, Bernadette Peters, Glenn Close and many more.
 
 #### Standing Ovations I - New York City - May 23, 2004
 {: .no_toc .d-inline-block }
