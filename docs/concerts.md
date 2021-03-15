@@ -131,8 +131,8 @@ Pro-Shot
 FORMAT
 : MP4 `720p` `1.01 GB`
 
-NOTES
-: <https://www.birdlandjazz.com/e/eva-noblezada-streamed-from-birdland--125407574431/>
+LINK
+: [Birdland](https://www.birdlandjazz.com/e/eva-noblezada-streamed-from-birdland--125407574431/)
 
 ## Laura Benanti
 
@@ -145,8 +145,8 @@ Pro-Shot
 FORMAT
 : MP4 `720p` `1.63 GB`
 
-NOTES
-: <https://texasperformingarts.org/event/women-of-broadway-laura-benanti-virtual-event-2020>
+LINK
+: [Texas Performing Arts](https://texasperformingarts.org/event/women-of-broadway-laura-benanti-virtual-event-2020)
 
 ## Lea Salonga
 
@@ -189,7 +189,7 @@ NOTES
 ; Performances, odes, and birthday wishes from Joel Grey, Lily Tomlin, Catherine Zeta-Jones, Chita Rivera, Joan Collins, Harry Connick, Jr., Ben Vereen and dancers from the Verdon-Fosse Legacy, Ute Lemper, Billy Stritch, Charles Busch, Kathie Lee Gifford, Lea Delaria, Jim Caruso, Jonathan Groff, Sandra Bernhard, Andrew Rannells, Nathan Lane, Mario Cantone, Tony Hale, Coco Peru, John Cameron Mitchell, Michele Lee, Andrea Martin, Seth Sikes, Neil Meron, Lorna Luft, John Kander, Michael Feinstein, Julie Halston, Melissa Manchester, Jason Alexander, Parker Posey, Kathy Griffin, Nicholas King, Kathy Najimy, Hoda Kotb, Michael York, Craig Ferguson, and Haley Swindal.
 
 LINK
-: <https://www.stellartickets.com/o/daniel-nardicio-sam-benedict-matt-berman-and-scott-gorenstein/events/a-love-letter-to-liza-minnelli-75th-all-star-birthday-tribute-celebration>
+: [Stellar](https://www.stellartickets.com/o/daniel-nardicio-sam-benedict-matt-berman-and-scott-gorenstein/events/a-love-letter-to-liza-minnelli-75th-all-star-birthday-tribute-celebration)
 
 ## The Meg an\' Sho Show
 
@@ -336,7 +336,7 @@ FORMAT
 : MP4 `1080p` `2.75 GB`
 
 NOTES
-: <https://texasperformingarts.org/event/women-of-broadway-patti-lupone-virtual-event-2020>
+: [Texas Performing Arts](https://texasperformingarts.org/event/women-of-broadway-patti-lupone-virtual-event-2020)
 
 ## Rachel York
 
