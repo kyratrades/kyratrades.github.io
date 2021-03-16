@@ -23,6 +23,13 @@ permalink: /videos
 
 ---
 
+### File formats
+{: .no_toc }
+
+<center>DVDs = <code>VOB+smalls</code> • Blu-rays = <code>BDMV</code> or <code>M2TS</code> • Digital = <code>MP4</code> or <code>MKV</code> or <code>MOV</code> or <code>AVI</code></center>
+
+---
+
 ### Navigation
 {: .no_toc }
 
@@ -7515,6 +7522,21 @@ CAST
 
 NOTES
 : An amazing capture in 16:9 wide-screen with no obstructions with action well followed. This cast is a real treat giving Impeccable sparkling performances. Brookes's Elle really shines and she is a joy to watch. A+
+
+#### Legally Blonde - North Shore Music Theatre - November, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kelly Felthous (Elle Woods), Barrett Hall (Emmett Forrest), Will Ray (Warner Huntington III), Gaelen Gilliland (Paulette), Kate Loprest (Vivienne Kensington), Taryn Darr (Brooke Wyndham/Shandi), Paul Jackel (Professor Callahan), Sara Andreas (Margot), Tiffany Engen (Serena), Allysa Shorte (Pilar), Trish LaRose (Veronica/Enid)
+
+NOTES
+: Performed in the round, one camera on a tripod and sound patched in from the soundboard.
 
 #### Legally Blonde - 54 Below - March 3, 2019
 {: .no_toc .d-inline-block }
