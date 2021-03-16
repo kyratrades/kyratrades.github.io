@@ -15,7 +15,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD` `English (Soft subs)`
+: VOB+smalls `1 DVD` `Commercial DVD` `English (Soft subtitles)`
 
 CAST
 : Cheryl Barker (Mimì), David Hobson (Rodolfo), Christine Douglas (Musetta), Roger Lemke (Marcello), David Lemke (Schaunard), Gary Rowley (Colline), John Bolton-Wood (Alcindoro), Graeme Ewer (Benoit), John Fernon (Sergeant), Jin Tea Kim (Parpignol)
@@ -70,14 +70,14 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `2 DVDs` `Commercial DVD` `Multilingual soft subs`
+: VOB+smalls `2 DVDs` `Commercial DVD` `Multilingual soft subtitles`
 
 CAST
 : The queen herself, Leontyne Price as Donna Leonora
 
 NOTES
 : <https://www.imdb.com/title/tt0256034/>
-: Soft subs for: italiano, english, deutsch, français, castellano, 中文
+: Soft subtitles for: italiano, english, deutsch, français, castellano, 中文
 
 #### Lucia di Lammermoor (Donizetti) - Teatro Real Madrid -  July 7, 2018
 {: .no_toc .d-inline-block }
