@@ -6017,8 +6017,11 @@ FORMAT
 CAST
 : Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate), Afra Hines, Ahmad Simmons, John Krause, Kimberly Marable, Timothy Hughes
 
-NOTES
+MASTER'S NOTES
 : Previews! Picks up after \"Road to Hell.\" Decent capture with a lot of beautiful zooms, two really annoying heads, and a drop out occasionally but never for long (For the first time in my mastering career I kept putting the camera down after musical numbers because I couldn\'t NOT clap). This was my first time seeing the show and hearing this music so I was sometimes focused on the wrong things. Oh well. Overall, I love this video. I got home at 2AM after filming it and just SOBBED while I rewatched some of my favorite moments. WHAT A SHOW!
+
+EDITOR'S NOTES
+: This video is an edit I made with StarCuffedJeans's video of the March 2019 Broadway performance, and I filled the blanks with other shows: The intro "Road to Hell" is from lots-of-lists's master of January 2019 at the National Theater, in London. The intro of Act 2, "Lady of the Underground" is from chauvelin's master, also in London, but it transitions to StarCuffedJeans's audio at the start of the song, so the musicians Persephone is introducing in the song aren't the same artists as she names. (may sound like a detail but worth mentioning! Also the ensemble in those other videos aren't the same performers in the main one!) But the video is clear, and that helps a lot to know what's going on on stage! I would have loved to fill other blackouts mid-show but the London and Broadway outfits are very different for Orpheus and Eurydice, so it doesn't really blends seamlessly, and I decided to keep the same SCJ's master all the way. The ending song, "We Raise Our Cups" after the bows comes from another video but I don't know who is the master of this one. Also, the nice title and intermission screens were taken from everyturnandtwist's master!
 
 #### Hadestown - Broadway - August, 2019
 {: .no_toc .d-inline-block }
