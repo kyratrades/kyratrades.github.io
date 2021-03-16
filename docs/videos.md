@@ -30,7 +30,7 @@ permalink: /videos
 
 <center><small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code></center>
 
-<center><small>Commercial pro-shots (best quality): </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
+<center><small>Pro-shots (best quality): </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
 
 <center><small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code></center>
 
