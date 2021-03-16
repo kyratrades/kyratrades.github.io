@@ -23,10 +23,8 @@ permalink: /videos
 
 ---
 
-### Key terms
+### Search for these terms if you are looking for...
 {: .no_toc }
-
-<center><small>Search for these terms if you are looking for...</small></center>
 
 <center><small>Blu-rays (HD): </small><code>BDMV</code><small> or </small><code>M2TS</code></center>
 
@@ -34,7 +32,7 @@ permalink: /videos
 
 <center><small>Commercial pro-shots in the highest quality possible: </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
 
-<center><small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code><small> or </small><code>soft subs</code></center>
+<center><small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code></center>
 
 ---
 
