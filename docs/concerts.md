@@ -186,7 +186,7 @@ FORMAT
 : MP4 `1080p` `5.47 GB`
 
 NOTES
-; Performances, odes, and birthday wishes from Joel Grey, Lily Tomlin, Catherine Zeta-Jones, Chita Rivera, Joan Collins, Harry Connick, Jr., Ben Vereen and dancers from the Verdon-Fosse Legacy, Ute Lemper, Billy Stritch, Charles Busch, Kathie Lee Gifford, Lea Delaria, Jim Caruso, Jonathan Groff, Sandra Bernhard, Andrew Rannells, Nathan Lane, Mario Cantone, Tony Hale, Coco Peru, John Cameron Mitchell, Michele Lee, Andrea Martin, Seth Sikes, Neil Meron, Lorna Luft, John Kander, Michael Feinstein, Julie Halston, Melissa Manchester, Jason Alexander, Parker Posey, Kathy Griffin, Nicholas King, Kathy Najimy, Hoda Kotb, Michael York, Craig Ferguson, and Haley Swindal.
+: Performances, odes, and birthday wishes from Joel Grey, Lily Tomlin, Catherine Zeta-Jones, Chita Rivera, Joan Collins, Harry Connick, Jr., Ben Vereen and dancers from the Verdon-Fosse Legacy, Ute Lemper, Billy Stritch, Charles Busch, Kathie Lee Gifford, Lea Delaria, Jim Caruso, Jonathan Groff, Sandra Bernhard, Andrew Rannells, Nathan Lane, Mario Cantone, Tony Hale, Coco Peru, John Cameron Mitchell, Michele Lee, Andrea Martin, Seth Sikes, Neil Meron, Lorna Luft, John Kander, Michael Feinstein, Julie Halston, Melissa Manchester, Jason Alexander, Parker Posey, Kathy Griffin, Nicholas King, Kathy Najimy, Hoda Kotb, Michael York, Craig Ferguson, and Haley Swindal.
 
 LINK
 : [Stellar](https://www.stellartickets.com/o/daniel-nardicio-sam-benedict-matt-berman-and-scott-gorenstein/events/a-love-letter-to-liza-minnelli-75th-all-star-birthday-tribute-celebration)
@@ -483,7 +483,9 @@ FORMAT
 
 FORMAT
 : MP4 `720p`
-: Screen recording of the livestream on the titles date
+
+NOTES
+: Screen recording of the livestream on the titled date
 
 ### Audios
 
