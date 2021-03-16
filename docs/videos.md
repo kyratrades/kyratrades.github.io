@@ -23,14 +23,16 @@ permalink: /videos
 
 ---
 
-### File formats
+### Key terms
 {: .no_toc }
 
-<center><small>DVDs (SD): </small><code>VOB+smalls</code><small> or </small><code>ISO</code></center>
+<center><small>Search for these terms if you are looking for...</small></center>
 
 <center><small>Blu-rays (HD): </small><code>BDMV</code><small> or </small><code>M2TS</code></center>
 
-<center><small>Digital (SD/HD): </small><small>everything else</small></center>
+<center><small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code></center>
+
+<center><small>Commercial pro-shots in the highest quality possible: </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
 
 ---
 
