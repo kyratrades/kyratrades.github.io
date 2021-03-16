@@ -34,6 +34,8 @@ permalink: /videos
 
 <center><small>Commercial pro-shots in the highest quality possible: </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
 
+<center><small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code><small> or </small><code>soft subs</code></center>
+
 ---
 
 ### Navigation
