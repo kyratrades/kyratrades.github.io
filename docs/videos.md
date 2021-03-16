@@ -7436,6 +7436,23 @@ FORMAT
 CAST
 : Laura Bell Bundy (Elle Woods), Andy Karl (u/s Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
 
+#### Legally Blonde - Broadway - September 18, 2007
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` VOB+smalls `2 DVDs`
+: `2` MP4 `1080p Upscale` `2.87 GB`
+: NOT the upscale posted on YouTube that is watermarked
+
+CAST
+: Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
+
+NOTES
+: MTV Proshot, Broadcast October 13th and October 14th 2007.
+
 #### Legally Blonde - Broadway - March 2, 2008
 {: .no_toc .d-inline-block }
 
