@@ -26,7 +26,7 @@ permalink: /videos
 ### File formats
 {: .no_toc }
 
-<center>DVDs = <code>VOB+smalls</code> • Blu-rays = <code>BDMV</code> or <code>M2TS</code> • Digital = <code>MP4</code> or <code>MKV</code> or <code>MOV</code> or <code>AVI</code></center>
+<center>DVDs = <code>VOB+smalls</code><small> or </small><code>ISO</code> • Blu-rays = <code>BDMV</code><small> or </small><code>M2TS</code> • Digital = <code>MP4</code><small> or </small><code>MKV</code><small> or </small><code>MOV</code><small> or <code>AVI</code></center>
 
 ---
 
