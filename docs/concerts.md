@@ -8,7 +8,10 @@ permalink: /concerts
 # Concerts
 {: .no_toc }
 
-<center><small>Note: Shows in concerts are listed under their respective titles. This page is reserved for other special events. Includes both videos and audios.</small></center>
+### Note
+{: .no_toc }
+
+<center><small>Shows in concerts are listed under their respective titles. This page is reserved for other special events. Includes both videos and audios.</small></center>
 
 ---
 
