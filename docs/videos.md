@@ -26,11 +26,11 @@ permalink: /videos
 ### File formats
 {: .no_toc }
 
-<center><small>DVDs (SD)</small><br><code>VOB+smalls</code><small> or </small><code>ISO</code></center>
+<center><small>DVDs (SD): </small><code>VOB+smalls</code><small> or </small><code>ISO</code></center>
 
-<center><small>Blu-rays (HD)</small><br><code>BDMV</code><small> or </small><code>M2TS</code></center>
+<center><small>Blu-rays (HD): </small><code>BDMV</code><small> or </small><code>M2TS</code></center>
 
-<center><small>Digital (SD/HD)</small><br><small>everything else</small></center>
+<center><small>Digital (SD/HD): </small><small>everything else</small></center>
 
 ---
 
