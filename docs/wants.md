@@ -212,6 +212,8 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - First National Tour (Emerald City) - May 8, 2005 \| SunsetBlvd79
 
+- Wicked - First National Tour (Emerald City) - March 14, 2006 \| SunsetBlvd79
+
 - Wicked - First National Tour (Emerald City) - March 6, 2007 \| SunsetBlvd79 `should have the polaroid menu`
 
 - Wicked - First National Tour (Emerald City) - December 12, 2007 \| SunsetBlvd79 `should have the polaroid menu`
@@ -219,8 +221,6 @@ I'm looking for the original files released by the master for these items. I'm e
 - Wicked - West End - October 31, 2006 \| SunsetBlvd79 `should have the polaroid menu`
 
 - Wicked - West End - October 18, 2007 \| SunsetBlvd79 `should have the polaroid menu`
-
-- Wicked - Los Angeles - August 9, 2008 \| SunsetBlvd79
 
 - Wicked - Los Angeles - April 23, 2008 \| SunsetBlvd79
 
@@ -259,6 +259,16 @@ I'm looking for the original files released by the master for these items. I'm e
 - The Color Purple - Broadway Revival - December 28, 2015
 
 - Chicago - West End Revival - June 13, 2001
+
+### Blu-ray videos
+
+- The Addams Family - First National Tour - July, 2012
+
+- Cabaret - Third Broadway Revival - August 19, 2014 (SJ Bernly's master)
+
+- Cabaret - Third Broadway Revival - December 28, 2014
+
+- If/Then - First National Tour - January 24, 2016 (SJ Bernly's master) (Idina’s Last)
 
 ### Audios
 
