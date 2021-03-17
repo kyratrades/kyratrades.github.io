@@ -145,7 +145,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
+: VOB+smalls `1 DVD`
 
 CAST
 : First annual fund-raising event benefiting Phyllis Newman’s Woman’s Health Initiative and the Actor’s Fund, presented at the Virginia Theatre.  Hosted by Julie Halston and Glenn Close, with Julie Andrews, Laurie Beechman, Uta Hagen, Marin Mazzie, Andrea Martin, Debra Monk, Irene Worth, Jane Powell, Lillias White, Lauren Becall, Judy Kuhn, Randy Graff, Lynn Redgrave, Betty Buckley, Zoe Caldwell, Carol Channing, Phyllis Newman, and others. 
@@ -160,7 +160,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
+: VOB+smalls `1 DVD`
 
 CAST
 : Lillias White, Amanda Green, Phyllis Newman, Barbara Walsh, Jennifer Cody, Karen Ziemba, Randy Graff, Dee Hoty, Phylicia Rashad, Zoe Caldwell, Charles Busch, Sutton Foster, Megan McGinnis, Andrea McArdle, more
@@ -516,6 +516,15 @@ NOTES
 
 ## Patti Lupone
 
+#### An Evening with Patti LuPone - PBS Special - 1997
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
+
+NOTES
+: On the same DVD as the [Anything Goes \'lost footage\'](https://kyratrades.github.io/videos#anything-goes---first-broadway-revival---1988-lost-footage-highlights)
+
 #### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
 {: .no_toc .d-inline-block }
 
@@ -525,17 +534,14 @@ Watched
 FORMAT
 : VOB+smalls `1 DVD`
 
-#### An Evening with Patti LuPone
+#### Patti LuPone and Seth Rudetsky: Broadway At The Art House - Provincetown, MA - July 4 and 5, 2012
 {: .no_toc .d-inline-block }
 
-Watched
-{: .label .label-yellow }
-
-FORMAT
-: VOB+smalls `1 DVD`
+Pro-Shot
+{: .label .label-green }
 
 NOTES
-: On the same DVD as the [Anything Goes \'lost footage\'](https://kyratrades.github.io/videos#anything-goes---first-broadway-revival---1988-lost-footage-highlights)
+: Patti LuPone makes her Art House debut with Seth Rudetsky at the piano. This show was part of a series of 10 unrehearsed shows produced and hosted by Seth which featured him asking a series of questions of his guests (other shows included Audra McDonald, Betty Buckley, Andrea Martin, Judy Kuhn, Alice Ripley, and Meghan Mullally), then running to the piano to illustrate a point, or just an excuse for the guest to sing a song. Patti had no idea what he would ask, or what she would be asked to sing. This disc was edited from 4 shows they did together and highlights the best of the best. Filmed using multiple cameras.
 
 #### Live from the West Side: Women of Broadway - October 24, 2020
 {: .no_toc .d-inline-block }
@@ -659,6 +665,15 @@ FORMAT
 
 CAST
 : Sutton Foster, Jonathan Groff (Guest)
+
+#### Sutton Foster and Seth Rudetsky: Broadway at The Art House - Provincetown, MA - July 4 and 5, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+NOTES
+: This show was part of a series of 10 unrehearsed shows produced and hosted by Seth which featured him asking a series of questions of his guests (other shows featured Audra McDonald, Betty Buckley, Andrea Martin, Judy Kuhn, Alice Ripley, and Patti LuPone), then running to the piano to illustrate a point, or just an excuse for the guest to sing a song. Recorded live on July 4th and 5th, 2013 and edited together A
 
 ---
 
