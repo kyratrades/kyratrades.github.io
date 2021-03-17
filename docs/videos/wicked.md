@@ -1,15 +1,20 @@
 ---
 layout: default
-title: Wicked videos
+title: Wicked
 parent: Videos
 nav_order: 2
 permalink: /wicked
 ---
 
-# Wicked videos
+# Wicked
+{: .no_toc }
+
+### Navigation
 {: .no_toc }
 
 <p align="center"><a href="https://kyratrades.github.io/videos#broadway-6">Broadway</a> • <a href="https://kyratrades.github.io/videos#chicago-1">Chicago</a> • <a href="https://kyratrades.github.io/videos#first-national-tour-2">First National Tour</a> • <a href="https://kyratrades.github.io/videos#japan">Japan</a> • <a href="https://kyratrades.github.io/videos#west-end-4">West End</a> • <a href="https://kyratrades.github.io/videos#los-angeles">Los Angeles</a> • <a href="https://kyratrades.github.io/videos#stuttgart-1">Stuttgart</a> • <a href="https://kyratrades.github.io/videos#san-francisco">San Francisco</a> • <a href="https://kyratrades.github.io/videos#second-national-tour">Second National Tour</a> • <a href="https://kyratrades.github.io/videos#oberhausen">Oberhausen</a> • <a href="https://kyratrades.github.io/videos#scheveningen">Scheveningen</a> • <a href="https://kyratrades.github.io/videos#mexico">Mexico</a> • <a href="https://kyratrades.github.io/videos#brazil-1">Brazil</a> • <a href="https://kyratrades.github.io/videos#international-tour">International Tour</a> • <a href="https://kyratrades.github.io/videos#specials-1">Specials</a></p>
+
+---
 
 ### Broadway
 

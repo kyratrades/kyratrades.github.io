@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /musicals
 ---
 
-# Videos
+# Musicals
 {: .no_toc }
 
 ### Navigation
@@ -8645,6 +8645,30 @@ CAST
 
 NOTES
 : Beautiful HD capture of the fabulous Amber Ardolino as Satine and Dylan Paul as the Duke. Filmed from the rear left orchestra with a mix of wides, mediums, and many close-ups.
+
+### Specials
+
+#### Moulin Rouge (2001)
+{: .no_toc .d-inline-block }
+
+Movie
+{: .label .label-green }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: `1` MKV `1080p` `4.16 GB`
+: `2` VOB+smalls `2 DVDs` `Commercial DVD`
+
+CAST
+: Nicole Kidman, Ewan McGregor, John Leguizamo
+
+NOTES
+: The MKV is a blu-ray rip while the DVDs are the "Two-Disc Collector's Edition" with 6 hours worth of extras (documentary, interviews, unseen footage and more!). The DVDs are very nicely constructed.
+
+IMDB
+: <https://www.imdb.com/title/tt0203009/>
 
 ## Murder Ballad
 
