@@ -166,7 +166,9 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee) \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
-#### I have a DVD recorder / re-encoded copy for these, looking for the original (first generation) files:
+#### I have a DVD recorder / re-authored copy for these, looking for the original (first generation) files:
+
+- The Addams Family - Pre-Broadway / Chicago - December 27, 2009 \| SunsetBlvd79
 
 - Aida - Broadway - March 29, 2000 (Matinee) \| Major
 
