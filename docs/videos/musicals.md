@@ -5254,7 +5254,19 @@ NOTES
 
 ## Fosse
 
-#### 
+#### Fosse - Broadway - August, 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `DVD rip`
+
+CAST
+: Ann Reinking (Ann Reinking), Ben Vereen (Performer), Eugene Fleming, Rachelle Rak, Brad Anderson, Dana Moore, Ken Alan, Dylis Croman 
+NOTES
+: Aired as part of the Great Performances series on PBS television. <https://www.imdb.com/title/tt0312701/>
 
 ## Frozen
 
@@ -5752,7 +5764,7 @@ CAST
 
 # H
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/musicals#hair">Hair</a> • <a href="https://kyratrades.github.io/musicals#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/musicals#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/musicals#haven">Haven</a> • <a href="https://kyratrades.github.io/musicals#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/musicals#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/musicals#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/musicals#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/musicals#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/musicals#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/musicals#high-society">High Society</a> • <a href="https://kyratrades.github.io/musicals#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/musicals#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/musicals#hair">Hair</a> • <a href="https://kyratrades.github.io/musicals#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/musicals#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/musicals#haven">Haven</a> • <a href="https://kyratrades.github.io/musicals#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/musicals#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/musicals#hedwig-and-the-angry-inch">Hedwig and the Angry Inch</a> • <a href="https://kyratrades.github.io/musicals#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/musicals#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/musicals#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/musicals#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/musicals#high-society">High Society</a> • <a href="https://kyratrades.github.io/musicals#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/musicals#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
 
 ## Hadestown
 
@@ -6166,7 +6178,7 @@ NOTES
 
 ## Heathers: The Musical
 
-#### Heathers: The Musical - Off-Broadway - May 25, 2014 
+#### Heathers - Off-Broadway - May 25, 2014 
 {: .no_toc .d-inline-block }
 
 SJ Bernly
@@ -6183,6 +6195,17 @@ CAST
 
 NOTES
 : A near perfect capture and the first known DVD of this show's Off-Broadway run. Barrett is incredibly talented: amazing vocals, acting and comedic timing. Dan and Charissa are both fantastic in their roles as well. The show is absolutely hysterical, much improved from the movie version. The first minute of Act One is blacked out, but the show is otherwise fully intact with no blackouts and only slight washout in a few wide shots. There is no obstruction, the video is steady, the sound is excellent, and it's captured very well with the usual mix of wides, mediums, and close-ups. It's filmed in 16:9 and includes curtain call, encore, and playbill scans.
+
+## Hedwig and the Angry Inch
+
+#### Hedwig and the Angry Inch - South Korea - November 16, 2019 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: M2TS `20.1 GB`
+
+CAST
+: 전동석 Jeon Dong Seok (Hedwig), 홍서영 Hong Seo Young (Yitzhak)
 
 ## Helen of Troy
 
@@ -7130,9 +7153,8 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: `1` VOB+smalls `2 DVDs`
-: `2` MP4 `1080p Upscale` `2.87 GB`
-: NOT the upscale posted on YouTube that is watermarked
+: MP4 `1080p Upscale` `2.87 GB`
+: NOT the upscale posted on YouTube that is watermarked. This upscale is sourced from the 2 DVD version of the original broadcast.
 
 CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
