@@ -1,51 +1,24 @@
 ---
 layout: default
-title: Videos
-nav_order: 2
-permalink: /videos
+title: Musicals
+parent: Videos
+nav_order: 1
+permalink: /musicals
 ---
 
 # Videos
 {: .no_toc }
 
-### Important
-{: .no_toc }
-
-<p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
-
-<p align="center"><small>I check every single video bootleg for missing files and glitches before listing them onto my site, and will list any issues. Do keep in mind there's still a chance I have missed or mislabelled something, in which case I will offer a replacement and update you when I find the correct copy.</small></p>
-
-<p align="center"><small>If you have a better copy than my existing one (lower generation, larger file size, original smalls etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
-
-<p align="center"><small>I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB). Feel free to ask for additional info (e.g. screenshots, files list).</small></p>
-
-<p align="center"><small>Happy trading!</small></p>
-
----
-
-### Search for these terms if you are looking for...
-{: .no_toc }
-
-<center><small>Blu-rays (HD): </small><code>BDMV</code><small> or </small><code>M2TS</code></center>
-
-<center><small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code></center>
-
-<center><small>Pro-shots (best quality): </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
-
-<center><small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code></center>
-
----
-
 ### Navigation
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/videos#top">#</a> • <a href="https://kyratrades.github.io/videos#a">A</a> • <a href="https://kyratrades.github.io/videos#b">B</a> • <a href="https://kyratrades.github.io/videos#c">C</a> • <a href="https://kyratrades.github.io/videos#d">D</a> • <a href="https://kyratrades.github.io/videos#e">E</a> • <a href="https://kyratrades.github.io/videos#f">F</a> • <a href="https://kyratrades.github.io/videos#g">G</a> • <a href="https://kyratrades.github.io/videos#h">H</a> • <a href="https://kyratrades.github.io/videos#i">I</a> • <a href="https://kyratrades.github.io/videos#j">J</a> • <a href="https://kyratrades.github.io/videos#k">K</a> • <a href="https://kyratrades.github.io/videos#l">L</a> • <a href="https://kyratrades.github.io/videos#m">M</a> • <a href="https://kyratrades.github.io/videos#n">N</a> • <a href="https://kyratrades.github.io/videos#o">O</a> • <a href="https://kyratrades.github.io/videos#p">P</a> • Q • <a href="https://kyratrades.github.io/videos#r">R</a> • <a href="https://kyratrades.github.io/videos#s">S</a> • <a href="https://kyratrades.github.io/videos#t">T</a> • <a href="https://kyratrades.github.io/videos#u">U</a> • <a href="https://kyratrades.github.io/videos#v">V</a> • <a href="https://kyratrades.github.io/videos#w">W</a> • <a href="https://kyratrades.github.io/videos#x">X</a> • <a href="https://kyratrades.github.io/videos#y">Y</a> • <a href="https://kyratrades.github.io/videos#z">Z</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#top">#</a> • <a href="https://kyratrades.github.io/musicals#a">A</a> • <a href="https://kyratrades.github.io/musicals#b">B</a> • <a href="https://kyratrades.github.io/musicals#c">C</a> • <a href="https://kyratrades.github.io/musicals#d">D</a> • <a href="https://kyratrades.github.io/musicals#e">E</a> • <a href="https://kyratrades.github.io/musicals#f">F</a> • <a href="https://kyratrades.github.io/musicals#g">G</a> • <a href="https://kyratrades.github.io/musicals#h">H</a> • <a href="https://kyratrades.github.io/musicals#i">I</a> • <a href="https://kyratrades.github.io/musicals#j">J</a> • <a href="https://kyratrades.github.io/musicals#k">K</a> • <a href="https://kyratrades.github.io/musicals#l">L</a> • <a href="https://kyratrades.github.io/musicals#m">M</a> • <a href="https://kyratrades.github.io/musicals#n">N</a> • <a href="https://kyratrades.github.io/musicals#o">O</a> • <a href="https://kyratrades.github.io/musicals#p">P</a> • Q • <a href="https://kyratrades.github.io/musicals#r">R</a> • <a href="https://kyratrades.github.io/musicals#s">S</a> • <a href="https://kyratrades.github.io/musicals#t">T</a> • <a href="https://kyratrades.github.io/musicals#u">U</a> • <a href="https://kyratrades.github.io/musicals#v">V</a> • <a href="https://kyratrades.github.io/musicals#w">W</a> • <a href="https://kyratrades.github.io/musicals#x">X</a> • <a href="https://kyratrades.github.io/musicals#y">Y</a> • <a href="https://kyratrades.github.io/musicals#z">Z</a></p>
 
 ---
 
 # \#
 
-<p align="center"><a href="https://kyratrades.github.io/videos#-juliet">&amp; Juliet</a> • <a href="https://kyratrades.github.io/videos#3-Musketeers">3 Musketeers</a> • <a href="https://kyratrades.github.io/videos#9-to-5-the-musical">9 to 5: The Musical</a> • <a href="https://kyratrades.github.io/videos#13">13</a> • <a href="https://kyratrades.github.io/videos#the-25th-annual-putnam-county-spelling-bee">The 25th Annual Putnam County Spelling Bee</a> • <a href="https://kyratrades.github.io/videos#42nd-street">42nd Street</a> • <a href="https://kyratrades.github.io/videos#110-in-the-shade">110 in the Shade</a> • <a href="https://kyratrades.github.io/videos#1776">1776</a> • <a href="https://kyratrades.github.io/videos#1984">1984</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#-juliet">&amp; Juliet</a> • <a href="https://kyratrades.github.io/musicals#3-Musketeers">3 Musketeers</a> • <a href="https://kyratrades.github.io/musicals#9-to-5-the-musical">9 to 5: The Musical</a> • <a href="https://kyratrades.github.io/musicals#13">13</a> • <a href="https://kyratrades.github.io/musicals#the-25th-annual-putnam-county-spelling-bee">The 25th Annual Putnam County Spelling Bee</a> • <a href="https://kyratrades.github.io/musicals#42nd-street">42nd Street</a> • <a href="https://kyratrades.github.io/musicals#110-in-the-shade">110 in the Shade</a> • <a href="https://kyratrades.github.io/musicals#1776">1776</a></p>
 
 ## & Juliet
 
@@ -125,7 +98,7 @@ NOTES
 
 ## 9 to 5: The Musical
 
-<p align="center"><a href="https://kyratrades.github.io/videos#pre-broadway--los-angeles">Pre-Broadway / Los Angeles</a> • <a href="https://kyratrades.github.io/videos#broadway">Broadway</a> • <a href="https://kyratrades.github.io/videos#misc">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#pre-broadway--los-angeles">Pre-Broadway / Los Angeles</a> • <a href="https://kyratrades.github.io/musicals#broadway">Broadway</a> • <a href="https://kyratrades.github.io/musicals#misc">MISC</a></p>
 
 ### Pre-Broadway / Los Angeles
 
@@ -587,26 +560,9 @@ CAST
 NOTES
 : Great HD capture from the balcony. It is shot from far back and high up, but very nice.
 
-## 1984
-
-#### 1984 - Broadway - July 1, 2017
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Cara Seymour (Mrs. Parsons), Max Baker (Emmanuel Goldstein), Michael Potts (Charrington), Nick Mills (Syme), Olivia Wilde (Julia), Reed Birney (O\'Brien), Richard Gallagher (Thought Criminal), Sami Bray (Child), Tom Sturridge (Winston), Wayne Duvall (Parsons)
-
-NOTES
-: Excellent HD capture of George Orwell\'s iconic novel. This controversial and graphic Big Brother play had multiple people leaving their seats. A
-
 # A
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-addams-family">The Addams Family</a> • <a href="https://kyratrades.github.io/videos#after-midnight">After Midnight</a> • <a href="https://kyratrades.github.io/videos#aida">Aida</a> • <a href="https://kyratrades.github.io/videos#aint-too-proud">Ain't Too Proud</a> • <a href="https://kyratrades.github.io/videos#aladdin">Aladdin</a> • <a href="https://kyratrades.github.io/videos#alice-at-the-palace">Alice at the Palace</a> • <a href="https://kyratrades.github.io/videos#alice-by-heart">Alice By Heart</a> • <a href="https://kyratrades.github.io/videos#allegiance">Allegiance</a> • <a href="https://kyratrades.github.io/videos#amadeus">Amadeus</a> • <a href="https://kyratrades.github.io/videos#amélie">Am&eacute;lie</a> • <a href="https://kyratrades.github.io/videos#an-american-in-paris">An American in Paris</a> • <a href="https://kyratrades.github.io/videos#anastasia">Anastasia</a> • <a href="https://kyratrades.github.io/videos#annie">Annie</a> • <a href="https://kyratrades.github.io/videos#annie-2-miss-hannigans-revenge">Annie 2: Miss Hannigan's Revenge</a> • <a href="https://kyratrades.github.io/videos#annie-get-your-gun">Annie Get Your Gun</a> • <a href="https://kyratrades.github.io/videos#anyone-can-whistle">Anyone Can Whistle</a> • <a href="https://kyratrades.github.io/videos#anything-goes">Anything Goes</a> • <a href="https://kyratrades.github.io/videos#aspects-of-love">Aspects of Love</a> • <a href="https://kyratrades.github.io/videos#assassins">Assassins</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-addams-family">The Addams Family</a> • <a href="https://kyratrades.github.io/musicals#after-midnight">After Midnight</a> • <a href="https://kyratrades.github.io/musicals#aida">Aida</a> • <a href="https://kyratrades.github.io/musicals#aint-too-proud">Ain't Too Proud</a> • <a href="https://kyratrades.github.io/musicals#aladdin">Aladdin</a> • <a href="https://kyratrades.github.io/musicals#alice-at-the-palace">Alice at the Palace</a> • <a href="https://kyratrades.github.io/musicals#alice-by-heart">Alice By Heart</a> • <a href="https://kyratrades.github.io/musicals#allegiance">Allegiance</a> • <a href="https://kyratrades.github.io/musicals#amélie">Am&eacute;lie</a> • <a href="https://kyratrades.github.io/musicals#an-american-in-paris">An American in Paris</a> • <a href="https://kyratrades.github.io/musicals#anastasia">Anastasia</a> • <a href="https://kyratrades.github.io/musicals#annie">Annie</a> • <a href="https://kyratrades.github.io/musicals#annie-2-miss-hannigans-revenge">Annie 2: Miss Hannigan's Revenge</a> • <a href="https://kyratrades.github.io/musicals#annie-get-your-gun">Annie Get Your Gun</a> • <a href="https://kyratrades.github.io/musicals#anyone-can-whistle">Anyone Can Whistle</a> • <a href="https://kyratrades.github.io/musicals#anything-goes">Anything Goes</a> • <a href="https://kyratrades.github.io/musicals#aspects-of-love">Aspects of Love</a> • <a href="https://kyratrades.github.io/musicals#assassins">Assassins</a></p>
 
 ## The Addams Family
 
@@ -618,6 +574,7 @@ SunsetBlvd79
 
 FORMAT
 : VOB+smalls `1 DVD`
+: NOT the original DVD, but the re-authored one. Would trade for the original files!
 
 CAST
 : Nathan Lane (Gomez Addams), Bebe Neuwirth (Morticia Addams), Krysta Rodriguez (Wednesday Addams), Kevin Chamberlin (Fester Addams), Adam Riegler (Pugsley Addams), Jackie Hoffman (Grandma Addams), Zachary James (Lurch), Carolee Carmello (Alice Beineke), Terrence Mann (Mal Beineke)
@@ -649,14 +606,9 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
-Issues
-{: .label .label-red }
-
 FORMAT
 : VOB+smalls `1 DVD`
-
-ISSUES
-: \[<a href="https://imgur.com/a/O5iVf3L">Screen Recording</a>\] My copy is 4 VOB, 4.00 GB. VTS_01_3.VOB is faulty such that I cannot play Act 1 in full and cannot play Act 2 at all from the DVD menu. I would love to trade for a functonal copy!
+: Fully functonal copy, NOT the one with the faulty VTS_01_3.VOB
  
 CAST
 : Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Crista Moore (Alice Beineke), Martin Vidnovic (Mal Beineke), Brian Justin Crum (Lucas Beineke)
@@ -1002,23 +954,6 @@ CAST
 
 NOTES
 : Preview. Excellent HD capture of this new musical set in a Japanese internment camp, during World War II. Great performances from the entire cast, George gave a really moving performance! A
-
-## Amadeus
-
-#### Amadeus - National Theatre - February 2, 2017
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `1080p` `8.29 GB`
-
-IMDB
-: <https://www.imdb.com/title/tt6846134/>
-
-CAST
-: Adam Gillen (Wolfgang Amadeus Mozart), Luciene Msamat (Antonio Salieri), Karla Crome (Constanze Weber), Fleur deBray (Katherina Cavalieri), Wendy Dawn Thompson (Teresa Salieri), Tom Edden (Joseph II, Emperor of Austria), Geoffrey Beevers (Baron van Swieten), Andrew MacBean (Guiseppe Bonno), Alexandra Mathie (Count Johann Kilian Von Strack), Hugh Sacks (Count Orsini-Rosenberg), Everal Walsh (Major Domo)
 
 ## Amélie
 
@@ -1387,7 +1322,7 @@ NOTES
 
 ## Anything Goes
 
-<p align="center"><a href="https://kyratrades.github.io/videos#first-broadway-revival">First Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#second-broadway-revival">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#third-national-tour">Third National Tour</a> • <a href="https://kyratrades.github.io/videos#misc-1">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#first-broadway-revival">First Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#second-broadway-revival">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#third-national-tour">Third National Tour</a> • <a href="https://kyratrades.github.io/musicals#misc-1">MISC</a></p>
 
 ### First Broadway Revival
 
@@ -1778,7 +1713,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/videos#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/videos#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/videos#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/videos#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/videos#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/videos#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/videos#beaches">Beaches</a> • <a href="https://kyratrades.github.io/videos#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/videos#beautiful-thing">Beautiful Thing</a> • <a href="https://kyratrades.github.io/videos#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/videos#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/videos#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/videos#before-after">Before After</a> • <a href="https://kyratrades.github.io/videos#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/videos#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/videos#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/videos#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/videos#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/videos#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/videos#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/videos#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/videos#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/videos#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/videos#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/videos#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/videos#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/videos#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -2044,23 +1979,6 @@ CAST
 NOTES
 : This video is never to be publicly shared on YouTube, Tumblr, Facebook, Stage Dork, etc.
 
-## Beautiful Thing
-
-#### Beautiful Thing - London - May 22-23, 2013
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `720p` `2.07 GB`
-
-CAST
-: Jake Davies (Jamie), Danny-Boy Hatchard (Ste), Suranne Jones (Sandra), Oliver Farnworth (Tony), Zaraah Abrahams (Leah)
-
-NOTES
-: Beautiful Thing is a glorious urban love story between two young men set on an inner city housing estate. It tells the story of teenager Jamie\'s relationship with classmate and neighbour Ste. Together the two boys find comedy, warmth and the music of Mama Cass through their loud-mouthed next door neighbour Leah. The play exquisitely depicts what it is to be sixteen, in the first flush of love, and full of optimism. Filmed at Arts Theatre, London.
-
 ## Beauty and the Beast (Disney)
 
 #### Beauty and the Beast (Disney) - Los Angeles - April 12, 1995 (Opening Night)
@@ -2213,7 +2131,7 @@ NOTES
 
 ## A Bed and a Chair: A New York Love Affair
 
-#### A Bed and a Chair: A New York Love Affair - Encores! Special Event - November 13, 2013
+#### A Bed and a Chair - Encores! Special Event - November 13, 2013
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -2227,7 +2145,7 @@ CAST
 
 ## Beetlejuice
 
-#### Beetlejuice - Broadway - July, 2019 
+#### Beetlejuice - Broadway - July, 2019 (Sophia Anne Caruso)
 {: .no_toc .d-inline-block }
 
 StarCuffedJeans
@@ -2242,7 +2160,7 @@ CAST
 NOTES
 : Good HD capture from the right orchestra with beautiful zooms and way less obstructions than the March video. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
 
-#### Beetlejuice - Broadway - September, 2019 (2) 
+#### Beetlejuice - Broadway - September, 2019 (Presley Ryan)
 {: .no_toc .d-inline-block }
 
 StarCuffedJeans
@@ -2257,7 +2175,7 @@ CAST
 NOTES
 : Beautiful HD capture of the incredible Presley Ryan as Lydia and David's first week as Adam! Filmed from the left orchestra without obstructions with a mix of wides, mediums, and closeups. This is hands down the best video of the show to date. Starts about 3 minutes into performance (mid whole being dead thing).
 
-#### Beetlejuice - Broadway - November, 2019 
+#### Beetlejuice - Broadway - November, 2019
 {: .no_toc .d-inline-block }
 
 StarCuffedJeans
@@ -2751,7 +2669,7 @@ NOTES
 
 # C
 
-<p align="center"><a href="https://kyratrades.github.io/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/videos#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/videos#chita-rivera-the-dancers-life">Chita Rivera: The Dancer's Life</a> • <a href="https://kyratrades.github.io/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/videos#company">Company</a> • <a href="https://kyratrades.github.io/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/musicals#call-me-madam">Call Me Madam</a> • <a href="https://kyratrades.github.io/musicals#camelot">Camelot</a> • <a href="https://kyratrades.github.io/musicals#candide">Candide</a> • <a href="https://kyratrades.github.io/musicals#carousel">Carousel</a> • <a href="https://kyratrades.github.io/musicals#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/musicals#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/musicals#cats">Cats</a> • <a href="https://kyratrades.github.io/musicals#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/musicals#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/musicals#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/musicals#chess">Chess</a> • <a href="https://kyratrades.github.io/musicals#chicago">Chicago</a> • <a href="https://kyratrades.github.io/musicals#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/musicals#chita-rivera-the-dancers-life">Chita Rivera: The Dancer's Life</a> • <a href="https://kyratrades.github.io/musicals#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/musicals#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/musicals#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/musicals#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/musicals#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/musicals#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/musicals#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/musicals#company">Company</a> • <a href="https://kyratrades.github.io/musicals#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/musicals#cry-baby">Cry-Baby</a></p>
 
 ## Cabaret
 
@@ -2924,21 +2842,7 @@ CAST
 NOTES
 : Beautiful HD capture of Sienna joining the cast as the final Sally Bowles and Hani joining as Kost. Still wonderful and solid performances as the show plays it\'s final few performances. A
 
-## La Cage aux Folles
-
-#### La Cage aux Folles - Berlin - 1987
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.95 GB`
-
-CAST
-: Gunther Konig (Georges), Steve Barton (Albin/Zazá)
-
-## Call Me Madams
+## Call Me Madam
 
 #### Call Me Madam - Encores! - February 8, 2019
 {: .no_toc .d-inline-block }
@@ -3144,17 +3048,6 @@ CAST
 
 NOTES
 : Beautiful HD capture of one of the Final Dress Rehearsals. Top notch production and thrilling performances from Alice and Keaton, and the whole cast! This is quite a unique capture since it was the first time the blood was dropped. Too many amazing things to point out here, don't miss this one!!! A+
-
-## Cat on a Hot Tin Roof
-
-#### Cat on a Hot Tin Roof - Broadway - January 1, 2013
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Scarlett Johansson (Maggie), Benjamin Walker (Brick), Ciarán Hinds (Big Daddy), Debra Monk (Big Mama), Brian Reddy, Cherene Snow, Emily Bergl, Jordan Dean, Lance Roberts, Michael Park, Tanya Birl, Vin Knight, Will Cobbs
 
 ## Catch Me If You Can
 
@@ -3512,7 +3405,7 @@ NOTES
 
 ## Chicago
 
-<p align="center"><a href="https://kyratrades.github.io/videos#national-tours">National Tour(s)</a> • <a href="https://kyratrades.github.io/videos#broadway-revival">Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#west-end-revival">West End Revival</a> • <a href="https://kyratrades.github.io/videos#the-netherlands">The Netherlands</a> • <a href="https://kyratrades.github.io/videos#misc-2">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#national-tours">National Tour(s)</a> • <a href="https://kyratrades.github.io/musicals#broadway-revival">Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#west-end-revival">West End Revival</a> • <a href="https://kyratrades.github.io/musicals#the-netherlands">The Netherlands</a> • <a href="https://kyratrades.github.io/musicals#misc-2">MISC</a></p>
 
 ### National Tour(s)
 
@@ -3856,23 +3749,6 @@ FORMAT
 
 CAST
 : Kevin McMahon (Adam / Noah), Misty Cotton (Eve / Mama Noah), Norman Large (Father), Ryan J Driscoll (Cain / Japheth), Barnaby James (Abel / Ham), Paul DiLoreto (Seth / Shem), Natalia Vivino (Yonah)
-
-## Chinglish
-
-#### Chinglish - Pre-Broadway / Chicago - July 31, 2011 (Closing Night)
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Jennifer Lim (Xi Yan), Stephen Pucci (Peter Timms), James Waterston (Daniel Cavanaugh), Angela Lin (Miss Qian/Prosecutor), Christine Lin (Miss Zhao), Johnny Wu (Bing/Judge Xu Geming), Larry Lei Zhang (Minister Cai Guoliang)
-
-NOTES
-: Great Capture of the final performance before the production moved to Broadway. Excellent cast and funny show that explores what is lost in translation. A
 
 ## Chita Rivera: The Dancer's Life
 
@@ -4338,23 +4214,6 @@ CAST
 NOTES
 : Slightly obstructed by one head but worked around the best I could.
 
-## The Comedy About A Bank Robbery
-
-#### The Comedy About A Bank Robbery - West End - December, 2019 
-{: .no_toc .d-inline-block }
-
-queenofthedead
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `19.13 GB`
-
-CAST
-: Tom Hopcroft (u/s Sam Monaghan), Ross Virgo (u/s Neil Cooper), Charlotte Duffy (u/s Caprice Freeboys), George Hannigan (Everyone Else), Eddy Westbury (u/s Mitch Ruscitti), Damian Lynch (Mr. Freeboys), Killian Macardle (Officer Shuck), Jean-Luke Worrell (e/c Warren Slax), Ashley Tucker (Ruth Monaghan)
-
-NOTES
-: Masters Notes: Shot around 2 heads. A few dropouts that add up to about 5 minutes overall. Not the most focused capture and a lot of fidgeting from the master, but action is captured mostly well enough.
-
 ## Company
 
 #### Company - Berlin - April 6, 1986
@@ -4557,25 +4416,7 @@ CAST
 : Katie Stevens (Kathryn Merteuil), Constantine Rousouli (Sebastian Valmont), Molly McCook (Annette Hargrove), Shelley Regner (Cecile Caldwell), Tyler Sheef (Blaine Tuttle), Spencer Strong Smith (Greg Mcconnell), Alexander Pimentel (Ronald Clifford), Pamela Holt (Mrs. Bunny Caldwell)
 
 NOTES
-: Notes: Well filmed from the audience with clear picture and excellent sound; featuring songs by The Goo Goo Dolls, Britney Spears, Backstreet Boys, NSYNC, Meredith Brooks, Natalie Imbruglia, Spice Girls, Counting Crows, The Verve and Christina Aguilera
-
-## The Crucible
-
-#### The Crucible - The Old Vic - 2015
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-blue }
-
-FORMAT
-: MKV `1080p` `11.2 GB`
-
-CAST
-: Jack Ellis (Deputy Governer Danforth), Richard Armitage (John Proctor), Samantha Colley (Abigail Williams)
-
-NOTES
-: Proshot. Released 4th February 2015, but filmed in 2014.
-: <https://www.imdb.com/title/tt4156348/>
+: Well filmed from the audience with clear picture and excellent sound; featuring songs by The Goo Goo Dolls, Britney Spears, Backstreet Boys, NSYNC, Meredith Brooks, Natalie Imbruglia, Spice Girls, Counting Crows, The Verve and Christina Aguilera
 
 ## Cry-Baby
 
@@ -4588,57 +4429,9 @@ FORMAT
 CAST
 : James Snyder (Wade \"Cry-Baby\" Walker), Elizabeth Stanley (Allison), Harriet Harris (Mrs. Vernon-Williams), Alli Mauzey (Lenora), Chester Gregory (Dupree), Carly Jibson (Pepper), Tory Ross (Mona)
 
-NOTES
-: Final Broadway performance
-
-## The Curious Incident of the Dog in the Night-Time
-
-#### The Curious Incident of the Dog in the Night-Time - National Theatre - September 6, 2012
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.99 GB`
-: MP4 `480p` `1.33 GB` `DVDRip`
-
-CAST
-: Luke Treadaway (Christopher Boone), Niamh Cusack (Siobhan), Paul Ritter (Ed), Nicola Walker (Judy), Una Stubbs (Mrs. Alexander)
-
-NOTES
-: Multi-cam pro shot from the National Theatre Live broadcast.
-
-#### The Curious Incident of the Dog in the Night-Time - Broadway - November 22, 2014
-{: .no_toc .d-inline-block }
-
-Lanelle
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Alex Sharp (Christopher Boone), Francesca Faridany (Siobhan), Ian Barford (Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander)
-
-#### The Curious Incident of the Dog in the Night-Time - Broadway - December 30, 2014 (Matinee)
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Taylor Trensch (alt Christopher Boone), Francesca Faridany (Siobhan), Tim Wright (u/s Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander), Mercedes Herrero (Mrs. Shears and others), Ben Horner (Mr. Thompson and others), Richard Hollis (Roger Shears and others), David Manis (Rev. Peters and others)
-
-NOTES
-: \"Nicely filmed. There\'s a couple of quick dropouts and not many washouts, but no obstructions or blocking. A-\"
-
 # D
 
-<p align="center"><a href="https://kyratrades.github.io/videos#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/videos#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/videos#a-delicate-balance">A Delicate Balance</a> • <a href="https://kyratrades.github.io/videos#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/videos#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/videos#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/videos#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/videos#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/videos#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/videos#doubt">Doubt</a> • <a href="https://kyratrades.github.io/videos#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/videos#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
 
 ## Damn Yankees
 
@@ -4715,23 +4508,6 @@ CAST
 
 NOTES
 : The video starts just after Anybody Have a Map.
-
-## A Delicate Balance
-
-#### A Delicate Balance - 2nd Broadway Revival - January 2, 2015 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `3 DVDs`
-
-CAST
-: Glenn Close (Agnes), John Lithgow (Tobias), Lindsay Duncan (Claire), Martha Plimpton (Julia), Bob Balaban (Harry), Clare Higgins (Edna)
-
-NOTES
-: A great capture of the play's Broadway run. The whole cast gives stellar performances. There are a couple quick dropouts in act two and a couple places where it wanders for a few seconds, but is shot well overall. There are also some heads that can occasionally be seen at the bottom of the screen, but they never block the action. The show is three acts on three discs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes playbill scans.
 
 ## Dessa Rose
 
@@ -4829,17 +4605,6 @@ CAST
 NOTES
 : A Beautiful coming of age story with great performances from the cast. Annaleigh is wonderful here as usual. Great HD capture in a very small theater, in wider shots heads can be in the frame toward the bottom, but mostly shot over them. A-
 
-## Doubt
-
-#### Doubt - Off-Broadway - November 20, 2004
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Cherry Jones (Sister Aloysius), Heather Goldenhersh (Sister James), Adriane Lenox (Mrs. Muller), Brian F O\'Byrne (Father Flynn)
-
 ## Dracula, the Musical (Wildhorn)
 
 #### Dracula, the Musical (Wildhorn) - Broadway - September 3, 2004
@@ -4903,7 +4668,7 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/videos#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/videos#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/videos#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/videos#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
 
 ## Earth Girls Are Easy
 
@@ -4980,6 +4745,15 @@ CAST
 NOTES
 : Official pro-shot DVD release with extra documentary disc. Includes fan-made English subtitles.
 
+#### Elisabeth - Seoul, South Korea - August 26, 2015
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `19.3 GB`
+
+CAST
+: 조정은 Jo Jung-eun (Elisabeth), 전동석 Dong-suk Jeon (Der Tod)
+
 ## Everybody\'s Talking About Jamie
 
 #### Everybody\'s Talking About Jamie - West End - July 5, 2018
@@ -5044,7 +4818,7 @@ CAST
 NOTES
 : COMMONLY CONFUSED WITH NOVEMBER 30, 1979. Please check your copy and the screenshots for both to ensure your video is not the same; the 1980 video does not have a commercial, is filmed from the left of the house rather than the right, and features Tom Carder as Che instead of Mandy Patinkin. Washed out color, but it is still present. Very dark. Tracking issues at times, but a pleasant surprise for its age.
 
-#### Evita - Village Players, Toledo Ohio - 1991
+#### Evita - Village Players, Toledo Ohio - August 3, 1991
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -5054,7 +4828,7 @@ FILE NOTES
 : Recording of another DVD. Do let me know me if you have a better copy.
 
 CAST
-: Hunter Foster (Che), Sutton Foster (Perón's Mistress)
+: Jeanne DeLong (Eva Perón), Hunter Foster (Che), Sutton Foster (Perón's Mistress)
 
 #### Evita - Netherlands - May 22, 1996
 {: .no_toc .d-inline-block }
@@ -5202,7 +4976,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/videos#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/videos#follies">Follies</a>> • <a href="https://kyratrades.github.io/videos#fosse">Fosse</a> • <a href="https://kyratrades.github.io/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/videos#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/videos#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a>> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -5452,20 +5226,6 @@ NOTES
 
 #### 
 
-## Frankenstein (play by Nick Dear)
-
-#### Frankenstein (play by Nick Dear) - National Theatre - March 17, 2011
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `720p` `5.07 GB`
-
-CAST
-: Jonny Lee Miller (Victor Frankenstein), Benedict Cumberbatch (The Creature), Ella Smith (Gretel/Clarice), John Killoran (Gustav/Constable), Steven Elliott (Klaus), Karl Johnson (De Lacey), Daniel Millar (Felix de Lacey), Lizzie Winkler (Agatha de Lacey), Andreea Padurariu (The Female Creature), William Nye (William Frankenstein), George Harris (M. Frankenstein), Naomie Harris (Elizabeth Lavenza), John Stahl (Ewan), Mark Armstrong (Rab)
-
 ## Frozen
 
 #### Frozen - Pre-Broadway / Denver - September 30, 2017
@@ -5539,17 +5299,6 @@ FORMAT
 
 CAST
 : Ciara Renée (Elsa), McKenzie Kurtz (Anna), Anna Rae Haller (Young Elsa), Charlie Tassone (Young Anna), Ryann Redmond (Olaf), Noah J Ricketts (Kristoff), Adam Jepsen (Sven), Ryan McCartan (Hans), Kevin Del Aguila (Oaken), Robert Creighton (Weselton), Donald Jones Jr (Pabbie), Tracee Beazer (Bulda), Tyrone L Robinson (King Agnarr), Ann Sanders (Queen Iduna), Robin Masella (Head Handmaiden), Jacob Smith (Bishop), Anthony Sagaria, Austin Lesch, Bronwyn Tarboton, Cajai Fellows Johnson, Charissa Hogeland, Charlie Williams, Claire Camp, Ellen Marlow, Harris M Turner, Jacob Smith, Jake David Smith, Julius Anthony Rubio, Kate Bailey, Keely Beirne, Michael Fatica, Nina Lafarga, Spencer Clark
-
-## The Full Monty
-
-#### The Full Monty - Broadway - January 16, 2002
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.30 GB`
-
-CAST
-: Will Chase (Jerry Lukowski), Daniel Stewart Sherman (Dave Bukatinsky), Larry Marshall (Noah \"Horse\" T. Simmons), Danny Gurwin (Malcolm MacGregor), Chris Diamantopoulos (Ethan Girard), Steven Skybell (Harold Nichols), Emily Skinner (Vicki Nichols)
 
 ## Fun Home
 
@@ -5703,7 +5452,7 @@ CAST
 
 # G
 
-<p align="center"><a href="https://kyratrades.github.io/videos#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/videos#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/videos#grace">Grace</a> • <a href="https://kyratrades.github.io/videos#grease">Grease</a> • <a href="https://kyratrades.github.io/videos#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/videos#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/videos#gypsy">Gypsy</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/musicals#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/musicals#grease">Grease</a> • <a href="https://kyratrades.github.io/musicals#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/musicals#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/musicals#gypsy">Gypsy</a></p>
 
 ## A Gentleman\'s Guide to Love and Murder
 
@@ -5753,20 +5502,6 @@ CAST
 
 NOTES
 : Filmed from the back of the balcony. Many heads appear in the frame to start, then when the filmer gets his bearings, the video improves greatly. There are a few times (mostly at the beginning) when the filmer replaces some poor video moments with still shots. These still shots are less than 2 or 3 minutes of the entire show. Overall, a great video, and Megan Hilty is amazing.
-
-## Grace
-
-####  Grace - Broadway - September 20, 2002
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Paul Rudd (Steve), Michael Shannon (Sam), Kate Arrington (Sara), Ed Asner (Karl)
-
-NOTES
-: Good clear picture. Filmed in widescreen.
 
 ## Grease
 
@@ -5987,7 +5722,7 @@ CAST
 
 # H
 
-<p align="center"><a href="https://kyratrades.github.io/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/videos#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/videos#the-history-boys">The History Boys</a> • <a href="https://kyratrades.github.io/videos#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/musicals#hair">Hair</a> • <a href="https://kyratrades.github.io/musicals#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/musicals#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/musicals#haven">Haven</a> • <a href="https://kyratrades.github.io/musicals#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/musicals#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/musicals#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/musicals#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/musicals#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/musicals#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/musicals#high-society">High Society</a> • <a href="https://kyratrades.github.io/musicals#how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying</a> • <a href="https://kyratrades.github.io/musicals#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
 
 ## Hadestown
 
@@ -6344,46 +6079,6 @@ CAST
 NOTES
 : An absolutely stellar tour cast with fantastic performances all around. Some great nuanced interpretations of the characters make the show fresh. This capture is nearly perfect with just one dropout toward the end of My Shot that lasts less than a minute. There is one head that occasionally blocks the actors' legs on the right side of the stage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
-## Harry Potter and the Cursed Child (Part One & Part Two)
-
-IMPORTANT: Includes both Parts, treated as TWO videos when trading (as is common practice)
-
-#### Harry Potter and the Cursed Child - West End - April 1, 2017
-{: .no_toc .d-inline-block }
-
-FORMAT
-: MP4 `720p` `7.88 GB`
-
-CAST
-: Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Cherrelle Skeete (Rose Granger-Weasley/Young Hermione), Esther Smith (Delphi Diggory), Annabel Baldwin (Moaning Myrtle/Lily Potter Sr.), Adam McNamara (u/s Hagrid/Sorting Hat), James Le Lacheur (Yann Fredericks), Barry McCarthy (Amos Diggory/Albus Dumbledore), Sandy McDade (Professor McGonagall), Jack North (u/s Cedric Diggory/James Potter Jr./James Potter Sr.), Joshua Wyatt (u/s Dudley Dursley/Karl Jenkins/Viktor Krum), Nuno Silva (Bane), Harrison Noble (Young Harry Potter), Phoebe Austen (Lily Potter Jr.), Andrew McDonald (u/s Station Master)
-
-#### Harry Potter and the Cursed Child - Broadway - April 15, 2018 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Adam McNamara (Hagrid/Sorting Hat), Benjamin Wheelwright (Cedric Diggory/James Potter Jr./James Potter Sr.)
-
-#### Harry Potter and the Cursed Child - Broadway - May, 2019 
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `12.06 GB`
-
-CAST
-: James Snyder (Harry Potter), Matt Mueller (Ron Weasley), Jenny Jules (Hermione Granger), Diane Davis (Ginny Potter), Jonno Roberts (Draco Malfoy), Nicholas Podany (Albus Severus Potter), Bubba Weiler (Scorpius Malfoy), Nadia Brown (Rose Granger-Weasley/Young Hermione), Sara Farb (Delphi Diggory), Lauren Cipoletti (Moaning Myrtle/Lily Potter Sr.), Katherine Reis (Polly Chapman), Stephen Spinella (Uncle Dursley/Severus Snape/Lord Voldemort), Jonathan Gordon (Yann Fredericks), Fiona Reid (Aunt Petunia/Trolley Witch/Dolores Umbridge), Joey Labrasca (Dudley Dursley/Karl Jenkins/Viktor Krum), Jack Pravda (Young Harry Potter), Catherine Ashmore Bradley (Lily Potter Jr.), Patrick du Laney (Station Master)
-
-NOTES
-: Great HD of the Year Two Broadway cast starting with the infamously ridiculous toffee scene. This was taken from one of the boxes so there is railing obstruction on the right of the stage, however most of the main action occurs at center and is brilliantly captured.
-
 ## Haven
 
 #### Haven - Los Angeles - November, 2001
@@ -6458,20 +6153,6 @@ CAST
 
 NOTES
 : A near perfect capture and the first known DVD of this show's Off-Broadway run. Barrett is incredibly talented: amazing vocals, acting and comedic timing. Dan and Charissa are both fantastic in their roles as well. The show is absolutely hysterical, much improved from the movie version. The first minute of Act One is blacked out, but the show is otherwise fully intact with no blackouts and only slight washout in a few wide shots. There is no obstruction, the video is steady, the sound is excellent, and it's captured very well with the usual mix of wides, mediums, and close-ups. It's filmed in 16:9 and includes curtain call, encore, and playbill scans.
-
-## The Heiress
-
-#### The Heiress - Broadway - October 13, 2012
-{: .no_toc .d-inline-block }
-
-Lanelle
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Ben Livingston (Coachman), Caitlin O'Connell (Elizabeth Almond), Dan Stevens (Morris Townsend), David Strathairn (Dr. Austin Sloper), Dee Nelson (Mrs Montgomery), Jessica Chastain (Catherine Sloper), Judith Ivey (Lavinia Penniman), Kieran Campion (Arthur Townsend), Molly Camp (Marian Almond), Virginia Kull (Maria)
 
 ## Helen of Troy
 
@@ -6666,17 +6347,6 @@ CAST
 NOTES
 : Some mild generation loss. B+
 
-## The History Boys
-
-#### The History Boys - Broadway - May 6, 2006
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Sacha Dhawan (Akthar), Samuel Anderson (Crowther), Dominic Cooper (Dakin), Clive Merrison (Headmaster), Richard Griffiths (Hector), Stephen Campbell Moore (Irwin), Andrew Knott (Lockwood), Frances de la Tour (Mrs. Lintott), Samuel Barnett (Posner), Russell Tovey (Rudge), Jamie Parker (Scripps), James Corden (Timms)
-
 ## How to Succeed in Business Without Really Trying
 
 #### How to Succeed in Business Without Really Trying - Second Broadway Revival - March 5, 2011 (Preview)
@@ -6768,7 +6438,7 @@ CAST
 
 # I
 
-<p align="center"><a href="https://kyratrades.github.io/videos#ifthen">I Love You, You’re Perfect, Now Change</a> • <a href="https://kyratrades.github.io/videos#ifthen">If/Then</a> • <a href="https://kyratrades.github.io/videos#in-the-heights">In the Heights</a> • <a href="https://kyratrades.github.io/videos#into-the-woods">Into the Woods</a> • <a href="https://kyratrades.github.io/videos#it-shoulda-been-you">It Shoulda Been You</a> • <a href="https://kyratrades.github.io/videos#its-a-bird-its-a-plane-its-superman">It's a Bird, It's a Plane, It's Superman!</a> • <a href="https://kyratrades.github.io/videos#its-only-a-play">It's Only A Play</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#ifthen">I Love You, You’re Perfect, Now Change</a> • <a href="https://kyratrades.github.io/musicals#ifthen">If/Then</a> • <a href="https://kyratrades.github.io/musicals#in-the-heights">In the Heights</a> • <a href="https://kyratrades.github.io/musicals#into-the-woods">Into the Woods</a> • <a href="https://kyratrades.github.io/musicals#it-shoulda-been-you">It Shoulda Been You</a> • <a href="https://kyratrades.github.io/musicals#its-a-bird-its-a-plane-its-superman">It's a Bird, It's a Plane, It's Superman!</a></p>
 
 ## I Love You, You’re Perfect, Now Change
 
@@ -7101,38 +6771,9 @@ CAST
 NOTES
 : Good shoot, sound couldn't be fully filtered.
 
-## It\'s Only A Play
-
-#### It\'s Only A Play - Broadway - December 29, 2014
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Nathan Lane (James Wicker), Matthew Broderick (Peter Austin), Megan Mullally (Julia Budder), Stockard Channing (Virginia Noyes), F Murray Abraham (Ira Drew), Rupert Grint (Frank Finger), Micah Stock (Gus)
-
-NOTES
-: A decent capture of the play's original cast. \*The play is absolutely hysterical --- Nathan, Megan, and Micah being particularly fantastic. This capture has no washout and only minor obstruction, but most of the first 26 minutes of Act One are blacked out. After that, the show is very nicely captured with just one head that can occasionally be seen at the bottom of the screen and does not affect the action. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is very good overall, but there is more shuffling and static than usual; all of the dialogue is listenable.
-
-#### It\'s Only A Play - Broadway - January 31, 2015
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Martin Short (James Wicker), Matthew Broderick (Peter Austin), Megan Mullally (Julia Budder), Stockard Channing (Virginia Noyes), F Murray Abraham (Ira Drew), Rupert Grint (Frank Finger), Micah Stock (Gus)
-
-NOTES
-: Beautiful HD capture of the show. Martin Short makes a wonderful edition and is absolutely hilarious. This is when the production switched theatres.
-
 # J
 
-<p align="center"><a href="https://kyratrades.github.io/videos#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/videos#jawbreaker-the-musical">Jawbreaker The Musical</a> • <a href="https://kyratrades.github.io/videos#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/videos#jesus-christ-superstar">Jesus Christ Superstar</a> • <a href="https://kyratrades.github.io/videos#jesus-christ-superstar">Joseph and the Amazing Technicolor Dreamcoat</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/musicals#jawbreaker-the-musical">Jawbreaker: The Musical</a> • <a href="https://kyratrades.github.io/musicals#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/musicals#jesus-christ-superstar">Jesus Christ Superstar</a> • <a href="https://kyratrades.github.io/musicals#jesus-christ-superstar">Joseph and the Amazing Technicolor Dreamcoat</a></p>
 
 ## Jagged Little Pill
 
@@ -7166,9 +6807,9 @@ CAST
 NOTES
 : Begins in the middle of the opening number. Clear picture and good sound throughout.
 
-## Jawbreaker The Musical
+## Jawbreaker: The Musical
 
-#### Jawbreaker The Musical - Concert Reading - July 29, 2010
+#### Jawbreaker - Concert Reading - July 29, 2010
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -7239,7 +6880,7 @@ CAST
 
 # K
 
-<p align="center"><a href="https://kyratrades.github.io/videos#kiss-me-kate">Kiss Me, Kate</a> • <a href="https://kyratrades.github.io/videos#kiss-of-the-spider-woman">Kiss of the Spider Woman</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#kiss-me-kate">Kiss Me, Kate</a> • <a href="https://kyratrades.github.io/musicals#kiss-of-the-spider-woman">Kiss of the Spider Woman</a></p>
 
 ## Kiss Me, Kate
 
@@ -7344,7 +6985,7 @@ NOTES
 
 # L
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-last-five-years">The Last Five Years</a> • <a href="https://kyratrades.github.io/videos#legally-blonde">Legally Blonde</a> • <a href="https://kyratrades.github.io/videos#lennon">Lennon</a> • <a href="https://kyratrades.github.io/videos#the-lieutenant-of-inishmore">The Lieutenant of Inishmore</a> • <a href="https://kyratrades.github.io/videos#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a href="https://kyratrades.github.io/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a href="https://kyratrades.github.io/videos#little-me">Little Me</a><a href="https://kyratrades.github.io/videos#the-little-mermaid">The Little Mermaid</a> • <a href="https://kyratrades.github.io/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a href="https://kyratrades.github.io/videos#a-little-night-music">A Little Night Music</a> • <a href="https://kyratrades.github.io/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a href="https://kyratrades.github.io/videos#little-women">Little Women</a> • <a href="https://kyratrades.github.io/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a href="https://kyratrades.github.io/videos#love-never-dies">Love Never Dies</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-last-five-years">The Last Five Years</a> • <a href="https://kyratrades.github.io/musicals#legally-blonde">Legally Blonde</a> • <a href="https://kyratrades.github.io/musicals#lennon">Lennon</a> • <a href="https://kyratrades.github.io/musicals#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a href="https://kyratrades.github.io/musicals#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a href="https://kyratrades.github.io/musicals#little-me">Little Me</a><a href="https://kyratrades.github.io/musicals#the-little-mermaid">The Little Mermaid</a> • <a href="https://kyratrades.github.io/musicals#little-miss-sunshine">Little Miss Sunshine</a> • <a href="https://kyratrades.github.io/musicals#a-little-night-music">A Little Night Music</a> • <a href="https://kyratrades.github.io/musicals#little-shop-of-horrors">Little Shop of Horrors</a> • <a href="https://kyratrades.github.io/musicals#little-women">Little Women</a> • <a href="https://kyratrades.github.io/musicals#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a href="https://kyratrades.github.io/musicals#love-never-dies">Love Never Dies</a></p>
 
 ## The Last Five Years
 
@@ -7593,20 +7234,6 @@ CAST
 
 NOTES
 : Digital, master, shot from 4th row of the mezz. Beautiful with lots of closeups of all of the cast members.
-
-## The Lieutenant of Inishmore
-
-#### The Lieutenant of Inishmore - Broadway - April 20, 2006 (Preview)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.84 GB`
-
-CAST
-: Brian d'Arcy James (Brendan), Dashiell Eaves (Joey), Jeff Binder (James), Alison Pill (Mairead)
-
-NOTES
-: First five minutes are a little shaky but it gets much better after that
 
 ## The Light in the Piazza
 
@@ -8201,41 +7828,7 @@ NOTES
 
 # M
 
-<p align="center"><a href="https://kyratrades.github.io/videos#mac-beth">Mac Beth</a> • <a href="https://kyratrades.github.io/videos#macbeth">Macbeth</a> • <a href="https://kyratrades.github.io/videos#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/videos#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/videos#mame">Mame</a> • <a href="https://kyratrades.github.io/videos#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/videos#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/videos#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/videos#master-class">Master Class</a> • <a href="https://kyratrades.github.io/videos#master-haroldand-the-boys">"Master Harold"...and the Boys</a> • <a href="https://kyratrades.github.io/videos#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/videos#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/videos#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/videos#the-merchant-of-venice">The Merchant of Venice</a> • <a href="https://kyratrades.github.io/videos#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/videos#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/videos#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/videos#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/videos#much-ado-about-nothing">Much Ado About Nothing</a> • <a href="https://kyratrades.github.io/videos#murder-ballad">Murder Ballad</a> • <a href="https://kyratrades.github.io/videos#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/videos#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
-
-## Mac Beth
-
-#### Mac Beth - Off-Broadway - January, 2020 
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `4.06 GB`
-
-CAST
-: Brittany Bradford (Macbeth), Ismenia Mendes (Lady Macbeth), Camila Cano-Glavia (Macduff), Ayana Workman (Banquo), Sharlene Cruz (Witch 3)
-
-NOTES
-: A re-imagined production of Macbeth in which a group of high school girls perform the play as a ritualistic sacrifice in an abandoned lot.
-
-## Macbeth
-
-#### Macbeth - Manchester International Festival - July 20, 2013
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `1080p` `6.79 GB`
-
-CAST
-: Kenneth Branagh (Macbeth), Alex Kingston (Lady Macbeth)
-
-NOTES
-: <https://www.imdb.com/title/tt3233718/>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/musicals#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/musicals#mame">Mame</a> • <a href="https://kyratrades.github.io/musicals#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/musicals#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/musicals#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/musicals#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/musicals#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/musicals#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/musicals#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/musicals#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/musicals#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/musicals#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/musicals#murder-ballad">Murder Ballad</a> • <a href="https://kyratrades.github.io/musicals#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/musicals#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
 
 ## The Mad Ones
 <p align="center"><small>AKA The Unauthorized Autobiography of Samantha Brown</small></p>
@@ -8398,35 +7991,7 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 CAST
-: Elisabeth Hübert (Mary Poppins), David Boyd (Bert), Livio Cecini (George Banks), Julia Lißel (Winifred Banks), Maaike Schuurmans (Miss Andrew), Anna Thorén (Bird Woman), Charles Butcher (Neleus), Heike Schmitz (Mrs. Brill), Niklas Abel (Robertson Ay), Dirk Lohr (Admiral Boom) 
-
-## Master Class
-
-#### Master Class - Broadway - January 14, 1997
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `1.82 GB`
-
-CAST
-: Patti LuPone (Maria Callas), Alaine Rodin-Lo (Sharon), Theodora Fried (Sophie), Jay Hunter Morris (Tony)
-
-NOTES
-: Often incorrectly listed with Audra McDonald in the role of Sharon
-
-## \"Master Harold\"\...and the Boys
-
-#### \"Master Harold\"\...and the Boys - Broadway - May 28, 2003
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-COMMENTS
-: Only the first 2 VOBs. The show is complete.
-
-CAST
-: Danny Glover (Sam), Michael Boatman (Willie)
+: Elisabeth Hübert (Mary Poppins), David Boyd (Bert), Livio Cecini (George Banks), Julia Lißel (Winifred Banks), Maaike Schuurmans (Miss Andrew), Anna Thorén (Bird Woman), Charles Butcher (Neleus), Heike Schmitz (Mrs. Brill), Niklas Abel (Robertson Ay), Dirk Lohr (Admiral Boom)
 
 ## Matilda the Musical
 
@@ -8560,23 +8125,9 @@ CAST
 NOTES
 : Erika’s last. Focuses a lot more Erika as opposed to the main action happening, as it’s her last show. Small part of the left area of the stage is blocked by a few heads.
 
-## Merchant of Venice
-
-#### The Merchant of Venice - Broadway - February 11, 2011
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Byron Jennings (Antonio), David Harbour (Bassanio), Gerry Bamman (Duke of Venice), David Aaron Baker (Gratiano), Heather Lind (Jessica), Christopher Fitzgerald (Launcelot Gobbo), Thomas Michael Hammond (Lorenzo), Marsha Stephanie Blake (Nerissa), Lily Rabe (Portia), Charles Kimbrough (Prince of Arragon), Isaiah Johnson (Prince of Morocco), Peter Francis James (Salerio), Al Pacino (Shylock), Matthew Rauch (Solanio), Richard Topol (Tubal)
-
-NOTES
-: Very clear and lots of closeups, one or two coverups and some wandering. A-
-
 ## Les Misérables
 
-<p align="center"><a href="https://kyratrades.github.io/videos#west-end">West End</a> • <a href="https://kyratrades.github.io/videos#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/videos#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/videos#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/videos#second-broadway-revival-1">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/videos#misc-3">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#west-end">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/musicals#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/musicals#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/musicals#second-broadway-revival-1">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/musicals#misc-3">MISC</a></p>
 
 ### West End
 
@@ -9095,51 +8646,6 @@ CAST
 NOTES
 : Beautiful HD capture of the fabulous Amber Ardolino as Satine and Dylan Paul as the Duke. Filmed from the rear left orchestra with a mix of wides, mediums, and many close-ups.
 
-## Much Ado About Nothing
-
-#### Much Ado About Nothing - Wyndham\'s Theatre, West End - September, 2011
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: `1` MP4 `1080p` `9.13 GB`
-: `2` MP4 `720p` `1.99 GB`
-
-CAST
-: Catherine Tate (Beatrice), David Tennant (Benedick), Sarah Macrae (Hero), Tom Bateman (Claudio), Jonathan Coy (Leonato), Adam James (Don Pedro), Elliot Levey (Don John), John Ramm (Dogberry), Mike Grady (Verges), Alex Beckett (Borachio), Clive Hayward (Friar Francis)
-
-#### Much Ado About Nothing - Royal Shakespeare Company - 2014 
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `1080p` `6.5 GB`
-
-CAST
-: Michelle Terry (Beatrice), Edward Bennet (Benedick) 
-
-DIRECTOR
-: Christopher Luscombe
-
-#### Much Ado About Nothing - Shakespeare in the Park - June 22-23, 2019 (Closing Night) 
-{: .no_toc .d-inline-block }
-
-FORMAT
-: MP4 `720p` `2.9 GB`
-
-Pro-Shot
-{: .label .label-green }
-
-CAST
-: Danielle Brooks (Beatrice), Grantham Coleman (Benedick), Margaret Odette (Hero), Jeremie Harris (Claudio), Chuck Cooper (Leonato), Billy Eugene Jones (Don Pedro), Hubert Point Du Jour (Don John), Erik Laray Harvey (Antonio), Lateefah Holder (Dogberry), Erik Laray Harvey (Verges), Jaime Lincoln Smith (Borachio), Khiry Walker (Conrad), Olivia Washington (Margaret), Tiffany Denise Hobbs (Ursula), Tyrone Mitchell Henderson (Friar Francis) 
-
-NOTES
-: Aired on PBS Great Performances on November 22, 2019.
-
 ## Murder Ballad
 
 #### Murder Ballad - Off-Broadway - July 13, 2013
@@ -9289,7 +8795,7 @@ CAST
 
 # N
 
-<p align="center"><a href="https://kyratrades.github.io/videos#natasha-pierre--the-great-comet-of-1812">Natasha, Pierre &amp; The Great Comet of 1812</a> • <a href="https://kyratrades.github.io/videos#a-new-brain">A New Brain</a> • <a href="https://kyratrades.github.io/videos#the-new-yorkers">The New Yorkers</a> • <a href="https://kyratrades.github.io/videos#newsies">Newsies</a> • <a href="https://kyratrades.github.io/videos#next-to-normal">Next to Normal</a> • <a href="https://kyratrades.github.io/videos#nine">Nine</a> • <a href="https://kyratrades.github.io/videos#noises-off">Noises Off</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#natasha-pierre--the-great-comet-of-1812">Natasha, Pierre &amp; The Great Comet of 1812</a> • <a href="https://kyratrades.github.io/musicals#a-new-brain">A New Brain</a> • <a href="https://kyratrades.github.io/musicals#the-new-yorkers">The New Yorkers</a> • <a href="https://kyratrades.github.io/musicals#newsies">Newsies</a> • <a href="https://kyratrades.github.io/musicals#next-to-normal">Next to Normal</a> • <a href="https://kyratrades.github.io/musicals#nine">Nine</a></p>
 
 ## Natasha, Pierre & The Great Comet of 1812
 
@@ -9606,64 +9112,9 @@ FORMAT
 CAST
 : Antonio Banderas (Guido Contini), Mary Stuart Masterson (Luisa), Chita Rivera (Liliane La Fleur), Laura Benanti (Claudia), Jane Krakowski (Carla), Saundra Santiago (Stephanie Necrophorus), Mary Beth Peil (Guido's Mother), Myra Lucretia Taylor (Saraghina), Deirdre Goodwin (Our Lady of the Spa), Nell Campbell (Lina Darling), Linda Mugleston (Olga von Strum), Kristin Marks (Annabella), Sara Gettelfinger (Maria), Rona Figueroa (Juliette), Rachel de Benedet (Diana), Elena Shaddow (Renatta), Kathy Voytko (Sofia), William Ulrich (Little Guido)
 
-## Noises Off
-
-### Wants
-{: .no_toc }
-
-Any videos I don't have and any better copies than the ones I have.
-
-#### Noises Off - Broadway - 1983
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.06 GB`
-
-CAST
-: Dorothy Loudon (Dotty Otley), Brian Murray (Lloyd Dallas), Amy Wright (Poppy Norton-Taylor), Douglas Seale (Selsdon Mowbray), Victor Garber (Garry Lejeune), Linda Thorson (Belinda Blair), Deborah Rush (Brooke Ashton), Jim Piddock (Tim Allgood), Paxton Whitehead (Frederick Fellowes)
-
-#### Noises Off - First Broadway Revival - 2002
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.06 GB`
-
-CAST
-: Patti LuPone (Dotty Otley), Peter Gallagher (Lloyd Dallas), Robin Weigert (Poppy Norton-Taylor), Richard Easton (Selsdon Mowbray), Thomas McCarthy (Garry Lejeune), Faith Prince (Belinda Blair), Katie Finneran (Brooke Ashton), T R Knight (Tim Allgood), Edward Hibbert (Frederick Fellowes)
-
-NOTES
-: Good zooms, filmed from right mezzanine and picture quality and sound excellent.
-
-#### Noises Off - First Broadway Revival - June 15, 2002
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `1.79 GB`
-
-CAST
-: Patti LuPone (Dotty Otley), Peter Gallagher (Lloyd Dallas), Robin Weigert (Poppy Norton-Taylor), Richard Easton (Selsdon Mowbray), Thomas McCarthy (Garry Lejeune), Faith Prince (Belinda Blair), Katie Finneran (Brooke Ashton), T R Knight (Tim Allgood), Edward Hibbert (Frederick Fellowes)
-
-NOTES
-: Another great video of this hilarious play.
-
-#### Noises Off - Second Broadway Revival - February 24, 2016
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Andrea Martin (Dotty Otley), Campbell Scott (Lloyd Dallas), Tracee Chimo (Poppy Norton-Taylor), Daniel Davis (Selsdon Mowbray), David Furr (Garry Lejeune), Kate Jennings Grant (Belinda Blair), Megan Hilty (Brooke Ashton), Rob McClure (Tim Allgood), Jeremy Shamos (Frederick Fellowes)
-
-NOTES
-: Excellent HD capture with no obstructions. Hilarious and fast paced ensemble piece! Terrific performaces from the whole cast! A
-
 # O
 
-<p align="center"><a href="https://kyratrades.github.io/videos#october-sky">October Sky</a> • <a href="https://kyratrades.github.io/videos#of-mice-and-men">Of Mice and Men</a> • <a href="https://kyratrades.github.io/videos#the-office-a-musical-parody">The Office: a Musical Parody</a> • <a href="https://kyratrades.github.io/videos#oklahoma">Oklahoma!</a> • <a href="https://kyratrades.github.io/videos#oliver">Oliver!</a> • <a href="https://kyratrades.github.io/videos#on-a-clear-day-you-can-see-forever">On a Clear Day You Can See Forever</a> • <a href="https://kyratrades.github.io/videos#on-the-town">On the Town</a> • <a href="https://kyratrades.github.io/videos#on-the-twentieth-century">On The Twentieth Century</a> • <a href="https://kyratrades.github.io/videos#once-on-this-island">Once On This Island</a> • <a href="https://kyratrades.github.io/videos#once-upon-a-mattress">Once Upon A Mattress</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#october-sky">October Sky</a> • <a href="https://kyratrades.github.io/musicals#the-office-a-musical-parody">The Office: a Musical Parody</a> • <a href="https://kyratrades.github.io/musicals#oklahoma">Oklahoma!</a> • <a href="https://kyratrades.github.io/musicals#oliver">Oliver!</a> • <a href="https://kyratrades.github.io/musicals#on-a-clear-day-you-can-see-forever">On a Clear Day You Can See Forever</a> • <a href="https://kyratrades.github.io/musicals#on-the-town">On the Town</a> • <a href="https://kyratrades.github.io/musicals#on-the-twentieth-century">On The Twentieth Century</a> • <a href="https://kyratrades.github.io/musicals#once-on-this-island">Once On This Island</a> • <a href="https://kyratrades.github.io/musicals#once-upon-a-mattress">Once Upon A Mattress</a></p>
 
 ## October Sky
 
@@ -9681,23 +9132,6 @@ CAST
 
 NOTES
 : Good shoot. Nice A/V.
-
-## Of Mice and Men
-
-#### Of Mice and Men - Broadway Revival - June 14, 2014
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs` `3.41 GB`
-
-CAST
-: James Franco (George), Chris O\'Dowd (Lennie), Leighton Meester (Curley\'s Wife), Jim Norton (Candy), Ron Cephas Jones (Crooks), Joel Marsh Garland (Carlson), James McMenamin (Whit), Alex Morf (Curly), Jim Ortlieb (The Boss), Jim Parrack (Slim)
-
-NOTES
-: The cast was sensational and genuine performances all the way. Jim Norton, gives such a wonderful performance. A-
 
 ## The Office: a Musical Parody
 
@@ -9880,7 +9314,7 @@ NOTES
 
 # P
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-pajama-game">The Pajama Game</a> • <a href="https://kyratrades.github.io/videos#passion">Passion</a> • <a href="https://kyratrades.github.io/videos#parade">Parade</a> • <a href="https://kyratrades.github.io/videos#peter-pan-goes-wrong">Peter Pan Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/videos#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/videos#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/videos#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/videos#pippin">Pippin</a> • <a href="https://kyratrades.github.io/videos#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/videos#the-play-that-goes-wrong">The Play That Goes Wrong</a> • <a href="https://kyratrades.github.io/videos#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/videos#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/videos#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/videos#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/videos#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/videos#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/videos#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/videos#puffs">Puffs</a> • <a href="https://kyratrades.github.io/videos#putting-it-together">Putting it Together</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-pajama-game">The Pajama Game</a> • <a href="https://kyratrades.github.io/musicals#passion">Passion</a> • <a href="https://kyratrades.github.io/musicals#parade">Parade</a> • <a href="https://kyratrades.github.io/musicals#the-phantom-of-the-opera">The Phantom of the Opera</a> •  <a href="https://kyratrades.github.io/musicals#the-phantom-of-the-opera-on-ice">The Phantom of the Opera on Ice</a> • <a href="https://kyratrades.github.io/musicals#phantom-the-untold-story">Phantom: The Untold Story</a> • <a href="https://kyratrades.github.io/musicals#pipe-dream">Pipe Dream</a> • <a href="https://kyratrades.github.io/musicals#pippin">Pippin</a> • <a href="https://kyratrades.github.io/musicals#the-pirate-queen">The Pirate Queen</a> • <a href="https://kyratrades.github.io/musicals#pretty-woman-the-musical">Pretty Woman: The Musical</a> • <a href="https://kyratrades.github.io/musicals#pride-and-prejudice-a-new-musical">Pride and Prejudice: A New Musical</a> • <a href="https://kyratrades.github.io/musicals#the-prince-of-egypt">The Prince of Egypt</a> • <a href="https://kyratrades.github.io/musicals#priscilla-queen-of-the-desert">Priscilla, Queen of the Desert</a> • <a href="https://kyratrades.github.io/musicals#the-producers">The Producers</a> • <a href="https://kyratrades.github.io/musicals#the-prom">The Prom</a> • <a href="https://kyratrades.github.io/musicals#promises-promises">Promises, Promises</a> • <a href="https://kyratrades.github.io/musicals#putting-it-together">Putting it Together</a></p>
 
 ## The Pajama Game
 
@@ -9976,26 +9410,9 @@ CAST
 NOTES
 : Multi-camera Pro-shot filmed for the American Songbook Series from Live at Lincoln Center. The remastered version has eliminated the letterboxing and watermark, and boosted the contrast and colors. <a href="https://imgur.com/a/FFMIbgj">Screenshots</a> for comparison.
 
-## Peter Pan Goes Wrong
-
-#### Peter Pan Goes Wrong - BBC Special - December 31, 2016
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `720p` `1.04 GB`
-
-CAST
-: Henry Shields (Chris/George and Hook), Greg Tannahill (Jonathan/Peter Pan), Nancy Zamit (Annie/Mary, Lisa, Tinkerbell and Tigerlily), Charlie Russell (Sandra/Wendy), Dave Hearn (Max/Michael and Crocodile), Jonathan Sayer (Dennis/John and Smee), Henry Lewis (Robert/Nana and Starkey), Chris Leask (Trevor Watson), David Suchet (Francis/Narrator), Ellie Morris (Lucy/Tootles)
-
-NOTES
-: Mischief Theatre 2016 BBC Special proshot.
-
 ## The Phantom of the Opera
 
-<p align="center"><a href="https://kyratrades.github.io/videos#sydmonton-festival">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/videos#west-end-1">West End</a> • <a href="https://kyratrades.github.io/videos#broadway-2">Broadway</a> • <a href="https://kyratrades.github.io/videos#first-national-tour-christine">First National Tour (Christine)</a> • <a href="https://kyratrades.github.io/videos#stuttgart">Stuttgart</a> • <a href="https://kyratrades.github.io/videos#brazil">Brazil</a> • <a href="https://kyratrades.github.io/videos#las-vegas">Las Vegas</a> • <a href="https://kyratrades.github.io/videos#third-national-tour-music-box">Third National Tour (Music Box)</a> • <a href="https://kyratrades.github.io/videos#25th-anniversary---live-at-the-royal-albert-hall">25th Anniversary - Live At The Royal Albert Hall</a> • <a href="https://kyratrades.github.io/videos#fourth-national-tour">Fourth National Tour</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#sydmonton-festival">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/musicals#west-end-1">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-2">Broadway</a> • <a href="https://kyratrades.github.io/musicals#first-national-tour-christine">First National Tour (Christine)</a> • <a href="https://kyratrades.github.io/musicals#stuttgart">Stuttgart</a> • <a href="https://kyratrades.github.io/musicals#brazil">Brazil</a> • <a href="https://kyratrades.github.io/musicals#las-vegas">Las Vegas</a> • <a href="https://kyratrades.github.io/musicals#third-national-tour-music-box">Third National Tour (Music Box)</a> • <a href="https://kyratrades.github.io/musicals#25th-anniversary---live-at-the-royal-albert-hall">25th Anniversary - Live At The Royal Albert Hall</a> • <a href="https://kyratrades.github.io/musicals#fourth-national-tour">Fourth National Tour</a></p>
 
 ### Sydmonton Festival
 
@@ -10837,35 +10254,6 @@ CAST
 NOTES
 : Wonderful crystal clear capture and top notch amazing performances. Much improved from Chicago version. Includes performance on the the View. A+
 
-## The Play That Goes Wrong
-
-#### The Play That Goes Wrong - Broadway - May, 2018 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Mark Evans (Chris Bean), Preston Truman Boyd (Robert Grove), Jonathan Fielding (Jonathan Harris), Amelia McClain (Sandra Wilkinson), Alex Mandell (Max Bennett), Harrison Unger (Dennis Tyde), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)
-
-NOTES
-: (not Master\'s notes) Beginning from pre-show where the comedy \'bit\' of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think it\'s shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
-
-#### The Play That Goes Wrong - West End (Duchess Theatre) - March, 2020
-{: .no_toc .d-inline-block }
-
-hitmewithyourbethshot 
-{: .label .label-blue }
-
-FORMAT
-: MTS `12.01 GB`
-
-CAST
-: Ross Green (Chris Bean), Tom Bulpett (s/b Robert Grove), James Watterson (e/c Jonathan Harris), Ellie Morris (Sandra Wilkinson), Milo Clarke (Max Bennett), Michael Keene (Dennis Tyde), Leah Penston (s/b Annie Twilliol), Blayar Benn (Trevor Watson) 
-
 ## Pretty Woman: The Musical
 
 #### Pretty Woman - Pre-Broadway / Chicago - April 13, 2018
@@ -11085,24 +10473,6 @@ NOTES
 : Filmed in 16:9 widescreen. No obstructions (no one sitting in front of me). A few very brief blackouts due to late-comers. Steady filming with a good mix of close-ups and medium zooms. External audio fed in from MD source so it is very clear.
 : This DVD also includes Katie Finneran's scenes from her final performance on October 10, 2010. She pretty much steals the show in Act Two and she very much deserved her Tony award for best featured actress in a musical last year. Sean Hayes and Kristin Chenoweth also deliver absolutely charming performances and it is clear that they had great chemistry together. The show's choreography was also inspired and charming. The Sept 22nd performance also included a couple of minor flubs, including one where Chenoweth drops her purse and she briefly ad-libs when she picks it up.
 
-## Puffs
-
-#### Puffs - Off-Broadway - February, 2018
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `1080p` `8.4 GB` `Amazon WEB-DL`
-
-CAST
-: AJ Ditty (Narrator), Andy Miller (Leanne), Eleanor Philips (Hannah), James Fouhey (Cedric), Jessie Cannizzaro (Sally), Julie Ann Earls (Megan), Langston Belton (Oliver), Madeleine Bundy (Susie), Nick Carrillo (J. Finch-Fletchley), Stephen Stout (Ernie Mac), Zac Moon (Wayne)
-
-NOTES
-: Filmed across February 3rd and 4th 2018
-: <https://www.kickstarter.com/projects/269018729/puffs-live-off-broadway>
-
 ## Putting it Together
 
 #### Putting it Together - Off-Broadway - March, 1993 (Highlights) 
@@ -11135,7 +10505,7 @@ CAST
 
 # R
 
-<p align="center"><a href="https://kyratrades.github.io/videos#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/videos#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/videos#red">Red</a> • <a href="https://kyratrades.github.io/videos#rent">RENT</a> • <a href="https://kyratrades.github.io/videos#the-rocky-horror-show">The Rocky Horror Show</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/musicals#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/musicals#rent">RENT</a> • <a href="https://kyratrades.github.io/musicals#the-rocky-horror-show">The Rocky Horror Show</a></p>
 
 ## Ragtime
 
@@ -11179,29 +10549,6 @@ COMMENTS
 
 CAST
 : Wayne Brady (Django), Tituss Burgess (Remy), Kevin Chamberlin (Gusteau), André De Shields (Ego), Andrew Barth Feldman (Linguini), Adam Lambert (Emile), Priscilla Lopez (Mabel), Ashley Park (Colette), Owen Tabaka (Young Ego), Mary Testa (Skinner), Cori Jaskier, Talia Suskauer, Nikisha Williams, JJ Niemann, John Michael Lyles, Raymond J. Lee, Joy Woods
-
-## Red
-
-#### Red - Broadway - March 11, 2010
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Alfred Molina (Rothko), Eddie Redmayne (Ken)
-
-#### Red - West End - May 10, 2018
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `720p` `2.01 GB`
-
-CAST
-: Alfred Enoch (Ken), Alfred Molina (Rothko)
 
 ## RENT
 
@@ -11320,7 +10667,7 @@ NOTES
 
 # S
 
-<p align="center"><a href="https://kyratrades.github.io/videos#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/videos#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/videos#sea-wall-a-life">Sea Wall / A Life</a> • <a href="https://kyratrades.github.io/videos#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/videos#seussical">Seussical</a> • <a href="https://kyratrades.github.io/videos#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/videos#six">Six</a> • <a href="https://kyratrades.github.io/videos#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/videos#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/videos#sly-fox">Sly Fox</a> • <a href="https://kyratrades.github.io/videos#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/videos#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/videos#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/videos#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/videos#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/videos#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/videos#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/videos#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/videos#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/videos#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/videos#stepping-out">Stepping Out</a> • <a href="https://kyratrades.github.io/videos#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/videos#sunday-in-the-park-with-george">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/videos#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/videos#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/videos#sweet-charity">Sweet Charity</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-scarlet-pimpernel">The Scarlet Pimpernel</a> • <a href="https://kyratrades.github.io/musicals#school-of-rock">School of Rock</a> • <a href="https://kyratrades.github.io/musicals#the-secret-garden">The Secret Garden</a> • <a href="https://kyratrades.github.io/musicals#seussical">Seussical</a> • <a href="https://kyratrades.github.io/musicals#she-loves-me">She Loves Me</a> • <a href="https://kyratrades.github.io/musicals#six">Six</a> • <a href="https://kyratrades.github.io/musicals#sleeping-beauty-and-her-winter-knight">Sleeping Beauty And Her Winter Knight</a> • <a href="https://kyratrades.github.io/musicals#sleepless-a-musical-romance">Sleepless: A Musical Romance</a> • <a href="https://kyratrades.github.io/musicals#snapshots-a-musical-scrapbook">Snapshots: A Musical Scrapbook</a> • <a href="https://kyratrades.github.io/musicals#something-rotten">Something Rotten!</a> • <a href="https://kyratrades.github.io/musicals#song-and-dance">Song and Dance</a> • <a href="https://kyratrades.github.io/musicals#songs-for-a-new-world">Songs for a New World</a> • <a href="https://kyratrades.github.io/musicals#the-sound-of-music">The Sound of Music</a> • <a href="https://kyratrades.github.io/musicals#south-pacific">South Pacific</a> • <a href="https://kyratrades.github.io/musicals#spider-man-turn-off-the-dark">Spider-Man: Turn Off The Dark</a> • <a href="https://kyratrades.github.io/musicals#spongebob-squarepants-the-broadway-musical">SpongeBob SquarePants: The Broadway Musical</a> • <a href="https://kyratrades.github.io/musicals#spring-awakening">Spring Awakening</a> • <a href="https://kyratrades.github.io/musicals#starlight-express">Starlight Express</a> • <a href="https://kyratrades.github.io/musicals#the-story-of-my-life">The Story of My Life</a> • <a href="https://kyratrades.github.io/musicals#sunday-in-the-park-with-george">Sunday in the Park with George</a> • <a href="https://kyratrades.github.io/musicals#sunset-boulevard">Sunset Boulevard</a> • <a href="https://kyratrades.github.io/musicals#sweeney-todd-the-demon-barber-of-fleet-street">Sweeney Todd: The Demon Barber of Fleet Street</a> • <a href="https://kyratrades.github.io/musicals#sweet-charity">Sweet Charity</a></p>
 
 ## The Scarlet Pimpernel
 
@@ -11422,24 +10769,6 @@ CAST
 
 NOTES
 : Beautiful HD capture of this wonderful show. Alex is perfectly cast as Dewey and leads the show well. A very nice capture with no obstruction, no washout, and just a couple quick dropouts. It gets a little dark at times and filmed from the right side. The sound is excellent. Includes curtain call and playbill scan. Alex Brightman shows why he deserves his Tony Nomination with a kick ass performance
-
-## Sea Wall / A Life
-
-#### Sea Wall/A Life - Broadway - July, 2019 (Highlights)
-{: .no_toc .d-inline-block }
-
-Hollis Mizner
-{: .label .label-blue }
-
-FORMAT
-: `1` VOB+smalls `1 DVD`
-: `2` MP4 `1080p` `4.07 GB`
-
-CAST
-: Tom Sturridge (Alex), Jake Gyllenhaal (Abe)
-
-NOTES
-: Incomplete.
 
 ## The Secret Garden
 
@@ -11674,17 +11003,6 @@ CAST
 
 CAST
 : The cast’s mics occasionally cut out but nothing major. Includes bows.
-
-## Sly Fox
-
-#### Sly Fox - Broadway - March 27, 2004
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Elizabeth Berkley (Mrs. Truckle), Eric Stoltz (Simon Able), Rachel York (Miss Fancy), René Auberjonois (Jethro Crouch), Linda Halaska (Sly’s Servant), Bob Dishy (Abner Truckle), Bronson Pinchot (Lawyer Craven)
 
 ## Snapshots: A Musical Scrapbook
 
@@ -12087,23 +11405,6 @@ CAST
 NOTES
 : Excellent shoot, taper clearly knows the show. A couple particularly blocky bits couldn't be smoothed out.
 
-## Stepping Out
-
-#### Stepping Out - UK Tour - 2009
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `576p` `2.20 GB`
-
-CAST
-: Brian Capron (Geoffrey), Jessie Wallace (Sylvia), Rosemary Ashe (Mrs Fraser)
-
-NOTES
-: A producer\'s copy of the 25th anniversary UK tour production. This recording (a single cam, wide stage) was filmed for the understudies to remember their staging. It was recorded by the producers early in the run at the Leatherhead Theatre
-
 ## The Story of My Life
 
 #### The Story of My Life - Broadway - February 11, 2009 (Preview)
@@ -12155,7 +11456,7 @@ NOTES
 
 ## Sunset Boulevard
 
-<p align="center"><a href="https://kyratrades.github.io/videos#sydmonton-festival-1">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/videos#west-end-2">West End</a> • <a href="https://kyratrades.github.io/videos#broadway-4">Broadway</a> • <a href="https://kyratrades.github.io/videos#broadway-revival-2">Broadway Revival</a> • <a href="https://kyratrades.github.io/videos#misc-4">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#sydmonton-festival-1">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/musicals#west-end-2">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-4">Broadway</a> • <a href="https://kyratrades.github.io/musicals#broadway-revival-2">Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#misc-4">MISC</a></p>
 
 ### Sydmonton Festival
 
@@ -12535,7 +11836,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/videos#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="https://kyratrades.github.io/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/videos#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/videos#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/videos#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
 
 ## Tales of the City
 
@@ -12639,23 +11940,6 @@ CAST
 NOTES
 : Shot from the second row with lots of close-ups. Very clear and steady video with very good sound.
 
-## Three Days of Rain
-
-#### Three Days of Rain - Broadway - May 31, 2006
-{: .no_toc .d-inline-block }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB `NO SMALLS` `1 DVD`
-
-CAST
-: Bradley Cooper (Pip / Theo), Julia Roberts (Nan / Lina), Paul Rudd (Walker / Ned)
-
-NOTES
-: Amazingly clear video with great closeups and sound; includes NY1 reviews and interviews.
-
 ## tick, tick... BOOM!
 
 #### tick, tick... BOOM! - Off-Broadway - May 31, 2001
@@ -12730,74 +12014,6 @@ FORMAT
 CAST
 : Jenna Russell (Susan), Lucie Jones (Heidi), Marc Elliott (Jeff), Tyrone Huntley (Hunter)
 
-## To Kill a Mockingbird
-
-#### To Kill a Mockingbird - Broadway - July, 2019
-{: .no_toc .d-inline-block }
-
-Hollis Mizner
-{: .label .label-blue }
-
-FORMAT
-: MP4 `720p` `3.27 GB`
-
-CAST
-: Jeff Daniels (Atticus Finch), Celia Keenan-Bolger (Scout), Will Pullen (Jem), Manoel Felciano (Horace Gilmer), LaTonya Richardson Jackson (Calpurnia), Aubie Merrylees (u/s Dill), Dakin Matthews (Judge Taylor), Gbenga Akinnagbe (Tom Robinson), Frederick Weller (Bob Ewell), Danny Wolohan (Boo Radley), Erin Wilhelmi (Mayella), Neal Huff (Link Deas), Liv Roth (Miss Stephanie), Phyllis Somerville (Ms. Dubose)
-
-NOTES
-: Very shaky video, never really settles down. Filmed nearly entirely through close-ups, which means a fair bit of the action is missed.
-
-## Tony Awards
-
-### Wants
-{: .no_toc }
-
-I'm looking for any and all recordings of Tony Awards, including fan compilations! Please do reach out if you have any videos I don't already have :)
-
-#### Tony Awards - 1966-1986 \[S1\]
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: ISO
-
-#### Tony Awards - 2004 & 2005
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-## Twelfth Night
-
-#### Twelfth Night - Lincoln Center - 1998
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `360p` `461 MB` `VHS rip`
-
-CAST
-: Amy Hill (Maria), Brian Murray (Sir Toby Belch), David Patrick Kelly (Feste), Helen Hunt (Viola), Julio Monge (Antonio), Kyra Sedgwick (Olivia), Max Wright (Sir Andrew Aguecheek), Paul Rudd (Orsino), Philip Bosco (Malvolio), Rick Stear (Sebastian)
-
-#### Twelfth Night - Broadway - November 27, 2013
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Angus Wright (Sir Andrew Aguecheek), Colin Hurley (Sir Toby Belch), John Paul Connolly (Antonio), Joseph Timms (Sebastian), Liam Brennan (Orsino), Mark Rylance (Olivia), Paul Chahidi (Maria), Peter Hamilton Dyer (Feste), Samuel Barnett (Viola), Stephen Fry (Malvolio)
-
-NOTES
-: Amazing show by the RSC company all-male cast; faithful adaptation with wonderful comedy; some obstruction at the front of the stage, and moments of shakiness. Complete show, includes curtain call and BCEFA speech. 2 DVDs A-
-
 ## Two by Two
 
 #### Two by Two - Reprise! Theatre Company - November 1, 2009
@@ -12820,7 +12036,7 @@ NOTES
 
 # U
 
-<p align="center"><a href="https://kyratrades.github.io/videos#urinetown">Urinetown</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#urinetown">Urinetown</a></p>
 
 ## Urinetown
 
@@ -12862,7 +12078,7 @@ NOTES
 
 # V
 
-<p align="center"><a href="https://kyratrades.github.io/videos#victorvictoria">Victor/Victoria</a> • <a href="https://kyratrades.github.io/videos#a-view-from-the-bridge">A View From the Bridge</a> • <a href="https://kyratrades.github.io/videos#violet">Violet</a> • <a href="https://kyratrades.github.io/videos#the-visit">The Visit</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#victorvictoria">Victor/Victoria</a> • <a href="https://kyratrades.github.io/musicals#violet">Violet</a></p>
 
 ## Victor/Victoria
 
@@ -12889,17 +12105,6 @@ FORMAT
 
 CAST
 : Liza Minnelli (t/r Victoria Grant / Victor Grazinski), Tony Roberts (Carroll Todd), Michael Nouri (King Marchand), Rachel York (Norma Cassidy), Gregory Jbara (Squash), Adam Heller (Henri Labisse)
-
-## A View From the Bridge
-
-#### A View From the Bridge - Third Broadway Revival - January 6, 2010
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Liev Schreiber (Eddie), Scarlett Johansson (Catherine), Jessica Hecht (Beatrice), Michael Cristofer (Alfieri), Santino Fontana (Rodolpho), Corey Stoll (Marco), Alex Cendese (Submarine \#2/Neighbor), Anthony DeSando (1st Immigration Officer/Guard), Antoinette LaVecchia (Mrs. Lipari), Joe Ricci (Mike), Robert Turano (Louis)
 
 ## Violet
 
@@ -12930,113 +12135,13 @@ CAST
 NOTES
 : Very beginning of the show is missing, but it picks up about halfway through Water in the Well and complete from there with a couple quick dropouts. Well filmed with clear picture and good sound.
 
-## The Visit
-
-#### The Visit - Signature Theatre, Arlington VA - June 22, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Chita Rivera (Claire Zachanassian), George Hearn (Anton Schell), Karen Murphy (Matilde Schell), Kevin Reed (Karl Schell), Matthew Deming (Louis Perch), Bethe B Austin (Annie Dummermut), James Harms (Rudi), Ryan Lowe (Jacob Chicken), D B Bonds (Young Anton), Cristen Paige (Ottilie Schell), Mary Ann Lamb (Young Claire)
-
-NOTES
-: Produced at The Signature Theatre as part of the Kander & Ebb Celebration.
-
-#### The Visit - Benefit Concert - November 30, 2011
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Chita Rivera (Claire Zachanassian), John Cullum (Anton Schell), Jeremy Webb (Frederich Kuhn), Mark Jacoby (Peter Dummermut), Karen Murphy (Matilde Schell), Kevin Reed (Karl Schell), Matthew Deming (Louis Perch), Linda Balgord (Annie Dummermut), Michael Hayward-Jones (Father Josef), James Harms (Rudi), Ryan Lowe (Jacob Chicken), DB Bonds (Young Anton), Dana Steingold (Ottilie Schell), Mary Ann Lamb (Young Claire)
-
-NOTES
-: A Benefit Concert of the Kander & Ebb show with choreography by Ann Reinking. A very interesting story of a woman scorned and the price she pays to serve him justice. Everything is nicely captured and of course Chita does a fantastic job! A-
-
-#### The Visit - Broadway - March 27, 2015 (Preview) 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Chita Rivera (Claire Zachanassian), Roger Rees (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), Mary Beth Peil (Matilde Schell), George Abud (Karl Schell), Matthew Deming (Louis Perch), Diana DiMarzio (Annie Dummermut), Rick Holmes (Father Josef), Tom Nelis (Rudi), Chris Newcomer (Jacob Chicken), Aaron Ramey (Otto Hahnke), John Riddle (Young Anton), Elena Shaddow (Ottilie Schell), Timothy Shew (Hans Nusselin), Michelle Veintimilla (Young Claire)
-
-NOTES
-: Fantastic capture with no obstructions and hardly any washout. Very good revival.
-
-#### The Visit - Broadway - April 11, 2015 (Preview)
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Chita Rivera (Claire Zachanassian), Roger Rees (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), Mary Beth Peil (Matilde Schell), George Abud (Karl Schell), Matthew Deming (Louis Perch)
-
-NOTES
-: Great HD capture of the Kander & Ebb musical that finally made it to Broadway. At times a head can block the Actor\'s feet on the far right side, but rarely an issue. Chita still in wonderful form here and always delivers in this dark tale of a scorned woman! A-
-
-#### The Visit - Broadway - April 22, 2015 (Preview)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Chita Rivera (Claire Zachanassian), Roger Rees (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), George Abud (Karl Schell), Matthew Deming (Louis Perch), Diana DiMarzio (Annie Dummermut), Rick Holmes (Father Josef)
-
-NOTES
-: Excellent HD video filmed from center mezzanine with little washout. Great clear picture and sound.
-
-#### The Visit - Broadway - June 3, 2015 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Chita Rivera (Claire Zachanassian), Tom Nelis (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), Mary Beth Peil (Matilde Schell), George Abud (Karl Schell), Matthew Deming (Louis Perch), Diana DiMarzio (Annie Dummermut), Rick Holmes (Father Josef), Chris Newcomer (Jacob Chicken), Aaron Ramey (Otto Hahnke), John Riddle (Young Anton), Elena Shaddow (Ottilie Schell), Timothy Shew (Hans Nusselin), Michelle Veintimilla (Young Claire)
-
-NOTES
-: Tom Nelis took over the role of Anton when Roger Rees departed the production. Good HD video with clear picture and great sound.
-
 # W
 
-<p align="center"><a href="https://kyratrades.github.io/videos#waiting-for-godot">Waiting for Godot</a> • <a href="https://kyratrades.github.io/videos#waitress">Waitress</a> • <a href="https://kyratrades.github.io/videos#war-paint">War Paint</a> • <a href="https://kyratrades.github.io/videos#we-are-the-tigers">We Are The Tigers</a> • <a href="https://kyratrades.github.io/videos#the-wedding-singer">The Wedding Singer</a> • <a href="https://kyratrades.github.io/videos#west-side-story">West Side Story</a> • <a href="https://kyratrades.github.io/videos#when-you-wish-the-story-of-walt-disney">When You Wish: The Story of Walt Disney</a> • <a href="https://kyratrades.github.io/videos#wheres-charley">Where's Charley?</a> • <a href="https://kyratrades.github.io/videos#wicked">Wicked</a> • <a href="https://kyratrades.github.io/videos#the-wild-party-lippa">The Wild Party (Lippa)</a> • <a href="https://kyratrades.github.io/videos#the-witches-of-eastwick">The Witches of Eastwick</a> • <a href="https://kyratrades.github.io/videos#the-wiz">The Wiz</a> • <a href="https://kyratrades.github.io/videos#the-wizard-of-oz-webber">The Wizard of Oz (Webber)</a> • <a href="https://kyratrades.github.io/videos#women-on-the-verge-of-a-nervous-breakdown">Women on the Verge of a Nervous Breakdown</a> • <a href="https://kyratrades.github.io/videos#wonderland">Wonderland</a></p>
-
-## Waiting for Godot
-
-#### Waiting for Godot - Broadway - November 24, 2013 (Opening Night)
-{: .no_toc .d-inline-block }
-
-Lanelle
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Aidan Gemme (The Boy), Billy Crudup (Lucky), Ian McKellen (Estragon), Patrick Stewart (Vladimir), Shuler Hensley (Pozzo)
+<p align="center"><a href="https://kyratrades.github.io/musicals#waitress">Waitress</a> • <a href="https://kyratrades.github.io/musicals#war-paint">War Paint</a> • <a href="https://kyratrades.github.io/musicals#we-are-the-tigers">We Are The Tigers</a> • <a href="https://kyratrades.github.io/musicals#the-wedding-singer">The Wedding Singer</a> • <a href="https://kyratrades.github.io/musicals#west-side-story">West Side Story</a> • <a href="https://kyratrades.github.io/musicals#when-you-wish-the-story-of-walt-disney">When You Wish: The Story of Walt Disney</a> • <a href="https://kyratrades.github.io/musicals#wheres-charley">Where's Charley?</a> • <a href="https://kyratrades.github.io/musicals#wicked">Wicked</a> • <a href="https://kyratrades.github.io/musicals#the-wild-party-lippa">The Wild Party (Lippa)</a> • <a href="https://kyratrades.github.io/musicals#the-witches-of-eastwick">The Witches of Eastwick</a> • <a href="https://kyratrades.github.io/musicals#the-wiz">The Wiz</a> • <a href="https://kyratrades.github.io/musicals#the-wizard-of-oz-webber">The Wizard of Oz (Webber)</a> • <a href="https://kyratrades.github.io/musicals#women-on-the-verge-of-a-nervous-breakdown">Women on the Verge of a Nervous Breakdown</a> • <a href="https://kyratrades.github.io/musicals#wonderland">Wonderland</a></p>
 
 ## Waitress
 
-<p align="center"><a href="https://kyratrades.github.io/videos#broadway-5">Broadway</a> • <a href="https://kyratrades.github.io/videos#first-national-tour-1">First National Tour</a> • <a href="https://kyratrades.github.io/videos#west-end-3">West End</a> • <a href="https://kyratrades.github.io/videos#second-non-equity-national-tour">Second Non-Equity National Tour</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#broadway-5">Broadway</a> • <a href="https://kyratrades.github.io/musicals#first-national-tour-1">First National Tour</a> • <a href="https://kyratrades.github.io/musicals#west-end-3">West End</a> • <a href="https://kyratrades.github.io/musicals#second-non-equity-national-tour">Second Non-Equity National Tour</a></p>
 
 ### Broadway
 
@@ -13548,2027 +12653,7 @@ NOTES
 
 ## Wicked
 
-<p align="center"><a href="https://kyratrades.github.io/videos#broadway-6">Broadway</a> • <a href="https://kyratrades.github.io/videos#chicago-1">Chicago</a> • <a href="https://kyratrades.github.io/videos#first-national-tour-2">First National Tour</a> • <a href="https://kyratrades.github.io/videos#japan">Japan</a> • <a href="https://kyratrades.github.io/videos#west-end-4">West End</a> • <a href="https://kyratrades.github.io/videos#los-angeles">Los Angeles</a> • <a href="https://kyratrades.github.io/videos#stuttgart-1">Stuttgart</a> • <a href="https://kyratrades.github.io/videos#san-francisco">San Francisco</a> • <a href="https://kyratrades.github.io/videos#second-national-tour">Second National Tour</a> • <a href="https://kyratrades.github.io/videos#oberhausen">Oberhausen</a> • <a href="https://kyratrades.github.io/videos#scheveningen">Scheveningen</a> • <a href="https://kyratrades.github.io/videos#mexico">Mexico</a> • <a href="https://kyratrades.github.io/videos#brazil-1">Brazil</a> • <a href="https://kyratrades.github.io/videos#international-tour">International Tour</a> • <a href="https://kyratrades.github.io/videos#specials-1">Specials</a></p>
-
-### Broadway
-
-#### Wicked - Broadway - October, 2003 (Highlights) 
-{: .no_toc .d-inline-block }
-
-Press Reel 
-{: .label .label-green }
-
-FORMAT
-: MPG `352x240` `10 files` `274 MB`
-
-CAST
-: Idina Menzel (Elphaba), Kristin Chenoweth (Glinda), Norbert Leo Butz (Fiyero), Joel Grey (The Wizard), Carole Shelley (Madame Morrible)
-
-NOTES
-: About 20 minutes of proshot footage. No One Mourns The Wicked; The Wizard And I; Dancing Through Life; Popular; One Short Day; Defyinig Gravity; Thank Goodness; Wonderful; As Long As You\'re Mine; For Good.
-
-#### Wicked - Broadway - October 11, 2003 (Preview)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.15 GB`
-
-CAST
-: Idina Menzel (Elphaba), Kristin Chenoweth (Glinda), Norbert Leo Butz (Fiyero), Joel Grey (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: Filmed from 4th row from a left side angle. When there is a picture, it\'s nice and clear but not often. No flying scene video; last 10 minutes is sound only.
-
-#### Wicked - Broadway - October 12, 2003 (Preview)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: `1` VOB+smalls `1 DVD`
-: `2` VOB+smalls `2 DVDs`
-: Please specifiy which version you'd like when trading for this. Check the notes for their differences.
-
-CAST
-: Idina Menzel (Elphaba), Kristin Chenoweth (Glinda), Norbert Leo Butz (Fiyero), Joel Grey (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: Very well shot overall despite spotlight washout. 1 Disc version includes NY1 Review Segment, Today Show performance, and Letterman performance. 2 Disc version is lower generation (higher quality) but does not include the extras.
-
-#### Wicked - Broadway - January 9, 2004
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.79 GB`
-
-CAST
-: Idina Menzel (Elphaba), Kristin Chenoweth (Glinda), Taye Diggs (t/r Fiyero), Joel Grey (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: Restored to the original PAL, though not without a hit from the gen loss incurred along the way. Audio has been filtered to remove the camera noise and excess hiss from the theatre. Image is on the shaky side, and the camera has a hard time locking into focus combined with being out of sync with the US lights leading to a constant flicker. A pity because it's a strong performance by the original cast during the show's ascent.
-
-#### Wicked - Broadway - July 18, 2004
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs` `No DVD menu` `7.63 GB`
-
-CAST
-: Idina Menzel (Elphaba), Kristin Chenoweth (Glinda), Norbert Leo Butz (Fiyero), Sean McCourt (u/s The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Randy Harrison (t/r Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: This is Kristin and Norbert\'s last show. It was also supposed to be Joel Grey\'s last show, but he was ill. Video is sound only for first 4 minutes. This is a great video and excellent sound. Includes the speech by Idina. Definitely the best of the early Wicked captures. Idina wiping tears from Kristin's face is touching and priceless. This bootleg is a treasure.
-
-#### Wicked - Broadway - September 19, 2004
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD menu` `4.36 GB`
-
-CAST
-: Kristy Cates (u/s Elphaba), Jennifer Laura Thompson (Glinda), Joey McIntyre (Fiyero), George Hearn (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), Anthony Galde (u/s Doctor Dillamond)
-
-#### Wicked - Broadway - October 20, 2004
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD menu` `3.89 GB`
-
-CAST
-: Shoshana Bean (s/b Elphaba), Jennifer Laura Thompson (Glinda), Joey McIntyre (Fiyero), George Hearn (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: Shoshana\'s second show as Elphaba
-
-#### Wicked - Broadway - January 9, 2005
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.69 GB`
-: Recording of another DVD, would love to trade for the first generation files! This should be the [original DVD menu](https://imgur.com/a/pZJm4fw).
-
-CAST
-: Shoshana Bean (s/b Elphaba), Jennifer Laura Thompson (Glinda), Joey McIntyre (Fiyero), George Hearn (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Robb Sapp (u/s Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: McIntyre last. This is the infamous show which should have also been Menzel's last, but for her trap door injury the night before. She appears at the very end to make a cameo. Shot from a pronounced angle and wobbly in places but generally watchable.
-
-#### Wicked - Broadway - July 24, 2005
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.66 GB`
-: Recording of another DVD, would love to trade for the first generation files!
-
-CAST
-: Saycon Sengbloh (s/b Elphaba), Megan Hilty (Glinda), Jerad Bortz (u/s Fiyero), Ben Vereen (The Wizard), Rue McClanahan (Madame Morrible), Stacie Morgain Lewis (u/s Nessarose), Jeffrey Kuhn (Boq), William Youmans (Doctor Dillamond)
-
-NOTES
-: Act one is complete. Act two isn't, contains the following footage from act two: "Thank Goodness" through setting the monkeys free, then taping starts again moments before "No Good Deed" and then ends after Elphaba melts; excellent video even with all of the missing stuff and some spotlight washout.
-
-#### Wicked - Broadway - August 17, 2005
-{: .no_toc .d-inline-block }
-
-jstarz
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.34 GB`
-
-CAST
-: Shoshana Bean (Elphaba), Megan Hilty (Glinda), David Ayers (Fiyero), Ben Vereen (The Wizard), Adinah Alexander (u/s Madame Morrible), Megan Sikora (u/s Nessarose), Jeffrey Kuhn (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: About five minutes worth of cover-ups at the beginning (you see Glinda\'s entrance) because of latecomers and few more random ones during the first Act. The first few minutes of the second Act are similar to those of Act One. No obstructions, incredible close-ups (ever wanted to read the board in Dillamond\'s classroom?)
-
-#### Wicked - Broadway - January 8, 2006
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.28 GB`
-: Recording of another DVD, would love to trade for the first generation files! This is the [original DVD menu](https://imgur.com/a/Ub9Swlz).
-
-CAST
-: Shoshana Bean (Elphaba), Megan Hilty (Glinda), David Ayers (Fiyero), Ben Vereen (The Wizard), Rue McClanahan (Madame Morrible), Michelle Federer (Nessarose), Robb Sapp (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: Shoshana\'s, David\'s, Rue\'s and Michelle\'s last performance. The whole cast was really having fun, very high audience energy throughout. Megan and Shoshana have a really funny bit during Popular, and the crowd went wild. Camera wanders quite a bit and is shaky at points due to the master\'s blind filming, plus some spotlight washout. Still, this recording is an absolute gem. Includes playbill scans and Megan's speech in the end.
-
-#### Wicked - Broadway - January 29, 2006 (Matinee)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.47 GB`
-: Recording of another DVD, would love to trade for the first generation files with [this DVD menu](https://imgur.com/a/xVGisR0)!
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), George Hearn (t/r The Wizard), Carol Kane (Madame Morrible), Cristy Candler (Nessarose), Robb Sapp (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: Quite a lot of spotlight washout, some head obstruction and shakiness. (Not Master\'s notes) The one where Megan hits BOTH optional high notes at the end of No One Mourns the Wicked and Thank Goodness.
-
-#### Wicked - Broadway - March 29, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.15 GB`
-: Doesn't look like a typical Sunset release but I could be wrong. Menu has song index.
-
-CAST
-: Saycon Sengbloh (s/b Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), Ben Vereen (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Robb Sapp (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: The Best filming of Wicked ever! Shot close to the stage, tons of closeups. Amazing quality. A+
-
-#### Wicked - Broadway - April 12, 2006 (Highlights)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `Non-Original`
-: Recording of another DVD, would love to trade for the first generation files! The original DVD should have [this menu](https://imgur.com/a/ApcGQUy).
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Robb Sapp (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: Around an hour of highlights
-
-<p align="center"><small>For Wicked Broadway, from here onwards I'm pretty certain the files are the original release unless otherwise stated.</small></p>
-
-#### Wicked - Broadway - May 28, 2006
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs` `7.76 GB`
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Robb Sapp (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: Megan Hilty\'s last show in the Broadway run (she will reprise the role of Glinda in the Los Angeles run). A very Megan-centric recording, good close-ups and follows the action very well. Includes detailed scene selection, playbill scans at the start (DVD 1) and stage door recordings (DVD 2). One of, if not the best performance of Megan.
-
-#### Wicked - Broadway - July 29, 2006
-{: .no_toc .d-inline-block }
-
-jstarz
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Eden Espinosa (Elphaba), Kate Reinders (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Gaelen Gilliland (u/s Madame Morrible), Jenna Leigh Green (Nessarose), Robb Sapp (Boq), Sean McCourt (Doctor Dillamond)
-
-NOTES
-: First five minutes of each Act are shaky with cover-ups (I've never seen so many latecomers at a show), and there are also blackouts after some songs in Act One. Incredible close-ups, you can see Eden's tears in her eyes during her heart-wrenching "I'm Not that Girl". Audience is electric, a satisfying show overall. Gaelen, in her early-20s, brings an interesting take on Morrible's role as probably the youngest actress to play her.
-
-#### Wicked - Broadway - September 23, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Saycon Sengbloh (s/b Elphaba), Kate Reinders (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Anthony Galde (u/s Doctor Dillamond)
-
-NOTES
-: Saycon was Amazing, a total different performance from previous Dvds, including new vocal riffs. Amazing quality! A+
-
-#### Wicked - Broadway - October 14, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.14 GB`
-: Does NOT work correctly, do not request. Stops working somewhere after 1:10:00. Would like to tarde for the original files.
-
-CAST
-: Ana Gasteyer (Elphaba), Kate Reinders (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Kathy Santen (u/s Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond), Lorna Ventura (u/s Midwife)
-
-NOTES
-: Crystal clear picture and sound of Ana\'s return to Wicked in the Broadway Cast. Missing 14 minutes in the middle of Act 2, but sound is there. A
-
-#### Wicked - Broadway - January 20, 2007 (Matinee)
-{: .no_toc .d-inline-block }
-
-jstarz
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Julia Murney (Elphaba), Katie Adams (s/b Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: Includes pre-show announcement and curtain calls. Also includes the final changes carried over from London , including the abbreviated \'Wonderful\' and the pretty light show replacing the big black hat. Shot from rear mezz, no obstructions. One minute coverup after the ballroom (before Popular) and another during Thank Goodness. Several mic problems cause actor\'s voices to cut out, which causes hilarity when the Wizard\'s head mouths silently in Act Two. Really painful Act One for Julia, especially the end of WAI which is half screamed/sung. She apparently got the frog out of her throat during intermission, because she comes back for a triumphant Act Two. Overall, Julia makes some lovely acting choices and has brilliant chemistry with the rest of the cast, especially Katie and Sebastian; their ALAYM is spell-binding. Will never be a fan of her voice, though. Katie is even better than she was in November. The real standout was Cristy\'s Nessarose\...she has the best voice and gives the most
-
-#### Wicked - Broadway - February 9, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: Julia & Kendra give Electric performances. Hard to believe they can get better, but yet they do. Wonderful picture, sound and clouseups. A
-
-#### Wicked - Broadway - May 22, 2007
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs` `7.20 GB`
-
-CAST
-: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-#### Wicked - Broadway - July 1, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Lisa Brescia (s/b Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: Lisa did a very lovely job in the role, and she looked fabulous. Her Elphaba is sweet, which is nice and works for her. Beautiful capture and performances. A
-
-#### Wicked - Broadway - July 2, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.65 GB` `Non-Original`
-
-CAST
-: Caissie Levy (u/s Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: Caissie\'s first as Elphaba, and she tore it up and put it on a silver platter. Beautiful capture and vocals. Kendra is hilarious at this performance. A
-
-#### Wicked - Broadway - July 3, 2007
-{: .no_toc .d-inline-block }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `2 DVDs` `7.17 GB`
-: I would trade very unfairly for a functional copy.
-
-CAST
-: Caissie Levy (u/s Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-#### Wicked - Broadway - October 7, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD menu` `4.19 GB`
-
-CAST
-: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), Lenny Wolpe (The Wizard), Kathy Santen (u/s Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: Final Performances of Julia Murney and Kendra Kassebaum. Beautifully captured and wonderful closeups. Great performances all around and includes curtain call speech. A+
-
-#### Wicked - Broadway - October 9, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Stephanie J Block (Elphaba), Annaleigh Ashford (Glinda), Sebastian Arcelus (Fiyero), Lenny Wolpe (The Wizard), Kathy Santen (u/s Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: First Performances of Stephanie J. Block and Annaleigh Ashford. Beautifully captured and wonderful closeups, jaw dropping footage. Excellent performances all around, Stephanie commands the stage. A+
-
-#### Wicked - Broadway - October 24, 2007 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `1.18 GB`
-
-CAST
-: Caissie Levy (u/s Elphaba), Annaleigh Ashford (Glinda), Michael Seelbach (u/s Fiyero), Lenny Wolpe (The Wizard), Carole Shelley (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond), Jason Davies (u/s Chistery)
-
-NOTES
-: Highlights of Caissie’s last Broadway Performance. Includes: Shiz University scene, "The Wizard and I," "What Is This Feeling?," Poppy Field scene, "I'm Not That Girl," Attic scene/ Morrible, "Defying Gravity," "No Good Deed," "For Good," and the Finale.
-
-#### Wicked - Broadway - March 13, 2008
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Stephanie J Block (Elphaba), Annaleigh Ashford (Glinda), David Burnham (Fiyero), Lenny Wolpe (The Wizard), Miriam Margolyes (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Doctor Dillamond), Jason Davies (u/s Chistery)
-
-#### Wicked - Broadway - May 8, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.20 GB`
-
-CAST
-: Stephanie J Block (Elphaba), Annaleigh Ashford (Glinda), David Burnham (Fiyero), Lenny Wolpe (The Wizard), Miriam Margolyes (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Doctor Dillamond)
-
-#### Wicked - Broadway - June 15, 2008
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Stephanie J Block (Elphaba), Kendra Kassebaum (Glinda), David Burnham (Fiyero), Lenny Wolpe (The Wizard), Kathy Santen (t/r Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Michael DeVries (u/s Doctor Dillamond)
-
-NOTES
-: Final Performance of Stephanie J. Block. Great capture of possibly the best performance ever given by an Elphaba. SJB lit the stage on fire, honestly this is one of the best individual performances I have ever attended. With such power and control, this is one Wicked NOT to be missed, you will be amazed! A
-
-#### Wicked - Broadway - August 5, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs` `7.20 GB`
-
-CAST
-: Kerry Ellis (Elphaba), Kendra Kassebaum (Glinda), Aaron Tveit (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Doctor Dillamond)
-
-NOTES
-: No obstructions, only two brief blackouts at the beginning of Act 2. Slight shakiness and good combination of close-ups and full stage.
-
-#### Wicked - Broadway - October 31, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.26 GB`
-
-CAST
-: Kerry Ellis (Elphaba), Kendra Kassebaum (Glinda), Aaron Tveit (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Halloween! Great performance from all the cast here. Includes a Broadway Cares/Equity Fights Aidsspeech by Aaron Tveit at the end. Wonderful quality, kind of shaky though
-
-#### Wicked - Broadway - January 2, 2009 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (Elphaba), Alli Mauzey (Glinda), Kevin Kern (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Brynn O\'Malley (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-#### Wicked - Broadway - January 11, 2009
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Marcie Dodd (Elphaba), Alli Mauzey (Glinda), Kevin Kern (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Brynn O\'Malley (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Full show, beautifully caught. Marcie\'s last performance in the Broadway company.
-
-#### Wicked - Broadway - January 13, 2009
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD menu` `4.07 GB`
-
-CAST
-: Julie Reiber (s/b Elphaba), Alli Mauzey (Glinda), Kevin Kern (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Brynn O\'Malley (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Full show, beautifully shot. Julie was Elphaba for the 1/13 and 1/14 performances since Nicole would only start on 1/15.
-
-#### Wicked - Broadway - March 7, 2009
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Nicole Parker (Elphaba), Alli Mauzey (Glinda), Aaron Tveit (Fiyero), Anthony Galde (u/s The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-#### Wicked - Broadway - August 16, 2012 (Highlights)
-{: .no_toc .d-inline-block }
-
-Eleka Nahmen
-{: .label .label-blue }
-
-FORMAT
-: MP4 `720p` `1.29 GB`
-
-CAST
-: Jackie Burns (Elphaba), Chandra Lee Schwartz (Glinda), Kyle Dean Massey (Fiyero), Adam Grupper (The Wizard), Randy Danson (Madame Morrible), Jenny Fellner (Nessarose), Etai BenShlomo (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Act 1 only. First recorded no-fly show. Filmed with two cameras.
-
-#### Wicked - Broadway - February 10, 2013
-{: .no_toc .d-inline-block }
-
-Eleka Nahmen
-{: .label .label-blue }
-
-FORMAT
-: `1` VOB+smalls `6.13 GB`
-: `2` MP4 `720p` `2.70 GB`
-: Will trade out the MP4 unless otherwise requested. Both should be the original release and the picture quality looks much better.
-
-CAST
-: Donna Vivino (s/b Elphaba), Alli Mauzey (Glinda), Kyle Dean Massey (Fiyero), Adam Grupper (The Wizard), Randy Danson (Madame Morrible), Catherine Charlebois (Nessarose), F Michael Haynie (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Very nice video from the orchestra. Can be a little shaky at times, but it\'s a great angle. This was supposed to be Jackie Burns\' last night, but she\'d been sick since late January and ended up missing this performance. Donna is just INCREDIBLE as Elphaba\...
-
-#### Wicked - Broadway - May 12, 2013
-{: .no_toc .d-inline-block }
-
-Lanelle
-{: .label .label-blue }
-
-FORMAT
-: `1` VOB+smalls `2 DVDs` `7.45 GB`
-: `2` M2TS `24.02 GB`
-
-CAST
-: Willemijn Verkaik (Elphaba), Katie Rose Clarke (Glinda), Kyle Dean Massey (Fiyero), Adam Grupper (The Wizard), Randy Danson (Madame Morrible), Catherine Charlebois (Nessarose), F Michael Haynie (Boq), John Schiappa (Doctor Dillamond)
-
-NOTES
-: Filmed from the right orchestra, at a slight angle, but excellent quality. The taper originally released this as a blu-ray, 2-disc DVDs or 1-disc DVD, so make sure to get the version that best suits your needs.
-
-#### Wicked - Broadway - February 1, 2015
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Lilli Cooper (s/b Elphaba), Kara Lindsay (Glinda), Jerad Bortz (u/s Fiyero), Brian Munn (u/s The Wizard), Kathy Fitzgerald (Madame Morrible), Catherine Charlebois (Nessarose), Robin de Jesús (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Beautiful HD capture from the orchestra. Lilli did a wonderful job in the role and made it her own. Jared has trouble opening the trap door and is late for curtain call. A
-
-#### Wicked - Broadway - July 20, 2015
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Caroline Bowman (Elphaba), Kara Lindsay (Glinda), Matt Shingledecker (Fiyero), Fred Applegate (The Wizard), Michele Lee (Madame Morrible), Arielle Jacobs (Nessarose), Robin de Jesús (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Excellent HD capture with no obstructions. Caroline is an extremely strong Elphaba.
-
-#### Wicked - Broadway - August 20, 2015 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.23 GB`
-
-CAST
-: Caroline Bowman (Elphaba), Lindsay K Northen (u/s Glinda), Matt Shingledecker (Fiyero), Fred Applegate (The Wizard), Michele Lee (Madame Morrible), Arielle Jacobs (Nessarose), Robin de Jesús (Boq), William Ryall (u/s Doctor Dillamond), Desi Oakley
-
-NOTES
-: Very nice quality bootleg with Linsday K Northen, who had been one of the Glinda understudies for years.
-
-#### Wicked - Broadway - June 21, 2016 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Rachel Tucker (Elphaba), Ginna Claire Mason (s/b Glinda), Jonah Platt (Fiyero), Peter Scolari (The Wizard), Judy Kaye (Madame Morrible), Dawn E Cantwell (Nessarose), Zachary Noah Piser (Boq), Michael Genet (Doctor Dillamond), Christopher King (Chistery), Sterling Masters (Witch\'s Mother), William Ryall (Witch\'s Father / Ozian Official)
-
-NOTES
-: Great performances from both Rachel and Ginna. Nicely captured with no obstruction, just a couple quick dropouts, and some occasional washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
-
-#### Wicked - Broadway - June 25, 2016
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Rachel Tucker (Elphaba), Carrie St Louis (Glinda), Jonah Platt (Fiyero), Peter Scolari (The Wizard), Judy Kaye (Madame Morrible), Dawn E Cantwell (Nessarose), Zachary Noah Piser (Boq), Michael Genet (Doctor Dillamond)
-
-NOTES
-: Beautiful HD Capture of the recent Broadway cast. Rachel absolutely kills it and brings grit and power as Elphaba and Carrie\'s a wonderful, quirky, wand twirling and swinging badass.
-
-#### Wicked - Broadway - December 27, 2016 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Jennifer DiNoia (Elphaba), Kara Lindsay (Glinda), Michael Campayno (Fiyero), Peter Scolari (The Wizard), Sheryl Lee Ralph (Madame Morrible), Dawn E Cantwell (Nessarose), Zachary Noah Piser (Boq), Michael Genet (Doctor Dillamond), Raymond Joel Matsamura (Chistery), Jane Brockman (Midwife), Courtney Iventosch (Witch\'s Mother), William Ryall (Witch\'s Father / Ozian Official), Adrian Lee, Alex DeLeo, Amber Jackson, Betsy Werbel, Brandon Leffler, Dan Gleason, Daniel Quadrino, Hannah Shankman, Heather Spore, Ioana Alfonso, Jerad Bortz, Josh Daniel Green, Kali Grinder, Larkin Bogan, Lindsay K Northen, Marissa Lupp, Spencer Jones, Travis Taber
-
-NOTES
-: A solid cast. Jennifer and Kara are at the top of their game, and they are wonderful to watch. This is perfectly captured with no washout, no obstruction, and just a couple quick dropouts between scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
-
-#### Wicked - Broadway - June 30, 2017
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Jennifer DiNoia (Elphaba), Kara Lindsay (Glinda), Kyle Dean Massey (t/r Fiyero), PJ Benjamin (The Wizard), Sheryl Lee Ralph (Madame Morrible), Hannah Shankman (u/s Nessarose), Zachary Noah Piser (Boq), Chad Jennings (Doctor Dillamond)
-
-NOTES
-: Beautiful HD capture of Jennifer\'s return to the role of Elphaba. Captured from the Orchestra with no obstructions and very nice angle. A+
-
-#### Wicked - Broadway - August 11, 2017
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Jackie Burns (Elphaba), Amanda Jane Cooper (Glinda), Ashley Parker Angel (Fiyero), PJ Benjamin (The Wizard), Rondi Reed (Madame Morrible), Kristen Martin (Nessarose), Jye Frasca (Boq), Chad Jennings (Doctor Dillamond)
-
-NOTES
-: Excellent HD capture of Jackie\'s return to the role, captured from the Orchestra. Jackie remains of the most powerful and brilliant Elphabas of all time. Stunning riffs, growls and variations, a perfect performance! A+
-
-#### Wicked - Broadway - March, 2019 
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `7.18 GB`
-
-CAST
-: Laurel Harris (s/b Elphaba), Katie Rose Clarke (Glinda), Ryan McCartan (Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Kristen Martin (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond), Manuel Herrera (Chistery), Kathy Santen (Midwife), Sterling Masters (Witch\'s Mother), William Ryall (Witch\'s Father / Ozian Official)
-
-NOTES
-: This is a vivid 4K video with almost no obstructions. Pretty much everything is centered, with beautiful zooms but also wider shots that showcase the dancing and set design. At times the video appears on an angle because my wrists are weak, but you don\'t miss anything because of it. There is also washout at times, but I do believe my camera handles the spotlights better than a lot of Wicked videos. All in all this is a gorgeous capture of old and new cast members\... I\'m not finished yet in this bootleg business but if I was this could be my magnum opus.
-
-#### Wicked - Broadway - March 30, 2019 (Matinee)
-{: .no_toc .d-inline-block }
-
-FetchHappened
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Laurel Harris (s/b Elphaba), Katie Rose Clarke (Glinda), Ryan McCartan (Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Gizel Jimenez (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond)
-
-NOTES
-: A nice capture of Laurel taking over as Elphaba and Katie\'s return to Broadway. There\'s a blackout until midway through No One Mourns the Wicked, and the show is full from there, although a head obstructs the far righthand side of the stage. There\'s a couple dropouts every once in a while but the zooms make up for that. Filmed in 16:9, and includes the curtain call.
-
-#### Wicked - Broadway - May, 2019 
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `6.75 GB`
-
-CAST
-: Laurel Harris (s/b Elphaba), Ginna Claire Mason (Glinda), Jake Boyd (Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Gizel Jimenez (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond)
-
-NOTES
-: Beautiful HD capture of newcomers Ginna-Claire and Jake Boyd joining the cast. Laurel put on another fantastic show as always! This angle makes the action very easy to follow and without obstructions.The colors are incredible, there is very little washout, and includes curtain call.
-
-#### Wicked - Broadway - September, 2019 
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `6.53 GB`
-
-CAST
-: Hannah Corneau (Elphaba), Brittney Johnson (s/b Glinda), Kyle Dean Massey (t/r Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Gizel Jimenez (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch\'s Mother)
-
-NOTES
-: Excellent HD capture of Broadway\'s first Black Glinda and the first Elphaba to have never played the role before in over half a decade! A very Elphaba and Glinda-centric video, it\'s filmed from the left orchestra with a mix of wides, mediums, and many closeups, with occasional dropouts due to ushers. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
-
-#### Wicked - Broadway - January, 2020 
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `6.65 GB`
-
-CAST
-: Jennifer DiNoia (s/b Elphaba), Ginna Claire Mason (Glinda), Jake Boyd (Fiyero), Michael McCormick (The Wizard), Alexandra Billings (Madame Morrible), Shoba Narayan (Nessarose), Riley Costello (Boq), Michael X Martin (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch\'s Mother)
-
-NOTES
-: Amazing Capture of Jennifer as Elphaba
-
-#### Wicked - Broadway - March, 2020
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `6.51 GB`
-
-CAST
-: Jennifer DiNoia (s/b Elphaba), Celia Hottenstein (u/s Glinda), Sam Gravitte (Fiyero), Michael McCormick (The Wizard), Alexandra Billings (Madame Morrible), Shoba Narayan (Nessarose), Riley Costello (Boq), Michael X Martin (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch's Mother), Bret Shuford (u/s Witch's Father / Ozian Official)
-
-### Chicago
-
-#### Wicked - Chicago - August 5, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.60 GB` `Non-Original`
-: Recording of another DVD. Looking for the original with the polaroid menu.
-
-CAST
-: Dee Roscioli (s/b Elphaba), Stacie Morgain Lewis (Glinda), Kristoffer Cusick (Fiyero), Gene Weygandt (The Wizard), Jill Hayman (u/s Madame Morrible), Kate Loprest (u/s Nessarose), Adam Fleming (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Dee and Kate were Fabulous. Amazing shots and picture! A+
-
-#### Wicked - Chicago - June 1, 2008
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Dee Roscioli (Elphaba), Kate Fahrner (Glinda), Michael Seelbach (Fiyero), Gene Weygandt (The Wizard), Barbara Robertson (Madame Morrible), Heidi Kettenring (Nessarose), Stanton Nash (Boq), K Todd Freeman (Doctor Dillamond)
-
-NOTES
-: This was the final performance of Dee, Kate and Michael. Excellent video, Kate sings a higher note in the \'she died A-lone\' line towards the end of No one mourns the wicked. A
-
-#### Wicked - Chicago - January 25, 2009 (Closing Night) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Dee Roscioli (Elphaba), Annaleigh Ashford (Glinda), Kristoffer Cusick (Fiyero), Gene Weygandt (The Wizard), Barbara Robertson (Madame Morrible), Heidi Kettenring (Nessarose), Ted Ely (Boq), K Todd Freeman (Doctor Dillamond)
-
-NOTES
-: Some head and railing obstructions throughout the show; misses the far right side of the stage but some nice close-ups and excellent sound on the video; first couple minutes of each act are blacked out, and there are a few quick dropouts throughout the show. In 2 dvd; sunsetblvd79\'s master is better than this copy, this one is just for completionists.
-
-### First National Tour
-
-#### Wicked - First National Tour (Emerald City) - April 23, 2005
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.13 GB`
-
-CAST
-: Stephanie J Block (Elphaba), Kendra Kassebaum (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-#### Wicked - First National Tour (Emerald City) - May 8, 2005
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `NO DVD menu`
-
-CAST
-: Stephanie J Block (Elphaba), Kendra Kassebaum (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: About 15 minutes of blackouts in first act. Popular and Defying Gravity are not affected. Second act is AMAZING and near perfect. Whole dvd has GREAT closeups. A
-
-#### Wicked - First National Tour (Emerald City) - March 14, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `Non-Original`
-
-CAST
-: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), PJ Benjamin (The Wizard), Alma Cuervo (Madame Morrible), Jennifer Waldman (Nessarose), Logan Lipton (Boq), K Todd Freeman (Doctor Dillamond)
-
-NOTES
-: AMAZING AMAZING AMAZING performances. Murney was sensational, Kendra absolutely hilarious, Alma was fabulous. Shot from the Loge, crystal clear picture and sound, nice closeups. Couple of line flubs. WONDERFUL! A
-
-#### Wicked - First National Tour (Emerald City) - May, 2006 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.65 GB`
-
-CAST
-: Victoria Matlock (s/b Elphaba), Kendra Kassebaum (Glinda), Nicolas Dromard (u/s Fiyero), PJ Benjamin (The Wizard), Alma Cuervo (Madame Morrible), Jennifer Waldman (Nessarose), Kirk McDonald (Boq), K Todd Freeman (Doctor Dillamond)
-
-NOTES
-: Pro-shot from the house camera. Mid-stage shot, so the entire set fills the entire screen, no zooms.
-
-#### Wicked - First National Tour (Emerald City) - May 23, 2006
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.34 GB`
-
-CAST
-: Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Kyle McDaniel (u/s Fiyero), PJ Benjamin (The Wizard), Alma Cuervo (Madame Morrible), Jennifer Waldman (Nessarose), Kirk McDonald (Boq), K Todd Freeman (Doctor Dillamond)
-
-NOTES
-: On some sites, date is labeled as May 25, 2006. Who\'s to know now? Original master and photo set found below.
-
-#### Wicked - First National Tour (Emerald City) - March 4, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Victoria Matlock (Elphaba), Christina DeCicco (Glinda), Cliffton Hall (Fiyero), PJ Benjamin (The Wizard), Barbara Tirrell (Madame Morrible), Deedee Magno Hall (Nessarose), Josh Lamon (Boq), Tom Flynn (Doctor Dillamond), Leslie Becker (Midwife), Lori Holmes (Witch\'s Mother), Paul Slade Smith (Witch\'s Father / Ozian Official)
-
-NOTES
-: Beautiful capture and no obstructions. This features the optional high note by Glinda in the opening that is a thrill. The performances were amazing on this date, especially Glinda, who was at her best on this day. The cast seemed to have extra energy and gave a tad more than usual. A+ \-\-- Sometimes the location is mislabeled as \"Hippodrome Theatre, Baltimore, Maryland\" because the Playbill scanned at the beginning is wrong.
-
-#### Wicked - First National Tour (Emerald City) - March 6, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.13 GB`
-: [This](https://imgur.com/a/AZKLq2w) is my DVD menu. Not likely to be original.
-
-CAST
-: Victoria Matlock (Elphaba), Christina DeCicco (Glinda), Cliffton Hall (Fiyero), PJ Benjamin (The Wizard), Barbara Tirrell (Madame Morrible), Deedee Magno Hall (Nessarose), Josh Lamon (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Contains wonderful picture, sound, color, and most importantly performances. Great fresh new cast on the road. A+
-
-#### Wicked - First National Tour (Emerald City) - July 7, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Coleen Sexton (s/b Elphaba), Laura Woyasz (u/s Glinda), Cliffton Hall (Fiyero), PJ Benjamin (The Wizard), Barbara Tirrell (Madame Morrible), Deedee Magno Hall (Nessarose), Brad Weinstock (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Laura was Amazing, very original and hilarious. Coleen was terrific aswell, a very powerful voice. All nicely captured here. A-
-
-#### Wicked - First National Tour (Emerald City) - July 8, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.21 GB` `No DVD menu`
-
-CAST
-: Marcie Dodd (u/s Elphaba), Christeena Michelle Riggs (u/s Glinda), Cliffton Hall (Fiyero), PJ Benjamin (The Wizard), Barbara Tirrell (Madame Morrible), Deedee Magno Hall (Nessarose), Brad Weinstock (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Terrific performances and capture. Marcie is sensational, why is she an understudy? Barbara is terrific here, a wonderful actress, with different takes on the lines. A-
-
-#### Wicked - First National Tour (Emerald City) - December 12, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: ISO `1 DVD` `3.85 GB`
-: [DVD menu](https://imgur.com/a/A9qmN1h) doesn't look like it's the original.
-
-CAST
-: Carmen Cusack (Elphaba), Katie Rose Clarke (Glinda), Cliffton Hall (Fiyero), Lee Wilkof (The Wizard), Alma Cuervo (Madame Morrible), Deedee Magno Hall (Nessarose), Brad Weinstock (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Lee\'s first perfromance as the Wizard. Great capture and performances. Katie is the perfect Glinda and Carmen\'s Wizard and I is to die for. Alma\'s return to the show after My Fair Lady. A
-
-#### Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee)
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD`
-: VTS_01_3.VOB is faulty such that I cannot play Act 2 from the DVD menu. I would love to trade for a functonal copy!
-
-CAST
-: Merideth Kaye Clark (s/b Elphaba), Katie Rose Clarke (Glinda), Richard H Blake (Fiyero), Lenny Wolpe (The Wizard), Myra Lucretia Taylor (Madame Morrible), Amanda Rose (Nessarose), Ben Liebert (Boq), Paul Slade Smith (Doctor Dillamond)
-
-NOTES
-: This was the performance where the fire alarm goes off when No Good Deed starts. Meredith keeps going through half the song, while the alarms and lights are flickering. Finally an announcement was made and she walked off stage in character. The show resumes after the evacuation where she left off.
-
-#### Wicked - First National Tour (Emerald City) - February 28, 2009
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD`
-: VTS_01_3.VOB is faulty such that I cannot play Act 2 from the DVD menu. I would love to trade for a functonal copy!
-CAST
-: Stephanie Torns (u/s Elphaba), Katie Rose Clarke (Glinda), Richard H Blake (Fiyero), Lenny Wolpe (The Wizard), Myra Lucretia Taylor (Madame Morrible), Amanda Rose (Nessarose), Ben Liebert (Boq), Paul Slade Smith (Doctor Dillamond)
-
-NOTES
-: Spotlight washout on wides. Blackouts for applause. Nice quality and pretty well filmed (though there are some odd closeups in DTL).
-
-#### Wicked - First National Tour (Emerald City) - August 16, 2009 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Donna Vivino (Elphaba), Katie Rose Clarke (Glinda), Richard H Blake (Fiyero), Lenny Wolpe (The Wizard), Myra Lucretia Taylor (Madame Morrible), Amanda Rose (Nessarose), Ben Liebert (Boq), Paul Slade Smith (Doctor Dillamond)
-
-NOTES
-: Katie\'s last performance
-
-#### Wicked - First National Tour (Emerald City) - November 30, 2011 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Mamie Parris (Elphaba), Katie Rose Clarke (Glinda), Kyle Dean Massey (Fiyero), Kevin McMahon (u/s The Wizard), Liz McCartney (Madame Morrible), Stefanie Brown (Nessarose), Justin Brill (Boq), Paul Slade Smith (Doctor Dillamond)
-
-NOTES
-: Nice capture of the first performance of the Los Angeles tour stop; a few scattered blackouts: the first minute of No One Mourns the Wicked, the first 3 minutes of Room Assignments, the first minute of History Lessons, 1 minute during Fiyero\'s entrance, 2 minutes during Dancing Through Life, and the first 2 minutes of act two; otherwise complete and well captured with no obstruction and only a little washout in high contrast scenes; filmed in 16:9; Includes curtain call. 2 DVDs A-
-
-#### Wicked - First National Tour (Emerald City) - December 19, 2013
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Alison Luff (Elphaba), Gina Beck (Glinda), Curt Hansen (Fiyero), John Davidson (The Wizard), Alison Fraser (Madame Morrible), Jaime Rosenstein (Nessarose), Jesse JP Johnson (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Beautiful HD capture with no obstructions. The camera wanders a little in Act 1 and quite shaky from time to time. This is from the first week that Gina and Alison Fraser joined the cast.
-
-#### Wicked - First National Tour (Emerald City) - February 25, 2014
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Emmy Raver-Lampman (s/b Elphaba), Gina Beck (Glinda), Nick Adams (Fiyero), Tim Kazurinsky (The Wizard), Alison Fraser (Madame Morrible), Jenny Florkowski (Nessarose), Jesse JP Johnson (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Beautiful HD capture with no obstructions and clear sound; Emmy has an amazing voice.
-
-#### Wicked - First National Tour (Emerald City) - May 31, 2014 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Emmy Raver-Lampman (s/b Elphaba), Gina Beck (Glinda), Kyle Brown (u/s Fiyero), Timothy A Fitz-Gerald (u/s Fiyero), Tim Kazurinsky (The Wizard), Alison Fraser (Madame Morrible), Brenda Jean Hamilton (u/s Nessarose), Jesse JP Johnson (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: A perfect capture of the current first national tour with some understudies. Emmy is a phenomenal Elphaba with great acting choices and amazing riffs. Very interesting to see a Fiyero mid-show switch; Kyle jumps in to act two seamlessly. One of my best captures with no blackouts, no washout, no obstruction, and very steady filming. This is shot slightly wider than usual, particularly when the ensemble is on stage, so you can see a lot more of the action. There are still close-ups when necessary. As usual, it's filmed in 16:9, and the sound is excellent. Includes curtain call and playbill scans.
-
-#### Wicked - First National Tour (Emerald City) - August 30, 2014 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Emma Hunton (Elphaba), Shanon Mari Mills (u/s Glinda), Nick Adams (Fiyero), Tim Kazurinsky (The Wizard), Alison Fraser (Madame Morrible), Jenny Florkowski (Nessarose), Etai BenShlomo (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: This is a great cast \-- Emma brings a fresh new take to the role, a bit snarky and very lovable. There is an interesting blooper when Shanon misses her entrance for One Short Day. Emma and the ensemble perform as usual with Shanon singing her first few lines from off stage until she enters at "I think we've found the place where we belong". A fantastic capture of the show with no obstruction, no washout and only one short blackout during the "Thrillifying News" section. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent, although there's a bit more chatter and rustling from the audience than usual. Includes curtain call and playbill scans.
-
-#### Wicked - First National Tour (Emerald City) - December 10, 2014 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Emma Hunton (Elphaba), Chandra Lee Schwartz (Glinda), Nick Adams (Fiyero), Tim Kazurinsky (The Wizard), Kim Zimmer (Madame Morrible), Jenny Florkowski (Nessarose), Etai BenShlomo (Boq), Raymond Joel Matsamura (Chistery), Brenda Jean Hamilton (u/s Midwife), Marina Lazzaretto (Witch\'s Mother), Kevin McMahon (Witch\'s Father / Ozian Official)
-
-NOTES
-: A nice capture with a couple quick dropouts, and one head that occasionally blocks the actors' feet, and some slight washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes partial curtain call and playbill scans.
-
-#### Wicked - First National Tour (Emerald City) - February 1, 2015 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Emma Hunton (Elphaba), Chandra Lee Schwartz (Glinda), Nick Adams (Fiyero), Tim Kazurinsky (The Wizard), Sheila Karls (u/s Madame Morrible), Jenny Florkowski (Nessarose), Etai BenShlomo (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: A great capture of the tour before it closed last spring, and the last capture of Emma before she left. Although Emma was actually sick frequently during her run, she seemed to perform flawlessly this night. Chandra also gives a fantastic performance as well. This is perfectly captured with no obstructions, no blackouts, and very little washout even in wide shots. The sound is excellent. Includes curtain call, Chandra and Nick's BC/EFA speech, and playbill scans.
-
-#### Wicked - First National Tour (Emerald City) - March 15, 2015 (Closing Night) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Jennifer DiNoia (Elphaba), Chandra Lee Schwartz (Glinda), Nick Adams (Fiyero), Tim Kazurinsky (The Wizard), Kim Zimmer (Madame Morrible), Jenny Florkowski (Nessarose), Etai BenShlomo (Boq), Tom Flynn (Doctor Dillamond)
-
-NOTES
-: Closing night performance of the 1st National Tour. Emotional and wonderful show.
-
-### Japan
-
-#### Wicked - Japan - January 28, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Megumi Hamada (Elphaba), Asako Tomada (u/s Glinda), Li Tao (Fiyero), Kurihara Hideo (u/s The Wizard), Mori Izumi (Madame Morrible), Yamamoto Takae (Nessarose), Takayuki Ito (Boq), Tamaki Endo (Midwife), Akane Mao (Witch\'s Mother), Kazunari Shirakura (u/s Witch\'s Father / Ozian Official)
-
-### West End
-
-#### Wicked - West End - 2006
-{: .no_toc .d-inline-block }
-
-Conductor Cam
-{: .label .label-green }
-
-FORMAT
-: MP4 `288p` `388.0 MB`
-
-CAST
-: Idina Menzel (Elphaba), Helen Dallimore (Glinda), Adam Garcia (Fiyero)
-
-NOTES
-: Conductor\'s cam. It is definitely Idina & Hellen in the video, but I don\'t know the rest of the cast.
-
-#### Wicked - West End - September 27, 2006 (Opening Night) (Highlights)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `1.24 GB`
-
-CAST
-: Idina Menzel (Elphaba), Helen Dallimore (Glinda), Adam Garcia (Fiyero), Nigel Planer (The Wizard), Miriam Margolyes (Madame Morrible), Katie Rowley Jones (Nessarose), James Gillan (Boq), Martin Ball (Doctor Dillamond)
-
-NOTES
-: Opening Night. Very shaky camera and many heads in the way, esp. in Act 1. Some blackouts as well. Highlights include No One Mourns the Wicked, The Wizard and I, Dancing Through Life, Popular, One Short Day, Defying Gravity, Wicked Witch of the East, As Long As You\'re Mine, No Good Deed, For Good, and the finale.
-
-#### Wicked - West End - October 31, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs` `6.86 GB`
-: Not sure whether this is original or not: The DVD menu looks like SunsetBlvd79's later style. If you have a version with a polaroid menu I'd love to tarde for it!
-
-CAST
-: Idina Menzel (Elphaba), Helen Dallimore (Glinda), Adam Garcia (Fiyero), Nigel Planer (The Wizard), Miriam Margolyes (Madame Morrible), Katie Rowley Jones (Nessarose), James Gillan (Boq), Martin Ball (Doctor Dillamond)
-
-NOTES
-: Great performance from Idina on the Halloween performance. Shot around a head, but worked around as best as possible. Has a few glitchy spots and missing last 3 minutes. Some great vocals and riffs from Idina, not previously captured on video. B+
-
-#### Wicked - West End - November 8, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Idina Menzel (Elphaba), Helen Dallimore (Glinda), Adam Garcia (Fiyero), Nigel Planer (The Wizard), Miriam Margolyes (Madame Morrible), Katie Rowley Jones (Nessarose), James Gillan (Boq), Martin Ball (Doctor Dillamond)
-
-NOTES
-: Crystal clear picture and sound. AMAZING quality, one of the top Wickeds. Fantastic cast and includes the extended scenes. A+
-
-#### Wicked - West End - October 18, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.16 GB`
-: May not be original, [this](https://imgur.com/a/D1eiTYO) is my menu.
-
-CAST
-: Kerry Ellis (Elphaba), Dianne Pilkington (Glinda), Oliver Tompsett (Fiyero), Nigel Planer (The Wizard), Susie Blake (Madame Morrible), Katie Rowley Jones (Nessarose), James Gillan (Boq), Andy Mace (Doctor Dillamond)
-
-NOTES
-: Wonderfully captured and great performances from Kerry and the West End Cast. Her Defying Gravity is wonderful. A
-
-#### Wicked - West End - September, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.13 GB`
-
-CAST
-: Alexia Khadime (Elphaba), Dianne Pilkington (Glinda), Oliver Tompsett (Fiyero), Desmond Barrit (The Wizard), Harriet Thorpe (Madame Morrible), Caroline Keiff (Nessarose), Jeremy Legat (Boq), Andy Mace (Doctor Dillamond)
-
-NOTES
-: No zooms but shot from the front row. May be listed as 2008-09-06 or 2008-09-08
-
-#### Wicked - West End - November 23, 2010
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD menu` `4.31 GB`
-
-CAST
-: Rachel Tucker (Elphaba), Sarah Earnshaw (s/b Glinda), Lee Mead (Fiyero), Julian Forsyth (u/s The Wizard), Julie Legrand (Madame Morrible), Cassandra Compton (Nessarose), Danny Mac (u/s Boq), Gareth Chart (u/s Doctor Dillamond)
-
-#### Wicked - West End - December 12, 2011 (Highlights)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.05 GB`
-
-CAST
-: Rachel Tucker (Elphaba), Gina Beck (Glinda), Matt Willis (Fiyero), Desmond Barrit (The Wizard), Julie Legrand (Madame Morrible), Lillie Flynn (Nessarose), Adam Pettigrew (Boq), Christopher Howell (Doctor Dillamond)
-
-NOTES
-: Gina\'s first performance.
-
-#### Wicked - West End - February 20, 2013
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.19 GB`
-
-CAST
-: Louise Dearman (Elphaba), Lucy van Gasse (s/b Glinda), Ben Freeman (Fiyero), Christopher Howell (u/s The Wizard), Jacqueline Hughes (u/s Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Stuart Ramsay (u/s Doctor Dillamond)
-
-#### Wicked - West End - November 16, 2013 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD` `3.49 GB`
-
-CAST
-: Louise Dearman (Elphaba), Gina Beck (Glinda), Ben Freeman (Fiyero), Keith Bartlett (The Wizard), Harriet Thorpe (Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Christopher Howell (Doctor Dillamond)
-
-NOTES
-: Song only highlights; consisting of NOMTW, TWAI, WITF, parts of DTL, Popular, OSD, TG, ALSYM, NGD, plus Bows and Speeches. NO Defying Gravity. Filmed from the front row. A lot of spotlight wash out throughout. This is Wicked London\'s 3,000th Performance, which also happened to be a cast change\'s muck up matinee. As well as the usual random changes for the muck up, this boot also captures one of the Flatheads having an epic costume fail and a techie running after them across the stage in One Short Day.
-
-#### Wicked - West End - December 7, 2013 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: `Act 1` MP3 +
-: `Act 2` MP4 `720p` `1.94 GB`
-
-CAST
-: Willemijn Verkaik (Elphaba), Savannah Stevenson (Glinda), Jeremy Taylor (Fiyero), Sam Kelly (The Wizard), Sue Kelvin (Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Paul Clarkson (Doctor Dillamond)
-
-NOTES
-: Act 1 audio is only. The camera pointed too high in Act 2, but it's a high-resolution cam. Audio overall is very good, nice and clear.
-
-#### Wicked - West End - April 12, 2014 (Matinee)
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Emma Hatton (s/b Elphaba), Savannah Stevenson (Glinda), Jeremy Taylor (Fiyero), Paul Clarkson (u/s The Wizard), Sue Kelvin (Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Russell Walker (u/s Doctor Dillamond)
-
-NOTES
-: Shot from the Dress Circle, no zooms. Some shakyness Some blackouts in act 1 and head obstruction. Video is a bit dark. Includes Curtain Call and Savannah's speech for Emma doing the London Marathon.
-
-#### Wicked - West End - June 4, 2014
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: `Act 1` MP4 `638p` `1.82 GB`
-: `Act 2` MOV `1080p` `5.70 GB`
-: Do tell me if you know whether this is the original
-
-CAST
-: Willemijn Verkaik (Elphaba), Sophie Linder-Lee (s/b Glinda), Jeremy Taylor (Fiyero), Martyn Ellis (The Wizard), Sue Kelvin (Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Paul Clarkson (Doctor Dillamond)
-
-NOTES
-: Some spotlight washout. Act 2 is not fully focused but still watchable. Includes Curtain Call.
-
-#### Wicked - West End - June 23, 2014
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: MP4 `720p` `2.10 GB`
-
-CAST
-: Emma Hatton (s/b Elphaba), Sophie Linder-Lee (s/b Glinda), Jeremy Taylor (Fiyero), Martyn Ellis (The Wizard), Sue Kelvin (Madame Morrible), Philippa Buxton (u/s Nessarose), Sam Lupton (Boq), Paul Clarkson (Doctor Dillamond)
-
-NOTES
-: First double standby show for the 2014 London cast! Some spotlight washout. Act 1 isn\'t fully focused (especially at the edges of the video), Act 2 is better. Includes Curtain Call.
-
-#### Wicked - West End - October 27, 2014
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: MP4 `720p` `1.18 GB`
-
-CAST
-: Jennifer DiNoia (Elphaba), Savannah Stevenson (Glinda), Jeremy Taylor (Fiyero), Martyn Ellis (The Wizard), Liza Sadovy (Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Philip Childs (Doctor Dillamond)
-
-NOTES
-: First performance for the new cast!
-
-#### Wicked - West End - August 27, 2015 (Matinee)
-{: .no_toc .d-inline-block }
-
-cityofemeraldtrading
-{: .label .label-blue }
-
-FORMAT
-: MP4 `720p` `1.38 GB`
-
-CAST
-: Natalie Mcqueen (u/s Elphaba), Savannah Stevenson (Glinda), Jeremy Taylor (Fiyero), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Liza Sadovy (Madame Morrible), Martyn Ellis (The Wizard), Steven Pinder (Doctor Dillamond)
-
-#### Wicked - West End - June 20, 2018 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
-
-hitmewithyourbethshot
-{: .label .label-blue }
-
-FORMAT
-: MP4 `480p` `2.64 GB`
-
-CAST
-: Alice Fearn (Elphaba), Maria Coyne (s/b Glinda), Bradley Jaden (Fiyero), Andy Hockley (The Wizard), Kerry Enright (u/s Madame Morrible), Rosa O\'Reilly (u/s Nessarose), Jack Lansbury (Boq), Martin Ball (Doctor Dillamond), Will Lucas (Chistery), Claudia Kariuki (Midwife), Jennie Abbotts (Witch\'s Mother), Sam Robinson (s/w Witch\'s Father / Ozian Official)
-
-NOTES
-: Act One Only
-
-#### Wicked - West End - January, 2019
-{: .no_toc .d-inline-block }
-
-hitmewithyourbethshot
-{: .label .label-blue }
-
-FORMAT
-: MP4 `480p` `4.68 GB`
-
-CAST
-: Aimée Fisher (u/s Elphaba), Maria Coyne (s/b Glinda), David Witts (Fiyero), Chris Jarman (u/s The Wizard), Melanie La Barrie (Madame Morrible), Rosa O\'Reilly (Nessarose), Scott Sutcliffe (u/s Boq), Rhidian Marc (u/s Doctor Dillamond), Chris George (Chistery), Jennie Abbotts (Witch\'s Mother)
-
-#### Wicked - West End - March 23, 2019 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-Watched
-{: .label .label-yellow }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Alice Fearn (Elphaba), Maria Coyne (s/b Glinda), David Witts (Fiyero), Chris Jarman (u/s The Wizard), Melanie La Barrie (Madame Morrible), Rosa O\'Reilly (Nessarose), Jack Lansbury (Boq), Rhidian Marc (u/s Doctor Dillamond), Paulo Teixeira (Chistery), Kerry Enright (Midwife), Libby Watts (Witch\'s Mother), Rhidian Marc (Witch\'s Father / Ozian Official), Aimée Fisher, Andre Fabien Francis, Carl Man, Chiarina Woodall, Ellie Mitchell, Genevieve Taylor, James McHugh, Jonathan David Dudley, Lewis Easter, Maggie Lynne, Meg Astin, Nicole Carlisle, Sam Robinson, Samantha Thomas, Scott Sutcliffe, Tom Andrew Hargreaves
-
-NOTES
-: Maria\'s last show as Glinda.
-
-#### Wicked - West End - October, 2019
-{: .no_toc .d-inline-block }
-
-hitmewithyourbethshot
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: MTS `7.48 GB`
-: I'm definitely missing some files - the original should be 16.44 GB in total. Do reach out if you could trade me the original set!
-
-CAST
-: Nikki Bentley (Elphaba), Lisa-Anne Wood (s/b Glinda), Alistair Brammer (Fiyero), Andy Hockley (The Wizard), Kim Ismay (Madame Morrible), Natasha Ferguson (t/r Nessarose), Idriss Kargbo (Boq), Rhidian Marc (u/s Doctor Dillamond), Tonye Scott Obene (Chistery), Meg Astin (s/w Midwife), Lucie Horsfall (Witch\'s Mother), Rhidian Marc (Witch\'s Father / Ozian Official)
-
-#### Wicked - West End - November, 2019 
-{: .no_toc .d-inline-block }
-
-queenofthedead
-{: .label .label-blue }
-
-FORMAT
-: MTS `15.80 GB`
-
-CAST
-: Laura Pick (s/b Elphaba), Helen Woolf (Glinda), Michael Colbourne (u/s Fiyero), Andy Hockley (The Wizard), Genevieve Taylor (u/s Madame Morrible), Natasha Ferguson (t/r Nessarose), Idriss Kargbo (Boq), Simeon Truby (Doctor Dillamond), Tonye Scott Obene (Chistery), Rebecca Botterill (Midwife), Lucie Horsfall (Witch\'s Mother), Rhidian Marc (Witch\'s Father / Ozian Official)
-
-NOTES
-: No heads, only obstruction is a bar that does sometimes block action at the bottom of the stage. 15.7GB in MTS files. Do not list with the specific date, the master has asked for the video to be listed with just the month.
-
-#### Wicked - West End - January, 2020 
-{: .no_toc .d-inline-block }
-
-queenofthedead
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `5.83 GB`
-
-CAST
-: Rebecca Gilliland (u/s Elphaba), Helen Woolf (Glinda), Alistair Brammer (Fiyero), Andy Hockley (The Wizard), Kim Ismay (Madame Morrible), Natasha Ferguson (t/r Nessarose), Nicholas McLean (Boq), Simeon Truby (Doctor Dillamond), Paulo Teixeira (s/w Chistery), Kerry Enright (Midwife), Libby Watts (s/w Witch\'s Mother), Rhidian Marc (Witch\'s Father / Ozian Official)
-
-NOTES
-: Very high quality, good zooms and close ups, minimal spotlight washout. There are a few blackouts during One Short Day, presumably due to ushers, but follows the action well
-
-### Los Angeles
-
-#### Wicked - Los Angeles - April 14, 2007
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-: The two DVDs are obviously from different sources which is... weird. But both acts are present and as for as I can tell are from the same performance.
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Dioni Michelle Collins (u/s Madame Morrible), Jenna Leigh Green (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Can be shaky at times, with some skips and obstruction but great sound and performances
-
-#### Wicked - Los Angeles - August 4, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Eden really impressed and Megan is still terrific. A beautiful capture of the LA cast with no obstructions and solid performances from most. A+
-
-#### Wicked - Los Angeles - October 28, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Julie Reiber (s/b Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Dioni Michelle Collins (u/s Madame Morrible), Natalie Daradich (u/s Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Julie\'s Last. Stunning capture of Julie\'s Final as Elphaba. She was amazing all the way around, vocal, acting, beauty. Natalie makes a terrific Nessa and gives lines with a different delivery, which is nice. A+
-
-#### Wicked - Los Angeles - December 30, 2007
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Carol Kane (Madame Morrible), Marcie Dodd (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond), Peter John Chursin (Chistery), Linda Kerns (Midwife), Gina Starbuck (Witch\'s Mother), Matthew Stocke (Witch\'s Father / Ozian Official)
-
-NOTES
-: This show is Eden, Adam and Carol\'s last performances.
-
-#### Wicked - Los Angeles - January 18, 2008
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Caissie Levy (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Marcie Dodd (Nessarose), Michael Drolet (Boq), Timothy Britten Parker (Doctor Dillamond), Peter John Chursin (Chistery), Linda Kerns (Midwife), Gina Starbuck (Witch\'s Mother), Matthew Stocke (Witch\'s Father / Ozian Official), Adam Lambert, Alexander Selma, Brooke Wendle, Courtney Corey, DJ Gregory, Dioni Michelle Collins, Gina Starbuck, Jeremy Kocal, Linda Kerns, Lindsay Janisse, Matthew Stocke, Melissa Fahn, Natalie Daradich, Peter John Chursin, Terrance Spencer, Zach Hensler
-
-#### Wicked - Los Angeles - April 23, 2008
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `Non-Original`
-
-CAST
-: Marcie Dodd (u/s Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Laura Dysarczyk (u/s Nessarose), Michael Drolet (Boq), Timothy Britten Parker (Doctor Dillamond)
-
-NOTES
-: Amazing capture with amazing closeups. Marcie is to die for. Performances were fantastic all the way around. Megan and Marcie\'s chemistry is so fresh. A+
-
-#### Wicked - Los Angeles - April 24, 2008
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Teal Wicks (s/b Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Marcie Dodd (Nessarose), Michael Drolet (Boq), Timothy Britten Parker (Doctor Dillamond), Samantha Zack (u/s Witch\'s Mother)
-
-NOTES
-: Beautiful capture with amazing closeups. Performances were fantastic all the way around. Teal is wonderful and Megan is at the top of her game. A+
-
-#### Wicked - Los Angeles - August 9, 2008
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB+smalls `1 DVD` `Non-Original`
-
-CAST
-: Teal Wicks (Elphaba), Erin Mackey (Glinda), Adam Lambert (u/s Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Briana Yacavone (Nessarose), Michael Drolet (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: Beautiful capture and nice performances from the cast. Adam was a great Fiyero and has a beautiful voice with vocal variations which are very nice. Briana\'s Nessa is very nice here aswell, a nice transition in her character. A
-
-#### Wicked - Los Angeles - August 10, 2008 (Matinee)
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Teal Wicks (Elphaba), Erin Mackey (Glinda), Adam Lambert (u/s Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Briana Yacavone (Nessarose), Michael Drolet (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: Great capture of second time Adam went on for Fiyero. There is about a three minute blackout in part of Dancing Through Life. Teal presenting wonderful work here! A
-
-#### Wicked - Los Angeles - September 6, 2008 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (s/b Elphaba), Erin Mackey (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Laura Dysarczyk (u/s Nessarose), Michael Drolet (Boq), David DeVries (Doctor Dillamond)
-
-#### Wicked - Los Angeles - October 31, 2008
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-Watched
-{: .label .label-yellow }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: Eden & Megan\'s first show since their return to close the LA production. A great capture of a stellar performance. There are quite a few cover-ups through the first half of the first act, up to Popular, but most of them are very short. The video is also a little bit shaky but never for more than a few seconds at a time.
-
-#### Wicked - Los Angeles - November 2, 2008 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-: Smalls for both Acts work, NOT the commonly circulated copy
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), David DeVries (Doctor Dillamond)
-
-#### Wicked - Los Angeles - January 11, 2009 (Closing Night) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), Tom Flynn (Doctor Dillamond)
-
-### Stuttgart
-
-#### Wicked - Stuttgart - October, 2007 (Highlights)
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Willemijn Verkaik (Elphaba), Lucy Scherer (Glinda), Mark Seibert (Fiyero), Carlo Lauber (The Wizard), Angelika Wedekind (Madame Morrible), Nicole Radeschnig (Nessarose), Stefan Stara (Boq), Michael Günther (Doctor Dillamond)
-
-NOTES
-: DVD includes some Media/Press Day Footage with the entire cast, some rehearsal footage, some behind the scenes footage, and some footage from opening night. In German. 1 hour and 20 minutes of overall footage
-
-#### Wicked - Stuttgart - July 23, 2008
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs` `No DVD menu`
-
-CAST
-: Roberta Valentini (u/s Elphaba), Lucy Scherer (Glinda), Mark Seibert (Fiyero), Matthias Dressel (u/s The Wizard), Barbara Raunegger (Madame Morrible), Maike Switzer (u/s Nessarose), Marco Fahrland (u/s Boq), Michael Günther (Doctor Dillamond)
-
-NOTES
-: Act 1 is filmed in 4:3 and Act 2 is filmed in 16:9
-
-#### Wicked - Stuttgart - December 7, 2008 (Matinee)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Willemijn Verkaik (Elphaba), Jana Stelley (alt Glinda), Mathias Edenborn (Fiyero), Stefan Poslovski (u/s The Wizard), Barbara Raunegger (Madame Morrible), Nicole Radeschnig (Nessarose), Stefan Stara (Boq), Matthias Dressel (u/s Doctor Dillamond)
-
-#### Wicked - Stuttgart - February 20, 2009
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Willemijn Verkaik (Elphaba), Lucy Scherer (Glinda), Mathias Edenborn (Fiyero), Stefan Poslovski (u/s The Wizard), Barbara Raunegger (Madame Morrible), Nicole Radeschnig (Nessarose), Robert Knorr (u/s Boq), Michael Günther (Doctor Dillamond)
-
-NOTES
-: Willemijn seemed to be in a bit of a funny mood, she cracked up in Heissgeliebt (Popular) and nearly started laughing in the Catfight. She does a High Witch Cackle in the Cornfield scene, probably to try it for Jana's last the next day. Lucy seemed out to make her laugh even more than usual. Most of Wicked Witch of the East is missing and so is the beginning of March of the Witch Hunters.
-
-#### Wicked - Stuttgart - May 1, 2009
-{: .no_toc .d-inline-block }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB `NO SMALLS`
-
-CAST
-: Willemijn Verkaik (Elphaba), Lucy Scherer (Glinda), Mathias Edenborn (Fiyero), Carlo Lauber (The Wizard), Helena Blöcker (u/s Madame Morrible), Janine Tippl (Nessarose), Stephan Luethy (Boq), Michael Günther (Doctor Dillamond)
-
-#### Wicked - Stuttgart - January 29, 2010 (Closing Night)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Roberta Valentini (Elphaba), Lucy Scherer (Glinda), Mathias Edenborn (Fiyero), Carlo Lauber (The Wizard), Barbara Raunegger (Madame Morrible), Janine Tippl (Nessarose), Stephan Luethy (Boq), Michael Günther (Doctor Dillamond)
-
-NOTES
-: Missing room assignments and MOTWH. Very shaky camera
-
-### San Francisco
-
-#### Wicked - San Francisco - August 5, 2009
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Teal Wicks (Elphaba), Alexa Green (u/s Glinda), Nicolas Dromard (Fiyero), Lee Wilkof (The Wizard), Patty Duke (Madame Morrible), Deedee Magno Hall (Nessarose), Alexander Selma (u/s Boq), Keith A Bearden (u/s Doctor Dillamond)
-
-NOTES
-: This performance was a wonderful one. Teal was on fire and much different from her LA days. Alexa has a very high powerful voice which was stunning. DeeDee and Patty were both sensational. A
-
-#### Wicked - San Francisco - September 5, 2010 (Closing Night) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (Elphaba), Alli Mauzey (Glinda), Cliffton Hall (Fiyero), Tom McGowan (The Wizard), Jody Gelb (Madame Morrible), Deedee Magno Hall (Nessarose), Etai BenShlomo (Boq), Paul Slade Smith (Doctor Dillamond), Nicky Venditti (Chistery), Fiama Fricano (Midwife), Neka Zang (Witch\'s Mother), Tim Talman (Witch\'s Father / Ozian Official)
-
-### Second National Tour
-
-#### Wicked - Second National Tour (Munchkinland) - March 28, 2009 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (Elphaba), Heléne Yorke (Glinda), Colin Donnell (Fiyero), Tom McGowan (The Wizard), Marilyn Caskey (Madame Morrible), Jacqui Graziano (u/s Nessarose), Ted Ely (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: Nice capture of the Second National Tour cast, with a big mishap when the power suddenly goes out in the middle of Thank Goodness. Helene and the rest of the cast keep right on going until a crew member comes onstage and stops the show. The DVD includes video of the entire debacle until the curtain goes down, and it continues for a bit after this, then cuts out, then resumes again when the show is picked back up during Wicked Witch of the East. As for the video, the first part of the show is mostly blacked out, but once it gets to The Wizard and I, it\'s much better. The dragon\'s head blocked Marcie\'s face during Defying Gravity, but other than that, there\'s virtually no obstruction. Overall, an amazing capture with no spotlight washout, amazing colour and sound.
-
-#### Wicked - Second National Tour (Munchkinland) - March 29, 2009 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (Elphaba), Heléne Yorke (Glinda), Colin Donnell (Fiyero), Tom McGowan (The Wizard), Marilyn Caskey (Madame Morrible), Kristine Reese (Nessarose), Ted Ely (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: First couple minutes of each act are blacked out, but those are the only ones that last more than a few seconds; head obstruction get annoying, but worked around well with a mix of wides, mediums, and closeups throughout the show; little washout, sound is excellent throughout the show. 2 DVDs
-
-#### Wicked - Second National Tour (Munchkinland) - June 6, 2009 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (Elphaba), Heléne Yorke (Glinda), Colin Donnell (Fiyero), Tom McGowan (The Wizard), Marilyn Caskey (Madame Morrible), Kristine Reese (Nessarose), Ted Ely (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: Nice video with two heads that obstruct the stage at times but are filmed around and action is rarely blocked. There are only two quick dropouts in each act and some washout in high contrast scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
-
-#### Wicked - Second National Tour (Munchkinland) - March 7, 2010 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Marcie Dodd (Elphaba), Heléne Yorke (Glinda), Colin Donnell (Fiyero), Don Amendolia (The Wizard), Erin Wilson (u/s Madame Morrible), Jacqui Graziano (u/s Nessarose), Zach Hanna (Boq), David DeVries (Doctor Dillamond)
-
-NOTES
-: Helene and Colin's final performance.
-
-#### Wicked - Second National Tour (Munchkinland) - April 13, 2014 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Laurel Harris (Elphaba), Kara Lindsay (Glinda), Matt Shingledecker (Fiyero), Gene Weygandt (The Wizard), Jane Brockman (u/s Madame Morrible), Emily Behny (Nessarose), Lee Slobotkin (Boq), John Hillner (Doctor Dillamond), Mark Shunkey (Chistery), Lauren Haughton (u/s Midwife), Kerry Blanchard (Witch\'s Mother), Wayne Schroder (Witch\'s Father / Ozian Official)
-
-NOTES
-: A perfect capture of the brand new tour cast. Kara\'s an excellent Glinda and really tugged at the heart with \"I\'m Not That Girl (Reprise).\" The show is completely intact with no no blackouts, no obstruction, and no washout. The video is very steady throughout and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call and Matt and Emily's very entertaining BC/EFA speech.
-
-#### Wicked - Second National Tour (Munchkinland) - October 29, 2015
-{: .no_toc .d-inline-block }
-
-kradder32
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Mary Kate Morrissey (s/b Elphaba), Carrie St Louis (Glinda), Jake Boyd (Fiyero), Stuart Zagnit (The Wizard), Wendy Worthington (Madame Morrible), Liana Hunt (Nessarose), Lee Slobotkin (Boq), Chad Jennings (Doctor Dillamond)
-
-NOTES
-: Master notes: This is one of my new favorite captures of the show, it follows the action very well for almost being in the front row of the theatre, and gives you a great perspective of the show that DVDs can not often give you. Her vocal and acting choices bring such a fresh twist to Elphaba. There was also a very drunk audience member near me in Act Two, that yells a few drunk remarks that had the audience laughing. Curtain call is included and audio is near perfect, synced with my Zoom H2.
-
-#### Wicked - Second National Tour (Munchkinland) - September 7, 2016
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Jessica Vosk (Elphaba), Amanda Jane Cooper (Glinda), Jeremy Woodard (Fiyero), Stuart Zagnit (The Wizard), Wendy Worthington (Madame Morrible), Kristen Martin (Nessarose), Sam Seferian (Boq), Chad Jennings (Doctor Dillamond)
-
-NOTES
-: Beautiful HD capture of Jessica and Kristen\'s first performances as Elphaba and Nessarose. Jessica has such clarity and power behind her voice, all while making the character her own. A
-
-#### Wicked - Second National Tour (Munchkinland) - September 24, 2017
-{: .no_toc .d-inline-block }
-
-kradder32
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-: Commonly confused with Tornado With Pigtail\'s master from the same performance. These are the correct files.
-
-CAST
-: Jessica Vosk (Elphaba), Ginna Claire Mason (Glinda), Jon Robert Hall (Fiyero), Tom McGowan (The Wizard), Isabel Keating (Madame Morrible), Catherine Charlebois (Nessarose), Sam Seferian (Boq), Harry Bouvy (Doctor Dillamond)
-
-NOTES
-: A wonderful capture of Jessica's final performance with no obstructions or washout. Jessica gave a topnotch performance and added new riffs. There are a few quick dropouts during applause and a nice mix of wides, mediums, and close-ups. Audio is perfect and curtain call is included.
-
-#### Wicked - Second National Tour (Munchkinland) - August 4, 2018
-{: .no_toc .d-inline-block }
-
-myroadofgoodintentions
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `17.38 GB`
-
-CAST
-: Mary Kate Morrissey (Elphaba), Ginna Claire Mason (Glinda), Jon Robert Hall (Fiyero), Wayne Schroder (u/s The Wizard), Jody Gelb (Madame Morrible), Catherine Charlebois (t/r Nessarose), Cole Doman (Boq), Chad Jennings (Doctor Dillamond)
-
-NOTES
-: Captured with high quality camera. Some obstructions due to heads and washout but majority very clear high quality.
-
-### Oberhausen
-
-#### Wicked - Oberhausen - May 2, 2010
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD menu` `4.18 GB`
-
-CAST
-: Willemijn Verkaik (Elphaba), Joana Fee Würz (Glinda), Mathias Edenborn (Fiyero), Carlo Lauber (The Wizard), Barbara Raunegger (Madame Morrible), Janine Tippl (Nessarose), Ben Darmanin (Boq)
-
-NOTES
-: Beautiful capture with no obstructions of the German production. Willemijn is an Elphaba of many languages and has quite a powerhouse voice and really shines! A
-
-#### Wicked - Oberhausen - September 2, 2011 (Closing Night)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `4.22 GB`
-
-CAST
-: Roberta Valentini (Elphaba), Joana Fee Würz (Glinda), Anton Zetterholm (Fiyero), Carlo Lauber (The Wizard), Barbara Raunegger (Madame Morrible), Janine Tippl (Nessarose), Ben Darmanin (Boq), Thomas Wißmann (Doctor Dillamond), Matt Jones (Chistery), Alessandro Cococcia, Alison Norwell, Andrew Carthy, Christina Maria Brenner, David Hardenberg, Dirk Weiler, Hannah Cadec, Heather Carino, Helena Blöcker, Jonas Wåhlin, Kisha Howard, Kit Gresty, Klaus Enger, Lanie Sumalinog, Melanie Gebhard, Minori Therrien, Terence Rodia
-
-NOTES
-: Closing night. Includes curtain call.
-
-## Scheveningen
-
-#### Wicked - Scheveningen - July 29, 2012 (Matinee)
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Willemijn Verkaik (Elphaba), Chantal Janzen (Glinda), Jim Bakkum (Fiyero), Bill van Dijk (The Wizard), Pamela Teves (Madame Morrible), Myrthe Maljers (u/s Nessarose), Niels Jacobs (Boq), Jochem Feste Roozemond (Doctor Dillamond)
-
-NOTES
-: Final matinee for Chantal Janzen. She hits an optional high note in NOMTW. Willemijn also was on fire - she hit F5!
-
-#### Wicked - Scheveningen - January 10, 2013
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Willemijn Verkaik (Elphaba), Céline Purcell (alt Glinda), Ferry Doedens (alt Fiyero), Bill van Dijk (The Wizard), Pamela Teves (Madame Morrible), Christanne de Bruijn (Nessarose), Niels Jacobs (Boq), Jochem Feste Roozemond (Doctor Dillamond)
-
-NOTES
-: Awesome filming quality, very steady, great zooms and close-ups. Willemijn, Cèline, and Ferry are all phenomenal! A very funny mess-up takes place in act two. Penultimate show for production. Final show for Cèline Purcell and Ferry Doedens. Muck-up where Fiyero flies in with a broom instead of a rifle in Catfight
-
-### Mexico
-
-#### Wicked - Mexico - 2006
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Daniela Ranz (Elphaba), Liesl Lar (Glinda), Omar Muñoz (Fiyero), Laura Korl (Madame Morrible), Ileana Muñoz (Nessarose), Fernando Diaz (Boq), Hector Kori (Doctor Dillamond)
-
-NOTES
-: Amazing pro-shot video of the Mexican production of Wicked! The sets are great and look almost identical to the Broadway set. Elphaba\'s voice was unique, she did ok with a few songs but I struggled with others (esp. the end of DG and NGD). Glinda was great and fun to watch! This also contains interviews and a behind the scenes video.
-
-#### Wicked - Veracruz, Mexico - 2009
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-: Stretch to 16:9 when watching
-
-CAST
-: Luz María Santana (Elphaba), Odette Villarreal (Glinda), Andrés Dordón (Fiyero), Amanda García (Madame Morrible), Patricia de la Garza Noble (Nessarose), Roberto Rodriguez (Boq), Angelina Viesca (Midwife), Natalia Valdillo (Witch\'s Mother), Andrés Elvira (Witch\'s Father / Ozian Official)
-
-NOTES
-: Very interesting low scale production. Different translation than the recent Mexico City production, but it\'s still okay for the most part. Leads are decent but not great, it is technically a replica production, but the sets are smaller and a lot of the fancier things are left out. Proshot, and induces rehearsal footage. Directed by future Mexican Dr. Dillamond Beto Torres!
-
-### Brazil
-
-#### Wicked - Brazil - February, 2016 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: ISO `3.43 GB`
-
-CAST
-: Myra Ruiz (Elphaba), Fabi Bang (Glinda), André Loddi (Fiyero), Sérgio Rufino (The Wizard), Adriana Quadros (Madame Morrible), Giovanna Moreira (Nessarose), Bruno Fraga (Boq), César Mello (Doctor Dillamond), Sara Marques (Midwife), Carolina Franco (Witch\'s Mother), Leonardo Wagner (Witch\'s Father / Ozian Official)
-
-NOTES
-: Rehearsal performance without audience. Only producers are present so there\'s very little applause. Sound is not from the soundboard.
-
-### International Tour
-
-#### Wicked - International Tour - April 15, 2017
-{: .no_toc .d-inline-block }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: VOB `NO SMALLS`
-
-CAST
-: Jodie Steele (alt Elphaba), Carly Anderson (Glinda), Bradley Jaden (Fiyero), Steven Pinder (The Wizard), Kim Ismay (Madame Morrible), Emily Shaw (Nessarose), Iddon Jones (Boq), Steven Pinder (Doctor Dillamond)
-
-### Specials
-
-#### Wicked - Anniversary Specials - October 29, 2018
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV `720p` `806.5 MB`
-
-CAST
-: Idina Menzel, Kristin Chenoweth, Adam Lambert, Ariana Grande, Pentatonix and other guest stars.
-
-NOTES
-: A Very Wicked Halloween: Aired by NBC for Wicked\'s 15th anniversary on Broadway.
+<p align="center"><small>All Wicked videos have been separately listed <a href="https://kyratrades.github.io/wicked">here</a>.</small></p>
 
 ## The Wild Party (Lippa)
 
@@ -15717,7 +12802,7 @@ NOTES
 
 # X
 
-<p align="center"><a href="https://kyratrades.github.io/videos#xanadu">Xanadu</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#xanadu">Xanadu</a></p>
 
 ## Xanadu
 
@@ -15735,7 +12820,7 @@ CAST
 
 # Y
 
-<p align="center"><a href="https://kyratrades.github.io/videos#young-frankenstein">Young Frankenstein</a> • <a href="https://kyratrades.github.io/videos#young-marx">Young Marx</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#young-frankenstein">Young Frankenstein</a></p>
 
 ## Young Frankenstein
 
@@ -15754,23 +12839,25 @@ CAST
 NOTES
 : A terrifically talented and funny cast. A beautiful capture of the tryout before Broadway, with many changes sure to come. A
 
-## Young Marx
-
-#### Young Marx - Bridge Theatre - December 7, 2017
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `1080p` `2.80 GB`
-
-CAST
-: Rory Kinnear (Karl Marx), Nicholas Burns (Willich), Nancy Carroll (Jenny von Westphalen), Oliver Chris (Friedrich Engels), Laura Elphinstone (Nym), Eben Figueiredo (Schramm), Tony Jayawardena (Gert "Doc" Schmidt), Scott Karim (Grabiner/Singer), Alana Ramsey (Mrs. Mullet), Sophie Russell (Librarian), Fode Simbo (Peter), William Troughton (Constable Crimp), Joseph Wilkins (Sergeant Savage), Duncan Wisbey (Mr. Feece/Bearded Man), Miltos Yerolemou (Emmanuel Barthélemy)
-
 # Z
 
-<p align="center"><a href="https://kyratrades.github.io/videos#zorba">Zorba</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#zombie-prom">Zombie Prom</a> • <a href="https://kyratrades.github.io/musicals#zorba">Zorba</a></p>
+
+## Zombie Prom
+
+#### Zombie Prom - Pre-Broadway / Ft. Lauderdale - August, 1993
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.50 GB`
+
+CAST
+: Randy James (Jonny Warner), Stacey Turner (Toffee), Leslie McMillan-Perez (Delilah Strict)
+
+NOTES
+: Mislabeled as Off Broadway March 1996, this video is clearly from the 1993 Ft. Lauderdale production as it has Leslie McMillan-Perez as Delilah Strict. See the 8-13-1993 [Sun Sentinel story](https://www.sun-sentinel.com/news/fl-xpm-1993-08-13-9301290464-story.html).
+
+## Zorba
 
 #### Zorba - Encores! - May 6, 2015
 {: .no_toc .d-inline-block }

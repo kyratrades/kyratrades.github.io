@@ -16,10 +16,6 @@ permalink: /
 
 <center>Concerts: 61</center>
 
-<center>Opera: 8</center>
-
-<center>Films: 12</center>
-
 ---
 
 <center>Please read this page before initiating a trade</center>

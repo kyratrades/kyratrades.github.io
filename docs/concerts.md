@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Concerts
+title: Concerts & More
 nav_order: 4
 permalink: /concerts
 ---
 
-# Concerts
+# Concerts & More
 {: .no_toc }
 
 ### Note
@@ -23,7 +23,7 @@ permalink: /concerts
 ### MISC
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#videos-1">Videos</a> • <a href="https://kyratrades.github.io/concerts#audios-1">Audios</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#videos-1">Videos</a> • <a href="https://kyratrades.github.io/concerts#audios-1">Audios</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a></p>
 
 ---
 
@@ -835,3 +835,48 @@ NOTES
 : Wicked’s 5th anniversary tribute to the songs and scenes that didn’t make it into the final show. Featuring many alumni of the show returning.
 : Track list: Opening (Thompson, Behar, Company), “Making Good” (Block), “Dear Old Shiz” (Thompson, Company), “Bad Situation” (Thompson, Block, Gorski, Allen, Company), “Making Good” (reprise) (Block), “Easy as Winkie Wine” (Reichard, Indelicato, Thompson, Gorsky, Allen), “Emerald City Stomp/We Deserve Each Other” (Thompson, Reichard, Indelicato, Federer, Company), “Popular” (Mario Cantone), “I’m Not That Girl” abbreviated (Bean), “As If By Magic” (Parker, Bean, Settle), “Step By Step” (Federer), “Dear Old Shiz” (reprise) (Company), “One [Really] Short Day” (Company), “A Sentimental Man/The Chance to Fly” (Wendt, Reinders, Bean, Behar), “For Goodness Sake” (Reinders, Bean), “Defying Gravity” (Ashanti, Block, Bean, Reinders, Thompson, Company).
 : Also includes a speech by Stephen Schwartz and Winnie Holzman.
+
+---
+
+## Tony Awards
+
+### Wants
+{: .no_toc }
+
+I'm looking for any and all recordings of Tony Awards, including fan compilations! Please do reach out if you have any videos I don't already have :)
+
+#### Tony Awards - 1966-1986 \[S1\]
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: ISO
+
+#### Tony Awards - 1988
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: A Chorus Line, "Music and the Mirror" - Donna McKechnie
+: Anything Goes, "Anything Goes" - Patti LuPone and Company
+: Dreamgirls, "One Night Only"/"Dreamgirls" - Sheryl Lee Ralph, Loretta Devine and Terry Burrell
+: Into the Woods, "Into the Woods"/"Children Will Listen" - Phylicia Rashad and Company
+: The Phantom of the Opera - Sarah Brightman and Michael Crawford
+: Romance/Romance, "I'll Always Remember the Song"/"It's Not Too Late" - Scott Bakula, Alison Fraser
+: Sarafina!, "Sarafina!" - Company
+
+#### Tony Awards - 2004 & 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`

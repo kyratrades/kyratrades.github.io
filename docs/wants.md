@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wants
-nav_order: 9
+nav_order: 5
 permalink: /wants
 ---
 
@@ -123,8 +123,6 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 I'm looking for the original files released by the master for these items. I'm either missing certain files, have faulty files, or don't have the original files at all. I'm more than happy to trade for the whole set of files:
 
 ### Videos
-
-- The Addams Family - First National Tour - October 18, 2011 \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
 - Annie Get Your Gun - US Tour - 1993 \| House-Cam `missing last VOB`
 
