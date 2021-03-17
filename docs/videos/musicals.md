@@ -4671,7 +4671,7 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">An Evening With Patti LuPone and Mandy Patinkin</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
 
 ## Earth Girls Are Easy
 
@@ -4756,6 +4756,20 @@ FORMAT
 
 CAST
 : 조정은 Jo Jung-eun (Elisabeth), 전동석 Dong-suk Jeon (Der Tod)
+
+## An Evening With Patti LuPone and Mandy Patinkin
+
+#### An Evening With Patti LuPone and Mandy Patinkin - Broadway - November 17 and 18, 2011 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone, Mandy Patinkin, Paul Ford (Piano), John Beal (Bass)
+
+NOTES
+: Filmed in 16:9 Widescreen; act two shot over and between a head but it's never really an issue; good clear video A
 
 ## Everybody\'s Talking About Jamie
 
