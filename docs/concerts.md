@@ -15,31 +15,23 @@ permalink: /concerts
 
 ---
 
-### Navigation
+### Special Events
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#bernadette-peters">Bernadette Peters</a> • <a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#eden-espinosa">Eden Espinosa</a> • <a href="https://kyratrades.github.io/concerts#eva-noblezada">Eva Noblezada</a> • <a href="https://kyratrades.github.io/concerts#laura-benanti">Laura Benanti</a> • <a href="https://kyratrades.github.io/concerts#lea-salonga">Lea Salonga</a> • <a href="https://kyratrades.github.io/concerts#liza-minnelli">Liza Minnelli</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#rachel-york">Rachel York</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#shoshana-bean">Shoshana Bean</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#sutton-foster">Sutton Foster</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#nothing-like-a-dame">Nothing Like A Dame</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a></p>
+
+### Performers
+
+<p align="center"><a href="https://kyratrades.github.io/concerts#bernadette-peters">Bernadette Peters</a> • <a href="https://kyratrades.github.io/concerts#eden-espinosa">Eden Espinosa</a> • <a href="https://kyratrades.github.io/concerts#eva-noblezada">Eva Noblezada</a> • <a href="https://kyratrades.github.io/concerts#laura-benanti">Laura Benanti</a> • <a href="https://kyratrades.github.io/concerts#lea-salonga">Lea Salonga</a> • <a href="https://kyratrades.github.io/concerts#liza-minnelli">Liza Minnelli</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#rachel-york">Rachel York</a> • <a href="https://kyratrades.github.io/concerts#shoshana-bean">Shoshana Bean</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#sutton-foster">Sutton Foster</a></p>
 
 ### MISC
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#videos-1">Videos</a> • <a href="https://kyratrades.github.io/concerts#audios-1">Audios</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#videos-1">Videos</a> • <a href="https://kyratrades.github.io/concerts#audios-1">Audios</a></p>
 
 ---
 
-## Bernadette Peters
-
-#### Bernadette Peters in Concert Live from Royal Festival Hall - 1998
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-NOTES
-: "A diva who effuses sweetness as naturally as she breathes!" - The New York Times. Live from Royal Festival Hall in London, Bernadette Peters combines raw talent with alluring sophistication as she sings many Broadway standards, including "Broadway Baby" (Follies), "Time Heals Everything" (Mack & Mabel), and "Some People" (Gypsy). She also performs a selection of songs from her Grammy-nominated, bestselling album, "I'll Be Your Baby Tonight," as well as several numbers from Stephen Sondheim that were featured in her performance at Carnegie Hall, New York.
+# Special Events
 
 ## Bombshell
 
@@ -70,7 +62,7 @@ COMMENTS
 : Includes two versions (with and without the 2020 cast reunion) + tracked audio (.m4a) ripped from the show, tracked by me.
 
 CAST
-: Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
+: Same as above
 
 NOTES
 : The stars of the NBC musical drama series will reunite virtually for a special one-night-only streaming event: Bombshell in Concert. The event, announced by The Actors Fund in association with PEOPLE, features the never-seen sold-out live performance of Bombshell in Concert that electrified Broadway at the Minskoff Theater in New York City in 2015. The evening will be introduced by two-time Academy Award winner Renée Zellweger and, during intermission, Julie Klausner of "Difficult People" will host a live, virtual reunion with the show's original cast members including: Christian Borle, Jaime Cepero, Will Chase, Brian d'Arcy James, Jack Davenport, Ann Harada, Megan Hilty, Jeremy Jordan, Katharine McPhee, Andy Mientus, Debra Messing, Leslie Odom Jr., Krysta Rodriguez and Wesley Taylor.
@@ -84,7 +76,7 @@ FORMAT
 : MP3 `33 tracks` `128.1 MB`
 
 CAST
-: Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
+: Same as above
 
 ## Broadway Miscast
 
@@ -111,6 +103,254 @@ FORMAT
 
 CAST
 : Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
+
+## The Meg an\' Sho Show
+
+#### Mark\'s Restaurant - March 31, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+Listened
+{: .label .label-yellow }
+
+FORMAT
+: MP3 `17 tracks`
+
+CAST
+: Megan Hilty, Shoshana Bean
+
+#### Cinco de Mayo - May 5, 2008 
+{: .no_toc .d-inline-block }
+
+photoshop_diva
+{: .label .label-blue }
+
+FORMAT
+: MP3 `35 tracks`
+
+CAST
+: Megan Hilty, Shoshana Bean, Eden Espinosa (Guest), Adam Lambert (Guest)
+
+NOTES
+: VIP After Party with Eden Espinosa and Adam Lambert.
+
+## Nothing Like A Dame
+
+#### Nothing like a Dame - New York - 1996
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: First annual fund-raising event benefiting Phyllis Newman’s Woman’s Health Initiative and the Actor’s Fund, presented at the Virginia Theatre.  Hosted by Julie Halston and Glenn Close, with Julie Andrews, Laurie Beechman, Uta Hagen, Marin Mazzie, Andrea Martin, Debra Monk, Irene Worth, Jane Powell, Lillias White, Lauren Becall, Judy Kuhn, Randy Graff, Lynn Redgrave, Betty Buckley, Zoe Caldwell, Carol Channing, Phyllis Newman, and others. 
+
+NOTES
+: February 25, 1996. Filmed using one camera on a tripod, with audio patched in directly from the soundboard. A
+
+#### Nothing like a Dame - New York - 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Lillias White, Amanda Green, Phyllis Newman, Barbara Walsh, Jennifer Cody, Karen Ziemba, Randy Graff, Dee Hoty, Phylicia Rashad, Zoe Caldwell, Charles Busch, Sutton Foster, Megan McGinnis, Andrea McArdle, more
+
+## Seth\'s Broadway Chatterbox
+
+### Wants
+
+Rachel York on Seth\'s Broadway Chatterbox
+
+#### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Seth Rudetsky (Host), Megan Hilty (Guest)
+
+NOTES
+: Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
+
+## Sondheim
+
+#### Sondheim: A Celebration at Carnegie Hall - 1993
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Stephen Sondheim, Betty Buckley, Paul Gemignani, Patti LuPone, Liza Minnelli, Bernadette Peters
+
+NOTES
+: This program features the music of Broadway composer Stephen Sondheim in a 1992 performance at Carnegie Hall. An American Musical Theatre writer for over 40 years, Stephen Sondheim has created the scores for hits such as Passion, Assassins, Bounce, Into The Woods, Sunday In The Park With George, Merrily We Roll Along, Sweeney Todd and Pacific Overtures. Featuring: Liza Minnelli, Patti LuPone, Bernadette Peters, Glenn Close and many more.
+
+#### New York Philharmonic: Celebrating Sondheim - Live From Lincoln Center (S44 E6) - December 31, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `1.86 GB`
+
+CAST
+: Bernadette Peters, Katrina Lenk (Guest)
+
+NOTES
+: Conducted by Alexander Gemignani, the concert will feature some of Sondheim's most beloved works, including suites from \"Sunday in the Park,\" \"Into the Woods,\" \"Sweeney Todd\" and more. Includes the extra "Alexander and Paul Gemignani Talk Sondheim".
+
+#### Simply Sondheim - Signature Theatre - 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `English (.srt)`
+
+CAST
+: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
+
+NOTES
+: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
+: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
+
+## Tony Awards
+
+### Wants
+{: .no_toc }
+
+I'm looking for any and all recordings of Tony Awards, including fan compilations! Please do reach out if you have any videos I don't already have :)
+
+#### Tony Awards - 1966-1986 \[S1\]
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: ISO
+
+#### Tony Awards - 1988
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: A Chorus Line, "Music and the Mirror" - Donna McKechnie
+: Anything Goes, "Anything Goes" - Patti LuPone and Company
+: Dreamgirls, "One Night Only"/"Dreamgirls" - Sheryl Lee Ralph, Loretta Devine and Terry Burrell
+: Into the Woods, "Into the Woods"/"Children Will Listen" - Phylicia Rashad and Company
+: The Phantom of the Opera - Sarah Brightman and Michael Crawford
+: Romance/Romance, "I'll Always Remember the Song"/"It's Not Too Late" - Scott Bakula, Alison Fraser
+: Sarafina!, "Sarafina!" - Company
+
+#### Tony Awards - 2004 & 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+## Wicked Divas
+
+### Video
+
+#### Wicked Divas - Cincinnati - November 15, 2009
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Megan Hilty, Julia Murney
+
+NOTES
+: Songs include: All That Jazz, Back to Before, Ring Them Bells, Til' There Was You, I Could of Danced All Night, Part of Your World, The Wizard and I, Popular, Defying Gravity, For Good, and I Will Never Leave You.
+
+### Audio
+
+#### Wicked Divas - Cincinnati - November 13, 2009
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: MP3 `14 tracks`
+
+ISSUES
+: Missing "I Will Always Love You"
+
+CAST
+: Julia Murney, Megan Hilty, Cincinnati Pops Orchestra
+
+#### Wicked Divas - Columbus - June 26, 2010
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+Listened
+{: .label .label-yellow }
+
+FORMAT
+: MP3 `28 tracks`
+
+CAST
+: Julia Murney, Stephanie J. Block, Columbus Symphony Orchestra
+
+NOTES
+: Recorded at an outdoor venue and there was some noise from wind and so on. A thunderstorm caused a mass exodus of people running for cover during \"Defying Gravity\" and was the reason the concert ended early.
+
+---
+
+# Performers
+
+## Bernadette Peters
+
+#### Bernadette Peters in Concert Live from Royal Festival Hall - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+NOTES
+: "A diva who effuses sweetness as naturally as she breathes!" - The New York Times. Live from Royal Festival Hall in London, Bernadette Peters combines raw talent with alluring sophistication as she sings many Broadway standards, including "Broadway Baby" (Follies), "Time Heals Everything" (Mack & Mabel), and "Some People" (Gypsy). She also performs a selection of songs from her Grammy-nominated, bestselling album, "I'll Be Your Baby Tonight," as well as several numbers from Stephen Sondheim that were featured in her performance at Carnegie Hall, New York.
 
 ## Eden Espinosa
 
@@ -193,38 +433,6 @@ NOTES
 
 LINK
 : [Stellar](https://www.stellartickets.com/o/daniel-nardicio-sam-benedict-matt-berman-and-scott-gorenstein/events/a-love-letter-to-liza-minnelli-75th-all-star-birthday-tribute-celebration)
-
-## The Meg an\' Sho Show
-
-#### Mark\'s Restaurant - March 31, 2008
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-Listened
-{: .label .label-yellow }
-
-FORMAT
-: MP3 `17 tracks`
-
-CAST
-: Megan Hilty, Shoshana Bean
-
-#### Cinco de Mayo - May 5, 2008 
-{: .no_toc .d-inline-block }
-
-photoshop_diva
-{: .label .label-blue }
-
-FORMAT
-: MP3 `35 tracks`
-
-CAST
-: Megan Hilty, Shoshana Bean, Eden Espinosa (Guest), Adam Lambert (Guest)
-
-NOTES
-: VIP After Party with Eden Espinosa and Adam Lambert.
 
 ## Megan Hilty
 
@@ -364,27 +572,6 @@ SOPRANOS
 ALTOS
 : Lisa Bell, Donna Burroughs, Fances Chee, Jennifer Cheng, Evi Desser, Laurie Fox, Carol Lisek, Anna Lysak, Helen R. Mendoza, Jan Miller, Brenda Moore, Consuelo Moreno, Carly Munson, Marcela Pan, Brooke Randolph, Cris Scaglione, Carol Ann Scherfenberg, Nancy Timmons, Debi Tinsley
 
-## Seth\'s Broadway Chatterbox
-
-### Wants
-
-Rachel York on Seth\'s Broadway Chatterbox
-
-#### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
-{: .no_toc .d-inline-block }
-
-Watched
-{: .label .label-yellow }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Seth Rudetsky (Host), Megan Hilty (Guest)
-
-NOTES
-: Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
-
 ## Shoshana Bean
 
 #### Shoshana Bean: Sing Your Hallelujah - 2020
@@ -410,54 +597,6 @@ Pro-Shot
 
 FORMAT
 : MP4 `1080p` `1.02 GB`
-
-## Sondheim
-
-#### Sondheim: A Celebration at Carnegie Hall - 1993
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-CAST
-: Stephen Sondheim, Betty Buckley, Paul Gemignani, Patti LuPone, Liza Minnelli, Bernadette Peters
-
-NOTES
-: This program features the music of Broadway composer Stephen Sondheim in a 1992 performance at Carnegie Hall. An American Musical Theatre writer for over 40 years, Stephen Sondheim has created the scores for hits such as Passion, Assassins, Bounce, Into The Woods, Sunday In The Park With George, Merrily We Roll Along, Sweeney Todd and Pacific Overtures. Featuring: Liza Minnelli, Patti LuPone, Bernadette Peters, Glenn Close and many more.
-
-#### New York Philharmonic: Celebrating Sondheim - Live From Lincoln Center (S44 E6) - December 31, 2019
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `720p` `1.86 GB`
-
-CAST
-: Bernadette Peters, Katrina Lenk (Guest)
-
-NOTES
-: Conducted by Alexander Gemignani, the concert will feature some of Sondheim's most beloved works, including suites from \"Sunday in the Park,\" \"Into the Woods,\" \"Sweeney Todd\" and more. Includes the extra "Alexander and Paul Gemignani Talk Sondheim".
-
-#### Simply Sondheim - Signature Theatre - 2021
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `1080p` `English (.srt)`
-
-CAST
-: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
-
-NOTES
-: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
-: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
 
 ## Stephanie J. Block
 
@@ -521,64 +660,9 @@ FORMAT
 CAST
 : Sutton Foster, Jonathan Groff (Guest)
 
-## Wicked Divas
+---
 
-### Video
-
-#### Wicked Divas - Cincinnati - November 15, 2009
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-Watched
-{: .label .label-yellow }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Megan Hilty, Julia Murney
-
-NOTES
-: Songs include: All That Jazz, Back to Before, Ring Them Bells, Til' There Was You, I Could of Danced All Night, Part of Your World, The Wizard and I, Popular, Defying Gravity, For Good, and I Will Never Leave You.
-
-### Audio
-
-#### Wicked Divas - Cincinnati - November 13, 2009
-{: .no_toc .d-inline-block }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: MP3 `14 tracks`
-
-ISSUES
-: Missing "I Will Always Love You"
-
-CAST
-: Julia Murney, Megan Hilty, Cincinnati Pops Orchestra
-
-#### Wicked Divas - Columbus - June 26, 2010
-{: .no_toc .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-Listened
-{: .label .label-yellow }
-
-FORMAT
-: MP3 `28 tracks`
-
-CAST
-: Julia Murney, Stephanie J. Block, Columbus Symphony Orchestra
-
-NOTES
-: Recorded at an outdoor venue and there was some noise from wind and so on. A thunderstorm caused a mass exodus of people running for cover during \"Defying Gravity\" and was the reason the concert ended early.
-
-## MISC
+# MISC
 
 ### Videos
 
@@ -835,48 +919,3 @@ NOTES
 : Wicked’s 5th anniversary tribute to the songs and scenes that didn’t make it into the final show. Featuring many alumni of the show returning.
 : Track list: Opening (Thompson, Behar, Company), “Making Good” (Block), “Dear Old Shiz” (Thompson, Company), “Bad Situation” (Thompson, Block, Gorski, Allen, Company), “Making Good” (reprise) (Block), “Easy as Winkie Wine” (Reichard, Indelicato, Thompson, Gorsky, Allen), “Emerald City Stomp/We Deserve Each Other” (Thompson, Reichard, Indelicato, Federer, Company), “Popular” (Mario Cantone), “I’m Not That Girl” abbreviated (Bean), “As If By Magic” (Parker, Bean, Settle), “Step By Step” (Federer), “Dear Old Shiz” (reprise) (Company), “One [Really] Short Day” (Company), “A Sentimental Man/The Chance to Fly” (Wendt, Reinders, Bean, Behar), “For Goodness Sake” (Reinders, Bean), “Defying Gravity” (Ashanti, Block, Bean, Reinders, Thompson, Company).
 : Also includes a speech by Stephen Schwartz and Winnie Holzman.
-
----
-
-## Tony Awards
-
-### Wants
-{: .no_toc }
-
-I'm looking for any and all recordings of Tony Awards, including fan compilations! Please do reach out if you have any videos I don't already have :)
-
-#### Tony Awards - 1966-1986 \[S1\]
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: ISO
-
-#### Tony Awards - 1988
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-NOTES
-: A Chorus Line, "Music and the Mirror" - Donna McKechnie
-: Anything Goes, "Anything Goes" - Patti LuPone and Company
-: Dreamgirls, "One Night Only"/"Dreamgirls" - Sheryl Lee Ralph, Loretta Devine and Terry Burrell
-: Into the Woods, "Into the Woods"/"Children Will Listen" - Phylicia Rashad and Company
-: The Phantom of the Opera - Sarah Brightman and Michael Crawford
-: Romance/Romance, "I'll Always Remember the Song"/"It's Not Too Late" - Scott Bakula, Alison Fraser
-: Sarafina!, "Sarafina!" - Company
-
-#### Tony Awards - 2004 & 2005
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD`
