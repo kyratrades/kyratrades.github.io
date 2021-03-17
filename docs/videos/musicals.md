@@ -572,6 +572,9 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : VOB+smalls `1 DVD`
 : NOT the original DVD, but the re-authored one. Would trade for the original files!
