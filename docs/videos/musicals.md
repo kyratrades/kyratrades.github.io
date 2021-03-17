@@ -2676,6 +2676,10 @@ NOTES
 
 ## Cabaret
 
+### Wants
+
+ANY Cabaret Blu-rays, especially the one with Emma Stone.
+
 #### Cabaret - Second Broadway Revival - 1998 (Highlights) 
 {: .no_toc .d-inline-block }
 
@@ -2844,6 +2848,15 @@ CAST
 
 NOTES
 : Beautiful HD capture of Sienna joining the cast as the final Sally Bowles and Hani joining as Kost. Still wonderful and solid performances as the show plays it\'s final few performances. A
+
+### Specials
+
+#### I am Camera - TV Broadcast - 1955
+{: .no_toc .d-inline-block }
+
+NOTES
+: Pro-Shot RARE copy of the feature film adaptation of the Christopher Isherwood stage play with the Tony-winning Julie Harris playing ‘Sally Bowles.’ The basis for the musical CABARET (B&W)
+: DVD transfer from a VHS Factory copy -Video Release: 8/28/91
 
 ## Call Me Madam
 
@@ -4671,7 +4684,7 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">An Evening With Patti LuPone and Mandy Patinkin</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#an-evening-with-patti-lupone-and-mandy-patinkin">An Evening With Patti LuPone and Mandy Patinkin</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
 
 ## Earth Girls Are Easy
 
