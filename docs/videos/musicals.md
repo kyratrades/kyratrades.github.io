@@ -4684,7 +4684,7 @@ NOTES
 
 # E
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#an-evening-with-patti-lupone-and-mandy-patinkin">An Evening With Patti LuPone and Mandy Patinkin</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#earth-girls-are-easy">Earth Girls Are Easy</a> • <a href="https://kyratrades.github.io/musicals#elaine-stritch-at-liberty">Elaine Stritch: At Liberty</a> • <a href="https://kyratrades.github.io/musicals#elisabeth">Elisabeth</a> • <a href="https://kyratrades.github.io/musicals#evening-primrose">Evening Primrose</a> • <a href="https://kyratrades.github.io/musicals#an-evening-with-patti-lupone-and-mandy-patinkin">An Evening With Patti LuPone and Mandy Patinkin</a> • <a href="https://kyratrades.github.io/musicals#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/musicals#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/musicals#evita">Evita</a></p>
 
 ## Earth Girls Are Easy
 
@@ -4769,6 +4769,23 @@ FORMAT
 
 CAST
 : 조정은 Jo Jung-eun (Elisabeth), 전동석 Dong-suk Jeon (Der Tod)
+
+## Evening Primrose
+
+#### Evening Primrose - US television series ABC Stage 67 - 1966
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Anthony Perkins, Dorothy Stickney, Larry Gates, Charmian Carr
+
+NOTES
+: A rare television find, Evening Primrose is a 1966 musical that aired on ABC Stage 1967 and is most notable for its music and lyrics by a young Stephen Sondheim. The 52-minute black-and-white program was based on a story by John Collier and adapted by James Goldman, and the four songs are distinctively Sondheim.
 
 ## An Evening With Patti LuPone and Mandy Patinkin
 
@@ -5261,7 +5278,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV `DVD rip`
+: MKV `480p` `2.48 GB` `DVD rip`
 
 CAST
 : Ann Reinking (Ann Reinking), Ben Vereen (Performer), Eugene Fleming, Rachelle Rak, Brad Anderson, Dana Moore, Ken Alan, Dylis Croman 

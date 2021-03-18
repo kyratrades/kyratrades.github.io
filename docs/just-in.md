@@ -200,3 +200,18 @@ CAST
 NOTES
 : Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
 : Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
+
+#### Evening Primrose - US television series ABC Stage 67 - 1966
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Anthony Perkins, Dorothy Stickney, Larry Gates, Charmian Carr
+
+NOTES
+: A rare television find, Evening Primrose is a 1966 musical that aired on ABC Stage 1967 and is most notable for its music and lyrics by a young Stephen Sondheim. The 52-minute black-and-white program was based on a story by John Collier and adapted by James Goldman, and the four songs are distinctively Sondheim.

@@ -520,7 +520,7 @@ Watched
 {: .label .label-yellow }
 
 NOTES
-: On the same DVD as the [Anything Goes \'lost footage\'](https://kyratrades.github.io/videos#anything-goes---first-broadway-revival---1988-lost-footage-highlights)
+: On the same DVD as the [Anything Goes \'lost footage\'](https://kyratrades.github.io/musicals#anything-goes---first-broadway-revival---1988-lost-footage-highlights)
 
 #### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
 {: .no_toc .d-inline-block }
