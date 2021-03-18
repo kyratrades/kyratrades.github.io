@@ -136,6 +136,8 @@ FORMAT
 CAST
 : Elizabeth Berkley (Mrs. Truckle), Eric Stoltz (Simon Able), Rachel York (Miss Fancy), René Auberjonois (Jethro Crouch), Linda Halaska (Sly’s Servant), Bob Dishy (Abner Truckle), Bronson Pinchot (Lawyer Craven)
 
+### Mar 15, 2021
+
 #### Newsies - Pre-Broadway / Paper Mill Playhouse - October, 2011
 {: .no_toc .d-inline-block }
 
@@ -160,6 +162,15 @@ FORMAT
 CAST
 : Rachel John (Woman 1), Cedric Neal (Man 1), Rachel Tucker (Woman 2), David Hunter (Man 2)
 
+#### Joseph and the Amazing Technicolor Dreamcoat - US Tour / Chicago - November 23, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patrick Cassidy (Joseph), Amy Adams (Narrator), Todd DuBail (Pharaoh), Nicolas F Saverine (Jacob)
+
 ## February, 2021
 
 #### Songs For A New World - Quarantine Edition - February, 2021
@@ -173,3 +184,19 @@ FORMAT
 
 CAST
 : Rachel Tucker, Rachel John, Ramin Karimloo, Cedric Neal
+
+#### Simply Sondheim - Signature Theatre - 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `English (.srt)`
+
+CAST
+: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
+
+NOTES
+: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
+: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
