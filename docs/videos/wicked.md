@@ -550,7 +550,7 @@ Lanelle
 
 FORMAT
 : `1` VOB+smalls `2 DVDs` `7.45 GB`
-: `2` Blu-ray M2TS `24.02 GB` `Limited`
+: `2` Blu-ray M2TS `24.02 GB` `LT`
 
 CAST
 : Willemijn Verkaik (Elphaba), Katie Rose Clarke (Glinda), Kyle Dean Massey (Fiyero), Adam Grupper (The Wizard), Randy Danson (Madame Morrible), Catherine Charlebois (Nessarose), F Michael Haynie (Boq), John Schiappa (Doctor Dillamond)
