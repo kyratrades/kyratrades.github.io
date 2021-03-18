@@ -8720,7 +8720,7 @@ NOTES
 #### Moulin Rouge (2001)
 {: .no_toc .d-inline-block }
 
-Movie
+Film
 {: .label .label-green }
 
 Watched
