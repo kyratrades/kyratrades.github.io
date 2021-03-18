@@ -11605,13 +11605,14 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `2.71 GB`
+: `1` VOB+smalls `2.71 GB`
+: `2` MP4 `576p` `1.09 GB`
 
 CAST
 : Patti LuPone (Norma Desmond), Kevin Anderson (Joe Gillis), Daniel Benzali (Max von Mayerling)
 
 NOTES
-: Black and white house-cam footage with crystal clear soundboard audio, slightly washed out at times (as it was in infrared) but a great capture of the performances and the staging. Definitely filmed in July. Theres a higher quality MP4 version with no graininess and clear footage being traded as well. Check with traders.
+: Black and white house-cam footage with crystal clear soundboard audio, slightly washed out at times (as it was in infrared) but a great capture of the performances and the staging. Definitely filmed in July. MP4 version is higher quality with no graininess and clear footage.
 
 #### Sunset Boulevard - West End - 1995
 {: .no_toc .d-inline-block }
