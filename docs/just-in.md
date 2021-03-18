@@ -115,7 +115,17 @@ NOTES
 : Romance/Romance, "I'll Always Remember the Song"/"It's Not Too Late" - Scott Bakula, Alison Fraser
 : Sarafina!, "Sarafina!" - Company
 
-## Sly Fox
+#### Zombie Prom - Pre-Broadway / Ft. Lauderdale - August, 1993
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.50 GB`
+
+CAST
+: Randy James (Jonny Warner), Stacey Turner (Toffee), Leslie McMillan-Perez (Delilah Strict)
+
+NOTES
+: Mislabeled as Off Broadway March 1996, this video is clearly from the 1993 Ft. Lauderdale production as it has Leslie McMillan-Perez as Delilah Strict. See the 8-13-1993 [Sun Sentinel story](https://www.sun-sentinel.com/news/fl-xpm-1993-08-13-9301290464-story.html).
 
 #### Sly Fox - Broadway - March 27, 2004
 {: .no_toc .d-inline-block }
@@ -125,8 +135,6 @@ FORMAT
 
 CAST
 : Elizabeth Berkley (Mrs. Truckle), Eric Stoltz (Simon Able), Rachel York (Miss Fancy), René Auberjonois (Jethro Crouch), Linda Halaska (Sly’s Servant), Bob Dishy (Abner Truckle), Bronson Pinchot (Lawyer Craven)
-
-## Newsies
 
 #### Newsies - Pre-Broadway / Paper Mill Playhouse - October, 2011
 {: .no_toc .d-inline-block }
