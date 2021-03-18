@@ -10,7 +10,7 @@ permalink: /just-in
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/wants#smalls">March, 2021</a></p>
+<p align="center"><a href="https://kyratrades.github.io/wants#march-2021<">March, 2021</a> • <a href="https://kyratrades.github.io/wants#february-2021">February, 2021</a></p>
 
 ___
 
@@ -147,3 +147,29 @@ CAST
 
 NOTES
 : Filmed in 16:9 widescreen, almost no obstructions except for a head on the edge of the widest shots. Only very brief drop-outs for applause. Super fun for fans of the show to see the version before it came to Broadway. This is the only known full video of this pre-Broadway production. Yes, there is a typo in Andrew Keenan-Bolger's name in the video's cast list. Sorry. Audio fed in from external source, so the audio is nice and clear. Do not identify master or exact date.
+
+#### Songs for a New World - London Palladium - October, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS `10.43 GB`
+
+CAST
+: Rachel John (Woman 1), Cedric Neal (Man 1), Rachel Tucker (Woman 2), David Hunter (Man 2)
+
+## February, 2021
+
+#### Songs For A New World - Quarantine Edition - February, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `2.14 GB` `WEB-DL`
+
+CAST
+: Rachel Tucker, Rachel John, Ramin Karimloo, Cedric Neal
