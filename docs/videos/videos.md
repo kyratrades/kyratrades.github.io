@@ -27,7 +27,7 @@ permalink: /videos
 ### Search for these terms if you are looking for...
 {: .no_toc }
 
-<center><small>Blu-rays (HD): </small><code>BDMV</code><small> or </small><code>M2TS</code></center>
+<center><small>Blu-rays (HD): </small><code>BDMV</code><small> or </small><code>Blu-ray M2TS</code> or </small><code>Blu-ray MKV</code></center>
 
 <center><small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code></center>
 
