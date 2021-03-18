@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Info
-nav_order: 6
+nav_order: 99
 permalink: /info
 ---
 

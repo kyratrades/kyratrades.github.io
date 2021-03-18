@@ -11912,7 +11912,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
 
 ## Tales of the City
 
@@ -12089,6 +12089,23 @@ FORMAT
 
 CAST
 : Jenna Russell (Susan), Lucie Jones (Heidi), Marc Elliott (Jeff), Tyrone Huntley (Hunter)
+
+## Treason the Musical
+
+#### Treason the Musical in Concert - Cadogan Hall, London - March, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `2160p` `7.52 GB` `English (.srt)`
+
+CAST
+: Lucie Jones (Martha Percy), Oliver Tompsett (Robert Catesby), Daniel Boys (King James), Waylon Jacobs (John Wright), Bradley Jaden (Thomas Percy), Emmanuel Kojo (Thomas Wintour), Rebecca LaChance (Anne Vaux), Cedric Neal (Earl Of Northumberland), Sharon Rose (Eleanor Brooksby), Debris Stevenson (Narrator)
+
+NOTES
+: With a fusion of original folk and pop songs, this wonderful new musical tells one of the most intriguing tales in England’s history, and features a stunning score and lyrics by Ricky Allan, and book by Kieran Lynn and Ricky Allan. The musical’s world premiere and online concert will be directed by Hannah Chissick, with musical supervision by Nick Pinchbeck and orchestration by Matthew Malone. Online concert filmed live at the Cadogan Hall, and streamed online from Friday 12 - Sunday 14 March 2021.
 
 ## Two by Two
 
