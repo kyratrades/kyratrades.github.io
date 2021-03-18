@@ -1179,7 +1179,7 @@ CAST
 : Danielle Findley (Annie), Dorothy Loudon (Miss Hannigan), Harve Presnell (Oliver \'Daddy\' Warbucks), Lauren Mitchell (Grace Farrell), Marian Seldes (Marietta Christmas), Terrence P Currier (Drake), Ronny Graham (Lionel McCoy), TJ Meyers (Babe Ruth), Raymond Thorne (F.D.R.), Scott Robertson (Charlie Spinoli)
 
 NOTES
-: This first attempt at a sequel to Annie, Annie 2: Miss Hannigan\'s Revenge, opened at the John F. Kennedy Center for the Performing Arts in Washington, D.C. in December 1989 to universally disastrous reviews. Extensive reworking of the script and score proved futile, and the project ended before officially reaching Broadway; newly surfaced video was filmed from the balcony. Shot between heads, and the balcony railing is visible, but not too bad-you still get a good feel for the show. Recorded at the second night performance. Some generational loss. B
+: This first attempt at a sequel to Annie, Annie 2: Miss Hannigan\'s Revenge, opened at the John F. Kennedy Center for the Performing Arts in Washington, D.C. in December 1989 to universally disastrous reviews. Extensive reworking of the script and score proved futile, and the project ended before officially reaching Broadway; newly surfaced video was filmed from the balcony. Shot between heads, and the balcony railing is visible, but not too bad-you still get a good feel for the show. Recorded at the second night performance. Some generational loss. B
 
 ## Annie Get Your Gun
 
@@ -11072,7 +11072,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: BDMV `26.81 GB` `Limited`
+: Blu-ray M2TS `26.81 GB` `LT`
 
 CAST
 : Olivia Holt, Lucy Lawless, Garrett Clayton, Patrick Cassidy, David Engel, Ben Giroux, Tamyra Gray
