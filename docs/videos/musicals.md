@@ -2854,6 +2854,9 @@ NOTES
 #### I am Camera - TV Broadcast - 1955
 {: .no_toc .d-inline-block }
 
+Pro-Shot
+{: .label .label-green }
+
 NOTES
 : Pro-Shot RARE copy of the feature film adaptation of the Christopher Isherwood stage play with the Tony-winning Julie Harris playing ‘Sally Bowles.’ The basis for the musical CABARET (B&W)
 : DVD transfer from a VHS Factory copy -Video Release: 8/28/91
@@ -6082,10 +6085,11 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: `1` VOB+smalls `2 DVDs`
+: `2` Blu-ray M2TS `35.68 GB` `LT`
 
 COMMENTS
-: I'm missing specifically VTS_01_0.VOB of Disc 2
+: I'm missing specifically VTS_01_0.VOB of Disc 2 of the DVD.
 
 CAST
 : Javier Muñoz (alt Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Nicholas Christopher (u/s George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Andrew Chappelle (u/s John Laurens/Philip Hamilton), Alysha Deslorieux (s/b Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III)
@@ -6100,7 +6104,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: `1` VOB+smalls `2 DVDs`
+: `2` Blu-ray M2TS `35.34 GB` `LT`
 
 CAST
 : Javier Muñoz (Alexander Hamilton), Lexi Lawson (Eliza Hamilton), Sydney Harcourt (u/s Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Andrew Chappelle (u/s Marquis de Lafayette/Thomas Jefferson), Ephraim Sykes (u/s Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III), Roddy Kennedy (u/s James Reynolds/Philip Schuyler/Doctor), Thayne Jasperson (Samuel Seabury), Neil Haskell (Charles Lee), David Guzman (u/s George Eacker)
@@ -6202,10 +6207,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls + MP4 `1080p`
-
-COMMENTS
-: The MP4 is superior in picture quality but it is  NOT to be traded separately
+: `1` VOB+smalls `2 DVDs`
+: `2` Blu-ray M2TS `24.19 GB` `LT`
 
 CAST
 : Barrett Wilbert Weed (Veronica), Dan Domenech (u/s J.D.), Charissa Hogeland (u/s Heather Chandler), Alice Lee (Heather Duke), Elle McLemore (Heather McNamara), Jon Eidson (Ram Sweeney), Evan Todd (Kurt Kelly), Katie Ladner (Martha Dunnstock), Michelle Duffy (Ms. Fleming), Anthony Crivello (Ram\'s Dad), Daniel Cooney (Kurt\'s Dad), Michelle Duffy (Veronica\'s Mum), Anthony Crivello (Big Bud Dean), Anthony Crivello (Coach Ripper), Dustin Sullivan (Beleaguered Geek), AJ Meijer (Preppy Stud), Matthew Schatz (u/s Hipster Dork), Molly Hager (u/s New Wave Girl), Rachel Flynn (Stoner Chick), Cait Fairbanks (Young Republicanette), Matthew Schatz (u/s Officer McCord), AJ Meijer (Officer Milner)
@@ -11136,8 +11139,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `1 DVD` `No DVD menu`
-: Looking for the original 2 DVD release
+: `1` VOB+smalls `1 DVD` `No DVD menu`
+: `2` Blu-ray MKV `28.79 GB` `LT`
 
 CAST
 : Rob McClure (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Catherine Brunell (u/s Portia), Brad Oscar (Nostradamus), David Beach (Brother Jeremiah), Andre Ward (Minstrel/Snug)

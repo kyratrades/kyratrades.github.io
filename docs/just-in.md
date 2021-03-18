@@ -16,6 +16,44 @@ ___
 
 ## March, 2021
 
+### Mar 19, 2021
+
+#### Hamilton - Broadway - August 13, 2016 (Matinee) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray M2TS `35.34 GB` `LT`
+
+#### Hamilton - Broadway - June 19, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray M2TS `35.68 GB` `LT`
+
+#### Heathers - Off-Broadway - May 25, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray M2TS `24.19 GB` `LT`
+
+#### Something Rotten! - Broadway - June 20, 2016
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray MKV `28.79 GB` `LT`
+
 ### Mar 18, 2021
 
 #### Treason the Musical in Concert - Cadogan Hall, London - March, 2021
@@ -53,6 +91,9 @@ CAST
 
 #### I am Camera - TV Broadcast - 1955
 {: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 NOTES
 : Pro-Shot RARE copy of the feature film adaptation of the Christopher Isherwood stage play with the Tony-winning Julie Harris playing ‘Sally Bowles.’ The basis for the musical CABARET (B&W)
