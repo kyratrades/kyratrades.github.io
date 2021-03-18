@@ -11072,7 +11072,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: BDMV `26.81 GB`
+: BDMV `26.81 GB` `Limited`
 
 CAST
 : Olivia Holt, Lucy Lawless, Garrett Clayton, Patrick Cassidy, David Engel, Ben Giroux, Tamyra Gray

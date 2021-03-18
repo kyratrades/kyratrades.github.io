@@ -550,7 +550,7 @@ Lanelle
 
 FORMAT
 : `1` VOB+smalls `2 DVDs` `7.45 GB`
-: `2` M2TS `24.02 GB`
+: `2` M2TS `24.02 GB` `Limited`
 
 CAST
 : Willemijn Verkaik (Elphaba), Katie Rose Clarke (Glinda), Kyle Dean Massey (Fiyero), Adam Grupper (The Wizard), Randy Danson (Madame Morrible), Catherine Charlebois (Nessarose), F Michael Haynie (Boq), John Schiappa (Doctor Dillamond)
@@ -1902,6 +1902,33 @@ CAST
 
 NOTES
 : Captured with high quality camera. Some obstructions due to heads and washout but majority very clear high quality.
+
+#### Wicked - Second National Tour (Munchkinland) - June 2, 2019
+{: .no_toc .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
+
+CAST
+: Mariand Torres (Elphaba), Allison Bailey (u/s Glinda), Curt Hansen (Fiyero), Jason Graae (The Wizard), Sharon Sachs (Madame Morrible), Mili Diaz (Nessarose), Michael Wartella (Boq), Tom Flynn (Doctor Dillamond), KC Fredericks (Chistery), Tregoney Shepherd (Midwife), Kerry Blanchard (Witch's Mother), Wayne Schroder (Witch's Father / Ozian Official)
+
+NOTES
+: It was Allison's last show as an understudy, before she became lead and Mili's last show. There are several black out periods due to a high usher presence. The only song that are mostly blacked out are The Wizard and I and What is This Feeling. There were a large number of obstructions that occur throughout, but other sections are really good, such as The Wicked Witch of the East and No Good Deed. Lots of good zooms and facials throughout.
+
+#### Wicked - Second National Tour (Munchkinland) - December 15, 2019
+{: .no_toc .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `15.56 GB`
+
+CAST
+:  Natalia Vivino (s/b Elphaba), Allison Bailey (Glinda), Curt Hansen (Fiyero), Cleavant Derricks (The Wizard), Sharon Sachs (Madame Morrible), Amanda Fallon Smith (Nessarose), DJ Plunkett (Boq), Tom Flynn (Doctor Dillamond), Travante S Baker (Chistery), Megan Loomis (Midwife), Alida Michal (u/s Witch's Mother)
+ 
+NOTES
+: Shot with a high quality camera from the balcony. A mix of wide and zooms. Starts a few minutes into no one mourns the wicked. Second act is missing thank goodness and part of governor's mansion--does include wicked witch of the east. Occasional shakiness and waundering, sometimes heads are cut a bit, some whiteouts and bluriness (especially during Defying Gravity camera was just really struggling, sorry!)
 
 ### Oberhausen
 
