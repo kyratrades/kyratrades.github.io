@@ -6699,6 +6699,30 @@ FORMAT
 CAST
 : Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), Dame Judi Dench (Giant's voice)
 
+#### Into the Woods - Broadway Revival - April 13, 2002 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `First generation`
+
+CAST
+: Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), John McMartin (Mysterious Man), Mary Louise Burke (Jack's Mother), Pamela Myers (Cinderella's Stepmother), Tracy Nicole Chapman (Florinda), Amanda Naughton (Lucinda), Dennis Kelly (Cinderella's Father), Trent Armand Kendall (Steward), Trent Armand Kendall (Steward), Melissa Dye (Rapunzel), Melissa Dye (Rapunzel), Chad Kimball (Milky White), Chad Kimball (Milky White), Dame Judi Dench (Giant's voice)
+
+NOTES
+: A good video for its age, despite the gen loss. \“Hello Little Girl\” was staged differently in shows after this date.
+
+#### Into the Woods - Broadway Revival - May 16, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.33 GB`
+
+CAST
+: Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), Dame Judi Dench (Giant's voice)
+
+NOTES
+: This copy is COMPLETE. It goes all the way to the end of the show, without any corruption! Crisper quality than the other video of this production, yet it has a lot of heads to film around. The video has two wolves, the three little pigs, and it includes \“Our Little World.\”
+
 #### Into the Woods - Pittsburgh CLO - August 9, 2009 (Matinee)
 {: .no_toc .d-inline-block }
 
