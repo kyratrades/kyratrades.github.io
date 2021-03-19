@@ -319,6 +319,9 @@ CAST
 #### It\'s Only A Play - Broadway - December 29, 2014
 {: .no_toc .d-inline-block }
 
+SJ Bernly
+{: .label .label-blue }
+
 FORMAT
 : VOB+smalls `2 DVDs`
 
@@ -853,3 +856,17 @@ FORMAT
 
 CAST
 : Aidan Gemme (The Boy), Billy Crudup (Lucky), Ian McKellen (Estragon), Patrick Stewart (Vladimir), Shuler Hensley (Pozzo)
+
+## Young Marx
+
+#### Young Marx - Bridge Theatre - December 7, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `2.80 GB`
+
+CAST
+: Rory Kinnear (Karl Marx), Nicholas Burns (Willich), Nancy Carroll (Jenny von Westphalen), Oliver Chris (Friedrich Engels), Laura Elphinstone (Nym), Eben Figueiredo (Schramm), Tony Jayawardena (Gert "Doc" Schmidt), Scott Karim (Grabiner/Singer), Alana Ramsey (Mrs. Mullet), Sophie Russell (Librarian), Fode Simbo (Peter), William Troughton (Constable Crimp), Joseph Wilkins (Sergeant Savage), Duncan Wisbey (Mr. Feece/Bearded Man), Miltos Yerolemou (Emmanuel Barthélemy)
