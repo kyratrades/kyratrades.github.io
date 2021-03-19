@@ -4258,6 +4258,7 @@ Pro-Shot
 
 FORMAT
 : VOB+smalls `2 DVDs` `5.49 GB`
+: High quality 2-disc rip with the least generation lost I've seen for this broadcast. Video plays in full. Check [here](https://imgur.com/a/H7EubHO) for screenshots.
 
 CAST
 : Adrian Lester (Bobby/Bobbie), Sheila Gish (Joanne), Rebecca Front (Sarah), Clive Rowe (Harry), Clare Burt (Susan), Gareth Snook (Peter), Liza Sadovy (Jenny), Teddy Kemper (David), Hannah James (April/Andy), Kiran Hocking (Kathy/Theo), Anna Francolini (Marta/PJ), Sophie Thompson (Amy/Jamie), Michael Simkins (Paul), Paul Bentley (Larry)
@@ -9696,11 +9697,9 @@ NOTES
 #### The Phantom of the Opera - Broadway - April, 1988
 {: .no_toc .d-inline-block }
 
-Issues
-{: .label .label-red }
-
 FORMAT
-: VOB+smalls `1 DVD` `FAULTY` `Missing last VOB`
+: VOB+smalls `1 DVD` `4.15 GB`
+: Fully functional copy. NOT the one that cannot be opened from the DVD menu and is missing the last VOB.
 
 CAST
 : Michael Crawford (The Phantom of the Opera), Sarah Brightman (Christine Daaé), Steve Barton (Raoul)

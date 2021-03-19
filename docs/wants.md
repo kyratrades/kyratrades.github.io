@@ -144,8 +144,6 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Kiss Me, Kate - British Television Production - April 21, 1964 `the last few minutes of VTS_01_4.VOB glitches`
 
-- The Phantom of the Opera - Broadway - April, 1988 `cannot load from the DVD menu AND missing the last VOB`
-
 - The Phantom of the Opera - Broadway - October 7, 2003 `cannot load from the DVD menu`
 
 - The Phantom of the Opera - Third National Tour - January 5, 2006 `VLC stops responding whenever attempting to load the folder`
