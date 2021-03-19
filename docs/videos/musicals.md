@@ -6704,7 +6704,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD` `First generation`
+: VOB+smalls `1 DVD` `3.96 GB`
 
 CAST
 : Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), John McMartin (Mysterious Man), Mary Louise Burke (Jack's Mother), Pamela Myers (Cinderella's Stepmother), Tracy Nicole Chapman (Florinda), Amanda Naughton (Lucinda), Dennis Kelly (Cinderella's Father), Trent Armand Kendall (Steward), Trent Armand Kendall (Steward), Melissa Dye (Rapunzel), Melissa Dye (Rapunzel), Chad Kimball (Milky White), Chad Kimball (Milky White), Dame Judi Dench (Giant's voice)
@@ -12299,7 +12299,7 @@ NOTES
 
 ## Waitress
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#broadway-5">Broadway</a> • <a href="https://kyratrades.github.io/musicals#first-national-tour-1">First National Tour</a> • <a href="https://kyratrades.github.io/musicals#west-end-3">West End</a> • <a href="https://kyratrades.github.io/musicals#second-non-equity-national-tour">Second Non-Equity National Tour</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#pre-broadway--cambridge">Pre-Broadway / Cambridge</a> • <a href="https://kyratrades.github.io/musicals#broadway-5">Broadway</a> • <a href="https://kyratrades.github.io/musicals#first-national-tour-1">First National Tour</a> • <a href="https://kyratrades.github.io/musicals#west-end-3">West End</a> • <a href="https://kyratrades.github.io/musicals#second-non-equity-national-tour">Second Non-Equity National Tour</a></p>
 
 ### Pre-Broadway / Cambridge
 
