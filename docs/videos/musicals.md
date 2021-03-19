@@ -8784,6 +8784,15 @@ CAST
 NOTES
 : Excellent HD capture; performed in the round in a bar setting, so the action takes place all over the theater.
 
+#### Murder Ballad - West End - December 3, 2016 (Closing Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `720p` `5.54 GB`
+
+CAST
+: Kerry Ellis (Sara), Ramin Karimloo (Tom), Victoria Hamilton-Barritt (Narrator), Norman Bowman (Michael)
+
 ## My Fair Lady
 
 #### My Fair Lady - UK Tour - October 12, 2005
@@ -12291,6 +12300,23 @@ NOTES
 ## Waitress
 
 <p align="center"><a href="https://kyratrades.github.io/musicals#broadway-5">Broadway</a> • <a href="https://kyratrades.github.io/musicals#first-national-tour-1">First National Tour</a> • <a href="https://kyratrades.github.io/musicals#west-end-3">West End</a> • <a href="https://kyratrades.github.io/musicals#second-non-equity-national-tour">Second Non-Equity National Tour</a></p>
+
+### Pre-Broadway / Cambridge
+
+#### Waitress - Pre-Broadway / Cambridge - September 2, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jessie Mueller (Jenna), Keala Settle (Becky), Jeanna de Waal (Dawn), Drew Gehling (Dr. Pomatter), Jeremy Morse (Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Joe Tippett (Earl), Giana Ribeiro (Lulu)
+
+NOTES
+: Stunning HD capture of the new PreBroadway Sara Bareilles musical. Beautiful production and equally stunning performances. Jessie as you have come to expect gives a flawless performace with such beautiful and heartbreaking moments, with a matching cast! A+
 
 ### Broadway
 
