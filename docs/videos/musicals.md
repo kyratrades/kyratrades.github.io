@@ -8586,7 +8586,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: `1` VOB+smalls `2 DVDs`
+: `2` Blu-ray MKV `28.74 GB` `LT`
 
 CAST
 : John Owen-Jones (Jean Valjean), Hayden Tee (Javert), Alison Luff (Fantine), Alex Finke (Cosette), Chris McCarrell (Marius), Brennyn Lark (Éponine), Mark Uhre (Enjolras), David Rossmer (Thénardier), Rachel Izen (Madame Thénardier), Marcus D\'Angelo (Gavroche), Eleanor Koski (Little Cosette), Mia Sinclair Jenness (Young Éponine)
@@ -9115,7 +9116,7 @@ SJ Bernly
 
 FORMAT
 : `1` VOB+smalls `2 DVDs` `No DVD menu`
-: `2` Blu-ray M2TS `30.40 GB`
+: `2` Blu-ray M2TS `30.40 GB` `LT`
 
 CAST
 : Denée Benton (Natasha), Josh Groban (Pierre), Brittain Ashford (Sonya), Grace McLean (Marya D.), Lucas Steele (Anatole), Amber Gray (Hélène), Manik Choksi (Dolokhov), Gelsey Bell (Mary/Opera Singer/Maidservant), Nicholas Belton (Andrey/Bolkonsky), Paul Pinto (Balaga)

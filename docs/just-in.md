@@ -18,6 +18,15 @@ ___
 
 ### Mar 22, 2021
 
+#### Les Misérables - Second Broadway Revival - June 15, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray MKV `28.74 GB` `LT`
+
 #### The 24th Easter Bonnet Competittion - Minsky Theatre, New York - April 27, 2010
 {: .no_toc .d-inline-block }
 
@@ -34,7 +43,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: Blu-ray M2TS `30.40 GB`
+: Blu-ray M2TS `30.40 GB` `LT`
 
 #### Elaine Stritch: At Liberty - Broadway - April 10, 2002
 {: .no_toc .d-inline-block }

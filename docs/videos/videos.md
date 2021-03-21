@@ -29,6 +29,8 @@ permalink: /videos
 
 <center><small>Blu-rays (HD): </small><code>Blu-ray M2TS</code><small> or </small><code>Blu-ray MKV</code></center>
 
+<center><small>Note: Blu-rays will only be traded for other blu-rays or things I <i>really</i> want.</small></center>
+
 <center><small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code></center>
 
 <center><small>Pro-shots (best quality): </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
