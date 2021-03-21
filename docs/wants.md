@@ -102,8 +102,6 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 
 - The Phantom of the Opera - Broadway - May 9, 2007 `Act 1 smalls missing`
 
-- The Scarlet Pimpernel - First National Tour - March 4, 2000
-
 - Sunset Boulevard - Los Angeles - June 17, 1994
 
 - Three Days of Rain - Broadway - May 31, 2006
@@ -165,6 +163,8 @@ I'm looking for the original files released by the master for these items. I'm e
 - Wicked - First National Tour (Emerald City) - December 12, 2007 \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
 - Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee) \| SunsetBlvd79 `faulty VTS_01_3.VOB`
+
+- Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013 `video closes out when attempting to click on either act`
 
 #### I have a DVD recorder / re-authored copy for these, looking for the original (first generation) files:
 
@@ -253,8 +253,6 @@ I'm looking for the original files released by the master for these items. I'm e
 - Elaine Stritch: At Liberty - Broadway - April 10, 2002
 
 - Beautiful: The Carole King Musical - Broadway - April 9, 2014 (SunsetBlvd79's master)  `2 DVD`
-
-- Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013
 
 - The Color Purple - Broadway Revival - December 28, 2015
 

@@ -212,7 +212,7 @@ CAST
 
 ## Frankenstein (play by Nick Dear)
 
-#### Frankenstein (play by Nick Dear) - National Theatre - March 17, 2011
+#### Frankenstein - National Theatre - March 17, 2011
 {: .no_toc .d-inline-block }
 
 Pro-Shot
@@ -745,6 +745,21 @@ CAST
 
 NOTES
 : Amazing show by the RSC company all-male cast; faithful adaptation with wonderful comedy; some obstruction at the front of the stage, and moments of shakiness. Complete show, includes curtain call and BCEFA speech. 2 DVDs A-
+
+## Vanya and Sonia and Masha and Spike
+
+#### Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: Only can play the playbill from the menu, video closes out when attempting to click on either act. Would trade for a functional copy!
+
+CAST
+: David Hyde Pierce (Vanya), Kristine Nielsen (Sonia), Sigourney Weaver (Masha), Billy Magnussen (Spike), Shalita Grant (Cassandra), Genevieve Angelson (Nina)
 
 ## A View From the Bridge
 
