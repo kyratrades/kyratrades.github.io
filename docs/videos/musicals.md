@@ -406,6 +406,16 @@ CAST
 NOTES
 : Dance captain\'s reel. An hour of semi pro-shot footage of dance numbers only. Includes: audition, shadow waltz, go into your dance, your getting to be a habit with me, getting out of town, dames/keep young and beautiful, regency club scene, eyes for you, we\'re in the money, lullaby of broadway, short montage between Julian and Peggy, plenty of money and you, shuffle off to buffalo, 42nd street, curtain call and finale ultimo. Static audio in background. The video has also gone through a lot of gen loss.
 
+#### 42nd Street - Broadway Revival - April 21, 2001 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.10 GB`
+
+CAST
+: Kate Levering (Peggy Sawyer), Michael Cumpsty (Julian Marsh), Beth Leavel (s/b Dorothy Brock), David Elder (Billy Lawlor), Jonathan Freeman (Bert Barry), Mary Testa (Maggie Jones), Ericka Hunter, Michael Arnold (Andy Lee) 
+NOTES: Preview. Filmed from balcony and a lot of closeups and mediums. Clear audio, but a little static (barely noticeable). A lot of traders mis-identify Dorothy as Christine Ebersole but she sported a blonde wig in her run whereas the Dorothy in this has a brunette wig and looks more like Beth Leavel. Similarly Maggie Jones in this video is Mary Testa, you can tell from her face and build. A-
+
 #### 42nd Street - Stuttgart - 2004 (Highlights)
 {: .no_toc .d-inline-block }
 
@@ -1716,7 +1726,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -1751,6 +1761,18 @@ CAST
 
 NOTES
 : Original London cast in a workshop/performance of the complete show. Absolutely beautifully pro-shot with multiple cameras in a dance studio. A+
+
+#### The Baker's Wife - Music Theatre Wichita - 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.89 GB`
+
+CAST
+: Mari Swan (Geneviève), Steve Frazier (Aimable), Greg Spencer (Claude), Brian Miller (Jean-Paul) 
 
 #### The Baker's Wife - Paper Mill Playhouse - April, 2005 (Highlights)
 {: .no_toc .d-inline-block }
@@ -1903,6 +1925,21 @@ FORMAT
 
 CAST
 : Jessie Mueller (Carole King), Jake Epstein (Gerry Goffin), Anika Larsen (Cynthia Weil), Jarrod Spector (Barry Mann), Jeb Brown (Don Kirshner), Liz Larsen (Genie Klein)
+
+#### Beautiful: The Carole King Musical - Broadway - April 9, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jessie Mueller (Carole King), Jake Epstein (Gerry Goffin), Anika Larsen (Cynthia Weil), Jarrod Spector (Barry Mann), Jeb Brown (Don Kirshner), Liz Larsen (Genie Klein)
+
+NOTES
+: Beautiful HD capture with no obstructions. Wonderful and stunning production with a cast that is perfection! Jessie gives a performance that is incredible, as does the rest of the cast! Can't say enough wonderful things about this production as a whole! A+
 
 #### Beautiful: The Carole King Musical - First National Tour - December 15, 2015
 {: .no_toc .d-inline-block }
@@ -2498,6 +2535,23 @@ CAST
 
 NOTES
 : A fantastic capture of the second tour cast. This is the first known dvd of the 2NT, and the cast doesn't disappoint. David and Cody are strong leads with great voices and comedic timing. Pierce is perfect as McKinley. Tallia also does a great job; she has a strong belt and does an endearing rendition of Sal Tlay Ka Siti. This is a very nice capture with no obstruction or blackouts, and only a bit of washout in superwide shots of high-contrast scenes. The video is very steady and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call.
+
+## The Boy Friend
+
+#### The Boy Friend - US Tour - 2005
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Rick Faugno (Bobby Van Husen), Jessica Grové (Polly), Berthe Austin (Hortense), Scott Barnhardt (Alphonse), Andrew Breidis (Pierre), Jordan Cable (Marcel), Paul Carlin (Percival Browne), Andrea Chamberlain (Maisie), Margot de La Barre (Nancy), Darcy Pulliam (Lord Brockhurst), Drew Eschelman (Lord Brockhurst), Nancy Hess (Madame Dubonnet), Pamela Otterson (Monica), Sean Palmer (Tony), Krysta Rodriguez (Fay), Eric Santagata (Phillipe), Tom Souhrada (Gendarme), Kristien Wyatt (Dulcie)
+
+NOTES
+: Can't really see the faces of the actors; spotlight washout; great sound
 
 ## The Boy From Oz
 
@@ -4505,7 +4559,7 @@ CAST
 
 # D
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#der-besuch-der-alten-dame">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
 
 ## Damn Yankees
 
