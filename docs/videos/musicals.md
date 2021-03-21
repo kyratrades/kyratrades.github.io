@@ -704,6 +704,22 @@ COMMENTS
 CAST
 : Bronson Pinchot (Gomez Addams), Rachel York (Morticia Addams), Micaela Martinez (Wednesday Addams), Anthony Grupposo (Fester Addams), Dante Marenco (Pugsley Addams), Candi Milo (Grandma Addams), Dustin Ceithamer (Lurch), Tracy Rowe Mutz (Alice Beineke), Robert Yacko (Mal Beineke), Dino Nicandros (Lucas Beineke)
 
+#### The Addams Family - Bethlehem, Pennsylvania - July, 2016 (Pro-Shot's video master) 
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p/720p` `1.84 GB`
+: Act 1 and 2 have different resolutions, not sure if the files are original
+
+CAST
+: Nicole Anderson (Grandma), Hannah Arnold (Wednesday), Drew Donaher (Gomez), Michael Harding (Lurch), Nina Attinello (Morticia), Brady Hill (Fester) and Max Wetherhold (Pugsley)
+
+NOTES
+: Single cam pro-shot. Filmed on a tripod, mix of long and close shots, soundboard audio
+
 #### The Addams Family - First UK Tour - 2017
 {: .no_toc .d-inline-block }
 
@@ -4831,6 +4847,18 @@ NOTES
 
 ## Elaine Stritch: At Liberty
 
+#### Elaine Stritch: At Liberty - Broadway - April 10, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.71 GB`
+
+CAST
+: Elaine Stritch
+
+NOTES
+: A great copy of the show's original Broadway run. Audio is good and video maintains a nice mid show/close up throughout.
+
 #### Elaine Stritch: At Liberty - West End - May 29, 2004
 {: .no_toc .d-inline-block }
 
@@ -4839,6 +4867,9 @@ Pro-Shot
 
 FORMAT
 : MKV `1080p Upscale` `4.61 GB`
+
+CAST
+: Elaine Stritch
 
 NOTES
 : This is the full 2.5 hour Elaine Stritch at Liberty, ripped directly from the DVD. It was also run through an AI-powered HD upscaler to 1080p.
@@ -4914,6 +4945,16 @@ NOTES
 : A rare television find, Evening Primrose is a 1966 musical that aired on ABC Stage 1967 and is most notable for its music and lyrics by a young Stephen Sondheim. The 52-minute black-and-white program was based on a story by John Collier and adapted by James Goldman, and the four songs are distinctively Sondheim.
 
 ## An Evening With Patti LuPone and Mandy Patinkin
+
+#### An Evening With Patti LuPone and Mandy Patinkin - US Tour / Philadelphia, PA - October 28, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: AVI `480p` `2.42 GB`
+: Do not request. I don't trade out DVD rips of bootlegs. Willing to trade for the DVD!
+
+CAST
+: Patti LuPone, Mandy Patinkin
 
 #### An Evening With Patti LuPone and Mandy Patinkin - Broadway - November 17 and 18, 2011 (Preview)
 {: .no_toc .d-inline-block }
@@ -5149,7 +5190,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a>> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -9073,11 +9114,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: `1` VOB+smalls `2 DVDs`
+: `1` VOB+smalls `2 DVDs` `No DVD menu`
 : `2` Blu-ray M2TS `30.40 GB`
-
-COMMENTS
-: Non-original smalls; Would trade for original files
 
 CAST
 : Denée Benton (Natasha), Josh Groban (Pierre), Brittain Ashford (Sonya), Grace McLean (Marya D.), Lucas Steele (Anatole), Amber Gray (Hélène), Manik Choksi (Dolokhov), Gelsey Bell (Mary/Opera Singer/Maidservant), Nicholas Belton (Andrey/Bolkonsky), Paul Pinto (Balaga)

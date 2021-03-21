@@ -101,6 +101,22 @@ FORMAT
 CAST
 : Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
 
+## Easter Bonnet Competition
+
+#### The 24th Easter Bonnet Competittion - Minsky Theatre, New York - April 27, 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Broadway show folk come together for the annual spring event, The Easter Bonnet Competition, a celebration of song, dance and sketches, April 26–27 at the Minskoff Theatre. The two-day event marks the culmination of six-weeks of fundraising for Broadway Cares/Equity Fights AIDS. The April 27 presentation will name the fundraising and bonnet competition winners.
+: Rotating hosts for the event include Chard Kimball (Memphis), Constantine Maroulis (Rock of Ages), Corbin Bleu (In the Heights), Michael Urie (The Temperamentals), Dylan Baker (God of Carnage), Colman Domingo (A Boy and His Soul), Jan Maxwell (Lend Me A Tenor), Michael Mulheren (Looped), Laura Osnes (South Pacific) and Loretta Ables Sayre (South Pacific). Judges include Jennifer Cody (Shrek), Beth Leavel (Mamma Mia!), Katie Finneran (Promises, Promises), Laura Michelle Kelly (Mary Poppins), Alfred Molina (Red), Brian Stokes Mitchell (Ragtime, Man of La Mancha), Local One president James Claffey Jr. and designer Chris March (“Project Runway,” Arias With a Twist). Introducing the judges are Million Dollar Quartet cast members Hunter Foster, Levi Kreis and Elizabeth Stanley. Original Ziegfeld Follies Girl Doris Eaton Travis makes a special appearance, and Memphis' star Glover has been selected to perform the Broadway Cares/Equity Fights AIDS anthem "Help Is On the Way." Among the productions that created a bonnet and offered a unique performance are Billy Elliot, Dancers Responding to AIDS, Fela!, In the Heights, La Cage Aux Folles, The Lion King, Mamma Mia!, Memphis, Million Dollar Quartet, My Trip Down The Pink Carpet, Next Fall, The Phantom of the Opera, R. Evolución Latina, South Pacific, Wicked and Zero Hour.
+: A benefit for BC/EFA, the Easter Bonnet Competition ends a six-week period of intensive fundraising by the assorted Broadway and Off-Broadway shows. Curtain speeches, autographed posters and program sales, auctions and cabaret performances are all part of the fundraising effort, which brings in hundreds of thousands of dollars. The company that raises the most funds for BC/EFA is awarded a prize at the Easter Bonnet Competition. A second prize will be awarded to the company with the best bonnet design and presentation. Additional awards will be presented to the Broadway play, national tour and Off-Broadway production raising the most money.  Multi-camera, pro shot for video. A
+
 ## The Meg an\' Sho Show
 
 #### Mark\'s Restaurant - March 31, 2008

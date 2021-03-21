@@ -761,6 +761,27 @@ FORMAT
 CAST
 : David Hyde Pierce (Vanya), Kristine Nielsen (Sonia), Sigourney Weaver (Masha), Billy Magnussen (Spike), Shalita Grant (Cassandra), Genevieve Angelson (Nina)
 
+#### Vanya and Sonia and Masha and Spike - Los Angeles - March 1, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Mark Blum (Vanya), Kristine Nielsen (Sonia), Christine Ebersole (Masha), David Hull (Spike), Shalita Grant (Cassandra), Liesel Allen Yeager (Nina)
+
+#### Vanya and Sonia and Masha and Spike - San Diego - June 7, 2014 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Martin Moran (Vanya), Marcia DeBonis (Sonia), Candy Buckley (Masha), Tyler Lansing Weaks (Spike), Haneefah Wood (Cassandra), Allison Layman (Nina)
+
+NOTES
+: The show has no washout, no obstruction, and very steady filming. There is a two minute blackout before/during Nina’s entrance, but the show is otherwise fully captured. As usual, it’s filmed in 16:9 with a mix of wides, mediums, and close-ups, and the sound is excellent. Includes curtain call and playbill scans.
+
 ## A View From the Bridge
 
 #### A View From the Bridge - Third Broadway Revival - January 6, 2010

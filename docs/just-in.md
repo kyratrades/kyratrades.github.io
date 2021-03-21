@@ -18,6 +18,15 @@ ___
 
 ### Mar 22, 2021
 
+#### The 24th Easter Bonnet Competittion - Minsky Theatre, New York - April 27, 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
 #### Natasha, Pierre & The Great Comet of 1812 - Broadway - December 29, 2016 
 {: .no_toc .d-inline-block }
 
@@ -26,6 +35,18 @@ SJ Bernly
 
 FORMAT
 : Blu-ray M2TS `30.40 GB`
+
+#### Elaine Stritch: At Liberty - Broadway - April 10, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.71 GB`
+
+CAST
+: Elaine Stritch
+
+NOTES
+: A great copy of the show's original Broadway run. Audio is good and video maintains a nice mid show/close up throughout.
 
 #### The Scarlet Pimpernel - Broadway - February, 1998 
 {: .no_toc .d-inline-block }
