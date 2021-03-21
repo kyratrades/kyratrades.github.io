@@ -16,6 +16,92 @@ ___
 
 ## March, 2021
 
+### Mar 22, 2021
+
+#### Natasha, Pierre & The Great Comet of 1812 - Broadway - December 29, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray M2TS `30.40 GB`
+
+#### The Scarlet Pimpernel - Broadway - February, 1998 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.59 GB`
+
+CAST
+: Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
+
+#### Chicago - West End Revival - March 27, 2004 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs` `6.46 GB`
+
+CAST
+: Frances Ruffelle (Roxie Hart), Pia Douwes (Velma Kelly), Alex Bourne (Billy Flynn), Kevin Kennedy (Amos Hart), Zee Asha (Matron "Mama" Morton)
+
+NOTES
+: Quite a lot of head obstructions, some black-outs, but great sound. Starts about 2 minutes into 'all that jazz'.
+
+#### Der Besuch der alten Dame - Vienna - April 26, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `15.69 GB` `English (.srt)`
+
+CAST
+: Pia Douwes (Claire Zachanassian), Uwe Kröger (Alfred Ill), Ethan Freeman (Klaus Brandstetter), Masha Karell (Mathilde Ill), Hans Neblung (Matthias Richter/Bürgermeister), Norbert Lamla (Gerhard Lang/Polizist), Gunter Sonneson (Johannes Reitenberg / Pfarrer), Shari Lynn Stewen (Young Claire), Riccardo Greco (Young Alfred), Gernot Romic (Young Gerhard)
+
+NOTES
+: Corrected from original DVD authoring as part of remastering process. Pretty good shoot and A/V quality.
+
+#### Cats - Amsterdam, Netherlands - June 29, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `1 DVD` `3.94 GB`
+
+CAST
+: Pia Douwes (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Cindy Belliot (Jemima), Marleen van der Loo (Jennyanydots), Mark John Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Marco Bakker (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Stanley Burleson (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival)
+
+#### Cats - Rotterdam, Netherlands - July 28, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `1 DVD` `4.30 GB`
+
+CAST
+: Anita Meyer (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Veerle Casteleyn (Jemima), Maaike Schuurmans (Jennyanydots), Mark John Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Paul Walthuis (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Gino Emnes (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival)
+
+NOTES
+: Starts at the The invitation to the Jellicle ball and missing a couple of minutes at the start of act 2 two. Act one is filmed in night shot, and act two comes with a verry clear picture. Veerle Castelyn is followed a lot.
+
+#### Cats - Netherlands - September 16, 2007 (Unknown's video master) 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `2 DVDs` `7.88 GB`
+
+CAST
+: Penny Voss (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Veerle Casteleyn (Jemima), Maaike Schuurmans (Jennyanydots), Mark J Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Paul Walthuis (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Gino Emnes (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival) 
+
+#### Cats - Vienna, Austria - 1988
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.81 GB`
+
+CAST
+: Suzanne Henderson (Grizabella), Derek Daniels (Alonzo), Stanley Dalton (Admetus/Macavity), Otto Scholtze (Bill Bailey/Tumblebrutus), Joanie O'Neill (Bombalurina), Gene Scheer (Bustopher Jones/Gus/Growltiger), Laura Edmunds (Cassandra), Laszlo Csergezan (Carbucketty), Matthew Jessner (Coricopat), Kim Duddy (Demeter), Pamela Liebig (Electra), Pia Douwes (Jellylorum), Elisabeth Meller (Jemima), Barbara Pöschl (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Andrew Morris (Mungojerrie), Darryl Robinson (Munkustrap), Gordon Bovinet (alt Old Deuteronomy), Beatrix Wipperich (Rumpleteazer), Dean Welterlen (Rum Tum Tugger), Michael Estes (Skimbleshanks), Elizabeth Mills-Karzel (Tantomile), Alexandra Young-Schmidt (Victoria), Andrew Currie (Pouncival), Pamela Liebig (Etcetera)
+
 ### Mar 19, 2021
 
 #### Hamilton - Broadway - August 13, 2016 (Matinee) 
