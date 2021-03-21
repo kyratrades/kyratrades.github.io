@@ -18,6 +18,21 @@ ___
 
 ### Mar 22, 2021
 
+#### Nothing like a Dame - New York - 1997
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: From the Marriot Marquis Theatre.  Hosted by Phyllis Newman, with Mary Rodgers, Laurie Beechman, Liz Smith, Randy Graff, The Cowgirls, Mary Louise Wilson, Christine Pedi, Elaine Stritch, Brenda Braxton, Idina Menzel, Fredi Walker, Marcia Lewis, Amanda Green, Marisa Tomei, Judy Kuhn, Glenn Close, Uta Hagen, Zoe Caldwell, Ann Duquesnay, Karen Davis, Donna Murphy, Joan Hamburg, Betty Buckley, S. Epatha Merkerson, Barbara Cook, Carol Hall, and others.
+
+NOTES
+: February 24, 1997. Filmed using one camera on a tripod, with audio patched in directly from the soundboard. A
+
 #### Les Misérables - Second Broadway Revival - June 15, 2016 
 {: .no_toc .d-inline-block }
 
