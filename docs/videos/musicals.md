@@ -3123,7 +3123,7 @@ CAST
 
 ## Cats
 
-#### Cats - Vienna - 1983
+#### Cats - Vienna, Austria  - 1983
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -3131,6 +3131,18 @@ FORMAT
 
 CAST
 : Angelika Milster (Grizabella), Ute Lemper (Bombalurina), Monica Solem (Jellylorum), Valda Aviks (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Steve Barton (Munkustrap), Gordon Bovinet (Old Deuteronomy)
+
+#### Cats - Vienna, Austria - 1988
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.81 GB`
+
+CAST
+: Suzanne Henderson (Grizabella), Derek Daniels (Alonzo), Stanley Dalton (Admetus/Macavity), Otto Scholtze (Bill Bailey/Tumblebrutus), Joanie O'Neill (Bombalurina), Gene Scheer (Bustopher Jones/Gus/Growltiger), Laura Edmunds (Cassandra), Laszlo Csergezan (Carbucketty), Matthew Jessner (Coricopat), Kim Duddy (Demeter), Pamela Liebig (Electra), Pia Douwes (Jellylorum), Elisabeth Meller (Jemima), Barbara Pöschl (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Andrew Morris (Mungojerrie), Darryl Robinson (Munkustrap), Gordon Bovinet (alt Old Deuteronomy), Beatrix Wipperich (Rumpleteazer), Dean Welterlen (Rum Tum Tugger), Michael Estes (Skimbleshanks), Elizabeth Mills-Karzel (Tantomile), Alexandra Young-Schmidt (Victoria), Andrew Currie (Pouncival), Pamela Liebig (Etcetera)
 
 #### Cats - West End - April 25, 1992
 {: .no_toc .d-inline-block }
@@ -3200,6 +3212,36 @@ CAST
 
 NOTES
 : Closing night in London. Live streamed to Covent Garden via large screen so it is a recording of the show being played on a big screen outside. Also includes interviews with some of the actors, Elaine Paige, Bonnie Langford, Andrew Lloyd Webber and Gillian Lynne before the show. Very fierce performance by the cast. Also the audience is totally excited by the show. At the end of the show there\'s a long encore with a medley performed by many people who have been in the London production of Cats. Brian Blessed, the Original London Cast, the final London cast and the original creative team also sing \"The Addressing of Cats\" together. Although the quality isn\'t that good (as it was filmed from a screen), this video is a must have for everyone who loves the show!
+
+#### Cats - Amsterdam, Netherlands - June 29, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `1 DVD` `3.94 GB`
+
+CAST
+: Pia Douwes (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Cindy Belliot (Jemima), Marleen van der Loo (Jennyanydots), Mark John Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Marco Bakker (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Stanley Burleson (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival)
+
+#### Cats - Rotterdam, Netherlands - July 28, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `1 DVD` `4.30 GB`
+
+CAST
+: Anita Meyer (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Veerle Casteleyn (Jemima), Maaike Schuurmans (Jennyanydots), Mark John Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Paul Walthuis (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Gino Emnes (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival)
+
+NOTES
+: Starts at the The invitation to the Jellicle ball and missing a couple of minutes at the start of act 2 two. Act one is filmed in night shot, and act two comes with a verry clear picture. Veerle Castelyn is followed a lot.
+
+#### Cats - Netherlands - September 16, 2007 (Unknown's video master) 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `2 DVDs` `7.88 GB`
+
+CAST
+: Penny Voss (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Veerle Casteleyn (Jemima), Maaike Schuurmans (Jennyanydots), Mark J Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Paul Walthuis (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Gino Emnes (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival) 
 
 #### Cats - The Muny, St. Louis - July 25, 2010 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -3608,13 +3650,25 @@ CAST
 
 FORMAT
 : `1` VOB+smalls `4.03 GB`
-: `2` VOB+smalls `2.30 GB` `Includes playbill at the start`
+: `2` VOB+smalls `2.30 GB` `Includes playbill (?) at the start`
 
 CAST
 : Linzi Hateley (Roxie Hart), Ruthie Henshall (Velma Kelly), Rolf Saxon (Billy Flynn), Norman Pace (Amos Hart), Zee Asha (Matron \"Mama\" Morton)
 
 NOTES
 : Filmed between heads, but the quality is amazing for its time.
+
+#### Chicago - West End Revival - March 27, 2004 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs` `6.46 GB`
+
+CAST
+: Frances Ruffelle (Roxie Hart), Pia Douwes (Velma Kelly), Alex Bourne (Billy Flynn), Kevin Kennedy (Amos Hart), Zee Asha (Matron "Mama" Morton)
+
+NOTES
+: Quite a lot of head obstructions, some black-outs, but great sound. Starts about 2 minutes into 'all that jazz'.
 
 #### Chicago - West End Revival - February 9, 2012
 {: .no_toc .d-inline-block }
@@ -4258,7 +4312,7 @@ Pro-Shot
 
 FORMAT
 : VOB+smalls `2 DVDs` `5.49 GB`
-: High quality 2-disc rip with the least generation lost I've seen for this broadcast. Video plays in full. Check [here](https://imgur.com/a/H7EubHO) for screenshots.
+: High quality 2-disc rip with the least generation lost I've seen for this broadcast. Video plays in full. However, when loaded into VLC it insists on jumping to a certain point in the video no matter which point you try to click on in the timeline. Check [here](https://imgur.com/a/H7EubHO) for screenshots.
 
 CAST
 : Adrian Lester (Bobby/Bobbie), Sheila Gish (Joanne), Rebecca Front (Sarah), Clive Rowe (Harry), Clare Burt (Susan), Gareth Snook (Peter), Liza Sadovy (Jenny), Teddy Kemper (David), Hannah James (April/Andy), Kiran Hocking (Kathy/Theo), Anna Francolini (Marta/PJ), Sophie Thompson (Amy/Jamie), Michael Simkins (Paul), Paul Bentley (Larry)
@@ -4451,7 +4505,7 @@ CAST
 
 # D
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
 
 ## Damn Yankees
 
@@ -4528,6 +4582,20 @@ CAST
 
 NOTES
 : The video starts just after Anybody Have a Map.
+
+## Der Besuch der alten Dame
+
+#### Der Besuch der alten Dame - Vienna - April 26, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `15.69 GB` `English (.srt)`
+
+CAST
+: Pia Douwes (Claire Zachanassian), Uwe Kröger (Alfred Ill), Ethan Freeman (Klaus Brandstetter), Masha Karell (Mathilde Ill), Hans Neblung (Matthias Richter/Bürgermeister), Norbert Lamla (Gerhard Lang/Polizist), Gunter Sonneson (Johannes Reitenberg / Pfarrer), Shari Lynn Stewen (Young Claire), Riccardo Greco (Young Alfred), Gernot Romic (Young Gerhard)
+
+NOTES
+: Corrected from original DVD authoring as part of remastering process. Pretty good shoot and A/V quality.
 
 ## Dessa Rose
 
@@ -8951,7 +9019,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: `1` VOB+smalls `2 DVDs`
+: `2` Blu-ray M2TS `30.40 GB`
 
 COMMENTS
 : Non-original smalls; Would trade for original files
@@ -10812,6 +10881,15 @@ FORMAT
 
 CAST: Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
 
+#### The Scarlet Pimpernel - Broadway - February, 1998 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.59 GB`
+
+CAST
+: Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
+
 #### The Scarlet Pimpernel - Broadway - May 8, 1999
 {: .no_toc .d-inline-block }
 
@@ -10848,11 +10926,11 @@ NOTES
 #### The Scarlet Pimpernel - First National Tour - March 4, 2000
 {: .no_toc .d-inline-block }
 
-Issues
-{: .label .label-red }
+Major
+{: .label .label-blue }
 
 FORMAT
-: VOB `NO SMALLS` `3.99 GB`
+: VOB+smalls `1 DVD` `4.12 GB`
 
 CAST
 : Douglas Sills (Sir Percy Blakeney), Amy Bodnar (Marguerite St. Just), William Michals (Chauvelin)
