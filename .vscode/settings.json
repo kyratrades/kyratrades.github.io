@@ -1,0 +1,15 @@
+{
+    "favorites.resources": [
+        "_layouts/default.html",
+        "_sass/typography.scss",
+        "index.md",
+        "docs/videos/videos.md",
+        "docs/videos",
+        "docs/audios.md",
+        "docs/concerts.md",
+        "docs/info.md",
+        "docs/just-in.md",
+        "docs/wants.md"
+    ],
+    "favorites.sortOrder": "MANUAL"
+}
