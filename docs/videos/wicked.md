@@ -1429,12 +1429,9 @@ NOTES
 hitmewithyourbethshot
 {: .label .label-blue }
 
-Issues
-{: .label .label-red }
-
 FORMAT
-: MTS `7.48 GB`
-: I'm definitely missing some files - the original should be 16.44 GB in total. Do reach out if you could trade me the original set!
+: MTS `16.44 GB`
+: Original and complete. NOT the ~7GB incomplete copy.
 
 CAST
 : Nikki Bentley (Elphaba), Lisa-Anne Wood (s/b Glinda), Alistair Brammer (Fiyero), Andy Hockley (The Wizard), Kim Ismay (Madame Morrible), Natasha Ferguson (t/r Nessarose), Idriss Kargbo (Boq), Rhidian Marc (u/s Doctor Dillamond), Tonye Scott Obene (Chistery), Meg Astin (s/w Midwife), Lucie Horsfall (Witch\'s Mother), Rhidian Marc (Witch\'s Father / Ozian Official)
