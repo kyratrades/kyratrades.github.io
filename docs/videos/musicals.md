@@ -5024,7 +5024,9 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: M4V `480p` `1.67 GB`
+: `1` M4V `480p` `1.67 GB`
+: `2` VOB `NO SMALLS` `4.00 GB`
+: Will include both when trading
 
 CAST
 : Patti LuPone (Eva Perón), Tom Carder (u/s Che), Bob Gunton (Perón), Mark Syers (Magaldi), Jane Ohringer (Perón\'s Mistress)
@@ -6691,6 +6693,20 @@ FORMAT
 CAST
 : Alice Fearn, Simon Lipkin, Brenda Edwards, & Oliver Tompsett
 
+## I'll Say She Is: The Lost Marx Brothers Musical
+
+#### I'll Say She Is - Off-Broadway / NY International Fringe Festival - August 18, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Noah Diamond (Groucho), Seth Sheldon (Harpo), Robert Pinnock (Chico), Aristotle Stamat (Zeppo)
+
+NOTES
+: A production of what was the first Marx Brothers Broadway musical in 1924; not very well filmed, from the audience in what looks like a lap-shot with spotlight washout and not in focus; good sound B-
+
 ## If/Then
 
 #### If/Then - Broadway - March 8, 2014 (Preview)
@@ -8240,6 +8256,45 @@ NOTES
 : From the online stream during the Barn's run online, November 19-22, 2020. Not sure about filming date. Includes tracked audio ripped from the stream.
 
 ## Mary Poppins
+
+#### Mary Poppins - West End - February 22, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs` `4.95 GB`
+
+CAST
+: Laura Michelle Kelly (Mary Poppins), Gavin Lee (Bert), Carrie Hope Fletcher (Jane Banks), Harry Stott (Michael Banks), David Haig (George Banks), Linzi Hateley (Winifred Banks), Rosemary Ashe (Miss Andrew), Julia Sutton (Bird Woman), Jenny Galloway (Mrs. Brill)
+
+NOTES
+: Shot from Left side of audience, noticeable angle, decent zooms and good detail, but a bit shaky. Audio is a bit tinny.
+
+#### Mary Poppins - Broadway - October 14, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Ashley Brown (Mary Poppins), Gavin Lee (Bert), Daniel Jenkins (George Banks), Rebecca Luker (Winifred Banks), Ruth Gottschall (Miss Andrew), Cass Morgan (Bird Woman), Brian Letendre (Neleus), Jane Carr (Mrs. Brill), Mark Price (Robertson Ay), Michael McCarty (Admiral Boom), Janelle Anne Robinson (Mrs. Corry), Nick Corley (Park Keeper/Von Hussler/Mr Punch), Tyler Maynard (Valentine), Megan Osterhaus (Katie Nanna), Ann Arvia (Miss Lark), Catherine Walker, Eric B Anthony, James Hindman, Matt Loehr, Sean McCourt, Vasthy Mompoint
+
+NOTES
+: Whole show, not highlights. Large drops where only audio can be heard (Full list of drops listed below.) Crystal clear audio and what scenes are filmed are as high quality as you can hope for 2006. Playback includes still images of the Showbill / Playbill, with cast. Shaky cam during first number, settles on Cherry Tree Lane set. Several long drops, especially during first act, but is still a good capture of the whole show). Unknown who Jane and Michael Banks are played by. Alternates for Broadway are Katherine Doherty / Kathryn Faughnan / Delaney Moro (Jane Banks) and Matthew Gumley / Henry Hodges / Alexander Scheitinger (Michael Banks)
+
+#### Mary Poppins - Broadway - October 31, 2006
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB `NO SMALLS` `4.36 GB`
+
+CAST
+: Ashley Brown (Mary Poppins), Gavin Lee (Bert), Kathryn Faughnan (Jane Banks), Henry Hodges (Michael Banks), Daniel Jenkins (George Banks), Rebecca Luker (Winifred Banks)
 
 #### Mary Poppins - Hamburg - June, 2018
 {: .no_toc .d-inline-block }
