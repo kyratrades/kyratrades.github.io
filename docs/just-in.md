@@ -18,6 +18,18 @@ ___
 
 ### Mar 22, 2021
 
+#### I'll Say She Is - Off-Broadway / NY International Fringe Festival - August 18, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.00 GB`
+
+CAST
+: Noah Diamond (Groucho), Seth Sheldon (Harpo), Robert Pinnock (Chico), Aristotle Stamat (Zeppo)
+
+NOTES
+: A production of what was the first Marx Brothers Broadway musical in 1924; not very well filmed, from the audience in what looks like a lap-shot with spotlight washout and not in focus; good sound B-
+
 #### Nothing like a Dame - New York - 1997
 {: .no_toc .d-inline-block }
 
