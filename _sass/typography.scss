@@ -16,22 +16,23 @@ h2,
   text-align: center
 }
 
-h4,
-.text-gamma {
-  @include fs-5;
-}
-
 h3,
 .text-delta {
   @include fs-2;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  text-align: center
+  text-align: center;
+  padding-bottom: 0.7em
 }
 
 h3 code {
   text-transform: none;
+}
+
+h4,
+.text-gamma {
+  @include fs-5;
 }
 
 h5,
