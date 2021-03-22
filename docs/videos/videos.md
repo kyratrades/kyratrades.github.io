@@ -12,7 +12,7 @@ permalink: /videos
 ### Important
 {: .no_toc }
 
-
+<br/>
 
 <p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
 
@@ -28,6 +28,8 @@ permalink: /videos
 
 ### Search for these terms if you are looking for...
 {: .no_toc }
+
+<br/>
 
 <p align="center"><small>Blu-rays (HD): </small><code>Blu-ray M2TS</code><small> or </small><code>Blu-ray MKV</code><br>
 
