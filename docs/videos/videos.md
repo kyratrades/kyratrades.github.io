@@ -12,6 +12,8 @@ permalink: /videos
 ### Important
 {: .no_toc }
 
+
+
 <p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
 
 <p align="center"><small>I check every single video bootleg for missing files and glitches before listing them onto my site, and will list any issues. Do keep in mind there's still a chance I have missed or mislabelled something, in which case I will offer a replacement and update you when I find the correct copy.</small></p>
@@ -27,12 +29,12 @@ permalink: /videos
 ### Search for these terms if you are looking for...
 {: .no_toc }
 
-<center><small>Blu-rays (HD): </small><code>Blu-ray M2TS</code><small> or </small><code>Blu-ray MKV</code></center>
+<p align="center"><small>Blu-rays (HD): </small><code>Blu-ray M2TS</code><small> or </small><code>Blu-ray MKV</code><br>
 
-<center><small>Note: Blu-rays will only be traded for other blu-rays or things I <i>really</i> want.</small></center>
+<small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code><br>
 
-<center><small>Other HD digital videos: </small><code>720p</code><small> or </small><code>1080p</code><small> or </small><code>2160p</code></center>
+<small>Pro-shots (best quality): </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code><br>
 
-<center><small>Pro-shots (best quality): </small><code>Commercial DVD</code><small> or </small><code>WEB-DL</code><small> or </small><code>REMUX</code></center>
+<small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code></p>
 
-<center><small>Subtitles: </small><code>srt</code><small> or </small><code>subtitles</code></center>
+<p align="center"><small>Note: Blu-rays will only be traded for other blu-rays or things I <i>really</i> want.</small></p>
