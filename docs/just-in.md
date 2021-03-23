@@ -16,6 +16,23 @@ ___
 
 ## March, 2021
 
+### Mar 23, 2021
+
+#### The Scarlet Pimpernel - Riverside, CA - September, 2001 (SP4)
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.56 GB`
+
+CAST
+: Edward Staudenmayer (Sir Percy Blakeney), Kim Huber (Marguerite St. Just), Eric Anderson (Chauvelin), Eric McEwen (Armand St. Just), Michelle Lane (Marie Gosholtz)
+
+NOTES
+: Directed and choreographed by Grant Rosen (SP4 National Tour swing). Features sets and costumes from the Equity National Tour. Some generational loss and occasional audio “buzz“ due to over-copying, but still a great recording.
+
 ### Mar 22, 2021
 
 #### I'll Say She Is - Off-Broadway / NY International Fringe Festival - August 18, 2014

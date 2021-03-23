@@ -29,7 +29,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 `1080p` `7.72 GB`
+: M2TS `20.62 GB`
 
 CAST
 : Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Ivan de Freitas (Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Nathan Lorainey-Dineen (Gregory), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy)
@@ -2990,9 +2990,6 @@ FORMAT
 CAST
 : Paul Groves (Candide), Sir Thomas Allan (Dr. Pangloss), Kristin Chenoweth (Cunegonde), Janine LaManna (Paquette), Patti LuPone (The Old Lady)
 
-NOTES
-: Proshot for TV. Cast is great and funny, Kristin has a great Glitter and by Gay, an also Janine LaManna is here so I\'m automatically biased for this.
-
 ## Carousel
 
 #### Carousel - Broadway - 1945 (Highlights)
@@ -4622,6 +4619,21 @@ CAST
 
 NOTES
 : Act One only! A nice capture with no washout and just one quick dropout during the scene after Waving Through a Window. There is one head that blocks part of the front of the stage, but it's worked around generally doesn't do more than block the actors' legs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent.
+
+Dear Evan Hansen - Broadway - December 29, 2018 (Highlights)
+{: .no_toc .d-inline-block }
+
+bluebird
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `30.55 GB`
+
+CAST
+: Taylor Trensch (Evan Hansen), Nicole Van Giesen (u/s Heidi Hansen), Gabrielle Carrubba (u/s Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), Michael Park (Larry Murphy), Alex Boniello (Connor Murphy), Sky Lakota-Lynch (Jared Kleinman), Phoenix Best (Alana Beck)
+
+NOTES
+: Act One only! Gabrielle is a wonderful Zoe and really gives the role her all. Filmed from the center mezzanine, with obstructions in the bottom of the screen, filmed between heads. Lots of washout, especially in the brighter scenes, but definitely watchable.
 
 #### Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee)
 {: .no_toc .d-inline-block }
@@ -6884,12 +6896,13 @@ CAST
 
 FORMAT
 : VOB+smalls `1 DVD` `3.96 GB`
+: Came to me labelled as a 'first generation copy'. Much higher in quality than the 2 DVD version `4.86 GB` I previously had that suffered from gen loss.
 
 CAST
 : Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), John McMartin (Mysterious Man), Mary Louise Burke (Jack's Mother), Pamela Myers (Cinderella's Stepmother), Tracy Nicole Chapman (Florinda), Amanda Naughton (Lucinda), Dennis Kelly (Cinderella's Father), Trent Armand Kendall (Steward), Trent Armand Kendall (Steward), Melissa Dye (Rapunzel), Melissa Dye (Rapunzel), Chad Kimball (Milky White), Chad Kimball (Milky White), Dame Judi Dench (Giant's voice)
 
 NOTES
-: A good video for its age, despite the gen loss. \“Hello Little Girl\” was staged differently in shows after this date.
+: \“Hello Little Girl\” was staged differently in shows after this date.
 
 #### Into the Woods - Broadway Revival - May 16, 2002
 {: .no_toc .d-inline-block }
@@ -7210,7 +7223,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: `1` MKV `480p` `2.11 GB`
+: `1` MKV `1080p` `6.48 GB` `Blu-ray rip`
 : `2` MKV `1080p` `Blu-ray REMUX`
 
 CAST
@@ -11016,20 +11029,23 @@ NOTES
 
 ## The Scarlet Pimpernel
 
+Read more about the show's interesting history and the difference between each version (SP1, SP2...) [here](http://thepimpernel.com/html/history.shtml).
+
 ### Wants
 {: .no_toc }
 
-ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `March 9, 1999`, `May 30, 1999 (Highlights)`. I'm willing to trade 2:1 for these.
+ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `March 9, 1999`, `May 30, 1999 (Highlights)`.
 
-#### The Scarlet Pimpernel - Broadway - October, 1997
+#### The Scarlet Pimpernel - Broadway - October, 1997 (SP1)
 {: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `4.97 GB`
 
-CAST: Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
+CAST
+: Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
 
-#### The Scarlet Pimpernel - Broadway - February, 1998 
+#### The Scarlet Pimpernel - Broadway - February, 1998 (SP1)
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -11038,7 +11054,7 @@ FORMAT
 CAST
 : Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
 
-#### The Scarlet Pimpernel - Broadway - May 8, 1999
+#### The Scarlet Pimpernel - Broadway - May 8, 1999 (SP2)
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -11047,7 +11063,7 @@ FORMAT
 CAST
 : Douglas Sills (Sir Percy Blakeney), Rachel York (Marguerite St. Just), Rex Smith (Chauvelin)
 
-#### The Scarlet Pimpernel - Broadway - May 29 and 30, 1999
+#### The Scarlet Pimpernel - Broadway - May 29 and 30, 1999 (SP2)
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -11057,9 +11073,9 @@ CAST
 : Douglas Sills (Sir Percy Blakeney), Rachel York (Marguerite St. Just), Rex Smith (Chauvelin)
 
 NOTES
-: Mainly the 29th, but \"The Riddle\" and the curtain call from the 30th are spliced in nicely; also has highlights footage from the 30th
+: Mainly the 29th, but \"The Riddle\" and the curtain call from the 30th are spliced in nicely; also has highlights footage from the 30th (Closing Night)
 
-#### The Scarlet Pimpernel - Broadway - October 9, 1999
+#### The Scarlet Pimpernel - Broadway - October 9, 1999 (SP3)
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -11071,7 +11087,7 @@ CAST
 NOTES
 : Well-shot video with some spotlight washout on the wider shots, but otherwise nice. Transferred from VHS and has a counter at the lower right corner.
 
-#### The Scarlet Pimpernel - First National Tour - March 4, 2000
+#### The Scarlet Pimpernel - First National Tour - March 4, 2000 (SP4)
 {: .no_toc .d-inline-block }
 
 Major
@@ -11083,7 +11099,22 @@ FORMAT
 CAST
 : Douglas Sills (Sir Percy Blakeney), Amy Bodnar (Marguerite St. Just), William Michals (Chauvelin)
 
-#### The Scarlet Pimpernel - Overland Park - June 27, 2002
+#### The Scarlet Pimpernel - Riverside, CA - September, 2001 (SP4)
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.56 GB`
+
+CAST
+: Edward Staudenmayer (Sir Percy Blakeney), Kim Huber (Marguerite St. Just), Eric Anderson (Chauvelin), Eric McEwen (Armand St. Just), Michelle Lane (Marie Gosholtz)
+
+NOTES
+: Directed and choreographed by Grant Rosen (SP4 National Tour swing). Features sets and costumes from the Equity National Tour. Some generational loss and occasional audio “buzz“ due to over-copying, but still a great recording.
+
+#### The Scarlet Pimpernel - Overland Park - June 27, 2002 (SP4)
 {: .no_toc .d-inline-block }
 
 FORMAT
