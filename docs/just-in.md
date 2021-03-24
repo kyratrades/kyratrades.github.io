@@ -16,7 +16,20 @@ ___
 
 ## March, 2021
 
-### Mar 23, 2021
+### Mar 24, 2021
+
+#### Camelot - First National Tour / Philadelphia - June 7, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: This is the correct video. A LOT of traders have SunsetBlvd79's May 8, 2007 video mislabeled as this. Check the descriptions to see which one you have.
+
+CAST
+: Michael York (King Arthur), Rachel York (Queen Guenevere), James Barbour (Sir Lancelot), Eric Anderson (Merlyn), Daniel Guzman (Sir Dinadan), Robert J Townsend (Sir Sagramore)
+
+NOTES
+: Beautiful production, very nicely filmed and crystal clear. DVD has been constructed to include an opening main menu, with thumbnail scene selections for all of the musical numbers. A little shaky for the first minute or two then the filmer settles down for an amazing video.
 
 #### The Scarlet Pimpernel - Riverside, CA - September, 2001 (SP4)
 {: .no_toc .d-inline-block }
