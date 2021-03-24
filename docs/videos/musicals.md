@@ -2944,11 +2944,6 @@ CAST
 
 ## Camelot
 
-### Wants
-{: .no_toc }
-
-I’m looking for the June 7, 2007 (National Tour, Chicago) video. This video does not have the ~15 minutes blackout at the start. Also, the DVD menu should have scene selections for all the songs (in thumbnail form). I will trade very unfairly for this. Please do tell me if you have it!
-
 #### Camelot - Second Broadway Revival - 1982
 {: .no_toc .d-inline-block }
 
@@ -2961,7 +2956,7 @@ FORMAT
 CAST
 : Richard Harris (King Arthur), Meg Bussert (Queen Guenevere), Richard Muenz (Sir Lancelot), James Valentine (Merlyn), Barrie Ingham (Pellinore), Richard Backus (Mordred), William Parry (Sir Dinadan), Thor Fields (Tom of Warwick), Jeanne Caryl (Nimue), William James (Sir Lionel), Andy McAvin (Sir Sagramore)
 
-#### Camelot - First National Tour - May 8, 2007
+#### Camelot - First National Tour / Chicago - May 8, 2007
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -2975,6 +2970,19 @@ CAST
 
 NOTES
 : Wonderful production. Rachel York is stunning on stage and James has a voice that is so big and beefy, both are sensational. A wonderful capture with nice shots, contains 12 minutes of blackouts at the beginning due to ushers. A-
+
+#### Camelot - First National Tour / Philadelphia - June 7, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: This is the correct video. A LOT of traders have SunsetBlvd79's May 8, 2007 video mislabeled as this. Check the descriptions to see which one you have.
+
+CAST
+: Michael York (King Arthur), Rachel York (Queen Guenevere), James Barbour (Sir Lancelot), Eric Anderson (Merlyn), Daniel Guzman (Sir Dinadan), Robert J Townsend (Sir Sagramore)
+
+NOTES
+: Beautiful production, very nicely filmed and crystal clear. DVD has been constructed to include an opening main menu, with thumbnail scene selections for all of the musical numbers. A little shaky for the first minute or two then the filmer settles down for an amazing video. 
 
 ## Candide
 
