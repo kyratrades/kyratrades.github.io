@@ -4302,6 +4302,21 @@ NOTES
 
 ## Come From Away
 
+#### Come From Away - Washington D.C. - September 24, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jenn Colella (Beverley/Annette & others), Chad Kimball (Kevin T./Garth & others), Joel Hatch (Claude & others), Geno Carr (Oz & others), Kendra Kassebaum (Janice & others), Caesar Samayoa (Kevin J./Ali & others), Lee MacDougall (Nick/Doug & others), Sharon Wheatley (Diane & others), Q Smith (Hannah & others), Astrid Van Wieren (Beulah & others), Alyssa Wilmoth Keegan (Bonnie & others), Rodney Hicks (Bob & others)
+
+NOTES
+: Beautiful HD capture of the PreBroadway try out in DC. Terrific ensemble piece telling the stories of stranded passengers during the 9/11 attacks. A
+
 #### Come From Away - Broadway - March 10, 2017 (Preview) 
 {: .no_toc .d-inline-block }
 
@@ -4316,6 +4331,21 @@ CAST
 
 NOTES
 : A beautiful capture of the new Broadway musical. The score is fantastic and the production is wonderful.
+
+#### Come From Away - Melbourne, Australia - 2019 (Highlights)
+{: .no_toc .d-inline-block }
+
+Press Reel
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `15.48 GB`
+
+CAST
+: Zoe Gertz (Beverley/Annette & others), Douglas Hansell (Kevin T./Garth & others), Richard Piper (Claude & others), Simon Maiden (Oz & others), Sarah Morrison (Janice & others), Nicholas Brown (Kevin J./Ali & others), Nathan Carter (Nick/Doug & others), Angela Kennedy (Diane & others), Sharriese Hamilton (Hannah & others), Emma Powell (Beulah & others), Kellie Rode (Bonnie & others), Kolby Kindle (Bob & others)
+
+NOTES
+: Proshot B-Roll of Welcome to the Rock, Me and the Sky & Somewhere in the Middle of Nowhere
 
 #### Come From Away - West End - April, 2019
 {: .no_toc .d-inline-block }
@@ -4332,6 +4362,21 @@ CAST
 NOTES
 : This video is never to be publicly shared on YouTube, tumblr, Facebook, Stagedork etc. SD MP4, 3.34GB. Often confused with queenofthedead\'s video, which is also from April, 2019, but in HD MOV.
 
+#### Come From Away - Melbourne, Australia - September 12, 2019
+{: .no_toc .d-inline-block }
+
+WizardWisdom
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `15.48 GB`
+
+CAST
+: Zoe Gertz (Beverley/Annette & others), Douglas Hansell (Kevin T./Garth & others), Richard Piper (Claude & others), Simon Maiden (Oz & others), Sarah Morrison (Janice & others), Nicholas Brown (Kevin J./Ali & others), Nathan Carter (Nick/Doug & others), Katrina Retallick (Diane & others), Sharriese Hamilton (Hannah & others), Emma Powell (Beulah & others), Kellie Rode (Bonnie & others), Kolby Kindle (Bob & others)
+
+NOTES
+: HD capture of the Australian company of this fantastic musical. Includes a video of a post-show Q&A with the cast in honour of the 18th anniversary of September 12. Shot from the back row of the dress circle, so a head blocks the centre at times but it’s shot around where possible. Most noticeable in the group numbers where a lot of the action is downstage. The first 4 minutes or so is mostly wandering shots as I was setting up my camera and evading ushers. A lot of great close-ups - Zoe’s “Me and the Sky” is a highlight.
+
 #### Come From Away - West End - November, 2019 
 {: .no_toc .d-inline-block }
 
@@ -4346,6 +4391,21 @@ CAST
 
 NOTES
 : Incomplete: starts 12 mins in. Shot around heads. The combination of the revolve and the lighting of this show might make it a jolty watch but the action is caught as best as possible. If I had to decide who to film, I chose Rachel Tucker.
+
+#### Come From Away - West End - November 5, 2019
+{: .no_toc .d-inline-block }
+
+wheredidtherockgo
+{: .label .label-blue }
+
+FORMAT
+: MP4 `720p` `2.22 GB`
+
+CAST
+: Rachel Tucker (Beverley/Annette & others), David Thaxton (Kevin T./Garth & others), Clive Carter (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Robert Hands (Nick/Doug & others), Helen Hobson (Diane & others), Cat Simmons (Hannah & others), Jenna Boyd (Beulah & others), Jennifer Tierney (s/b Bonnie & others), Nathanael Campbell (Bob & others)
+
+NOTES
+: The bottom left of the video is slightly obstructed by a lighting rail. The master accidentally stop recording during '38 Planes' but realized right away so it’s only missing a second or two. Some nice close-ups. Clive misses the cue for the first “Welcome to the Rock!”
 
 #### Come From Away - West End - February, 2020 
 {: .no_toc .d-inline-block }
@@ -4394,6 +4454,18 @@ CAST
 
 NOTES
 : Pro-Shot for television, directed by Sam Mendes. Some generation loss. There are a couple of different rips making the rounds.
+
+#### Company - Kennedy Center - June, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.11 GB`
+
+CAST
+: John Barrowman (Bobby/Bobbie), Lynn Redgrave (Joanne), David Pittu (Harry), Christy Baron (Susan), Emily Skinner (Jenny), Marc Vietor (David), Kim Director (April/Andy), Elizabeth Zins (Kathy/Theo), Marcy Harriell (Marta/PJ), Alice Ripley (Amy/Jamie), Matt Bogart (Paul), Jerry Lanning (Larry)
+
+NOTES
+: This video came to me labelled as June 15th. It gets listed under various dates including June 5th, June 6th, June 15th, July 7th, and different copies exist in varying quality and size.
 
 #### Company - Second Broadway Revival - November 14, 2006 (Preview)
 {: .no_toc .d-inline-block }
@@ -8463,7 +8535,7 @@ NOTES
 
 ## Les Misérables
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#west-end">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/musicals#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/musicals#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/musicals#second-broadway-revival-1">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/musicals#misc-3">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#west-end">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/musicals#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/musicals#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/musicals#second-broadway-revival-1">Second Broadway Revival</a> • <a href="TBA">Fourth UK & Ireland Tour</a> • <a href="https://kyratrades.github.io/musicals#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/musicals#misc-3">MISC</a></p>
 
 ### West End
 
@@ -8625,6 +8697,15 @@ NOTES
 
 ### Second Broadway Revival
 
+#### Les Misérables - Second Broadway Revival - March 1, 2014 (Preview) (Highlights)
+{: .no_toc .d-inline-block }
+
+where is your red schaaaf
+{: .label .label-blue }
+
+CAST: Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Gaten Matarazzo (Gavroche) 
+NOTES: First preview. It includes most of the show. Loud excited audience. Blind shot from stage right third row, with no zooms. Keala Settle sprained her ankle at some point between The Robbery and One Day More, resulting in her not being in One Day More and using a cane during Wedding Chorale/Beggars at the Feast.
+
 #### Les Misérables - Second Broadway Revival - March 8, 2014 (Preview)
 {: .no_toc .d-inline-block }
 
@@ -8632,7 +8713,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: MOV `720p` `18.66 GB`
 
 CAST
 : Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche)
@@ -8670,6 +8751,35 @@ CAST
 
 NOTES
 : The first 30 minutes of the show are missing; the video starts toward the end of Fantine's Arrest. After that, the show is fully captured with no blackouts. There is some minor head obstruction on the left, but it really only affects a few seconds of the show when Valjean cuts Javert loose after The First Attack. There is also a little more washout than in most of my videos, especially in the full stage shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+### Fourth UK & Ireland Tour
+
+#### Les Misérables - Fourth UK & Ireland Tour - January, 2019 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `4.49 GB`
+
+CAST
+: Killian Donnelly (Jean Valjean), Nic Greenshields (Javert), Katie Hall (Fantine), Bronwen Hanson (Cosette), Harry Apps (Marius), Tegan Bannister (Éponine), Will Richardson (Enjolras), Martin Ball (Thénardier), Sophie-Louise Dann (Madame Thénardier)
+
+#### Les Misérables - Fourth UK & Ireland Tour - November, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS `18.21 GB`
+
+CAST
+: Dean Chisnall (Jean Valjean), Jordan Simon Pollard (u/s Javert), Katie Hall (Fantine), Charlie Burn (Cosette), Felix Mosse (Marius), Frances Mayli McCann (Éponine), Barnaby Hughes (Enjolras), Ian Hughes (Thénardier), Helen Walsh (Madame Thénardier)
+
+NOTES
+: MTS, shot around heads
 
 ### The All-Star Staged Concert
 
@@ -8757,18 +8867,6 @@ CAST
 
 NOTES
 : A great capture of Dallas Theatre Center's inventively staged production of Les Miserables. The much-talked about production did not disappoint; the modernized visuals create many new layers to the show, and make you think about events and characters in a whole new way. Nehal, Allison, Justin, and Christia were probably my favorites, but the entire cast is so talented, it's difficult to choose any as standouts. A very nice capture overall. There are a couple quick dropouts in act one, but no major blackouts. There is one head that can be seen occasionally, but it only blocks a small portion of the stage and only affects the action for about 20-30 seconds of the entire show. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent as usual. Includes curtain call and playbill scans.
-
-#### Les Misérables - Fourth UK & Ireland Tour - January, 2019 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: MP4 `720p` `4.49 GB`
-
-CAST
-: Killian Donnelly (Jean Valjean), Nic Greenshields (Javert), Katie Hall (Fantine), Bronwen Hanson (Cosette), Harry Apps (Marius), Tegan Bannister (Éponine), Will Richardson (Enjolras), Martin Ball (Thénardier), Sophie-Louise Dann (Madame Thénardier)
 
 ## Miss Saigon
 
