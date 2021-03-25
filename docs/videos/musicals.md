@@ -6855,7 +6855,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD` `No DVD menu`
+: VOB+smalls `1 DVD`
 
 CAST
 : Lin-Manuel Miranda (Usnavi), Mandy Gonzalez (Nina), Christopher Jackson (Benny), Krysta Rodriguez (u/s Vanessa), Olga Merediz (Abuela Claudia), Carlos Gomez (Kevin), Priscilla Lopez (Camila), Robin de Jesús (Sonny), Andréa Burns (Daniela), Stephanie Klemons (u/s Carla), Seth Stewart (Grafitti Pete)
