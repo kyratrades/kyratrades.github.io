@@ -18,6 +18,20 @@ ___
 
 ### Mar 24, 2021
 
+## Rebecca das Musical
+
+#### Rebecca - Seoul, South Korea - January 29, 2020
+{: .no_toc .d-inline-block }
+
+VLT 3:1
+{: .label .label-purple }
+
+FORMAT
+: MT2S `22.8 GB` `English (.srt)`
+
+CAST
+: Lee Ji Hye (Ich), Ock Joo Hyun (Mrs Danvers), KAI/Jeong Ki Yeol (Maxim), Choi Min Cheol (Jack Favell), Choi Hyuk Joo (Mrs Van Hopper), Ryu Soo Hwa (Beatrice), Choi Byung Kwang (Giles), Park Jin Woo (Frank Crawley), Kim Ji Wook (Ben), Lee Jong Moon (Colonel Jullian), Oh Yoon Seo (Clarice)
+
 #### Camelot - First National Tour / Philadelphia - June 7, 2007
 {: .no_toc .d-inline-block }
 

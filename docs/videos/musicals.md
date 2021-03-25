@@ -3949,7 +3949,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `1 DVD`
+: VOB+smalls `1 DVD` `NO DVD Menu`
 
 CAST
 : Alton Geno (Zach), Benjamin Linn (Larry), Jeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
@@ -8197,7 +8197,7 @@ NOTES
 
 # M
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/musicals#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/musicals#mame">Mame</a> • <a href="https://kyratrades.github.io/musicals#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/musicals#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/musicals#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/musicals#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/musicals#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/musicals#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/musicals#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/musicals#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/musicals#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/musicals#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/musicals#murder-ballad">Murder Ballad</a> • <a href="https://kyratrades.github.io/musicals#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/musicals#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-mad-ones">The Mad Ones</a> • <a href="https://kyratrades.github.io/musicals#made-in-dagenham">Made in Dagenham</a> • <a href="https://kyratrades.github.io/musicals#mame">Mame</a> • <a href="https://kyratrades.github.io/musicals#mamma-mia">Mamma Mia!</a> • <a href="https://kyratrades.github.io/musicals#marry-me-a-little">Marry Me a Little</a> • <a href="https://kyratrades.github.io/musicals#mary-poppins">Mary Poppins</a> • <a href="https://kyratrades.github.io/musicals#matilda-the-musical">Matilda the Musical</a> • <a href="https://kyratrades.github.io/musicals#me-and-my-girl">Me and My Girl</a> • <a href="https://kyratrades.github.io/musicals#mean-girls">Mean Girls</a> • <a href="https://kyratrades.github.io/musicals#les-mis%C3%A9rables">Les Mis&eacute;rables</a> • <a href="https://kyratrades.github.io/musicals#miss-saigon">Miss Saigon</a> • <a href="https://kyratrades.github.io/musicals#monty-pythons-spamalot">Monty Python's Spamalot</a> • <a href="https://kyratrades.github.io/musicals#mozart-das-musical">Mozart! das Musical</a> • <a href="https://kyratrades.github.io/musicals#moulin-rouge-the-musical">Moulin Rouge! The Musical</a> • <a href="https://kyratrades.github.io/musicals#murder-ballad">Murder Ballad</a> • <a href="https://kyratrades.github.io/musicals#my-fair-lady">My Fair Lady</a> • <a href="https://kyratrades.github.io/musicals#the-mystery-of-edwin-drood">The Mystery of Edwin Drood</a></p>
 
 ## The Mad Ones
 <p align="center"><small>AKA The Unauthorized Autobiography of Samantha Brown</small></p>
@@ -8535,7 +8535,7 @@ NOTES
 
 ## Les Misérables
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#west-end">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/musicals#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/musicals#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/musicals#second-broadway-revival-1">Second Broadway Revival</a> • <a href="TBA">Fourth UK & Ireland Tour</a> • <a href="https://kyratrades.github.io/musicals#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/musicals#misc-3">MISC</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#west-end">West End</a> • <a href="https://kyratrades.github.io/musicals#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/musicals#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/musicals#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/musicals#second-broadway-revival-1">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/musicals#fourth-uk--ireland-tour">Fourth UK & Ireland Tour</a> • <a href="https://kyratrades.github.io/musicals#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/musicals#misc-3">MISC</a></p>
 
 ### West End
 
@@ -8813,6 +8813,21 @@ CAST: Ivan Rutherford (Jean Valjean), Stephen Bishop (Javert), Joan Almedilla (F
 
 NOTES
 : A GREAT video shot from the center of the mezzanine with a digital camera and no obstructions. Great zooming and framing, the taper obviously knew the show. Crystal clear picture and sound quality. A very professionally done cast/crew listing at the beginning of the tape.
+
+#### Les Misérables - Norway - 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.37 GB`
+
+CAST
+: Rein Alexander (Jean Valjean), Ståle Ytterli (Javert), Grethe Svensen (Fantine), Margrete Lund Skorpen (Cosette), Heine Totland (Marius), Britt-Synnøve Johansen (Éponine), Sigurd Sele (Enjolras), Helge Jordal (Thénardier), Elin Hestflått (Madame Thénardier)
+
+NOTES
+: Proshot DVD made for cast. Professional quality menus with cast list, production info and chapter selections.
 
 #### Les Misérables - Walnut Street Theatre, Philadelphia, PA - May 17, 2008 (Matinee)
 {: .no_toc .d-inline-block }
@@ -9104,6 +9119,23 @@ NOTES
 
 IMDB
 : <https://www.imdb.com/title/tt0203009/>
+
+## Mozart! das Musical
+
+#### Mozart! - Vienna, Austria - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `Commercial DVD`
+
+CAST
+: Oedo Kuipers (Wolfgang Mozart), Sophie Wilfert (Amadé), Thomas Borchert (Leopold Mozart), Barbara Obermeier (Nannerl), Mark Seibert (Colloredo), Franziska Schuster (Constanze), Ana Milva Gomes (Baronin von Waldstätten), Brigitte Oelke (Cäcilia Weber), Martin Pasching (u/s Emanuel Schikaneder), Jil Clesse (u/s Anna Maria Mozart)
+
+NOTES
+: Official pro-shot DVD release with optional English subtitles.
 
 ## Murder Ballad
 
@@ -11013,6 +11045,20 @@ COMMENTS
 
 CAST
 : Wayne Brady (Django), Tituss Burgess (Remy), Kevin Chamberlin (Gusteau), André De Shields (Ego), Andrew Barth Feldman (Linguini), Adam Lambert (Emile), Priscilla Lopez (Mabel), Ashley Park (Colette), Owen Tabaka (Young Ego), Mary Testa (Skinner), Cori Jaskier, Talia Suskauer, Nikisha Williams, JJ Niemann, John Michael Lyles, Raymond J. Lee, Joy Woods
+
+## Rebecca das Musical
+
+#### Rebecca - Seoul, South Korea - January 29, 2020
+{: .no_toc .d-inline-block }
+
+VLT 3:1
+{: .label .label-purple }
+
+FORMAT
+: MT2S `22.8 GB` `English (.srt)`
+
+CAST
+: Lee Ji Hye (Ich), Ock Joo Hyun (Mrs Danvers), KAI/Jeong Ki Yeol (Maxim), Choi Min Cheol (Jack Favell), Choi Hyuk Joo (Mrs Van Hopper), Ryu Soo Hwa (Beatrice), Choi Byung Kwang (Giles), Park Jin Woo (Frank Crawley), Kim Ji Wook (Ben), Lee Jong Moon (Colonel Jullian), Oh Yoon Seo (Clarice)
 
 ## RENT
 

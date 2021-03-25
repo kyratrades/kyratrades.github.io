@@ -102,6 +102,20 @@ CAST
 NOTES
 : Great Capture of the final performance before the production moved to Broadway. Excellent cast and funny show that explores what is lost in translation. A
 
+## A Christmas Carol
+
+#### A Christmas Carol - Dicapo Opera Theatre - December 19, 1993
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.54 GB`
+
+CAST
+: Larry Raiken, Michael McDonald, Bill Van Horn, Daniel Lynas
+
+NOTES
+: Filmed on tripod
+
 ## The Comedy About A Bank Robbery
 
 #### The Comedy About A Bank Robbery - West End - December, 2019 
