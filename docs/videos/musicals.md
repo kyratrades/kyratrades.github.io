@@ -8778,18 +8778,6 @@ CAST
 NOTES
 : Excellent capture of the Revival Broadway production with excellent clarity. A
 
-#### Les Misérables - Second Broadway Revival - November 6, 2014
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls `1 DVD` `No DVD Menu`
-
-CAST
-: Ramin Karimloo (Jean Valjean), John Rapson (u/s Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Matt Rosell (u/s Marius), Melissa O'Neil (u/s Éponine), Jason Forbach (u/s Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche), Adam Monley (u/s Grantaire)
-
-NOTES
-: ACT TWO ONLY! Starts after "On My Own". Heads in the way. Includes BC/EFA speech by John. Video mostly centered around John.
-
 #### Les Misérables - Second Broadway Revival - August 21, 2014
 {: .no_toc .d-inline-block }
 
@@ -8804,6 +8792,18 @@ CAST
 
 NOTES
 : A fantastic capture of this lavish production. It’s refreshing to see different faces in the lead roles, and both Nathaniel and Earl carry the show well. Nathaniel’s vocals are powerful and he has a great rapport with Caissie and Samantha. A lovely capture overall with no obstruction. Look Down is mostly blacked out and there are a couple quick dropouts during The Bishop scene and Lovely Ladies, but the show is otherwise fully intact. There is also some washout in high contrast wide shots. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Les Misérables - Second Broadway Revival - November 6, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD Menu`
+
+CAST
+: Ramin Karimloo (Jean Valjean), John Rapson (u/s Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Matt Rosell (u/s Marius), Melissa O'Neil (u/s Éponine), Jason Forbach (u/s Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche), Adam Monley (u/s Grantaire)
+
+NOTES
+: ACT TWO ONLY! Starts after "On My Own". Heads in the way. Includes BC/EFA speech by John. Video mostly centered around John.
 
 #### Les Misérables - Second Broadway Revival - June 15, 2016 
 {: .no_toc .d-inline-block }
@@ -8878,7 +8878,8 @@ FORMAT
 : `1` VOB+smalls `1 DVD` `4.17 GB`
 : `2` MP4 `360p` `14 files` `712 MB`
 
-CAST: Ivan Rutherford (Jean Valjean), Stephen Bishop (Javert), Joan Almedilla (Fantine), Regan Thiel (Cosette), Tim Howar (Marius), Sutton Foster (Éponine), Kurt Kovalenko (Enjolras), JP Dougherty (Thénardier), Christopher Carlson (Gavroche)
+CAST
+: Ivan Rutherford (Jean Valjean), Stephen Bishop (Javert), Joan Almedilla (Fantine), Regan Thiel (Cosette), Tim Howar (Marius), Sutton Foster (Éponine), Kurt Kovalenko (Enjolras), JP Dougherty (Thénardier), Christopher Carlson (Gavroche)
 
 NOTES
 : A GREAT video shot from the center of the mezzanine with a digital camera and no obstructions. Great zooming and framing, the taper obviously knew the show. Crystal clear picture and sound quality. A very professionally done cast/crew listing at the beginning of the tape.
@@ -8887,7 +8888,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD` `3.53 GB`
+: AVI `480p` `3.53 GB`
 
 CAST
 : Marcos Tumura (Jean Valjean), Saulo Vasconcelos (Javert), Alessandra Maestrini (Fantine), Sara Sarres (Cosette), Fred Silveira (Marius), Ester Elias (Éponine), Leonardo Neiva (Enjolras), Adriano Oliveira (Thénardier), Rejani Humphreys (Madame Thénardier)
