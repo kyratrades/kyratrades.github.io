@@ -4407,6 +4407,18 @@ CAST
 NOTES
 : The bottom left of the video is slightly obstructed by a lighting rail. The master accidentally stop recording during '38 Planes' but realized right away so it’s only missing a second or two. Some nice close-ups. Clive misses the cue for the first “Welcome to the Rock!”
 
+#### Come From Away - First National Tour - February, 2020
+{: .no_toc .d-inline-block }
+
+Hollis Mizner 
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `16.29 GB`
+
+CAST
+: Marika Aubrey (Beverley/Annette & others), Andrew Samonsky (Kevin T./Garth & others), Kevin Carolan (Claude & others), Harter Clingman (Oz & others), Julia Knitel (Janice & others), Nick Duckart (Kevin J./Ali & others), Chamblee Ferguson (Nick/Doug & others), Christine Toy Johnson (Diane & others), Danielle K Thomas (Hannah & others), Julie Johnson (Beulah & others), Sharone Sayegh (Bonnie & others), James Earl Jones II (Bob & others)
+
 #### Come From Away - West End - February, 2020 
 {: .no_toc .d-inline-block }
 
@@ -7383,6 +7395,18 @@ CAST
 NOTES
 : Proshot from the Kammeroper Wien, staged in English.
 
+#### The Last Five Years - Off-West End / Southwark Playhouse - March, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot 
+{: .label .label-blue }
+
+FORMAT
+: MTS `10.05 GB`
+
+CAST
+: Oli Higginson (Jamie Wellerstein), Molly Lynch (Cathy Hiatt)
+
 #### The Last Five Years - Virtual - June 25-27, 2020
 {: .no_toc .d-inline-block }
 
@@ -8703,8 +8727,14 @@ NOTES
 where is your red schaaaf
 {: .label .label-blue }
 
-CAST: Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Gaten Matarazzo (Gavroche) 
-NOTES: First preview. It includes most of the show. Loud excited audience. Blind shot from stage right third row, with no zooms. Keala Settle sprained her ankle at some point between The Robbery and One Day More, resulting in her not being in One Day More and using a cane during Wedding Chorale/Beggars at the Feast.
+FORMAT
+: MOV `720p` `18.66 GB`
+
+CAST
+: Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Gaten Matarazzo (Gavroche)
+
+NOTES
+: First preview. It includes most of the show. Loud excited audience. Blind shot from stage right third row, with no zooms. Keala Settle sprained her ankle at some point between The Robbery and One Day More, resulting in her not being in One Day More and using a cane during Wedding Chorale/Beggars at the Feast.
 
 #### Les Misérables - Second Broadway Revival - March 8, 2014 (Preview)
 {: .no_toc .d-inline-block }
@@ -8713,13 +8743,52 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: MOV `720p` `18.66 GB`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche)
 
 NOTES
 : Audience was full of excitement! The last 20 seconds are missing from the very end due to battery issues
+
+#### Les Misérables - Second Broadway Revival - March 29, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `240p` `2.31 GB`
+
+CAST
+: Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche), Angeli Negron (Little Cosette), Ben Gunderson (s/w Joly)
+
+NOTES
+: Some camera wondering, and nearly complete video. MP4.
+
+#### Les Misérables - Second Broadway Revival - May 13, 2014
+{: .no_toc .d-inline-block }
+
+Turnofthescorpion
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.67 GB`
+
+CAST
+: Nathaniel Hackmann (u/s Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier)
+
+NOTES
+: Excellent capture of the Revival Broadway production with excellent clarity. A
+
+#### Les Misérables - Second Broadway Revival - November 6, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD Menu`
+
+CAST
+: Ramin Karimloo (Jean Valjean), John Rapson (u/s Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Matt Rosell (u/s Marius), Melissa O'Neil (u/s Éponine), Jason Forbach (u/s Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche), Adam Monley (u/s Grantaire)
+
+NOTES
+: ACT TWO ONLY! Starts after "On My Own". Heads in the way. Includes BC/EFA speech by John. Video mostly centered around John.
 
 #### Les Misérables - Second Broadway Revival - August 21, 2014
 {: .no_toc .d-inline-block }
@@ -8813,6 +8882,30 @@ CAST: Ivan Rutherford (Jean Valjean), Stephen Bishop (Javert), Joan Almedilla (F
 
 NOTES
 : A GREAT video shot from the center of the mezzanine with a digital camera and no obstructions. Great zooming and framing, the taper obviously knew the show. Crystal clear picture and sound quality. A very professionally done cast/crew listing at the beginning of the tape.
+
+#### Les Misérables - São Paulo, Brazil - 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.53 GB`
+
+CAST
+: Marcos Tumura (Jean Valjean), Saulo Vasconcelos (Javert), Alessandra Maestrini (Fantine), Sara Sarres (Cosette), Fred Silveira (Marius), Ester Elias (Éponine), Leonardo Neiva (Enjolras), Adriano Oliveira (Thénardier), Rejani Humphreys (Madame Thénardier)
+
+NOTES
+: This recording ends at "Beggars at the Feast"
+
+#### Les Misérables - São Paulo, Brazil - 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs` `6.87 GB`
+
+CAST
+: Marcos Tumura (Jean Valjean), Saulo Vasconcelos (Javert), Alessandra Maestrini (Fantine), Sara Sarres (Cosette), Fred Silveira (Marius), Ester Elias (Éponine), Leonardo Luiz (Enjolras)
+
+NOTES
+: Seems like it was the final performance, or a special perfomance due to the clapping and confetti. Missing a small part of the musical, but nothing huge. It looks like it was filmed almost directly above the stage.
 
 #### Les Misérables - Norway - 2004
 {: .no_toc .d-inline-block }
@@ -11491,6 +11584,21 @@ CAST
 
 NOTES
 : Video starts in the middle of Ex-Wives (but still includes all their introductions!) due to neglect of hitting the record button. It was shot with a no-fear attitude and it shows\--they action is followed for the almost the entirety of the show and there are zooms of each queen during her song. The camera loved this show and there is very little to no washout. There is occasional obstruction from a bar across the bottom that couldn\'t be shot around, but it doesn\'t block the action. There was some obstruction from heads during the MegaSix.
+
+#### Six - Second UK Tour - February, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot 
+{: .label .label-blue }
+
+FORMAT
+: MTS `8.73 GB`
+
+CAST
+: Cassandra Lee (alt Catherine of Aragon), Jennifer Caldwell (alt Anne Boleyn), Lauren Byrne (Jane Seymour), Shekinah McFarlane (Anna of Cleves), Jodie Steele (Katherine Howard), Athena Collins (Catherine Parr)
+
+NOTES
+: MTS, includes finale Megasix (MOV)
 
 #### Six - Broadway - February, 2020 (Preview) 
 {: .no_toc .d-inline-block }

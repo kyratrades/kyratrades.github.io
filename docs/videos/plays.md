@@ -584,6 +584,18 @@ CAST
 NOTES
 : Mischief Theatre 2016 BBC Special proshot.
 
+#### Peter Pan Goes Wrong - UK Tour - January, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot 
+{: .label .label-blue }
+
+FORMAT
+: MTS `11.51 GB`
+
+CAST
+: Tom Babbage (u/s Chris/George and Hook), Ciaran Kellgren (Jonathan/Peter Pan), Phoebe Ellabani (Annie/Mary, Lisa, Tinkerbell and Tigerlily), Katy Daghorn (Sandra/Wendy), Fred Gray (e/c Max/Michael and Crocodile), Romayne Andrews (Dennis/John and Smee), Oliver Senton (Robert/Nana and Starkey), Ethan Moorhouse (Trevor Watson), Patrick Warner (Francis/Narrator), Georgia Bradley (Lucy/Tootles)
+
 ## The Play That Goes Wrong
 
 #### The Play That Goes Wrong - Broadway - May, 2018 
