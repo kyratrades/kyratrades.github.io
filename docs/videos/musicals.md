@@ -413,8 +413,10 @@ FORMAT
 : VOB+smalls `1 DVD` `4.10 GB`
 
 CAST
-: Kate Levering (Peggy Sawyer), Michael Cumpsty (Julian Marsh), Beth Leavel (s/b Dorothy Brock), David Elder (Billy Lawlor), Jonathan Freeman (Bert Barry), Mary Testa (Maggie Jones), Ericka Hunter, Michael Arnold (Andy Lee) 
-NOTES: Preview. Filmed from balcony and a lot of closeups and mediums. Clear audio, but a little static (barely noticeable). A lot of traders mis-identify Dorothy as Christine Ebersole but she sported a blonde wig in her run whereas the Dorothy in this has a brunette wig and looks more like Beth Leavel. Similarly Maggie Jones in this video is Mary Testa, you can tell from her face and build. A-
+: Kate Levering (Peggy Sawyer), Michael Cumpsty (Julian Marsh), Beth Leavel (s/b Dorothy Brock), David Elder (Billy Lawlor), Jonathan Freeman (Bert Barry), Mary Testa (Maggie Jones), Ericka Hunter, Michael Arnold (Andy Lee)
+
+NOTES
+: Preview. Filmed from balcony and a lot of closeups and mediums. Clear audio, but a little static (barely noticeable). A lot of traders mis-identify Dorothy as Christine Ebersole but she sported a blonde wig in her run whereas the Dorothy in this has a brunette wig and looks more like Beth Leavel. Similarly Maggie Jones in this video is Mary Testa, you can tell from her face and build. A-
 
 #### 42nd Street - Stuttgart - 2004 (Highlights)
 {: .no_toc .d-inline-block }
@@ -897,8 +899,10 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 CAST
-: Clinton Greenspan (Aladdin), Lissa deGuzman (Jasmine), Jonathan Weir (Jafar), Major Attaway (Genie), Jerald Vincent (Sultan), Zach Bencal (Babkak), Jed Feder (Kassim), Jay Paranada (Iago), Michael Bullard (u/s Omar), Albert Jennings (s/w Prince Abdullah), Olivia Donalson (Fortune Teller), Erik Hernandez (Shop Owner), Albert Jennings (e/c Razoul) 
-NOTES: A kids head blocks my shot from time to time but not throughout the entire video. Video ends right before Aladdin and Jasmine get onto the magic carpet.
+: Clinton Greenspan (Aladdin), Lissa deGuzman (Jasmine), Jonathan Weir (Jafar), Major Attaway (Genie), Jerald Vincent (Sultan), Zach Bencal (Babkak), Jed Feder (Kassim), Jay Paranada (Iago), Michael Bullard (u/s Omar), Albert Jennings (s/w Prince Abdullah), Olivia Donalson (Fortune Teller), Erik Hernandez (Shop Owner), Albert Jennings (e/c Razoul)
+
+NOTES
+: A kids head blocks my shot from time to time but not throughout the entire video. Video ends right before Aladdin and Jasmine get onto the magic carpet.
 
 #### Aladdin - Broadway - March, 2020 
 {: .no_toc .d-inline-block }
@@ -1909,7 +1913,7 @@ CAST
 : Scott Folan (Jeremy Heere), Blake Patrick Anderson (Michael Mell), Miracle Chance (Christine Canigula), Stewart Clarke (The SQUIP), Eloise Davies (Brooke Lohst), Millie O'Connell (Chloe Valentine), Renée Lamb (Jenna Rolan), Miles Paloma (Jake Dillinger), James Hameed (Rich Goranski), Christopher Fry (Mr. Heere/Mr. Reyes/Scary Stockboy)
 
 NOTES
-: Notes: Act 1 was filmed completely blind so some heads get cut off at times. 19.46GB uncompressed or 6.82GB compressed, in 2 mp4 files/2:04:27
+: Act 1 was filmed completely blind so some heads get cut off at times. 19.46GB uncompressed or 6.82GB compressed, in 2 mp4 files/2:04:27
 
 ## Beaches
 
@@ -2156,7 +2160,9 @@ COMMENTS
 
 CAST
 : Dianne Pilkington (Belle), Alex Bourne (Beast/Prince), Richard Tate (Maurice), Earl Carpenter (Gaston), Stephen Matthews (Lumière), Marilyn Cutts (Mrs. Potts), Barry James (Cogsworth), Drew Varley (Le Fou)
-NOTES: One camera housecam pro-shot, full stage, no zooms
+
+NOTES
+: One camera housecam pro-shot, full stage, no zooms
 
 #### Beauty and the Beast (Disney) - Dutch Tour - October 4, 2005 
 {: .no_toc .d-inline-block }
@@ -7649,7 +7655,8 @@ FORMAT
 : VOB+smalls `2 DVDs` `5.16 GB`
 : Seems like an original caoture during the TV broadcast. Has TiVo menu.
 
-CAST: Victoria Clark (Margaret Johnson), Katie Rose Clarke (Clara Johnson), Aaron Lazar (Fabrizio Naccarelli), Chris Sarandon (Signor Naccarelli), Michael Berresse (Giuseppe Naccarelli), Sarah Uriarte Berry (Franca Naccarelli), Patti Cohenour (Signora Naccarelli), Beau Gravitte (Roy Johnson)
+CAST
+: Victoria Clark (Margaret Johnson), Katie Rose Clarke (Clara Johnson), Aaron Lazar (Fabrizio Naccarelli), Chris Sarandon (Signor Naccarelli), Michael Berresse (Giuseppe Naccarelli), Sarah Uriarte Berry (Franca Naccarelli), Patti Cohenour (Signora Naccarelli), Beau Gravitte (Roy Johnson)
 
 NOTES
 : Live from Lincoln Center Proshot
@@ -9000,7 +9007,8 @@ Pro-Shot
 FORMAT
 : VOB+smalls `1 DVD` `4.36 GB`
 
-CAST: Linda Wagenmakers (Kim), Tony Neef (Chris), Willem Nijholt (The Engineer), Mark Dollevoet (John), Claudia de Graaf (Ellen), Cystine Carreon (Gigi)
+CAST
+: Linda Wagenmakers (Kim), Tony Neef (Chris), Willem Nijholt (The Engineer), Mark Dollevoet (John), Claudia de Graaf (Ellen), Cystine Carreon (Gigi)
 
 #### Miss Saigon - Manila - December 24, 2000
 {: .no_toc .d-inline-block }
@@ -12553,7 +12561,8 @@ NOTES
 FORMAT
 : VOB+smalls `3 DVDs`
 
-CAST: Michael Crawford (Count Krolock), Mandy Gonzalez (Sarah), Max von Essen (Alfred), René Auberjonois (Abronsius), Ron Orbach (Chagal), Liz McCartney (Rebecca), Leah Hocking (Magda), Mark Price (Boris), Asa Somers (Herbert)
+CAST
+: Michael Crawford (Count Krolock), Mandy Gonzalez (Sarah), Max von Essen (Alfred), René Auberjonois (Abronsius), Ron Orbach (Chagal), Liz McCartney (Rebecca), Leah Hocking (Magda), Mark Price (Boris), Asa Somers (Herbert)
 
 #### Tanz der Vampire - Hamburg, Germany - November 10, 2005
 {: .no_toc .d-inline-block }
@@ -13258,8 +13267,10 @@ FORMAT
 : VOB+smalls `1 DVD` `2.54 GB`
 
 CAST
-: Thomas Sigwald (Tony), Pia Douwes (Maria), Vasiliki Roussi (Anita), Dean Welterlen (Riff), James de Groot (Bernardo) 
-NOTES: Good shoot but not a great camera. Gen loss, audio has an echo to it, colours range from violet to orange, mostly orange. Has a corner timer for the first 28 minutes. Songs in English, dialogue in German. Includes TV appearances. Remastering couldn’t fix all the blockiness but helped with some other things. The same as the video labelled '1994'.
+: Thomas Sigwald (Tony), Pia Douwes (Maria), Vasiliki Roussi (Anita), Dean Welterlen (Riff), James de Groot (Bernardo)
+
+NOTES
+: Good shoot but not a great camera. Gen loss, audio has an echo to it, colours range from violet to orange, mostly orange. Has a corner timer for the first 28 minutes. Songs in English, dialogue in German. Includes TV appearances. Remastering couldn’t fix all the blockiness but helped with some other things. The same as the video labelled '1994'.
 
 #### West Side Story - Second Broadway Revival - February 23, 2009 (Preview)
 {: .no_toc .d-inline-block }
