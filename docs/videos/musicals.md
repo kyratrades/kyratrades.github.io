@@ -1099,6 +1099,21 @@ CAST
 NOTES
 : Great HD capture of the Broadway transfer. There are a few short scenes/moments far stage right blocked by a head, but nothing major. Beautiful production, performances and cast to match! A-
 
+#### Anastasia - Broadway - September 17, 2017
+{: .no_toc .d-inline-block }
+
+NYCG8R
+{: .label .label-blue }
+
+FOORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Christy Altomare (Anya), Derek Klena (Dmitry), Ramin Karimloo (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O’Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna), Nicole Scimeca (Little Anastasia / Prince Alexei Romanov), Lauren Blackman (Tsarina Alexandra), Constantine Germanacos (Tsar Nicholas II / Count Ipolitov), Allison Walsh (Olga Romanov), Shina Ann Morris (Tatiana Romanov / Dunya), Sissy Bell (Maria Romanov / Marfa), Molly Rushing (Young Anastasia / Paulina), Ken Krugman (Gorlinsky), Ken Krugman (Count Leopold), Allison Walsh (Odette in Swan Lake), Kyle Brown (Prince Siegfried in Swan Lake), James A Pierce III (Von Rothbart in Swan Lake), Wes Hart (Russian Doorman), Janet Dickinson (Countess Gregory), Zach Adkins
+
+NOTES
+: Actor's Benefit Performance. Includes post-show speeches.
+
 #### Anastasia - Stuttgart - February, 2019
 {: .no_toc .d-inline-block }
 
@@ -1110,6 +1125,36 @@ FORMAT
 
 CAST
 : Alexandra Alexandrova (u/s Anya), Milan van Waardenburg (Dmitry), Mathias Edenborn (Gleb Vaganov), Thorsten Tinney (Vlad Popov), Jacqueline Braun (Countess Lily Malevsky-Malevitch), Daniela Ziegler (Dowager Empress Maria Feodorovna)
+
+#### Anastasia - First National Tour / Dallas, TX - February 28, 2019
+{: .no_toc .d-inline-block }
+
+mynewfavoriteday
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Lila Coogan (Anya), Stephen Brower (Dmitry), Jason Michael Evans (Gleb Vaganov), Edward Staudenmayer (Vlad Popov), Tari Kelly (Countess Lily Malevsky-Malevitch), Joy Franz (Dowager Empress Maria Feodorovna), Victoria Bingham (Little Anastasia / Prince Alexei Romanov), Lucy Horton (Tsarina Alexandra), Michael McCorry Rose (Tsar Nicholas II / Count Ipolitov), Claire Rathbun (Olga Romanov), Kourtney Keitt (Tatiana Romanov / Dunya), Taylor Quick (Young Anastasia / Paulina), Fred Inkley (Gorlinsky), Fred Inkley (Count Leopold), Claire Rathbun (Odette in Swan Lake), Mark MacKillop (Prince Siegfried in Swan Lake), Ronnie S Bowman Jr (Von Rothbart in Swan Lake), Peter Garza (Russian Doorman)
+
+NOTES
+: Great capture of this wonderful touring company with no obstructions except for a head leaning into the frame for a second or two in Act One. Filmed with a mix of wides, mediums, and close-ups, and there’s only a couple instances of wandering after applause (limited to early in Act One) and no major dropouts.
+
+#### Anastasia - Broadway - March 31, 2019 (Matinee) (Closing Night)
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `9.40 GB`
+
+CAST
+: Christy Altomare (Anya), Cody Simpson (Dmitry), Constantine Germanacos (Gleb Vaganov), John Bolton (Vlad Popov), Vicki Lewis (Countess Lily Malevsky-Malevitch), Penny Fuller (Dowager Empress Maria Feodorovna), Delilah Rose Pellow (Little Anastasia / Prince Alexei Romanov), Gail Bennett (Tsarina Alexandra), Tally Sessions (Tsar Nicholas II / Count Ipolitov), Allison Walsh (Olga Romanov), Shina Ann Morris (Tatiana Romanov / Dunya), Maria Briggs (Maria Romanov / Marfa), Molly Rushing (Young Anastasia / Paulina), Jennifer Smith, Colby Dezelick, Justin Scott Brown, Janet Dickinson, Ken Krugman (Gorlinsky), Ken Krugman (Count Leopold), Allison Walsh (Odette in Swan Lake), Kyle Brown (Prince Siegfried in Swan Lake), Matt Wiercinski (Von Rothbart in Swan Lake), Wes Hart (Russian Doorman)
+
+NOTES
+: Closing show! Or “rock concert” if you ask Christy Altomare. Yeah so this is a pretty obstructed video. Everyone was really excited so people were standing up, people were moving around, and honestly I had a little trouble paying attending to my viewfinder with all of the tears streaming down my face. Like Beetlejuice I would say it’s mostly like highlights, but all of the things that happen in the center part of the stage are captured really well and the video is DEFINITELY Christy centric. “Journey to the Past” is complete and gorgeous and you will cry. First act starts around when Anya meets Dmitry and the second act starts during “Crossing A Bridge.”
 
 ## Annie
 
@@ -2916,14 +2961,26 @@ SunsetBlvd79
 FORMAT
 : VOB+smalls `2 DVDs`
 
-COMMENTS
-: Includes an MP4 NOT to be traded separately
-
 CAST
 : Alan Cumming (Emcee), Sienna Miller (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Benjamin Eakeley (u/s Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Hani Furstenberg (Fräulein Kost)
 
 NOTES
 : Beautiful HD capture of Sienna joining the cast as the final Sally Bowles and Hani joining as Kost. Still wonderful and solid performances as the show plays it\'s final few performances. A
+
+#### Cabaret - Fifth US National Tour / Chicago, IL - February 17, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Randy Harrison (Emcee), Andrea Goss (Sally Bowles), Sharan Cochran (Fräulein Schneider), Mark Nelson (Herr Schultz), Lee Aaron Rosen (Clifford Bradshaw), Ned Noyes (Ernst Ludwig), Alison Ewing (Fräulein Kost)
+
+NOTES
+: Beautiful HD capture of the new tour, with no obstructions. Randy does a terrific job in the role. Great cast and very strong performances! A+
 
 ### Specials
 
@@ -3971,6 +4028,34 @@ CAST
 
 NOTES
 : Commonly mislabelled as Opening Night (October 5, 2006), however menu says it is September 30, 2006. Video includes the playbill and some bonus news features of the Pre-Opening, Opening Night and the Review.
+
+#### A Chorus Line - Broadway Revival - October 15, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Michael Berresse (Zach), Tyler Hanes (Larry), Brad Anderson (Don), Mara Davi (Maggie), Yuka Takara (Connie), Charlotte d'Amboise (Cassie), Deidre Goodwin (Sheila), Alisan Porter (Bebe), Heather Parcells (Judy), E Clayton Cornelious (u/s Richie), Tony Yazbeck (Al), Lyndy Franklin (u/s Kristine), Jessica Lee Goldyn (Val), Jason Tam (Paul), Natalie Cortez (Diana)
+
+NOTES
+: Fabulous show and crystal clear. Last 7 minutes are audio only. A- 
+
+#### A Chorus Line - Broadway Revival - November 3, 2007 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: Recording of another DVD. Looking for the original DVD with [this menu](https://imgur.com/a/Ww2Y4kO).
+
+CAST
+: Michael Berresse (Zach), Nick Adams (Larry), Melissa Lone (Maggie), J Elaine Marcos (u/s Connie), Michael Gruber (Greg), Charlotte d'Amboise (Cassie), Deirdre Goodwin (Sheila), Krysta Rodriguez (Bebe), James T Lane (Richie), Jessica Lee Goldyn (Val), Bryan Knowlton (u/s Paul), Natalie Cortez (Diana)
+
+NOTES
+: A nice capture of the show before cast changes.
 
 #### A Chorus Line - Broadway Revival - August 17, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -9521,6 +9606,21 @@ NOTES
 
 ## Next to Normal
 
+#### Next to Normal - Off-Broadway / Second Stage - March 13, 2008
+{: .no_toc .d-inline-block }
+
+broadwayspunk
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alice Ripley (Diana), Brian d'Arcy James (Dan), Aaron Tveit (Gabe), Jennifer Damiano (Natalie), Adam Chanler-Berat (Henry), Asa Somers (Dr. Fine/Dr. Madden)
+
+NOTES
+: This includes Alice's flip out in the beginning to replace all the Costco stuff. It was a fantastic show and an even better video than my previous 3/1/08 master. I shot it in a different style to showcase more of the stage (since you can only stare at someone's face for so long). Really emotional times in the theatre and you can hear sniffles in the camera. Recorded three days before the show was closed and rewritten. 
+
 #### Next to Normal - Pre-Broadway / Arena Stage - December 21, 2008
 {: .no_toc .d-inline-block }
 
@@ -12503,7 +12603,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#taboo-the-boy-george-musical">Taboo: the Boy George Musical</a> • <a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#taboo-the-boy-george-musical">Taboo: the Boy George Musical</a> • <a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="TBA">Thrill Me: The Leopold & Loeb Story</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
 
 ## Taboo: the Boy George Musical
 
@@ -12579,6 +12679,19 @@ CAST
 NOTES
 : Pro-shot DVD with optional English subtitles, originally intended for commercial release. Includes extras like cast profiles, TV advertisement, press footage, and the closing night finale.
 
+#### Tanz der Vampire - First Japanese Version / Tokyo, Japan - August 26, 2006 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Yuichiro Yamaguchi (Graf von Krolock), Chihiro Otsuka (Sarah Chagal), Kenji Urai (Alfred), Masachika Ichimura (Professor Abronsius), Yuko Miyamoto (Magda), Masahiro Sato (Yone Chagal), Satomi Achiwa (Rebecca Chagal), Keigo Yoshino (Herbert von Krolock), Hajime Komada (Koukol), Youya Shinjo (Schwarzer Vampir)
+
+NOTES
+: Last matinee for 2006 block. Updated 2-disks version with really better quality than 1-disk version, this one also includes curtain calls and “Die Vampire Bitten zum Tanz (Reprise)”.
+: Very good video quality and good zooms, but many head obstruction. Also master hides his camera quite often.
+
 ## Tarzan
 
 #### Tarzan - Scheveningen - June 23, 2007 
@@ -12621,6 +12734,20 @@ CAST
 
 NOTES
 : Shot from the second row with lots of close-ups. Very clear and steady video with very good sound.
+
+## Thrill Me: The Leopold & Loeb Story
+
+#### Thrill Me - Datteln, Germany - October, 2013
+{: .no_toc .d-inline-block }
+
+LT 2:1
+{: .label .label-purple }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Bernd Julius Arends, Dominik Schulz 
 
 ## tick, tick... BOOM!
 

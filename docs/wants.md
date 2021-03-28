@@ -182,6 +182,8 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Beauty and the Beast (Disney) - UK Tour - 2003
 
+- A Chorus Line - Broadway Revival - November 3, 2007 (Highlights) \| [original DVD menu](https://imgur.com/a/Ww2Y4kO)
+
 - Evita - Village Players, Toledo Ohio - 1991
 
 - Lennon - Broadway - August 21, 2005
