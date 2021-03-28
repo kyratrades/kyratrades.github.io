@@ -12603,7 +12603,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#taboo-the-boy-george-musical">Taboo: the Boy George Musical</a> • <a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="TBA">Thrill Me: The Leopold & Loeb Story</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#taboo-the-boy-george-musical">Taboo: the Boy George Musical</a> • <a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="Thttps://kyratrades.github.io/musicals#thrill-me-the-leopold--loeb-storyBA">Thrill Me: The Leopold & Loeb Story</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
 
 ## Taboo: the Boy George Musical
 
@@ -12737,7 +12737,7 @@ NOTES
 
 ## Thrill Me: The Leopold & Loeb Story
 
-#### Thrill Me - Datteln, Germany - October, 2013
+#### Thrill Me - Datteln, Germany - October 5, 2012
 {: .no_toc .d-inline-block }
 
 LT 2:1
@@ -12747,7 +12747,10 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 CAST
-: Bernd Julius Arends, Dominik Schulz 
+: Bernd Julius Arends (Nathan Leopold), Dominik Schulz (Richard Loeb)
+
+NOTES
+: ​Great to excellent sound and picture, filmed from very close to the stage. Performed in German.
 
 ## tick, tick... BOOM!
 
