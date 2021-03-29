@@ -15,7 +15,7 @@ permalink: /concerts
 ### Special Events
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#nothing-like-a-dame">Nothing Like A Dame</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-backwards">Broadway Backwards</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#nothing-like-a-dame">Nothing Like A Dame</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a></p>
 
 ### Performers
 
@@ -74,6 +74,33 @@ FORMAT
 
 CAST
 : Same as above
+
+## Broadway Backwards
+
+#### Broadway Backwards 8 - New York City - March 28, 2013
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: MP3 `31 tracks`
+: Seems to be missing track 15 (of 32) unless the track numbers are wrong
+
+CAST
+: Stephanie J. Block, Estelle Parsons, Judy Kaye, Bruce Vilanch, Daniel Breaker, Anita Gillette, Tony Sheldon, Jose Llana, Jim Brochu, Ward Billeisen, Tituss Burgess, Robert Creighton, Kyle Dean Massey, John Bolton, Jake Boyd, Mo Brady Ashley Brown, Len Cariou, Victor Garber, Malcolm Gets, Jan Maxwell, Brian Stokes Mitchell, Stacey Oristano, Doris Roberts, Howie Michael Smith, Anthony Warlow, Josh Young, Karen Ziemba
+
+#### Broadway Backwards 9 - New York City - March 24, 2014
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: The best of Broadway wowed a sold-out house at the Al Hirschfeld Theatre, bringing laughter, tears and cheers to the unforgettable ninth annual edition of Broadway Backwards. Performances by Bryan Batt, Uzo Aduba, Rachel Bay Jones, Andrew Keenan- Bolger, Stephanie J. Block, John Tartaglia, Andrew Rannells, Norm Lewis, Debra Monk, Jonathan Groff, Beth Leavel and Billy Porter. Multicam proshot.
 
 ## Broadway Miscast
 
@@ -790,6 +817,18 @@ FORMAT
 CAST
 : Stephanie J. Block, Felicia Finley, Alison Fraser, Cheyenne Jackson, Erin Leigh Peck, Kate Shindle, Laura Bell Bundy, Matt Cavanaugh, Susan Egan, Max von Essen, Andrea McArdle, Mandy Gonzalez
 
+#### The Best Is Yet to Come: The Music of Cy Coleman - Off-Broadway - May 28, 2011
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Billy Stritch, Lillias White, Howard McGillin, Rachel York, David Burnham, Sally Mayes
+
+NOTES
+: Some obstructions to the picture for the first 7 minutes; filmed from about the 4th row and a little off to the side
+
 #### Tom Kitt & Friends - Joe's Pub - October 6, 2008
 {: .no_toc .d-inline-block }
 
@@ -839,19 +878,6 @@ CAST
 
 NOTES
 : An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
-
-#### Broadway Backwards 8 - New York City - March 28, 2013
-{: .no_toc .d-inline-block }
-
-Issues
-{: .label .label-red }
-
-FORMAT
-: MP3 `31 tracks`
-: Seems to be missing track 15 (of 32) unless the track numbers are wrong
-
-CAST
-: Stephanie J. Block, Estelle Parsons, Judy Kaye, Bruce Vilanch, Daniel Breaker, Anita Gillette, Tony Sheldon, Jose Llana, Jim Brochu, Ward Billeisen, Tituss Burgess, Robert Creighton, Kyle Dean Massey, John Bolton, Jake Boyd, Mo Brady Ashley Brown, Len Cariou, Victor Garber, Malcolm Gets, Jan Maxwell, Brian Stokes Mitchell, Stacey Oristano, Doris Roberts, Howie Michael Smith, Anthony Warlow, Josh Young, Karen Ziemba
 
 #### Broadway Kitchen Sink - New York - April 4, 2004
 {: .no_toc .d-inline-block }
