@@ -242,8 +242,6 @@ I'm looking for the original files released by the master for these items. I'm e
 
 ### Videos
 
-- Camelot - National Tour (Chicago) - June 7, 2007
-
 - The Scarlet Pimpernel: 
     - February 6, 1999 (Highlights)
     - March 7, 1999
@@ -251,14 +249,6 @@ I'm looking for the original files released by the master for these items. I'm e
     - May 30, 1999 (Highlights)
 
 - Jawbreaker The Musical - Concert Reading - July 30, 2010
-
-- The Best is Yet to Come: The Music of Cy Coleman - Off-Broadway - May 28, 2011
-
-- Sunset Boulevard - West End - July, 1993 (Preview) (House-Cam) `higher quality MP4 version with no graininess and clear footage`
-
-- Elaine Stritch: At Liberty - Broadway - April 10, 2002
-
-- Beautiful: The Carole King Musical - Broadway - April 9, 2014 (SunsetBlvd79's master)  `2 DVD`
 
 - The Color Purple - Broadway Revival - December 28, 2015
 
