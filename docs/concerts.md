@@ -224,7 +224,19 @@ CAST
 
 ### Wants
 
-Rachel York on Seth\'s Broadway Chatterbox
+<center>Rachel York on Seth\'s Broadway Chatterbox</center>
+
+#### Seth\'s Broadway Chatterbox - New York City - 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.99 GB`
+
+CAST
+: Julia Murney, Jonathan Dokuchitz & Sutton Foster (Chess cast) / Jodi Long & José Llana
 
 #### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
 {: .no_toc .d-inline-block }
