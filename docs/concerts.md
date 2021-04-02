@@ -224,7 +224,7 @@ CAST
 
 ### Wants
 
-<center>Rachel York on Seth\'s Broadway Chatterbox</center>
+<center>Rachel York on Seth's Broadway Chatterbox</center>
 
 #### Seth\'s Broadway Chatterbox - New York City - 2003
 {: .no_toc .d-inline-block }
@@ -248,10 +248,10 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 CAST
-: Seth Rudetsky (Host), Megan Hilty (Guest)
+: Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty.
 
 NOTES
-: Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
+: Kristy and Megan sing \"For Good\".
 
 ## Sondheim
 
