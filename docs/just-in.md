@@ -10,9 +10,25 @@ permalink: /just-in
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/wants#march-2021<">March, 2021</a> • <a href="https://kyratrades.github.io/wants#february-2021">February, 2021</a></p>
+<p align="center"><a href="https://kyratrades.github.io/wants#april-2021<">April, 2021</a> • <a href="https://kyratrades.github.io/wants#march-2021<">March, 2021</a> • <a href="https://kyratrades.github.io/wants#february-2021">February, 2021</a></p>
 
 ___
+
+## April, 2021
+
+### Apr 2, 2021
+
+#### Seth\'s Broadway Chatterbox - New York City - 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.99 GB`
+
+CAST
+: Julia Murney, Jonathan Dokuchitz & Sutton Foster (Chess cast) / Jodi Long & José Llana
 
 ## March, 2021
 
