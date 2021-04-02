@@ -10,7 +10,7 @@ permalink: /just-in
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/wants#april-2021<">April, 2021</a> • <a href="https://kyratrades.github.io/wants#march-2021<">March, 2021</a> • <a href="https://kyratrades.github.io/wants#february-2021">February, 2021</a></p>
+<p align="center"><a href="https://kyratrades.github.io/just-in#april-2021<">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021<">March, 2021</a> • <a href="https://kyratrades.github.io/just-in#february-2021">February, 2021</a></p>
 
 ___
 
