@@ -88,8 +88,6 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 
 - Grease - Manila, Philippines - August 15, 1995
 
-- Hamilton - Broadway - June 19, 2016 \| SJ Bernly \| 2 DVDs `missing VTS_01_0.VOB of Disc 2`
-
 - Hello, Dolly! - Fifth National Tour - October 23, 2018 \| SunsetBlvd79 `missing smalls for Act 1`
 
 - Legally Blonde - Broadway - July 26, 2008 \| SunsetBlvd79
