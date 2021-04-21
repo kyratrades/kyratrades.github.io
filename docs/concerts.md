@@ -315,7 +315,29 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: ISO
+: ISO `1 DVD`
+
+#### Tony Awards - New York, NY - June 7, 1981
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.19 GB`
+
+Performances
+: A Chorus Line ("What I Did For Love" - Priscilla Lopez)
+: Ain't Misbehavin' ("Honeysuckle Rose" - Nell Carter)
+: Annie ("Tomorrow" - Andrea McArdle)
+: Evita ("Buenos Aires" - Patti LuPone)
+: 42nd Street ("Lullaby of Broadway" - Jerry Orbach and Company)
+: Lena Horne: The Lady and Her Music ("If You Believe" - Lena Horne)
+: Piaf ("La Vie en Rose" - Jane Lapotaire)
+: Sophisticated Ladies ("Rockin' in Rhythm" - Company)
+: Sweeney Todd: The Demon Barber of Fleet Street ("By The Sea" - Angela Lansbury)
+: Tintypes (It's Delightful to be Married"/"Fifty-Fifty" - Company)
+: Woman of the Year ("One of the Boys" - Lauren Bacall and Men)
 
 #### Tony Awards - 1988
 {: .no_toc .d-inline-block }

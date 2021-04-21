@@ -1596,6 +1596,21 @@ CAST
 
 ### MISC
 
+#### Anything Goes - New Brunswick, NJ - 1992
+{: .no_toc .d-inline-block }
+
+Single-Cam Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.19 GB`
+
+CAST
+: Unknown
+
+NOTES
+: Plays in the Park
+
 #### Anything Goes - Television Special - February 28, 1954
 {: .no_toc .d-inline-block }
 
@@ -4813,7 +4828,7 @@ CAST
 
 # D
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#der-besuch-der-alten-dame">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#der-besuch-der-alten-dame">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doctor-zhivago">Doctor Zhivago</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
 
 ## Damn Yankees
 
@@ -5000,6 +5015,21 @@ NOTES
 : Excellent HD capture of rarely performed Rodgers and Sondheim musical. A really great cast and some beautiful music. A
 
 ## Doctor Zhivago
+
+#### Doctor Zhivago - Broadway - March 29, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Tam Mutu (Yurii Zhivago), Kelli Barrett (Lara Guisher), Tom Hewitt (Viktor Komarovsky), Paul Alexander Nolan (Pasha Antipov), Lora Lee Gayer (Tonia Gromeko), Jamie Jackson (Alexander Gromeko), Jacqueline Antarmaian (Anna Gromeko)
+
+NOTES
+: Great HD capture of this massive and expensive production. Set during the final days of Czarist Russia, the story follows the Doctor through chaos and romance. Tam has a wonderful voice! A-
 
 ## Dogfight
 
@@ -5447,7 +5477,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#freaky-friday">Freaky Friday</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -5721,6 +5751,23 @@ CAST
 
 NOTES
 : Sung in English. Missing the first few minutes.
+
+## Freaky Friday
+
+#### Freaky Friday - First National Tour / Cleveland, OH - May 2, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Heidi Blickenstaff (Katherine Blake), Emma Hunton (Ellie Blake), David Jennings (Mike Harper), Chris Ramirez (Adam), Jake Heston Miller (Fletcher Blake), Jessie Hooker-Bailey (Savannah), Jeannette Bayardelle (Journalist/Ms. Meyers/Officer Sitz/Ensemble)
+
+NOTES
+: Excellent HD capture of the new musical on tour, based on the Disney film. Such a fun show with great music and cast. Heidi is at the top of her game and a rare master comedic actress with matching voice! She really knocked the role outta the park, as did Emma!
 
 ## Frozen
 
@@ -6227,6 +6274,23 @@ FORMAT
 
 CAST
 : Imelda Staunton (Rose), Peter Davison (Herbie), Lara Pulver (Louise), Dan Burton (Tulsa)
+
+### Specials
+
+#### Gypsy: Ultimate Edit - Fourth Broadway Revival - 2008
+{: .no_toc .d-inline-block }
+
+VLT 3:1
+{: .label .label-purple }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Laura Benanti (Louise), Leigh Ann Larkin (June), Boyd Gaines (Herbie), Tony Yazbeck (Tulsa)
+
+NOTES
+: Using the best available footage from videos, press reels, talk show performances and the internet.
 
 # H
 
@@ -9893,7 +9957,7 @@ CAST
 
 # O
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#october-sky">October Sky</a> • <a href="https://kyratrades.github.io/musicals#the-office-a-musical-parody">The Office: a Musical Parody</a> • <a href="https://kyratrades.github.io/musicals#oklahoma">Oklahoma!</a> • <a href="https://kyratrades.github.io/musicals#oliver">Oliver!</a> • <a href="https://kyratrades.github.io/musicals#on-a-clear-day-you-can-see-forever">On a Clear Day You Can See Forever</a> • <a href="https://kyratrades.github.io/musicals#on-the-town">On the Town</a> • <a href="https://kyratrades.github.io/musicals#on-the-twentieth-century">On The Twentieth Century</a> • <a href="https://kyratrades.github.io/musicals#once-on-this-island">Once On This Island</a> • <a href="https://kyratrades.github.io/musicals#once-upon-a-mattress">Once Upon A Mattress</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#october-sky">October Sky</a> • <a href="https://kyratrades.github.io/musicals#the-office-a-musical-parody">The Office: a Musical Parody</a> • <a href="https://kyratrades.github.io/musicals#oklahoma">Oklahoma!</a> • <a href="https://kyratrades.github.io/musicals#oliver">Oliver!</a> • <a href="https://kyratrades.github.io/musicals#on-a-clear-day-you-can-see-forever">On a Clear Day You Can See Forever</a> • <a href="https://kyratrades.github.io/musicals#on-the-town">On the Town</a> • <a href="https://kyratrades.github.io/musicals#on-the-twentieth-century">On The Twentieth Century</a> • <a href="https://kyratrades.github.io/musicals#once-on-this-island">Once On This Island</a> • <a href="https://kyratrades.github.io/musicals#once-upon-a-mattress">Once Upon A Mattress</a> • <a href="https://kyratrades.github.io/musicals#oslo">Oslo</a></p>
 
 ## October Sky
 
@@ -10089,7 +10153,21 @@ CAST
 : Carol Burnett (Princess Winnifred)
 
 NOTES
-: Black and white. Filmed for television
+: Black and white. Filmed for television.
+
+## Oslo
+
+#### Oslo - Broadway - July 15, 2017 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Michael Aronov (Uri Savir), Anthony Azizi (Ahmed Qurie), Adam Dannheisser (Yossi Beilin), Jennifer Ehle (Mona Juul), Daniel Jenkins (Jan Egeland / Ron Pundak), Dariush Kashani (Hassan Asfour), Jeb Kreager (Trond Gunderson / German Husband), Jefferson Mays (Terje-Rod Larsen), Christopher McHale (American Diplomat / Thor Bjornevog), Daniel Oreskes (Yair Hirschfield / Shimon Peres), Henny Russell (Marianne Heiberg / Toril Grandal), Joseph Siravo (Joel Singer), T Ryder Smith (Johan Jorgen Holst / Finn Grandal)
+
+NOTES
+: Excellent HD video with clear picture and sound throughout; great video of this Tony Award winning Best Play.
 
 # P
 
@@ -11588,6 +11666,57 @@ FORMAT
 CAST
 : Ron Bohmer (Sir Percy Blakeney), Sandra Joseph (Marguerite St. Just), Tim Noland (Chauvelin), Lori Blalock (Marie Gosholtz)
 
+####  The Scarlet Pimpernel - Edison, NJ - 2006
+{: .no_toc .d-inline-block }
+
+Multi-Cam Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Billy Piscopo, Paul Salvatoriello,Tina Kaye, Jonathan Schwartz, Susan Halmi
+
+NOTES
+: Plays in the Park
+
+#### The Scarlet Pimpernel - Baden, Germany - 2008
+{: .no_toc .d-inline-block }
+
+Multi-Cam Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Darius Merstein-MacLeod (Sir Percy Blackeney), Maricel Wölk (Marguerite St. Just), Christopher Murray (Chauvelin), Zoltan Tombor (Armand St. Just), Christa Ertl, Dessislava Valeva-Philipova, Franz Födinger, Alois Haselbacher, Robert Herzl, Jan Hutter, Sam Madwar, Franz Josef Koepp, Klaus Ofczarek, Robert Sadil, Dietmar Seidner, Stephan Wapenhans, Christian Zmek
+
+####  The Scarlet Pimpernel - Takarazuka, Japan - 2010
+{: .no_toc .d-inline-block }
+
+Multi-Cam Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `Commercial DVD`
+
+CAST
+: Izumi Aoki, Yuki Aono, Rio Asumi, Mizuka Hanase, Hiromu Kiriya, Sonoka Kiryu, Ryu Koshino, Masaki Ryu, Kaito Seijo
+
+NOTES
+: Monn Troupe
+
+####  The Scarlet Pimpernel - Bielefeld, Germany - March 28, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Veit Schafermeier (Sir Percy Blakeney), Karin Seyfried (Marguerite St. Just), Alexander Franden (Chauvelin), Dirk Mestmacher (Arman St. Just), Sarah Kuffner (Marie Grosholtz), Roman Riemarzik (Tussaud), Ulrich Neuweiler (Prince of Wales), Andreas Lutsch (Mercier), Lutz Laible (Dewhurst), Alexander Janacek (Ozzy), Christian T. Muller (Elton)
+
 ## School of Rock
 
 #### School of Rock - Broadway - November 11, 2015 (Preview)
@@ -12802,6 +12931,18 @@ CAST
 NOTES
 : Last matinee for 2006 block. Updated 2-disks version with really better quality than 1-disk version, this one also includes curtain calls and “Die Vampire Bitten zum Tanz (Reprise)”.
 : Very good video quality and good zooms, but many head obstruction. Also master hides his camera quite often.
+
+#### Tanz der Vampire - St. Petersburg, Russia - May 27, 2018 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Mark Seibert (Krolock), Vera Sveshnikova (Sarah), Aleksandr Kazmin (Alfred), Andrey Matveev (Abronsius), Agata Vavilova (Magda), Anton Avdeev (Herbert), Oleg Krasovitskiy (Chagal), Manana Gogitidze (Rebecca), Anton Moshechkov (Koukol), Denis Aliev (NM 1), Amarbi Tsikushev (NM 2)
+
+NOTES
+: Fantastic quality. Great close-ups.​ Kazmin’s first in St. Petersburg. Avdeev’s 1st of 3 in May-July block. Vavilova’s first in this production.Same taper and almost same seat as in the evening recording.
 
 ## Tarzan
 
