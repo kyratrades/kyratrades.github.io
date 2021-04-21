@@ -587,7 +587,7 @@ NOTES
 
 # A
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#the-addams-family">The Addams Family</a> • <a href="https://kyratrades.github.io/musicals#after-midnight">After Midnight</a> • <a href="https://kyratrades.github.io/musicals#aida">Aida</a> • <a href="https://kyratrades.github.io/musicals#aint-too-proud">Ain't Too Proud</a> • <a href="https://kyratrades.github.io/musicals#aladdin">Aladdin</a> • <a href="https://kyratrades.github.io/musicals#alice-at-the-palace">Alice at the Palace</a> • <a href="https://kyratrades.github.io/musicals#alice-by-heart">Alice By Heart</a> • <a href="https://kyratrades.github.io/musicals#allegiance">Allegiance</a> • <a href="https://kyratrades.github.io/musicals#amélie">Am&eacute;lie</a> • <a href="https://kyratrades.github.io/musicals#an-american-in-paris">An American in Paris</a> • <a href="https://kyratrades.github.io/musicals#anastasia">Anastasia</a> • <a href="https://kyratrades.github.io/musicals#annie">Annie</a> • <a href="https://kyratrades.github.io/musicals#annie-2-miss-hannigans-revenge">Annie 2: Miss Hannigan's Revenge</a> • <a href="https://kyratrades.github.io/musicals#annie-get-your-gun">Annie Get Your Gun</a> • <a href="https://kyratrades.github.io/musicals#anyone-can-whistle">Anyone Can Whistle</a> • <a href="https://kyratrades.github.io/musicals#anything-goes">Anything Goes</a> • <a href="https://kyratrades.github.io/musicals#aspects-of-love">Aspects of Love</a> • <a href="https://kyratrades.github.io/musicals#assassins">Assassins</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-addams-family">The Addams Family</a> • <a href="https://kyratrades.github.io/musicals#after-midnight">After Midnight</a> • <a href="https://kyratrades.github.io/musicals#aida">Aida</a> • <a href="https://kyratrades.github.io/musicals#aint-too-proud">Ain't Too Proud</a> • <a href="https://kyratrades.github.io/musicals#aladdin">Aladdin</a> • <a href="https://kyratrades.github.io/musicals#alice-at-the-palace">Alice at the Palace</a> • <a href="https://kyratrades.github.io/musicals#alice-by-heart">Alice By Heart</a> • <a href="https://kyratrades.github.io/musicals#allegiance">Allegiance</a> • <a href="https://kyratrades.github.io/musicals#amélie">Am&eacute;lie</a> • <a href="https://kyratrades.github.io/musicals#an-american-in-paris">An American in Paris</a> • <a href="https://kyratrades.github.io/musicals#american-psycho">American Psycho</a> • <a href="https://kyratrades.github.io/musicals#anastasia">Anastasia</a> • <a href="https://kyratrades.github.io/musicals#annie">Annie</a> • <a href="https://kyratrades.github.io/musicals#annie-2-miss-hannigans-revenge">Annie 2: Miss Hannigan's Revenge</a> • <a href="https://kyratrades.github.io/musicals#annie-get-your-gun">Annie Get Your Gun</a> • <a href="https://kyratrades.github.io/musicals#anyone-can-whistle">Anyone Can Whistle</a> • <a href="https://kyratrades.github.io/musicals#anything-goes">Anything Goes</a> • <a href="https://kyratrades.github.io/musicals#aspects-of-love">Aspects of Love</a> • <a href="https://kyratrades.github.io/musicals#assassins">Assassins</a></p>
 
 ## The Addams Family
 
@@ -1100,7 +1100,20 @@ NOTES
 
 ## American Psycho
 
-#### 
+#### American Psycho - Broadway - March 29, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Benjamin Walker (Patrick Bateman), Jennifer Damiano (Jean), Drew Moerlein (Paul Owen), Alice Ripley (Svetlana/Mrs. Bateman/Mrs. Wolfe), Heléne Yorke (Evelyn Williams), Dave Thomas Brown (David Van Patten), Anna Eilinsfeld (Victoria), Ericka Hunter (Video Store Clerk/Sabrina), Theo Stockman (Timothy Price), Alex Michael Stoll (ATM/Craig McDermott/Tom Cruise)
+
+NOTES
+: Excellent capture of the new dark musical transfer from the West End. Great cast and wonderful 80s style and inspired musical. A
 
 ## Anastasia
 
@@ -4986,6 +4999,8 @@ CAST
 NOTES
 : Excellent HD capture of rarely performed Rodgers and Sondheim musical. A really great cast and some beautiful music. A
 
+## Doctor Zhivago
+
 ## Dogfight
 
 #### Dogfight - Off-Broadway - August 15, 2012
@@ -5936,6 +5951,18 @@ CAST
 <p align="center"><a href="https://kyratrades.github.io/musicals#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/musicals#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/musicals#grease">Grease</a> • <a href="https://kyratrades.github.io/musicals#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/musicals#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/musicals#gypsy">Gypsy</a></p>
 
 ## A Gentleman\'s Guide to Love and Murder
+
+#### A Gentleman\'s Guide to Love and Murder - Broadway - May 3, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jefferson Mays (The D'Ysquith Family), Bryce Pinkham (Monty Navarro), Lisa O'Hare (Sibella Hallward), Lauren Worsham (Phoebe D'Ysquith), Jane Carr (Miss Marietta Shingle)
 
 #### A Gentleman\'s Guide to Love and Murder - First National Tour - September 29, 2015 (Preview)
 {: .no_toc .d-inline-block }
