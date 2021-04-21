@@ -16,6 +16,23 @@ ___
 
 ## April, 2021
 
+### Apr 21, 2021
+
+#### Gypsy: Ultimate Edit - Fourth Broadway Revival - 2008
+{: .no_toc .d-inline-block }
+
+VLT 3:1
+{: .label .label-purple }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Laura Benanti (Louise), Leigh Ann Larkin (June), Boyd Gaines (Herbie), Tony Yazbeck (Tulsa)
+
+NOTES
+: Using the best available footage from videos, press reels, talk show performances and the internet.
+
 ### Apr 20, 2021
 
 #### Anything Goes - New Brunswick, NJ - 1992
