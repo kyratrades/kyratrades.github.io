@@ -42,6 +42,36 @@ Pro-Shot
 FORMAT
 : VOB+smalls `1 DVD` `2.19 GB`
 
+####  The Scarlet Pimpernel - Takarazuka, Japan - 2010
+{: .no_toc .d-inline-block }
+
+Multi-Cam Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `Commercial DVD`
+
+CAST
+: Izumi Aoki, Yuki Aono, Rio Asumi, Mizuka Hanase, Hiromu Kiriya, Sonoka Kiryu, Ryu Koshino, Masaki Ryu, Kaito Seijo
+
+NOTES
+: Monn Troupe
+
+####  The Scarlet Pimpernel - Edison, NJ - 2006
+{: .no_toc .d-inline-block }
+
+Multi-Cam Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Billy Piscopo, Paul Salvatoriello,Tina Kaye, Jonathan Schwartz, Susan Halmi
+
+NOTES
+: Plays in the Park
+
 ### Apr 2, 2021
 
 #### Seth\'s Broadway Chatterbox - New York City - 2003
