@@ -72,6 +72,21 @@ CAST
 NOTES
 : Plays in the Park
 
+#### Le Petit Prince - Paris - 2002
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Jeff, Daniel Lavoie, Stéphane Neville, Laurent Ban, Nicaud, Sébastien Izambard, Thomas Gerome, Christophe Cerino, Désiré Bastareaud, Nicolas Saje, Aurelia, Cathialine Andria, Romain Cortese
+
+NOTES
+: Original file of the DVD released in 2014 when the musical was touring in China so it has optional Chinese subtitles.
+
 ### Apr 2, 2021
 
 #### Seth\'s Broadway Chatterbox - New York City - 2003
