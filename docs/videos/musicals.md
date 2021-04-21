@@ -376,6 +376,19 @@ CAST
 NOTES
 : Performed in English with hardcoded Japanese subtitles. Often labelled as the original broadway production, but this is the Japanese touring production with an American cast. There are 2 versions of this going around. One suffers from very dark video but has pretty good sound, and the other has great video but very tinny and compressed audio. (And has 15 seconds missing from Clare Leach\'s intro). Check with traders.
 
+#### 42nd Street - Teatro Insurgentes, México - June, 1990
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.98 GB`
+
+CAST
+: Joaquin Cordero, Olivia Bucio, Amparo Arozamena, Alicia Fahr, Oscar Servin, Xavier Ximenez, Roberto Ayala, Sergio Acosta, Roberto Blandón 
+NOTES: Note from Blvd-on-Sunset: A really charming and professional production in Spanish! The production uses very similar/exact sets and costumes from Broadway. Nicely filmed. Half pro-shot, half hand-shot from stalls. Includes special features: Tv interviews, short behind-the-scenes footage such as costumes and sets, show commercial and various full pro-shot footage of "dames" and "we're in the money".
+
 #### 42nd Street - First UK Tour - 1991
 {: .no_toc .d-inline-block }
 
@@ -662,7 +675,22 @@ FORMAT
 : VOB+smalls `2 DVDs`
 
 CAST
-: Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Gaelen Gilliland (Alice Beineke), Martin Vidnovic (Mal Beineke), Jonathan Ritter (u/s Lucas Beineke) 
+: Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Gaelen Gilliland (Alice Beineke), Martin Vidnovic (Mal Beineke), Jonathan Ritter (u/s Lucas Beineke)
+
+#### The Addams Family - Lima, Peru - 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Diego Bertie (Homero Addams), Fiorella Rodríguez (Morticia Addams), Nicolás Fantinato (Tío Lucas), Patricia Portocarrero (La Abuela), Gustavo Mayer (Largo), Gina Yangali (Merlina), Brando Gallesi (Pericles), Luis Baca, Trilce Cavero, Miguel Álvarez
+
+NOTES
+: Multi-Camera Pro-Shot
 
 #### The Addams Family - Merzig, Germany - August 23, 2014
 {: .no_toc .d-inline-block }
@@ -3932,6 +3960,19 @@ FORMAT
 CAST
 : Ashlee Simpson (Roxie Hart), Samantha Barks (Velma Kelly), Stephen Moyer (Billy Flynn), Drew Carey (Amos Hart), Lucy Lawless (Matron \"Mama\" Morton), D Tablak (Mary Sunshine)
 
+#### Chicago - South Korea - 2018
+{: .no_toc .d-inline-block }
+
+Company Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `2.95 GB`
+: Came to me as restricted, only trading for wants
+
+CAST
+: 최정원 Choi Jung Won (Velma Kelly), 아이비 Ivy (Roxie Hart), 안재욱 Ahn Jae Wook (Billy Flynn)
+
 #### Chicago - Ettlingen, Germany - July, 2018
 {: .no_toc .d-inline-block }
 
@@ -5645,9 +5686,22 @@ FORMAT
 : MKV `480p` `2.48 GB` `DVD rip`
 
 CAST
-: Ann Reinking (Ann Reinking), Ben Vereen (Performer), Eugene Fleming, Rachelle Rak, Brad Anderson, Dana Moore, Ken Alan, Dylis Croman 
+: Ann Reinking (Ann Reinking), Ben Vereen (Performer), Eugene Fleming, Rachelle Rak, Brad Anderson, Dana Moore, Ken Alan, Dylis Croman
+
 NOTES
 : Aired as part of the Great Performances series on PBS television. <https://www.imdb.com/title/tt0312701/>
+
+#### Fosse - Amsterdam, The Netherlands - 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.04 GB`
+
+CAST
+: Simone Kleinsma (Ann Reinking), Stanley Burleson (Performer), Pia Douwes (Dancer & Singer)
+
+NOTES
+: Sung in English. Missing the first few minutes.
 
 ## Frozen
 
@@ -12745,6 +12799,14 @@ CAST
 
 NOTES
 : ​Great to excellent sound and picture, filmed from very close to the stage. Performed in German.
+
+#### Thrill Me - South Korea - April 2, 2017
+
+FORMAT
+: MP4 `1080p` `3.61 GB`
+
+CAST
+: 최재웅 Choi Jae Woong (Me/Nathan Leopold), 김무열 Kim Moo Yeol (Him/Richard Loeb)
 
 ## tick, tick... BOOM!
 
