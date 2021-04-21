@@ -4801,6 +4801,21 @@ FORMAT
 CAST
 : Marc Clear (Edmond Dantès/The Count of Monte Cristo), Anna Thorén (Mercédès), Carsten Lepper (Fernand Mondego), Reinhard Brussmann (Gérard de Villefort), Frank Winkels (Danglars), Reinhard Brussmann (Abbé Faria), Femke Soetenga (Luisa Vampa), Thomas Hohler (Albert Mondego), Karoline Goebel (Valentine de Villefort), Hakan T Aslan (Jacopo), Alexander Bellinkx (Morrel)
 
+#### The Count of Monte Cristo - South Korea - December 25, 2020 (Rehearsal)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `3.64 GB`
+
+CAST
+: 신성록 Shin Sung Rok (Dantes), 이지혜 Lee Ji Hye (Mercedes), 강태을 Kang Tae Eul (Mondego), 이종문 Lee Jong Moon (Faria), 임별 Im Byul (Villefort), 이한밀 Lee Han Mil (Danglars), 전수미 Jeon Soo Mi (Luisa), 박준휘 Park Jun Hwi (Albert), 임예진 Im Ye Jin (Valentine)
+
+NOTES
+: Rehearsal paid livestream. Though it's labelled as a rehearsal it's more of proper proshot. That said this was filmed pretty early in the run so some actors haven't quite settled into their roles yet.
+
 ## Cruel Intentions
 
 #### Cruel Intentions - Los Angeles - July 31, 2015
@@ -7471,6 +7486,15 @@ NOTES
 
 ## Jesus Christ Superstar
 
+#### Jesus Christ Superstar - Seoul, South Korea - June 27, 2015 
+{: .no_toc .d-inline-block }
+
+FORMAT
+: WMV `720p` `3.71 GB`
+
+CAST
+: 박은태 Park Eun Tae (Jesus), 최재림 Choi Jae Rim (Judas), 장은아 Jang Eun Ah (Mary), 김태한 Kim Tae Han (Pilate), 김영주 Kim Young Joo (Herod), 지혜근 Ji Hye Guen (Annas), 최종선 Choi Jong Sun (Simon)
+
 #### Jesus Christ Superstar - Live In Concert (NBC) - April 1, 2018
 {: .no_toc .d-inline-block }
 
@@ -7478,7 +7502,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV `1080p` `7.02 GB` `Amazon rip`
+: MKV `1080p` `7.02 GB` `Amazon WEB-DL`
 
 CAST
 : Jason Tam (Peter Patrone), John Legend (Jesus Christ), Brandon Victor Dixon (Judas Iscariot), Sara Bareilles (Mary Magdalene), Ben Daniels (Pontius Pilate), Norm Lewis (Caiaphas), Jin Ha (Annas), Alice Cooper (King Herod)
@@ -7601,7 +7625,7 @@ NOTES
 
 # L
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#the-last-five-years">The Last Five Years</a> • <a href="https://kyratrades.github.io/musicals#legally-blonde">Legally Blonde</a> • <a href="https://kyratrades.github.io/musicals#lennon">Lennon</a> • <a href="https://kyratrades.github.io/musicals#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a href="https://kyratrades.github.io/musicals#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a href="https://kyratrades.github.io/musicals#little-me">Little Me</a><a href="https://kyratrades.github.io/musicals#the-little-mermaid">The Little Mermaid</a> • <a href="https://kyratrades.github.io/musicals#little-miss-sunshine">Little Miss Sunshine</a> • <a href="https://kyratrades.github.io/musicals#a-little-night-music">A Little Night Music</a> • <a href="https://kyratrades.github.io/musicals#little-shop-of-horrors">Little Shop of Horrors</a> • <a href="https://kyratrades.github.io/musicals#little-women">Little Women</a> • <a href="https://kyratrades.github.io/musicals#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a href="https://kyratrades.github.io/musicals#love-never-dies">Love Never Dies</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#the-last-five-years">The Last Five Years</a> • <a href="https://kyratrades.github.io/musicals#le-petit-prince">Le Petit Prince</a> • <a href="https://kyratrades.github.io/musicals#legally-blonde">Legally Blonde</a> • <a href="https://kyratrades.github.io/musicals#lennon">Lennon</a> • <a href="https://kyratrades.github.io/musicals#The-Light-in-the-Piazza">The Light in the Piazza</a> • <a href="https://kyratrades.github.io/musicals#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a href="https://kyratrades.github.io/musicals#little-me">Little Me</a><a href="https://kyratrades.github.io/musicals#the-little-mermaid">The Little Mermaid</a> • <a href="https://kyratrades.github.io/musicals#little-miss-sunshine">Little Miss Sunshine</a> • <a href="https://kyratrades.github.io/musicals#a-little-night-music">A Little Night Music</a> • <a href="https://kyratrades.github.io/musicals#little-shop-of-horrors">Little Shop of Horrors</a> • <a href="https://kyratrades.github.io/musicals#little-women">Little Women</a> • <a href="https://kyratrades.github.io/musicals#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a href="https://kyratrades.github.io/musicals#love-never-dies">Love Never Dies</a></p>
 
 ## The Last Five Years
 
@@ -7655,6 +7679,23 @@ CAST
 
 NOTES
 : Virtual lockdown performance, streamed online by The Other Palace on June 25-27, recorded at an earlier date. <https://lwtheatres.co.uk/whats-on/the-last-five-years/>
+
+## Le Petit Prince
+
+#### Le Petit Prince - Paris - 2002
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Jeff, Daniel Lavoie, Stéphane Neville, Laurent Ban, Nicaud, Sébastien Izambard, Thomas Gerome, Christophe Cerino, Désiré Bastareaud, Nicolas Saje, Aurelia, Cathialine Andria, Romain Cortese
+
+NOTES
+: Original file of the DVD released in 2014 when the musical was touring in China so it has optional Chinese subtitles.
 
 ## Legally Blonde
 
@@ -9625,7 +9666,7 @@ CAST
 
 # N
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#natasha-pierre--the-great-comet-of-1812">Natasha, Pierre &amp; The Great Comet of 1812</a> • <a href="https://kyratrades.github.io/musicals#a-new-brain">A New Brain</a> • <a href="https://kyratrades.github.io/musicals#the-new-yorkers">The New Yorkers</a> • <a href="https://kyratrades.github.io/musicals#newsies">Newsies</a> • <a href="https://kyratrades.github.io/musicals#next-to-normal">Next to Normal</a> • <a href="https://kyratrades.github.io/musicals#nine">Nine</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#natasha-pierre--the-great-comet-of-1812">Natasha, Pierre &amp; The Great Comet of 1812</a> • <a href="https://kyratrades.github.io/musicals#a-new-brain">A New Brain</a> • <a href="https://kyratrades.github.io/musicals#the-new-yorkers">The New Yorkers</a> • <a href="https://kyratrades.github.io/musicals#newsies">Newsies</a> • <a href="https://kyratrades.github.io/musicals#next-to-normal">Next to Normal</a> • <a href="https://kyratrades.github.io/musicals#nine">Nine</a> • <a href="https://kyratrades.github.io/musicals#notre-dame-de-paris">Notre-Dame de Paris</a></p>
 
 ## Natasha, Pierre & The Great Comet of 1812
 
@@ -9956,6 +9997,18 @@ CAST
 : Antonio Banderas (Guido Contini), Mary Stuart Masterson (Luisa), Chita Rivera (Liliane La Fleur), Laura Benanti (Claudia), Jane Krakowski (Carla), Saundra Santiago (Stephanie Necrophorus), Mary Beth Peil (Guido's Mother), Myra Lucretia Taylor (Saraghina), Deirdre Goodwin (Our Lady of the Spa), Nell Campbell (Lina Darling), Linda Mugleston (Olga von Strum), Kristin Marks (Annabella), Sara Gettelfinger (Maria), Rona Figueroa (Juliette), Rachel de Benedet (Diana), Elena Shaddow (Renatta), Kathy Voytko (Sofia), William Ulrich (Little Guido)
 
 ## Notre-Dame de Paris
+
+#### Notre-Dame de Paris - Paris, France - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Hélène Ségara (Esmeralda), Garou (Quasimodo), Daniel Lavoie (Frollo), Bruno Pelletier (Gringoire), Patrick Fiori (Phoebus), Luck Mervil (Clopin), Julie Zenatti (Fleur-de-lys)
 
 # O
 
@@ -11538,6 +11591,21 @@ NOTES
 
 ## Roméo et Juliette (Gérard Presgurvic)
 
+#### Roméo & Juliette: de la Haine à l'Amour (Presgurvic) - Palais des Congrès, Paris - July 12-13, 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `Commercial DVD`
+
+CAST
+: Grégori Baquet, Eléonore Beaulieu, Cécilia Cara, Frédéric Charter, Sébastien Chato, Philippe D'Avilla, Isabelle Ferron, Jean-Claude Hadida, Réjane Perry, Tom Ross, Damien Sargue, Marcus Tybalt
+
+NOTES
+: Commercial DVD released in Korea
+
 #### Rómeó és Júlia (Gérard Presgurvic) - Szeged, Hungary - August 19, 2005
 {: .no_toc .d-inline-block }
 
@@ -11567,6 +11635,21 @@ CAST
 
 NOTES
 : Pro-shot DVD (ISO) including extras and making of documentary.
+
+#### Roméo et Juliette - Paris, France - 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Damien Sargue, Joy Esther, Cyril Niccolai, John Eyzen, Tom Ross, Brigitte Venditti, Stéphanie Rodrigue, Ida Gordon, Arié Itah, Frédéric Charter, Stéphane Métro, Aurélie Badol
+
+NOTES
+: Commercial DVD released in Russia, including making of, with optional Russian subtitle.
 
 # S
 
