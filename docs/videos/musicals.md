@@ -1098,6 +1098,10 @@ CAST
 NOTES
 : Aired as part of PBS Great Performances on November 2, 2018. Can be found on BroadwayHD to stream.
 
+## American Psycho
+
+#### 
+
 ## Anastasia
 
 #### Anastasia - Pre-Broadway / Hartford - June 15, 2016 (Matinee) 
@@ -11251,7 +11255,7 @@ CAST
 
 # R
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/musicals#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/musicals#rent">RENT</a> • <a href="https://kyratrades.github.io/musicals#the-rocky-horror-show">The Rocky Horror Show</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/musicals#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/musicals#rent">RENT</a> • <a href="https://kyratrades.github.io/musicals#the-rocky-horror-show">The Rocky Horror Show</a> • <a href="https://kyratrades.github.io/musicals#roméo-et-juliette-gérard-presgurvic">Roméo et Juliette (Gérard Presgurvic)</a></p>
 
 ## Ragtime
 
@@ -11426,6 +11430,36 @@ NOTES
 : The Rocky Horror Picture Show: Let\'s Do The Time Warp Again (2016). FOX\'s pro-shot recording. Premiered on FOX Network on October 20, 2016.
 
 ## Roméo et Juliette (Gérard Presgurvic)
+
+#### Rómeó és Júlia (Gérard Presgurvic) - Szeged, Hungary - August 19, 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Dolhai Attila (Rómeó), Szinetár Dóra (Júlia), Szabó P. Szilveszter (Tybalt), Bereczki Zoltán (Mercutio), Mészáros Árpád Zsolt (Benvolio), Földes Tamás (Frere Laurent), Náray Erika (La Nurse), Csuha Lajos (Comte Capulet), Janza Kata (Lady Capulet), Homonnay Zsolt (Paris), Csengery Ottília (Lady Montague), Németh Attila (Prince Escalus)
+
+NOTES
+: Official pro-shot DVD release with extras and booklet scans. The menu has been edited to include Russian labels and optional Russian subtitles. Unfortunately, there are no English subtitles on the DVD. However, an English fan-subbed version is up on Youtube: [Act 1](https://www.youtube.com/watch?v=ikESnkpQBR8) • [Act 2](https://www.youtube.com/watch?v=iI3SsWQcwW0)
+
+#### Roméo et Juliette (Gérard Presgurvic) - Vienna, Austria - 2006
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: ISO `3 DVDs`
+
+CAST
+: Marjan Shaki (Juliet), Lukas Perman (Romeo), Mark Seibert (Tybalt), Rasmus Borkowski (Mercutio), Mathias Edenborn (Benvolio)
+
+NOTES
+: Pro-shot DVD (ISO) including extras and making of documentary.
 
 # S
 
