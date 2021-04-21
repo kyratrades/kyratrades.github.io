@@ -151,6 +151,21 @@ NOTES
 : Proshot. Released 4th February 2015, but filmed in 2014.
 : <https://www.imdb.com/title/tt4156348/>
 
+#### The Crucible - Broadway - March 30, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Saoirse Ronan (Abigail Williams), Ben Whishaw (John Proctor), Sophie Okonedo (Elizabeth Proctor), Bill Camp (John Hale), Ciarán Hinds (Deputy Governer Danforth), Jason Butler Harner (Reverend Samuel Parris)
+
+NOTES
+: Stunning and intense production of this Arthur Miller classic. There is a head that is shot over on the left side of the stage. It usually just blocks the actor's legs when in the frame, which is worked around well. The last 10 seconds of the show (Elizabeth's speech) are missing due to length of show and battery running out. A-
+
 ## The Curious Incident of the Dog in the Night-Time
 
 #### The Curious Incident of the Dog in the Night-Time - National Theatre - September 6, 2012
