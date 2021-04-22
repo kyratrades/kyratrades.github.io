@@ -18,6 +18,60 @@ ___
 
 ### Apr 22, 2021
 
+#### Metamorphoses - Broadway - April 10, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Anjali Bhimani (Myrrha), Raymond Fox (Midas), Kyle Hall (Hermes), Doug Hara (Phaeton), Felicity Jones (Aphrodite), Chris Kipiniak (Erysichthon), Louise Lamson (Alycon), Erik Lochtefeld (Orpheus), Mariann Mayberry (Eurydice), Lisa Tejero (Therapist)
+
+NOTES
+: A fantastic show captured pretty well. There's a head that occasionally gets in the way, and there is a lot of noise from moving the camera, but you still get everything from the show. What a brilliant production! B+
+
+#### Amélie	- UK Tour - June, 2019		
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MP4 `576p` `4.43 GB`
+
+CAST
+: Audrey Brisson, Danny Mac, Johnson Willis, Rachel Dawson, Jez Unwin, Kate Robson-Stuart, Sophie Crawford, Faoileann Cunningham, Caolan McCarthy, Oliver Grant, Samuel Morgan-Grahame, Josh Sneesby, Charley Magalit, Chris Jared, Emma Jane Morton, Nuwan Hugh Perera	Filmed from the left side mezzanine. Beth continually improves with this wonderful quality video of the fantastic cast of the tour.
+
+#### Tootsie - Broadway - December, 2019
+{: .no_toc .d-inline-block }
+
+theaterfan64
+{: .label .label-blue }
+
+FORMAT
+: MOV `1080p` `16.73 GB`
+
+CAST
+: Santino Fontana (Michael Dorsey/Dorothy Michaels), Lilli Cooper (Julie Nichols), Andy Grotelueschen (Jeff Slater), Sarah Stiles (Sandy Lester), John Behlmann (Max Van Horn), Julie Halston (Rita Marshall), Reg Rogers (Ron Carlisle), Michael McGrath (Stan Fields), Britney Coleman
+
+NOTES
+: Full stage shot of the show during it’s run on Broadway. There is washout, as it’s a full stage shot, but it is very very watchable. About 8 minutes is missing right before the Act 1 finale.
+
+#### Fela! - Off-Broadway - October 5, 2008 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.20 GB`
+
+CAST
+: Sahr Ngaujah (Fela), Sparlha Swa (Sandra), Abena Koomson (Funmilayo)
+
+NOTES
+: Professionally recorded, using multiple cameras at 37 Arts during the final days of the Off-Broadway run.
+
 #### Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 30, 2010
 {: .no_toc .d-inline-block }
 

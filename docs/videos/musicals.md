@@ -1066,6 +1066,21 @@ CAST
 NOTES
 : Great HD capture a week before the closing performance. First 10 or so minutes are full stage shot, then zooming begins. Still a great cast with some great songs and moments in the show. A-
 
+#### Amélie - UK Tour - June, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MP4 `576p` `4.43 GB`
+
+CAST
+: Audrey Brisson, Danny Mac, Johnson Willis, Rachel Dawson, Jez Unwin, Kate Robson-Stuart, Sophie Crawford, Faoileann Cunningham, Caolan McCarthy, Oliver Grant, Samuel Morgan-Grahame, Josh Sneesby, Charley Magalit, Chris Jared, Emma Jane Morton, Nuwan Hugh Perera
+
+NOTES
+: Filmed from the left side mezzanine. Beth continually improves with this wonderful quality video of the fantastic cast of the tour.
+
 ## An American in Paris
 
 #### An American in Paris - First National Tour - March 23, 2017 
@@ -5484,7 +5499,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#freaky-friday">Freaky Friday</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fela">Fela!</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#freaky-friday">Freaky Friday</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -5578,6 +5593,23 @@ CAST
 
 NOTES
 : An inventive new production of this long-running Off-Broadway classic. Very nicely captured with no washout and no blackouts. There are some small heads that can occasionally be seen at the bottom of the screen, but they never block the action. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans
+
+## Fela!
+
+#### Fela! - Off-Broadway - October 5, 2008 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.20 GB`
+
+CAST
+: Sahr Ngaujah (Fela), Sparlha Swa (Sandra), Abena Koomson (Funmilayo)
+
+NOTES
+: Professionally recorded, using multiple cameras at 37 Arts during the final days of the Off-Broadway run.
 
 ## Fiddler on the Roof
 
@@ -12944,7 +12976,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#taboo-the-boy-george-musical">Taboo: the Boy George Musical</a> • <a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="Thttps://kyratrades.github.io/musicals#thrill-me-the-leopold--loeb-storyBA">Thrill Me: The Leopold & Loeb Story</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#taboo-the-boy-george-musical">Taboo: the Boy George Musical</a> • <a href="https://kyratrades.github.io/musicals#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/musicals#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/musicals#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/musicals#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/musicals#thoroughly-modern-millie">Thoroughly Modern Millie</a> • <a href="Thttps://kyratrades.github.io/musicals#thrill-me-the-leopold--loeb-storyBA">Thrill Me: The Leopold & Loeb Story</a> • <a href="https://kyratrades.github.io/musicals#tick-tick-boom">tick, tick... BOOM!</a> • <a href="https://kyratrades.github.io/musicals#time-and-again">Time and Again</a> • <a href="https://kyratrades.github.io/musicals#titanic">Titanic</a> • <a href="https://kyratrades.github.io/musicals#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/musicals#tootsie">Tootsie</a> • <a href="https://kyratrades.github.io/musicals#treason-the-musical">Treason the Musical</a> • <a href="https://kyratrades.github.io/musicals#two-by-two">Two by Two</a></p>
 
 ## Taboo: the Boy George Musical
 
@@ -13106,6 +13138,7 @@ NOTES
 : ​Great to excellent sound and picture, filmed from very close to the stage. Performed in German.
 
 #### Thrill Me - South Korea - April 2, 2017
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `3.61 GB`
@@ -13186,6 +13219,23 @@ FORMAT
 
 CAST
 : Jenna Russell (Susan), Lucie Jones (Heidi), Marc Elliott (Jeff), Tyrone Huntley (Hunter)
+
+## Tootsie
+
+#### Tootsie - Broadway - December, 2019
+{: .no_toc .d-inline-block }
+
+theaterfan64
+{: .label .label-blue }
+
+FORMAT
+: MOV `1080p` `16.73 GB`
+
+CAST
+: Santino Fontana (Michael Dorsey/Dorothy Michaels), Lilli Cooper (Julie Nichols), Andy Grotelueschen (Jeff Slater), Sarah Stiles (Sandy Lester), John Behlmann (Max Van Horn), Julie Halston (Rita Marshall), Reg Rogers (Ron Carlisle), Michael McGrath (Stan Fields), Britney Coleman
+
+NOTES
+: Full stage shot of the show during it’s run on Broadway. There is washout, as it’s a full stage shot, but it is very very watchable. About 8 minutes is missing right before the Act 1 finale.
 
 ## Treason the Musical
 

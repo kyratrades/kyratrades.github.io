@@ -465,6 +465,20 @@ CAST
 NOTES
 : Very clear and lots of closeups, one or two coverups and some wandering. A-
 
+## Metamorphoses
+
+#### Metamorphoses - Broadway - April 10, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Anjali Bhimani (Myrrha), Raymond Fox (Midas), Kyle Hall (Hermes), Doug Hara (Phaeton), Felicity Jones (Aphrodite), Chris Kipiniak (Erysichthon), Louise Lamson (Alycon), Erik Lochtefeld (Orpheus), Mariann Mayberry (Eurydice), Lisa Tejero (Therapist)
+
+NOTES
+: A fantastic show captured pretty well. There's a head that occasionally gets in the way, and there is a lot of noise from moving the camera, but you still get everything from the show. What a brilliant production! B+
+
 ## Much Ado About Nothing
 
 #### Much Ado About Nothing - Wyndham\'s Theatre, West End - September, 2011
