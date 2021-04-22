@@ -6034,7 +6034,7 @@ CAST
 
 # G
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/musicals#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/musicals#grease">Grease</a> • <a href="https://kyratrades.github.io/musicals#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/musicals#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/musicals#gypsy">Gypsy</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/musicals#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/musicals#ghost-the-musical">Ghost: The Musical</a> • <a href="https://kyratrades.github.io/musicals#grease">Grease</a> • <a href="https://kyratrades.github.io/musicals#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/musicals#Groundhog-Day">Groundhog Day</a> • <a href="https://kyratrades.github.io/musicals#gypsy">Gypsy</a></p>
 
 ## A Gentleman\'s Guide to Love and Murder
 
@@ -6096,6 +6096,23 @@ CAST
 
 NOTES
 : Filmed from the back of the balcony. Many heads appear in the frame to start, then when the filmer gets his bearings, the video improves greatly. There are a few times (mostly at the beginning) when the filmer replaces some poor video moments with still shots. These still shots are less than 2 or 3 minutes of the entire show. Overall, a great video, and Megan Hilty is amazing.
+
+## Ghost: The Musical
+
+#### Ghost: The Musical - Broadway - July 28, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Richard Fleeshman (Sam Wheat), Caissie Levy (Molly Jensen), Da'Vine Joy Randolph (Oda Mae Brown), Bryce Pinkham (Carl Bruner), Michael Bladerrama (Willie Lopez), Tyler McGee (Subway Ghost)
+
+NOTES
+: Great HD capture of the show toward the end of the run. Despite what the reviews said, this is one show I thoroughly enjoyed and wish it had a better life on Broadway as it deserved! A-
 
 ## Grease
 
