@@ -15,7 +15,7 @@ permalink: /concerts
 ### Special Events
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-backwards">Broadway Backwards</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#nothing-like-a-dame">Nothing Like A Dame</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#bombshell">Bombshell</a> • <a href="https://kyratrades.github.io/concerts#broadway-backwards">Broadway Backwards</a> • <a href="https://kyratrades.github.io/concerts#broadway-miscast">Broadway Miscast</a> • <a href="https://kyratrades.github.io/concerts#the-meg-an-sho-show">The Meg an' Sho Show</a> • <a href="https://kyratrades.github.io/concerts#nothing-like-a-dame">Nothing Like A Dame</a> • <a href="https://kyratrades.github.io/concerts#seths-broadway-chatterbox">Seth's Broadway Chatterbox</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Sondheim</a> • <a href="https://kyratrades.github.io/concerts#sondheim">Stars In The Alley</a> • <a href="https://kyratrades.github.io/concerts#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/concerts#wicked-divas">Wicked Divas</a></p>
 
 ### Performers
 
@@ -300,6 +300,17 @@ CAST
 NOTES
 : Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
 : Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
+
+## Stars In The Alley
+
+#### Stars In The Alley - New York - June 4, 1999
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Hosted by Bernadette Peters from Shubert Alley to benefit The League Of American Producers and Theatres. Featuring: Tom Wopat (My Defenses are Down-Annie Get Your Gun), Anthony Rapp, Roger Bart (Suppertime-You're a Good Man Charlie Brown), Cathy Rigby (I Won't Grow Up-Peter Pan), Ruthie Henshall, Roz Ryan (Class-Chicago), Mary McCormack (Cabaret-Cabaret), Alice Ripley (I Dreamed a Dream-Les Miz.), Bill Porter (Bui Doi-Miss Saigon), Linda Balgord (Memory-Cats), Hugh Panaro (Music of the Night-Phantom), Rob Evan (This is the Moment,-Jekyll & Hyde), Rachel York (Storybook-Scarlet Pimpernel), Gene Miller (Last Waltz for Dixie-The Civil War), Edie Falco, Scott Wolfe (Side Man), Tony Orlando & company of Smokey Joe's Cafe (Stand by Me-Smokey Joe's Cafe), Meg Tollis (Do Re Mi-Sound of Music), Company of Rent (Seasons Of Love-Rent), LaChanze, Alton Fitzgerald White (Wheels of a Dream-Ragtime), Stacie Francis, Jennifer Laura Thompson, Robin Baxter (Let's Hear It for the Boy-Footloose), Valerie Pettiford & Cast of Fosse (Life is Just a Bowl of Cherries-Fosse).  About 90 minutes.  Filmed from the crowd.   A-
 
 ## Tony Awards
 
@@ -667,6 +678,15 @@ SOPRANOS
 ALTOS
 : Lisa Bell, Donna Burroughs, Fances Chee, Jennifer Cheng, Evi Desser, Laurie Fox, Carol Lisek, Anna Lysak, Helen R. Mendoza, Jan Miller, Brenda Moore, Consuelo Moreno, Carly Munson, Marcela Pan, Brooke Randolph, Cris Scaglione, Carol Ann Scherfenberg, Nancy Timmons, Debi Tinsley
 
+#### Rachel York, Up Close And Personal At Stage 72 - New York - March 24, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: AIFF `745 MB`
+
+NOTES
+: In her new one woman show, Rachel York celebrates her love of singing and performing in a delightful evening of stories and song. She includes numbers made famous by early inspirations, favorite show tunes from her Broadway career, jazz standards from her album (“Let’s Fall in Love”). A-
+
 ## Shoshana Bean
 
 #### Shoshana Bean: Sing Your Hallelujah - 2020
@@ -862,6 +882,15 @@ CAST
 
 NOTES
 : Some obstructions to the picture for the first 7 minutes; filmed from about the 4th row and a little off to the side
+
+#### The Festival of New American Musicals Benefit - Los Angeles, CA - January 19, 2009
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.34 GB`
+
+NOTES
+: EXCLUSIVE! Davis Gaines, Rachel York, Jason Graae, Valerie Pettiford, Cathy Woo. Hosted by Marc Cherry (Desperate Housewives, The Golden Girls…) in his own home, this benefit raised money for LA’s newest theatrical venue in a casual setting before invited guests. Marc’s house is packed with celebrities, and it’s fun to play “who’s who?” before the show starts.  The five artists perform a mix of Broadway standards, and original music written just for the occasion (There is a hilarious piece, written by Marc Cherry, called “Friday The 13th, The Musical”, in which Jason Graae plays “Jason Voorhees”, and sings a selection of Broadway standards to a new set of lyrics.)  This has the look and feel of a home movie, and it offers an interesting glimpse at a Hollywood party.  About The Festival of New American Theatre: “The Festival was founded in 2006 by Marcia Seligson, Producing Artistic Director of Los Angeles’ Reprise! By 2006 it was clear to Seligson that a renaissance in American theater was beginning to happen. Wicked had debuted on Broadway and was drawing huge audiences dominated by teenagers who had never seen a Broadway musical before. Where previously only a handful of successful musicals were “new” and ”American” now the number had doubled and tripled in a few short years. Away from Broadway, a new generation of composers, lyricists and book writers were beginning to attract a substantial following. Names like Adam Guettel, Jason Robert Brown, Ricky Ian Gordon and Michael John LaChiusa were having shows produced off Broadway, on college campuses and in small theaters around the country. Where Reprise! was dedicated to revivals of classic American musicals, Seligson decided it was the right time to develop an event to celebrate “the new” and to showcase the enormous body of creative and performing talent they had discovered in Southern California during the first decade of Reprise!”  About 45 minutes. A
 
 #### Tom Kitt & Friends - Joe's Pub - October 6, 2008
 {: .no_toc .d-inline-block }

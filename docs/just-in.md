@@ -16,6 +16,68 @@ ___
 
 ## April, 2021
 
+### Apr 22, 2021
+
+#### Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 30, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Shoshana Bean, Eden Espinosa, Jenna Leigh Green, Megan Hilty, Katie Thompson, Marty Thomas, James Snyder, Elizabeth Brackenbury, Aynsley Bubbico, Scarlett Cherry, Deborah S. Craig, Nick Galbraith, Katie Kern, Jen Malenke, Lesli Margherita, Vic Mazzone, Aaron Neely, Leslie Odom, Jr., Jackie Seiden
+
+NOTES
+: The musical is performed  as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway's best alternating in the roles. For the second show, they had a video screen projecting a nice wide shot of the entire show. Video is a clear and unobstructed screen capture of the show. Tapers camera went out during the song "Suck It", so only the first minute of this song is captured. Picks right back up at the intro/beginning of the next song, "With You." Otherwise a great quality capture.  Originally planned as a one night only event, this was filmed on the second night of the world premier presentation of this new musical.   A-
+
+#### Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: "Something Wicked This Way Comes"  "Betty and Henry continue their illicit romance and plan a secret date to "Wicked," but things don't go as planned... Meanwhile, Daniel woos an important advertiser (guest star Marlo Thomas), a lady with a penchant for younger men."  Even though the show takes place in New York, it is filmed in Los Angeles, and they filmed the Wicked scenes at the Pantages Theatre in LA, with Eden Espinoza and Megan Hilty as Elphaba and Galinda.  Complete with original commercials.   A
+
+#### The Sound Of Music - Hollywood Bowl - July 30, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.82 GB`
+
+CAST
+: Melissa Errico (Maria), John Schneider (Captain von Trapp), Rachel York (Elsa Shraeder), Marni Nixon (Mother Abbess), Andrea Bowen (Liesl), Benjamin Platt (Friedrich), Mary Catherine Hughes (Louisa), Andrew Hoeft (Kurt), Justine Dorsey (Brigitta), Emma Ashford (Marta), Anza Seller (Gretl), Stephen Breithaupt (Franz, the butler), Marianne Muellerleile (Frau Schmidt, the housekeeper), David Larsen (Rolf Gruber), Jeffrey Tambor (Max Detweiler).
+
+NOTES
+: This production uses the score, book, and orchestrations of the original 1959 show.  Filmed using multiple cameras.   A-
+
+#### The Festival of New American Musicals Benefit - Los Angeles, CA - January 19, 2009
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.34 GB`
+
+NOTES
+: EXCLUSIVE! Davis Gaines, Rachel York, Jason Graae, Valerie Pettiford, Cathy Woo. Hosted by Marc Cherry (Desperate Housewives, The Golden Girls…) in his own home, this benefit raised money for LA’s newest theatrical venue in a casual setting before invited guests. Marc’s house is packed with celebrities, and it’s fun to play “who’s who?” before the show starts.  The five artists perform a mix of Broadway standards, and original music written just for the occasion (There is a hilarious piece, written by Marc Cherry, called “Friday The 13th, The Musical”, in which Jason Graae plays “Jason Voorhees”, and sings a selection of Broadway standards to a new set of lyrics.)  This has the look and feel of a home movie, and it offers an interesting glimpse at a Hollywood party.  About The Festival of New American Theatre: “The Festival was founded in 2006 by Marcia Seligson, Producing Artistic Director of Los Angeles’ Reprise! By 2006 it was clear to Seligson that a renaissance in American theater was beginning to happen. Wicked had debuted on Broadway and was drawing huge audiences dominated by teenagers who had never seen a Broadway musical before. Where previously only a handful of successful musicals were “new” and ”American” now the number had doubled and tripled in a few short years. Away from Broadway, a new generation of composers, lyricists and book writers were beginning to attract a substantial following. Names like Adam Guettel, Jason Robert Brown, Ricky Ian Gordon and Michael John LaChiusa were having shows produced off Broadway, on college campuses and in small theaters around the country. Where Reprise! was dedicated to revivals of classic American musicals, Seligson decided it was the right time to develop an event to celebrate “the new” and to showcase the enormous body of creative and performing talent they had discovered in Southern California during the first decade of Reprise!”  About 45 minutes. A
+
+#### Rachel York, Up Close And Personal At Stage 72 - New York - March 24, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: AIFF `745 MB`
+
+NOTES
+: In her new one woman show, Rachel York celebrates her love of singing and performing in a delightful evening of stories and song. She includes numbers made famous by early inspirations, favorite show tunes from her Broadway career, jazz standards from her album (“Let’s Fall in Love”). A-
+
+#### Stars In The Alley - New York - June 4, 1999
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Hosted by Bernadette Peters from Shubert Alley to benefit The League Of American Producers and Theatres. Featuring: Tom Wopat (My Defenses are Down-Annie Get Your Gun), Anthony Rapp, Roger Bart (Suppertime-You're a Good Man Charlie Brown), Cathy Rigby (I Won't Grow Up-Peter Pan), Ruthie Henshall, Roz Ryan (Class-Chicago), Mary McCormack (Cabaret-Cabaret), Alice Ripley (I Dreamed a Dream-Les Miz.), Bill Porter (Bui Doi-Miss Saigon), Linda Balgord (Memory-Cats), Hugh Panaro (Music of the Night-Phantom), Rob Evan (This is the Moment,-Jekyll & Hyde), Rachel York (Storybook-Scarlet Pimpernel), Gene Miller (Last Waltz for Dixie-The Civil War), Edie Falco, Scott Wolfe (Side Man), Tony Orlando & company of Smokey Joe's Cafe (Stand by Me-Smokey Joe's Cafe), Meg Tollis (Do Re Mi-Sound of Music), Company of Rent (Seasons Of Love-Rent), LaChanze, Alton Fitzgerald White (Wheels of a Dream-Ragtime), Stacie Francis, Jennifer Laura Thompson, Robin Baxter (Let's Hear It for the Boy-Footloose), Valerie Pettiford & Cast of Fosse (Life is Just a Bowl of Cherries-Fosse).  About 90 minutes.  Filmed from the crowd.   A-
+
 ### Apr 21, 2021
 
 #### Gypsy: Ultimate Edit - Fourth Broadway Revival - 2008

@@ -2045,6 +2045,15 @@ CAST
 
 ### Specials
 
+#### Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: "Something Wicked This Way Comes"  "Betty and Henry continue their illicit romance and plan a secret date to "Wicked," but things don't go as planned... Meanwhile, Daniel woos an important advertiser (guest star Marlo Thomas), a lady with a penchant for younger men."  Even though the show takes place in New York, it is filmed in Los Angeles, and they filmed the Wicked scenes at the Pantages Theatre in LA, with Eden Espinoza and Megan Hilty as Elphaba and Galinda.  Complete with original commercials.   A
+
 #### Wicked - Anniversary Specials - October 29, 2018
 {: .no_toc .d-inline-block }
 

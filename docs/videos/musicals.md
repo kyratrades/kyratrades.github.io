@@ -1707,7 +1707,7 @@ CAST
 NOTES
 : Amateur production. Seems to be very inspired by the 2011 Broadway Revival.
 
-#### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - May 18, 2016 (Highlights)
+#### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - May 17, 2016 (Highlights)
 {: .no_toc .d-inline-block }
 
 Watched
@@ -1715,15 +1715,13 @@ Watched
 
 FORMAT
 : MP4 `720p` `59.5 MB` `3m 25s`
-
-COMMENTS
 : Will trade this out as the equivalent of one audio
 
 CAST
 : Andrea McArdle (Reno Sweeney), Josh Canfield (Billy Crocker), Ray DeMattis (Moonface Martin), Ian Knauer (Lord Evelyn Oakleigh), Sally Struthers (Mrs. Evangeline Harcourt), Mychal Phillips (Erma)
 
 NOTES
-: The cast perform \"Anything Goes\". The actual date is May 17th 2016.
+: \"Anything Goes\" only. It is usually labelled as either May 17 or 18.
 
 #### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - July, 2016 (Highlights)
 {: .no_toc .d-inline-block }
@@ -1733,8 +1731,6 @@ Watched
 
 FORMAT
 : MP4 `1080p` `35.3 MB` `1m 52s`
-
-COMMENTS
 : Will trade this out as the equivalent of one audio
 
 CAST
@@ -3365,8 +3361,6 @@ NOTES
 
 FORMAT
 : VOB+smalls `1 DVD` `1.48 GB`
-
-COMMENTS
 : Looking for 2 DVDs version
 
 CAST
@@ -3401,8 +3395,6 @@ Issues
 
 FORMAT
 : VOB `NO SMALLS` + M4V `3.10 GB`
-
-COMMENTS
 : Looking to trade for original smalls/files.
 
 CAST
@@ -7440,7 +7432,7 @@ NOTES
 
 ## Jawbreaker: The Musical
 
-#### Jawbreaker - Concert Reading - July 29, 2010
+#### Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 29, 2010
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -7451,6 +7443,18 @@ CAST
 
 NOTES
 : This musical is performed as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway\'s best alternating in the roles. Shot from the front of the venue and a nice capture. A
+
+#### Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 30, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Shoshana Bean, Eden Espinosa, Jenna Leigh Green, Megan Hilty, Katie Thompson, Marty Thomas, James Snyder, Elizabeth Brackenbury, Aynsley Bubbico, Scarlett Cherry, Deborah S. Craig, Nick Galbraith, Katie Kern, Jen Malenke, Lesli Margherita, Vic Mazzone, Aaron Neely, Leslie Odom, Jr., Jackie Seiden
+
+NOTES
+: The musical is performed  as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway's best alternating in the roles. For the second show, they had a video screen projecting a nice wide shot of the entire show. Video is a clear and unobstructed screen capture of the show. Tapers camera went out during the song "Suck It", so only the first minute of this song is captured. Picks right back up at the intro/beginning of the next song, "With You." Otherwise a great quality capture.  Originally planned as a one night only event, this was filmed on the second night of the world premier presentation of this new musical.   A-
 
 ## Jerry\'s Girls
 
@@ -12211,6 +12215,18 @@ FORMAT
 
 CAST
 : Rebecca Luker (Maria Rainer), Michael Siberry (Captain Georg Von Trapp), Patti Cohenour (The Mother Abbess), Jan Maxwell (Elsa Schraeder), Fred Applegate (Max Detweiler), Sara Zelle (Liesel Von Trapp), Gina Ferrall (Sister Berthe), Ann Brown (Sister Sophia), Andrea Bowen (Marta), Ashley Rose Orr (Gretl), Dashiell Eaves (Rolf Gruber), Patricia Conolly (Frau Schmidt)
+
+#### The Sound Of Music - Hollywood Bowl - July 30, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.82 GB`
+
+CAST
+: Melissa Errico (Maria), John Schneider (Captain von Trapp), Rachel York (Elsa Shraeder), Marni Nixon (Mother Abbess), Andrea Bowen (Liesl), Benjamin Platt (Friedrich), Mary Catherine Hughes (Louisa), Andrew Hoeft (Kurt), Justine Dorsey (Brigitta), Emma Ashford (Marta), Anza Seller (Gretl), Stephen Breithaupt (Franz, the butler), Marianne Muellerleile (Frau Schmidt, the housekeeper), David Larsen (Rolf Gruber), Jeffrey Tambor (Max Detweiler).
+
+NOTES
+: This production uses the score, book, and orchestrations of the original 1959 show.  Filmed using multiple cameras.   A-
 
 #### The Sound of Music - North American Tour - October 11, 2015 
 {: .no_toc .d-inline-block }
