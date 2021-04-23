@@ -9445,7 +9445,7 @@ CAST
 NOTES
 : Highlights totaling about 14 minutes. Includes clips of Bad Romance, Come What May, Chandelier, Rollin' in the Deep, and the Finale/Bows. Camera often wanders to the ceiling and doesn't capture the stage. Many heads in the way and a lot of spotlight washout. The finale is really the only good clip.
 
-#### Moulin Rouge! - Pre-Broadway / Boston - August 2018
+#### Moulin Rouge! - Pre-Broadway / Boston - August, 2018
 {: .no_toc .d-inline-block }
 
 House-Cam
