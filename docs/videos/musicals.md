@@ -9451,6 +9451,9 @@ NOTES
 House-Cam
 {: .label .label-green }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 
@@ -9511,6 +9514,9 @@ NOTES
 StarCuffedJeans
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : MP4 `1080p` `5.31 GB`
 
@@ -9532,14 +9538,14 @@ Watched
 {: .label .label-yellow }
 
 FORMAT
-: `1` MKV `1080p` `4.16 GB`
+: `1` MKV `1080p` `22.97 GB`
 : `2` VOB+smalls `2 DVDs` `Commercial DVD`
 
 CAST
 : Nicole Kidman, Ewan McGregor, John Leguizamo
 
 NOTES
-: The MKV is a blu-ray rip while the DVDs are the "Two-Disc Collector's Edition" with 6 hours worth of extras (documentary, interviews, unseen footage and more!). The DVDs are very nicely constructed.
+: The MKV is a blu-ray REMUX (movie only) while the DVDs are the "Two-Disc Collector's Edition" with 6 hours worth of extras (documentary, interviews, unseen footage and more!). The DVDs are very nicely constructed.
 
 IMDB
 : <https://www.imdb.com/title/tt0203009/>
