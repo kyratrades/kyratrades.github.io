@@ -9529,7 +9529,7 @@ NOTES
 ### Specials
 
 Moulin Rouge (2001)
-{: .fw-600 .lh-0 .text-gamma .d-inline-block }
+{: .fw-500 .text-gamma .d-inline-block }
 
 Film
 {: .label .label-green }
@@ -9553,7 +9553,7 @@ IMDB
 ## Mozart! das Musical
 
 Mozart! - Vienna, Austria - 2015
-{: .fw-600 .text-gamma .d-inline-block }
+{: .fw-500 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9570,7 +9570,7 @@ NOTES
 ## Murder Ballad
 
 Murder Ballad - Off-Broadway - July 13, 2013
-{: .fw-600 .text-gamma .d-inline-block }
+{: .fw-500 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
