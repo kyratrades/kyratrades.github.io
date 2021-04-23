@@ -11,8 +11,8 @@ permalink: /plays
 
 ## 1984
 
-#### 1984 - Broadway - July 1, 2017
-{: .no_toc .d-inline-block }
+1984 - Broadway - July 1, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -28,8 +28,8 @@ NOTES
 
 ## Amadeus
 
-#### Amadeus - National Theatre - February 2, 2017
-{: .no_toc .d-inline-block }
+Amadeus - National Theatre - February 2, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -45,8 +45,8 @@ CAST
 
 ## Beautiful Thing
 
-#### Beautiful Thing - London - May 22-23, 2013
-{: .no_toc .d-inline-block }
+Beautiful Thing - London - May 22-23, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -62,8 +62,8 @@ NOTES
 
 ## La Cage aux Folles
 
-#### La Cage aux Folles - Berlin - 1987
-{: .no_toc .d-inline-block }
+La Cage aux Folles - Berlin - 1987
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -76,8 +76,8 @@ CAST
 
 ## Cat on a Hot Tin Roof
 
-#### Cat on a Hot Tin Roof - Broadway - January 1, 2013
-{: .no_toc .d-inline-block }
+Cat on a Hot Tin Roof - Broadway - January 1, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -87,8 +87,8 @@ CAST
 
 ## Chinglish
 
-#### Chinglish - Pre-Broadway / Chicago - July 31, 2011 (Closing Night)
-{: .no_toc .d-inline-block }
+Chinglish - Pre-Broadway / Chicago - July 31, 2011 (Closing Night)
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -104,8 +104,8 @@ NOTES
 
 ## A Christmas Carol
 
-#### A Christmas Carol - Dicapo Opera Theatre - December 19, 1993
-{: .no_toc .d-inline-block }
+A Christmas Carol - Dicapo Opera Theatre - December 19, 1993
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.54 GB`
@@ -118,8 +118,8 @@ NOTES
 
 ## The Comedy About A Bank Robbery
 
-#### The Comedy About A Bank Robbery - West End - December, 2019 
-{: .no_toc .d-inline-block }
+The Comedy About A Bank Robbery - West End - December, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -135,8 +135,8 @@ NOTES
 
 ## The Crucible
 
-#### The Crucible - The Old Vic - 2015
-{: .no_toc .d-inline-block }
+The Crucible - The Old Vic - 2015
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-blue }
@@ -151,8 +151,8 @@ NOTES
 : Proshot. Released 4th February 2015, but filmed in 2014.
 : <https://www.imdb.com/title/tt4156348/>
 
-#### The Crucible - Broadway - March 30, 2016
-{: .no_toc .d-inline-block }
+The Crucible - Broadway - March 30, 2016
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -168,8 +168,8 @@ NOTES
 
 ## The Curious Incident of the Dog in the Night-Time
 
-#### The Curious Incident of the Dog in the Night-Time - National Theatre - September 6, 2012
-{: .no_toc .d-inline-block }
+The Curious Incident of the Dog in the Night-Time - National Theatre - September 6, 2012
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -184,8 +184,8 @@ CAST
 NOTES
 : Multi-cam pro shot from the National Theatre Live broadcast.
 
-#### The Curious Incident of the Dog in the Night-Time - Broadway - November 22, 2014
-{: .no_toc .d-inline-block }
+The Curious Incident of the Dog in the Night-Time - Broadway - November 22, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -196,8 +196,8 @@ FORMAT
 CAST
 : Alex Sharp (Christopher Boone), Francesca Faridany (Siobhan), Ian Barford (Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander)
 
-#### The Curious Incident of the Dog in the Night-Time - Broadway - December 30, 2014 (Matinee)
-{: .no_toc .d-inline-block }
+The Curious Incident of the Dog in the Night-Time - Broadway - December 30, 2014 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -213,8 +213,8 @@ NOTES
 
 ## A Delicate Balance
 
-#### A Delicate Balance - 2nd Broadway Revival - January 2, 2015 
-{: .no_toc .d-inline-block }
+A Delicate Balance - 2nd Broadway Revival - January 2, 2015 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -230,8 +230,8 @@ NOTES
 
 ## Doubt
 
-#### Doubt - Off-Broadway - November 20, 2004
-{: .no_toc .d-inline-block }
+Doubt - Off-Broadway - November 20, 2004
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -241,8 +241,8 @@ CAST
 
 ## Frankenstein (play by Nick Dear)
 
-#### Frankenstein - National Theatre - March 17, 2011
-{: .no_toc .d-inline-block }
+Frankenstein - National Theatre - March 17, 2011
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -255,8 +255,8 @@ CAST
 
 ## The Full Monty
 
-#### The Full Monty - Broadway - January 16, 2002
-{: .no_toc .d-inline-block }
+The Full Monty - Broadway - January 16, 2002
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.30 GB`
@@ -266,8 +266,8 @@ CAST
 
 ## Grace
 
-####  Grace - Broadway - September 20, 2002
-{: .no_toc .d-inline-block }
+ Grace - Broadway - September 20, 2002
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -282,8 +282,8 @@ NOTES
 
 IMPORTANT: Includes both Parts, treated as TWO videos when trading (as is common practice)
 
-#### Harry Potter and the Cursed Child - West End - April 1, 2017
-{: .no_toc .d-inline-block }
+Harry Potter and the Cursed Child - West End - April 1, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p` `7.88 GB`
@@ -291,8 +291,8 @@ FORMAT
 CAST
 : Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Cherrelle Skeete (Rose Granger-Weasley/Young Hermione), Esther Smith (Delphi Diggory), Annabel Baldwin (Moaning Myrtle/Lily Potter Sr.), Adam McNamara (u/s Hagrid/Sorting Hat), James Le Lacheur (Yann Fredericks), Barry McCarthy (Amos Diggory/Albus Dumbledore), Sandy McDade (Professor McGonagall), Jack North (u/s Cedric Diggory/James Potter Jr./James Potter Sr.), Joshua Wyatt (u/s Dudley Dursley/Karl Jenkins/Viktor Krum), Nuno Silva (Bane), Harrison Noble (Young Harry Potter), Phoebe Austen (Lily Potter Jr.), Andrew McDonald (u/s Station Master)
 
-#### Harry Potter and the Cursed Child - Broadway - April 15, 2018 
-{: .no_toc .d-inline-block }
+Harry Potter and the Cursed Child - Broadway - April 15, 2018 
+{: .fs-5 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -303,8 +303,8 @@ FORMAT
 CAST
 : Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Adam McNamara (Hagrid/Sorting Hat), Benjamin Wheelwright (Cedric Diggory/James Potter Jr./James Potter Sr.)
 
-#### Harry Potter and the Cursed Child - Broadway - May, 2019 
-{: .no_toc .d-inline-block }
+Harry Potter and the Cursed Child - Broadway - May, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -320,8 +320,8 @@ NOTES
 
 ## The Heiress
 
-#### The Heiress - Broadway - October 13, 2012
-{: .no_toc .d-inline-block }
+The Heiress - Broadway - October 13, 2012
+{: .fs-5 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -334,8 +334,8 @@ CAST
 
 ## The History Boys
 
-#### The History Boys - Broadway - May 6, 2006
-{: .no_toc .d-inline-block }
+The History Boys - Broadway - May 6, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -345,8 +345,8 @@ CAST
 
 ## It\'s Only A Play
 
-#### It\'s Only A Play - Broadway - December 29, 2014
-{: .no_toc .d-inline-block }
+It\'s Only A Play - Broadway - December 29, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -360,8 +360,8 @@ CAST
 NOTES
 : A decent capture of the play's original cast. \*The play is absolutely hysterical --- Nathan, Megan, and Micah being particularly fantastic. This capture has no washout and only minor obstruction, but most of the first 26 minutes of Act One are blacked out. After that, the show is very nicely captured with just one head that can occasionally be seen at the bottom of the screen and does not affect the action. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is very good overall, but there is more shuffling and static than usual; all of the dialogue is listenable.
 
-#### It\'s Only A Play - Broadway - January 31, 2015
-{: .no_toc .d-inline-block }
+It\'s Only A Play - Broadway - January 31, 2015
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -377,8 +377,8 @@ NOTES
 
 ## The Lieutenant of Inishmore
 
-#### The Lieutenant of Inishmore - Broadway - April 20, 2006 (Preview)
-{: .no_toc .d-inline-block }
+The Lieutenant of Inishmore - Broadway - April 20, 2006 (Preview)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.84 GB`
@@ -391,8 +391,8 @@ NOTES
 
 ## Mac Beth
 
-#### Mac Beth - Off-Broadway - January, 2020 
-{: .no_toc .d-inline-block }
+Mac Beth - Off-Broadway - January, 2020 
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -408,8 +408,8 @@ NOTES
 
 ## Macbeth
 
-#### Macbeth - Manchester International Festival - July 20, 2013
-{: .no_toc .d-inline-block }
+Macbeth - Manchester International Festival - July 20, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -425,8 +425,8 @@ NOTES
 
 ## Master Class
 
-#### Master Class - Broadway - January 14, 1997
-{: .no_toc .d-inline-block }
+Master Class - Broadway - January 14, 1997
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.82 GB`
@@ -439,8 +439,8 @@ NOTES
 
 ## \"Master Harold\"\...and the Boys
 
-#### \"Master Harold\"\...and the Boys - Broadway - May 28, 2003
-{: .no_toc .d-inline-block }
+\"Master Harold\"\...and the Boys - Broadway - May 28, 2003
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -453,8 +453,8 @@ CAST
 
 ## Merchant of Venice
 
-#### The Merchant of Venice - Broadway - February 11, 2011
-{: .no_toc .d-inline-block }
+The Merchant of Venice - Broadway - February 11, 2011
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -467,8 +467,8 @@ NOTES
 
 ## Metamorphoses
 
-#### Metamorphoses - Broadway - April 10, 2002
-{: .no_toc .d-inline-block }
+Metamorphoses - Broadway - April 10, 2002
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -481,8 +481,8 @@ NOTES
 
 ## Much Ado About Nothing
 
-#### Much Ado About Nothing - Wyndham\'s Theatre, West End - September, 2011
-{: .no_toc .d-inline-block }
+Much Ado About Nothing - Wyndham\'s Theatre, West End - September, 2011
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -494,8 +494,8 @@ FORMAT
 CAST
 : Catherine Tate (Beatrice), David Tennant (Benedick), Sarah Macrae (Hero), Tom Bateman (Claudio), Jonathan Coy (Leonato), Adam James (Don Pedro), Elliot Levey (Don John), John Ramm (Dogberry), Mike Grady (Verges), Alex Beckett (Borachio), Clive Hayward (Friar Francis)
 
-#### Much Ado About Nothing - Royal Shakespeare Company - 2014 
-{: .no_toc .d-inline-block }
+Much Ado About Nothing - Royal Shakespeare Company - 2014 
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -509,8 +509,8 @@ CAST
 DIRECTOR
 : Christopher Luscombe
 
-#### Much Ado About Nothing - Shakespeare in the Park - June 22-23, 2019 (Closing Night) 
-{: .no_toc .d-inline-block }
+Much Ado About Nothing - Shakespeare in the Park - June 22-23, 2019 (Closing Night) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p` `2.9 GB`
@@ -531,8 +531,8 @@ NOTES
 
 Any videos I don't have and any better copies than the ones I have.
 
-#### Noises Off - Broadway - 1983
-{: .no_toc .d-inline-block }
+Noises Off - Broadway - 1983
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.06 GB`
@@ -540,8 +540,8 @@ FORMAT
 CAST
 : Dorothy Loudon (Dotty Otley), Brian Murray (Lloyd Dallas), Amy Wright (Poppy Norton-Taylor), Douglas Seale (Selsdon Mowbray), Victor Garber (Garry Lejeune), Linda Thorson (Belinda Blair), Deborah Rush (Brooke Ashton), Jim Piddock (Tim Allgood), Paxton Whitehead (Frederick Fellowes)
 
-#### Noises Off - First Broadway Revival - 2002
-{: .no_toc .d-inline-block }
+Noises Off - First Broadway Revival - 2002
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.06 GB`
@@ -552,8 +552,8 @@ CAST
 NOTES
 : Good zooms, filmed from right mezzanine and picture quality and sound excellent.
 
-#### Noises Off - First Broadway Revival - June 15, 2002
-{: .no_toc .d-inline-block }
+Noises Off - First Broadway Revival - June 15, 2002
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.79 GB`
@@ -564,8 +564,8 @@ CAST
 NOTES
 : Another great video of this hilarious play.
 
-#### Noises Off - Second Broadway Revival - February 24, 2016
-{: .no_toc .d-inline-block }
+Noises Off - Second Broadway Revival - February 24, 2016
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -581,8 +581,8 @@ NOTES
 
 ## Of Mice and Men
 
-#### Of Mice and Men - Broadway Revival - June 14, 2014
-{: .no_toc .d-inline-block }
+Of Mice and Men - Broadway Revival - June 14, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -598,8 +598,8 @@ NOTES
 
 ## Peter Pan Goes Wrong
 
-#### Peter Pan Goes Wrong - BBC Special - December 31, 2016
-{: .no_toc .d-inline-block }
+Peter Pan Goes Wrong - BBC Special - December 31, 2016
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -613,8 +613,8 @@ CAST
 NOTES
 : Mischief Theatre 2016 BBC Special proshot.
 
-#### Peter Pan Goes Wrong - UK Tour - January, 2020
-{: .no_toc .d-inline-block }
+Peter Pan Goes Wrong - UK Tour - January, 2020
+{: .fs-5 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot 
 {: .label .label-blue }
@@ -627,8 +627,8 @@ CAST
 
 ## The Play That Goes Wrong
 
-#### The Play That Goes Wrong - Broadway - May, 2018 
-{: .no_toc .d-inline-block }
+The Play That Goes Wrong - Broadway - May, 2018 
+{: .fs-5 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -642,8 +642,8 @@ CAST
 NOTES
 : (not Master\'s notes) Beginning from pre-show where the comedy \'bit\' of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think it\'s shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
 
-#### The Play That Goes Wrong - West End (Duchess Theatre) - March, 2020
-{: .no_toc .d-inline-block }
+The Play That Goes Wrong - West End (Duchess Theatre) - March, 2020
+{: .fs-5 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot 
 {: .label .label-blue }
@@ -656,8 +656,8 @@ CAST
 
 ## Puffs
 
-#### Puffs - Off-Broadway - February, 2018
-{: .no_toc .d-inline-block }
+Puffs - Off-Broadway - February, 2018
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -674,8 +674,8 @@ NOTES
 
 ## Red
 
-#### Red - Broadway - March 11, 2010
-{: .no_toc .d-inline-block }
+Red - Broadway - March 11, 2010
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -683,8 +683,8 @@ FORMAT
 CAST
 : Alfred Molina (Rothko), Eddie Redmayne (Ken)
 
-#### Red - West End - May 10, 2018
-{: .no_toc .d-inline-block }
+Red - West End - May 10, 2018
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -697,8 +697,8 @@ CAST
 
 ## Sea Wall / A Life
 
-#### Sea Wall/A Life - Broadway - July, 2019 (Highlights)
-{: .no_toc .d-inline-block }
+Sea Wall/A Life - Broadway - July, 2019 (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 Hollis Mizner
 {: .label .label-blue }
@@ -715,8 +715,8 @@ NOTES
 
 ## Sly Fox
 
-#### Sly Fox - Broadway - March 27, 2004
-{: .no_toc .d-inline-block }
+Sly Fox - Broadway - March 27, 2004
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -726,8 +726,8 @@ CAST
 
 ## Stepping Out
 
-#### Stepping Out - UK Tour - 2009
-{: .no_toc .d-inline-block }
+Stepping Out - UK Tour - 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -743,8 +743,8 @@ NOTES
 
 ## Three Days of Rain
 
-#### Three Days of Rain - Broadway - May 31, 2006
-{: .no_toc .d-inline-block }
+Three Days of Rain - Broadway - May 31, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -760,8 +760,8 @@ NOTES
 
 ## To Kill a Mockingbird
 
-#### To Kill a Mockingbird - Broadway - July, 2019
-{: .no_toc .d-inline-block }
+To Kill a Mockingbird - Broadway - July, 2019
+{: .fs-5 .text-gamma .d-inline-block }
 
 Hollis Mizner
 {: .label .label-blue }
@@ -777,8 +777,8 @@ NOTES
 
 ## Twelfth Night
 
-#### Twelfth Night - Lincoln Center - 1998
-{: .no_toc .d-inline-block }
+Twelfth Night - Lincoln Center - 1998
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -789,8 +789,8 @@ FORMAT
 CAST
 : Amy Hill (Maria), Brian Murray (Sir Toby Belch), David Patrick Kelly (Feste), Helen Hunt (Viola), Julio Monge (Antonio), Kyra Sedgwick (Olivia), Max Wright (Sir Andrew Aguecheek), Paul Rudd (Orsino), Philip Bosco (Malvolio), Rick Stear (Sebastian)
 
-#### Twelfth Night - Broadway - November 27, 2013
-{: .no_toc .d-inline-block }
+Twelfth Night - Broadway - November 27, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -803,8 +803,8 @@ NOTES
 
 ## Vanya and Sonia and Masha and Spike
 
-#### Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013
-{: .no_toc .d-inline-block }
+Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -816,8 +816,8 @@ FORMAT
 CAST
 : David Hyde Pierce (Vanya), Kristine Nielsen (Sonia), Sigourney Weaver (Masha), Billy Magnussen (Spike), Shalita Grant (Cassandra), Genevieve Angelson (Nina)
 
-#### Vanya and Sonia and Masha and Spike - Los Angeles - March 1, 2014
-{: .no_toc .d-inline-block }
+Vanya and Sonia and Masha and Spike - Los Angeles - March 1, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -825,8 +825,8 @@ FORMAT
 CAST
 : Mark Blum (Vanya), Kristine Nielsen (Sonia), Christine Ebersole (Masha), David Hull (Spike), Shalita Grant (Cassandra), Liesel Allen Yeager (Nina)
 
-#### Vanya and Sonia and Masha and Spike - San Diego - June 7, 2014 (Matinee)
-{: .no_toc .d-inline-block }
+Vanya and Sonia and Masha and Spike - San Diego - June 7, 2014 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -839,8 +839,8 @@ NOTES
 
 ## A View From the Bridge
 
-#### A View From the Bridge - Third Broadway Revival - January 6, 2010
-{: .no_toc .d-inline-block }
+A View From the Bridge - Third Broadway Revival - January 6, 2010
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -850,8 +850,8 @@ CAST
 
 ## The Visit
 
-#### The Visit - Signature Theatre, Arlington VA - June 22, 2008
-{: .no_toc .d-inline-block }
+The Visit - Signature Theatre, Arlington VA - June 22, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -862,8 +862,8 @@ CAST
 NOTES
 : Produced at The Signature Theatre as part of the Kander & Ebb Celebration.
 
-#### The Visit - Benefit Concert - November 30, 2011
-{: .no_toc .d-inline-block }
+The Visit - Benefit Concert - November 30, 2011
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -877,8 +877,8 @@ CAST
 NOTES
 : A Benefit Concert of the Kander & Ebb show with choreography by Ann Reinking. A very interesting story of a woman scorned and the price she pays to serve him justice. Everything is nicely captured and of course Chita does a fantastic job! A-
 
-#### The Visit - Broadway - March 27, 2015 (Preview) 
-{: .no_toc .d-inline-block }
+The Visit - Broadway - March 27, 2015 (Preview) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -892,8 +892,8 @@ CAST
 NOTES
 : Fantastic capture with no obstructions and hardly any washout. Very good revival.
 
-#### The Visit - Broadway - April 11, 2015 (Preview)
-{: .no_toc .d-inline-block }
+The Visit - Broadway - April 11, 2015 (Preview)
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -907,8 +907,8 @@ CAST
 NOTES
 : Great HD capture of the Kander & Ebb musical that finally made it to Broadway. At times a head can block the Actor\'s feet on the far right side, but rarely an issue. Chita still in wonderful form here and always delivers in this dark tale of a scorned woman! A-
 
-#### The Visit - Broadway - April 22, 2015 (Preview)
-{: .no_toc .d-inline-block }
+The Visit - Broadway - April 22, 2015 (Preview)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -919,8 +919,8 @@ CAST
 NOTES
 : Excellent HD video filmed from center mezzanine with little washout. Great clear picture and sound.
 
-#### The Visit - Broadway - June 3, 2015 
-{: .no_toc .d-inline-block }
+The Visit - Broadway - June 3, 2015 
+{: .fs-5 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -936,8 +936,8 @@ NOTES
 
 ## Waiting for Godot
 
-#### Waiting for Godot - Broadway - November 24, 2013 (Opening Night)
-{: .no_toc .d-inline-block }
+Waiting for Godot - Broadway - November 24, 2013 (Opening Night)
+{: .fs-5 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -950,8 +950,8 @@ CAST
 
 ## Young Marx
 
-#### Young Marx - Bridge Theatre - December 7, 2017
-{: .no_toc .d-inline-block }
+Young Marx - Bridge Theatre - December 7, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }

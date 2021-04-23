@@ -18,8 +18,8 @@ permalink: /wicked
 
 ### Broadway
 
-#### Wicked - Broadway - October, 2003 (Highlights) 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October, 2003 (Highlights) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -33,8 +33,8 @@ CAST
 NOTES
 : About 20 minutes of proshot footage. No One Mourns The Wicked; The Wizard And I; Dancing Through Life; Popular; One Short Day; Defyinig Gravity; Thank Goodness; Wonderful; As Long As You\'re Mine; For Good.
 
-#### Wicked - Broadway - October 11, 2003 (Preview)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 11, 2003 (Preview)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.15 GB`
@@ -45,8 +45,8 @@ CAST
 NOTES
 : Filmed from 4th row from a left side angle. When there is a picture, it\'s nice and clear but not often. No flying scene video; last 10 minutes is sound only.
 
-#### Wicked - Broadway - October 12, 2003 (Preview)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 12, 2003 (Preview)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `1 DVD`
@@ -59,8 +59,8 @@ CAST
 NOTES
 : Very well shot overall despite spotlight washout. 1 Disc version includes NY1 Review Segment, Today Show performance, and Letterman performance. 2 Disc version is lower generation (higher quality) but does not include the extras.
 
-#### Wicked - Broadway - January 9, 2004
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 9, 2004
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.79 GB`
@@ -71,8 +71,8 @@ CAST
 NOTES
 : Restored to the original PAL, though not without a hit from the gen loss incurred along the way. Audio has been filtered to remove the camera noise and excess hiss from the theatre. Image is on the shaky side, and the camera has a hard time locking into focus combined with being out of sync with the US lights leading to a constant flicker. A pity because it's a strong performance by the original cast during the show's ascent.
 
-#### Wicked - Broadway - July 18, 2004
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 18, 2004
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `No DVD menu` `7.63 GB`
@@ -83,8 +83,8 @@ CAST
 NOTES
 : This is Kristin and Norbert\'s last show. It was also supposed to be Joel Grey\'s last show, but he was ill. Video is sound only for first 4 minutes. This is a great video and excellent sound. Includes the speech by Idina. Definitely the best of the early Wicked captures. Idina wiping tears from Kristin's face is touching and priceless. This bootleg is a treasure.
 
-#### Wicked - Broadway - September 19, 2004
-{: .no_toc .d-inline-block }
+Wicked - Broadway - September 19, 2004
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu` `4.36 GB`
@@ -92,8 +92,8 @@ FORMAT
 CAST
 : Kristy Cates (u/s Elphaba), Jennifer Laura Thompson (Glinda), Joey McIntyre (Fiyero), George Hearn (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), Anthony Galde (u/s Doctor Dillamond)
 
-#### Wicked - Broadway - October 20, 2004
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 20, 2004
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu` `3.89 GB`
@@ -104,8 +104,8 @@ CAST
 NOTES
 : Shoshana\'s second show as Elphaba
 
-#### Wicked - Broadway - January 9, 2005
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 9, 2005
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.69 GB`
@@ -117,8 +117,8 @@ CAST
 NOTES
 : McIntyre last. This is the infamous show which should have also been Menzel's last, but for her trap door injury the night before. She appears at the very end to make a cameo. Shot from a pronounced angle and wobbly in places but generally watchable.
 
-#### Wicked - Broadway - July 24, 2005
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 24, 2005
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.66 GB`
@@ -130,8 +130,8 @@ CAST
 NOTES
 : Act one is complete. Act two isn't, contains the following footage from act two: "Thank Goodness" through setting the monkeys free, then taping starts again moments before "No Good Deed" and then ends after Elphaba melts; excellent video even with all of the missing stuff and some spotlight washout.
 
-#### Wicked - Broadway - August 17, 2005
-{: .no_toc .d-inline-block }
+Wicked - Broadway - August 17, 2005
+{: .fs-5 .text-gamma .d-inline-block }
 
 jstarz
 {: .label .label-blue }
@@ -145,8 +145,8 @@ CAST
 NOTES
 : About five minutes worth of cover-ups at the beginning (you see Glinda\'s entrance) because of latecomers and few more random ones during the first Act. The first few minutes of the second Act are similar to those of Act One. No obstructions, incredible close-ups (ever wanted to read the board in Dillamond\'s classroom?)
 
-#### Wicked - Broadway - January 8, 2006
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 8, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.28 GB`
@@ -158,8 +158,8 @@ CAST
 NOTES
 : Shoshana\'s, David\'s, Rue\'s and Michelle\'s last performance. The whole cast was really having fun, very high audience energy throughout. Megan and Shoshana have a really funny bit during Popular, and the crowd went wild. Camera wanders quite a bit and is shaky at points due to the master\'s blind filming, plus some spotlight washout. Still, this recording is an absolute gem. Includes playbill scans and Megan's speech in the end.
 
-#### Wicked - Broadway - January 29, 2006 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 29, 2006 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.47 GB`
@@ -171,8 +171,8 @@ CAST
 NOTES
 : Quite a lot of spotlight washout, some head obstruction and shakiness. (Not Master\'s notes) The one where Megan hits BOTH optional high notes at the end of No One Mourns the Wicked and Thank Goodness.
 
-#### Wicked - Broadway - March 29, 2006
-{: .no_toc .d-inline-block }
+Wicked - Broadway - March 29, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -187,8 +187,8 @@ CAST
 NOTES
 : The Best filming of Wicked ever! Shot close to the stage, tons of closeups. Amazing quality. A+
 
-#### Wicked - Broadway - April 12, 2006 (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - April 12, 2006 (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `Non-Original`
@@ -202,8 +202,8 @@ NOTES
 
 <p align="center"><small>For Wicked Broadway, from here onwards I'm pretty certain the files are the original release unless otherwise stated.</small></p>
 
-#### Wicked - Broadway - May 28, 2006
-{: .no_toc .d-inline-block }
+Wicked - Broadway - May 28, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `7.76 GB`
@@ -214,8 +214,8 @@ CAST
 NOTES
 : Megan Hilty\'s last show in the Broadway run (she will reprise the role of Glinda in the Los Angeles run). A very Megan-centric recording, good close-ups and follows the action very well. Includes detailed scene selection, playbill scans at the start (DVD 1) and stage door recordings (DVD 2). One of, if not the best performance of Megan.
 
-#### Wicked - Broadway - July 29, 2006
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 29, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 jstarz
 {: .label .label-blue }
@@ -229,8 +229,8 @@ CAST
 NOTES
 : First five minutes of each Act are shaky with cover-ups (I've never seen so many latecomers at a show), and there are also blackouts after some songs in Act One. Incredible close-ups, you can see Eden's tears in her eyes during her heart-wrenching "I'm Not that Girl". Audience is electric, a satisfying show overall. Gaelen, in her early-20s, brings an interesting take on Morrible's role as probably the youngest actress to play her.
 
-#### Wicked - Broadway - September 23, 2006
-{: .no_toc .d-inline-block }
+Wicked - Broadway - September 23, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -244,8 +244,8 @@ CAST
 NOTES
 : Saycon was Amazing, a total different performance from previous Dvds, including new vocal riffs. Amazing quality! A+
 
-#### Wicked - Broadway - October 14, 2006
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 14, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -263,8 +263,8 @@ CAST
 NOTES
 : Crystal clear picture and sound of Ana\'s return to Wicked in the Broadway Cast. Missing 14 minutes in the middle of Act 2, but sound is there. A
 
-#### Wicked - Broadway - January 20, 2007 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 20, 2007 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 jstarz
 {: .label .label-blue }
@@ -278,8 +278,8 @@ CAST
 NOTES
 : Includes pre-show announcement and curtain calls. Also includes the final changes carried over from London , including the abbreviated \'Wonderful\' and the pretty light show replacing the big black hat. Shot from rear mezz, no obstructions. One minute coverup after the ballroom (before Popular) and another during Thank Goodness. Several mic problems cause actor\'s voices to cut out, which causes hilarity when the Wizard\'s head mouths silently in Act Two. Really painful Act One for Julia, especially the end of WAI which is half screamed/sung. She apparently got the frog out of her throat during intermission, because she comes back for a triumphant Act Two. Overall, Julia makes some lovely acting choices and has brilliant chemistry with the rest of the cast, especially Katie and Sebastian; their ALAYM is spell-binding. Will never be a fan of her voice, though. Katie is even better than she was in November. The real standout was Cristy\'s Nessarose\...she has the best voice and gives the most
 
-#### Wicked - Broadway - February 9, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - February 9, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -293,8 +293,8 @@ CAST
 NOTES
 : Julia & Kendra give Electric performances. Hard to believe they can get better, but yet they do. Wonderful picture, sound and clouseups. A
 
-#### Wicked - Broadway - May 22, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - May 22, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `7.20 GB`
@@ -302,8 +302,8 @@ FORMAT
 CAST
 : Julia Murney (Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
 
-#### Wicked - Broadway - July 1, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 1, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -317,8 +317,8 @@ CAST
 NOTES
 : Lisa did a very lovely job in the role, and she looked fabulous. Her Elphaba is sweet, which is nice and works for her. Beautiful capture and performances. A
 
-#### Wicked - Broadway - July 2, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 2, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -332,8 +332,8 @@ CAST
 NOTES
 : Caissie\'s first as Elphaba, and she tore it up and put it on a silver platter. Beautiful capture and vocals. Kendra is hilarious at this performance. A
 
-#### Wicked - Broadway - July 3, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 3, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -345,8 +345,8 @@ FORMAT
 CAST
 : Caissie Levy (u/s Elphaba), Kendra Kassebaum (Glinda), Sebastian Arcelus (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
 
-#### Wicked - Broadway - October 7, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 7, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -363,8 +363,8 @@ CAST
 NOTES
 : Final Performances of Julia Murney and Kendra Kassebaum. Beautifully captured and wonderful closeups. Great performances all around and includes curtain call speech. A+
 
-#### Wicked - Broadway - October 9, 2007
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 9, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -378,8 +378,8 @@ CAST
 NOTES
 : First Performances of Stephanie J. Block and Annaleigh Ashford. Beautifully captured and wonderful closeups, jaw dropping footage. Excellent performances all around, Stephanie commands the stage. A+
 
-#### Wicked - Broadway - October 24, 2007 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 24, 2007 (Matinee) (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.18 GB`
@@ -390,8 +390,8 @@ CAST
 NOTES
 : Highlights of Caissie’s last Broadway Performance. Includes: Shiz University scene, "The Wizard and I," "What Is This Feeling?," Poppy Field scene, "I'm Not That Girl," Attic scene/ Morrible, "Defying Gravity," "No Good Deed," "For Good," and the Finale.
 
-#### Wicked - Broadway - March 13, 2008
-{: .no_toc .d-inline-block }
+Wicked - Broadway - March 13, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -405,8 +405,8 @@ FORMAT
 CAST
 : Stephanie J Block (Elphaba), Annaleigh Ashford (Glinda), David Burnham (Fiyero), Lenny Wolpe (The Wizard), Miriam Margolyes (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Doctor Dillamond), Jason Davies (u/s Chistery)
 
-#### Wicked - Broadway - May 8, 2008
-{: .no_toc .d-inline-block }
+Wicked - Broadway - May 8, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.20 GB`
@@ -414,8 +414,8 @@ FORMAT
 CAST
 : Stephanie J Block (Elphaba), Annaleigh Ashford (Glinda), David Burnham (Fiyero), Lenny Wolpe (The Wizard), Miriam Margolyes (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Doctor Dillamond)
 
-#### Wicked - Broadway - June 15, 2008
-{: .no_toc .d-inline-block }
+Wicked - Broadway - June 15, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -429,8 +429,8 @@ CAST
 NOTES
 : Final Performance of Stephanie J. Block. Great capture of possibly the best performance ever given by an Elphaba. SJB lit the stage on fire, honestly this is one of the best individual performances I have ever attended. With such power and control, this is one Wicked NOT to be missed, you will be amazed! A
 
-#### Wicked - Broadway - August 5, 2008
-{: .no_toc .d-inline-block }
+Wicked - Broadway - August 5, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `7.20 GB`
@@ -441,8 +441,8 @@ CAST
 NOTES
 : No obstructions, only two brief blackouts at the beginning of Act 2. Slight shakiness and good combination of close-ups and full stage.
 
-#### Wicked - Broadway - October 31, 2008
-{: .no_toc .d-inline-block }
+Wicked - Broadway - October 31, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.26 GB`
@@ -453,8 +453,8 @@ CAST
 NOTES
 : Halloween! Great performance from all the cast here. Includes a Broadway Cares/Equity Fights Aidsspeech by Aaron Tveit at the end. Wonderful quality, kind of shaky though
 
-#### Wicked - Broadway - January 2, 2009 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 2, 2009 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -465,8 +465,8 @@ FORMAT
 CAST
 : Marcie Dodd (Elphaba), Alli Mauzey (Glinda), Kevin Kern (Fiyero), PJ Benjamin (The Wizard), Jayne Houdyshell (Madame Morrible), Brynn O\'Malley (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
 
-#### Wicked - Broadway - January 11, 2009
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 11, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -480,8 +480,8 @@ CAST
 NOTES
 : Full show, beautifully caught. Marcie\'s last performance in the Broadway company.
 
-#### Wicked - Broadway - January 13, 2009
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January 13, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -498,8 +498,8 @@ CAST
 NOTES
 : Full show, beautifully shot. Julie was Elphaba for the 1/13 and 1/14 performances since Nicole would only start on 1/15.
 
-#### Wicked - Broadway - March 7, 2009
-{: .no_toc .d-inline-block }
+Wicked - Broadway - March 7, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -510,8 +510,8 @@ FORMAT
 CAST
 : Nicole Parker (Elphaba), Alli Mauzey (Glinda), Aaron Tveit (Fiyero), Anthony Galde (u/s The Wizard), Jayne Houdyshell (Madame Morrible), Cristy Candler (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)
 
-#### Wicked - Broadway - August 16, 2012 (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - August 16, 2012 (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 Eleka Nahmen
 {: .label .label-blue }
@@ -525,8 +525,8 @@ CAST
 NOTES
 : Act 1 only. First recorded no-fly show. Filmed with two cameras.
 
-#### Wicked - Broadway - February 10, 2013
-{: .no_toc .d-inline-block }
+Wicked - Broadway - February 10, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 Eleka Nahmen
 {: .label .label-blue }
@@ -542,8 +542,8 @@ CAST
 NOTES
 : Very nice video from the orchestra. Can be a little shaky at times, but it\'s a great angle. This was supposed to be Jackie Burns\' last night, but she\'d been sick since late January and ended up missing this performance. Donna is just INCREDIBLE as Elphaba\...
 
-#### Wicked - Broadway - May 12, 2013
-{: .no_toc .d-inline-block }
+Wicked - Broadway - May 12, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -558,8 +558,8 @@ CAST
 NOTES
 : Filmed from the right orchestra, at a slight angle, but excellent quality. The taper originally released this as a blu-ray, 2-disc DVDs or 1-disc DVD, so make sure to get the version that best suits your needs.
 
-#### Wicked - Broadway - February 1, 2015
-{: .no_toc .d-inline-block }
+Wicked - Broadway - February 1, 2015
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -573,8 +573,8 @@ CAST
 NOTES
 : Beautiful HD capture from the orchestra. Lilli did a wonderful job in the role and made it her own. Jared has trouble opening the trap door and is late for curtain call. A
 
-#### Wicked - Broadway - July 20, 2015
-{: .no_toc .d-inline-block }
+Wicked - Broadway - July 20, 2015
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -588,8 +588,8 @@ CAST
 NOTES
 : Excellent HD capture with no obstructions. Caroline is an extremely strong Elphaba.
 
-#### Wicked - Broadway - August 20, 2015 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - August 20, 2015 
+{: .fs-5 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -603,8 +603,8 @@ CAST
 NOTES
 : Very nice quality bootleg with Linsday K Northen, who had been one of the Glinda understudies for years.
 
-#### Wicked - Broadway - June 21, 2016 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - June 21, 2016 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -618,8 +618,8 @@ CAST
 NOTES
 : Great performances from both Rachel and Ginna. Nicely captured with no obstruction, just a couple quick dropouts, and some occasional washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
-#### Wicked - Broadway - June 25, 2016
-{: .no_toc .d-inline-block }
+Wicked - Broadway - June 25, 2016
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -633,8 +633,8 @@ CAST
 NOTES
 : Beautiful HD Capture of the recent Broadway cast. Rachel absolutely kills it and brings grit and power as Elphaba and Carrie\'s a wonderful, quirky, wand twirling and swinging badass.
 
-#### Wicked - Broadway - December 27, 2016 (Matinee) 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - December 27, 2016 (Matinee) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -648,8 +648,8 @@ CAST
 NOTES
 : A solid cast. Jennifer and Kara are at the top of their game, and they are wonderful to watch. This is perfectly captured with no washout, no obstruction, and just a couple quick dropouts between scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
-#### Wicked - Broadway - June 30, 2017
-{: .no_toc .d-inline-block }
+Wicked - Broadway - June 30, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -663,8 +663,8 @@ CAST
 NOTES
 : Beautiful HD capture of Jennifer\'s return to the role of Elphaba. Captured from the Orchestra with no obstructions and very nice angle. A+
 
-#### Wicked - Broadway - August 11, 2017
-{: .no_toc .d-inline-block }
+Wicked - Broadway - August 11, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -678,8 +678,8 @@ CAST
 NOTES
 : Excellent HD capture of Jackie\'s return to the role, captured from the Orchestra. Jackie remains of the most powerful and brilliant Elphabas of all time. Stunning riffs, growls and variations, a perfect performance! A+
 
-#### Wicked - Broadway - March, 2019 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - March, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -693,8 +693,8 @@ CAST
 NOTES
 : This is a vivid 4K video with almost no obstructions. Pretty much everything is centered, with beautiful zooms but also wider shots that showcase the dancing and set design. At times the video appears on an angle because my wrists are weak, but you don\'t miss anything because of it. There is also washout at times, but I do believe my camera handles the spotlights better than a lot of Wicked videos. All in all this is a gorgeous capture of old and new cast members\... I\'m not finished yet in this bootleg business but if I was this could be my magnum opus.
 
-#### Wicked - Broadway - March 30, 2019 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - Broadway - March 30, 2019 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FetchHappened
 {: .label .label-blue }
@@ -708,8 +708,8 @@ CAST
 NOTES
 : A nice capture of Laurel taking over as Elphaba and Katie\'s return to Broadway. There\'s a blackout until midway through No One Mourns the Wicked, and the show is full from there, although a head obstructs the far righthand side of the stage. There\'s a couple dropouts every once in a while but the zooms make up for that. Filmed in 16:9, and includes the curtain call.
 
-#### Wicked - Broadway - May, 2019 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - May, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -723,8 +723,8 @@ CAST
 NOTES
 : Beautiful HD capture of newcomers Ginna-Claire and Jake Boyd joining the cast. Laurel put on another fantastic show as always! This angle makes the action very easy to follow and without obstructions.The colors are incredible, there is very little washout, and includes curtain call.
 
-#### Wicked - Broadway - September, 2019 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - September, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -738,8 +738,8 @@ CAST
 NOTES
 : Excellent HD capture of Broadway\'s first Black Glinda and the first Elphaba to have never played the role before in over half a decade! A very Elphaba and Glinda-centric video, it\'s filmed from the left orchestra with a mix of wides, mediums, and many closeups, with occasional dropouts due to ushers. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
 
-#### Wicked - Broadway - January, 2020 
-{: .no_toc .d-inline-block }
+Wicked - Broadway - January, 2020 
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -753,8 +753,8 @@ CAST
 NOTES
 : Amazing Capture of Jennifer as Elphaba
 
-#### Wicked - Broadway - March, 2020
-{: .no_toc .d-inline-block }
+Wicked - Broadway - March, 2020
+{: .fs-5 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -767,8 +767,8 @@ CAST
 
 ### Chicago
 
-#### Wicked - Chicago - August 5, 2006
-{: .no_toc .d-inline-block }
+Wicked - Chicago - August 5, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -786,8 +786,8 @@ CAST
 NOTES
 : Dee and Kate were Fabulous. Amazing shots and picture! A+
 
-#### Wicked - Chicago - June 1, 2008
-{: .no_toc .d-inline-block }
+Wicked - Chicago - June 1, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -801,8 +801,8 @@ CAST
 NOTES
 : This was the final performance of Dee, Kate and Michael. Excellent video, Kate sings a higher note in the \'she died A-lone\' line towards the end of No one mourns the wicked. A
 
-#### Wicked - Chicago - January 25, 2009 (Closing Night) 
-{: .no_toc .d-inline-block }
+Wicked - Chicago - January 25, 2009 (Closing Night) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -818,8 +818,8 @@ NOTES
 
 ### First National Tour
 
-#### Wicked - First National Tour (Emerald City) - April 23, 2005
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - April 23, 2005
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.13 GB`
@@ -827,8 +827,8 @@ FORMAT
 CAST
 : Stephanie J Block (Elphaba), Kendra Kassebaum (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Timothy Britten Parker (Doctor Dillamond)
 
-#### Wicked - First National Tour (Emerald City) - May 8, 2005
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - May 8, 2005
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -845,8 +845,8 @@ CAST
 NOTES
 : About 15 minutes of blackouts in first act. Popular and Defying Gravity are not affected. Second act is AMAZING and near perfect. Whole dvd has GREAT closeups. A
 
-#### Wicked - First National Tour (Emerald City) - March 14, 2006
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - March 14, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -863,8 +863,8 @@ CAST
 NOTES
 : AMAZING AMAZING AMAZING performances. Murney was sensational, Kendra absolutely hilarious, Alma was fabulous. Shot from the Loge, crystal clear picture and sound, nice closeups. Couple of line flubs. WONDERFUL! A
 
-#### Wicked - First National Tour (Emerald City) - May, 2006 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - May, 2006 
+{: .fs-5 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -878,8 +878,8 @@ CAST
 NOTES
 : Pro-shot from the house camera. Mid-stage shot, so the entire set fills the entire screen, no zooms.
 
-#### Wicked - First National Tour (Emerald City) - May 23, 2006
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - May 23, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.34 GB`
@@ -890,8 +890,8 @@ CAST
 NOTES
 : On some sites, date is labeled as May 25, 2006. Who\'s to know now? Original master and photo set found below.
 
-#### Wicked - First National Tour (Emerald City) - March 4, 2007
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - March 4, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -905,8 +905,8 @@ CAST
 NOTES
 : Beautiful capture and no obstructions. This features the optional high note by Glinda in the opening that is a thrill. The performances were amazing on this date, especially Glinda, who was at her best on this day. The cast seemed to have extra energy and gave a tad more than usual. A+ \-\-- Sometimes the location is mislabeled as \"Hippodrome Theatre, Baltimore, Maryland\" because the Playbill scanned at the beginning is wrong.
 
-#### Wicked - First National Tour (Emerald City) - March 6, 2007
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - March 6, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -924,8 +924,8 @@ CAST
 NOTES
 : Contains wonderful picture, sound, color, and most importantly performances. Great fresh new cast on the road. A+
 
-#### Wicked - First National Tour (Emerald City) - July 7, 2007
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - July 7, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -939,8 +939,8 @@ CAST
 NOTES
 : Laura was Amazing, very original and hilarious. Coleen was terrific aswell, a very powerful voice. All nicely captured here. A-
 
-#### Wicked - First National Tour (Emerald City) - July 8, 2007
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - July 8, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -957,8 +957,8 @@ CAST
 NOTES
 : Terrific performances and capture. Marcie is sensational, why is she an understudy? Barbara is terrific here, a wonderful actress, with different takes on the lines. A-
 
-#### Wicked - First National Tour (Emerald City) - December 12, 2007
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - December 12, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -973,8 +973,8 @@ CAST
 NOTES
 : Lee\'s first perfromance as the Wizard. Great capture and performances. Katie is the perfect Glinda and Carmen\'s Wizard and I is to die for. Alma\'s return to the show after My Fair Lady. A
 
-#### Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -992,8 +992,8 @@ CAST
 NOTES
 : This was the performance where the fire alarm goes off when No Good Deed starts. Meredith keeps going through half the song, while the alarms and lights are flickering. Finally an announcement was made and she walked off stage in character. The show resumes after the evacuation where she left off.
 
-#### Wicked - First National Tour (Emerald City) - February 28, 2009
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - February 28, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1010,8 +1010,8 @@ CAST
 NOTES
 : Spotlight washout on wides. Blackouts for applause. Nice quality and pretty well filmed (though there are some odd closeups in DTL).
 
-#### Wicked - First National Tour (Emerald City) - August 16, 2009 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - August 16, 2009 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1025,8 +1025,8 @@ CAST
 NOTES
 : Katie\'s last performance
 
-#### Wicked - First National Tour (Emerald City) - November 30, 2011 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - November 30, 2011 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1040,8 +1040,8 @@ CAST
 NOTES
 : Nice capture of the first performance of the Los Angeles tour stop; a few scattered blackouts: the first minute of No One Mourns the Wicked, the first 3 minutes of Room Assignments, the first minute of History Lessons, 1 minute during Fiyero\'s entrance, 2 minutes during Dancing Through Life, and the first 2 minutes of act two; otherwise complete and well captured with no obstruction and only a little washout in high contrast scenes; filmed in 16:9; Includes curtain call. 2 DVDs A-
 
-#### Wicked - First National Tour (Emerald City) - December 19, 2013
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - December 19, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1055,8 +1055,8 @@ CAST
 NOTES
 : Beautiful HD capture with no obstructions. The camera wanders a little in Act 1 and quite shaky from time to time. This is from the first week that Gina and Alison Fraser joined the cast.
 
-#### Wicked - First National Tour (Emerald City) - February 25, 2014
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - February 25, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1070,8 +1070,8 @@ CAST
 NOTES
 : Beautiful HD capture with no obstructions and clear sound; Emmy has an amazing voice.
 
-#### Wicked - First National Tour (Emerald City) - May 31, 2014 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - May 31, 2014 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1085,8 +1085,8 @@ CAST
 NOTES
 : A perfect capture of the current first national tour with some understudies. Emmy is a phenomenal Elphaba with great acting choices and amazing riffs. Very interesting to see a Fiyero mid-show switch; Kyle jumps in to act two seamlessly. One of my best captures with no blackouts, no washout, no obstruction, and very steady filming. This is shot slightly wider than usual, particularly when the ensemble is on stage, so you can see a lot more of the action. There are still close-ups when necessary. As usual, it's filmed in 16:9, and the sound is excellent. Includes curtain call and playbill scans.
 
-#### Wicked - First National Tour (Emerald City) - August 30, 2014 (Matinee) 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - August 30, 2014 (Matinee) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1100,8 +1100,8 @@ CAST
 NOTES
 : This is a great cast \-- Emma brings a fresh new take to the role, a bit snarky and very lovable. There is an interesting blooper when Shanon misses her entrance for One Short Day. Emma and the ensemble perform as usual with Shanon singing her first few lines from off stage until she enters at "I think we've found the place where we belong". A fantastic capture of the show with no obstruction, no washout and only one short blackout during the "Thrillifying News" section. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent, although there's a bit more chatter and rustling from the audience than usual. Includes curtain call and playbill scans.
 
-#### Wicked - First National Tour (Emerald City) - December 10, 2014 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - December 10, 2014 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1115,8 +1115,8 @@ CAST
 NOTES
 : A nice capture with a couple quick dropouts, and one head that occasionally blocks the actors' feet, and some slight washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes partial curtain call and playbill scans.
 
-#### Wicked - First National Tour (Emerald City) - February 1, 2015 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - February 1, 2015 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1130,8 +1130,8 @@ CAST
 NOTES
 : A great capture of the tour before it closed last spring, and the last capture of Emma before she left. Although Emma was actually sick frequently during her run, she seemed to perform flawlessly this night. Chandra also gives a fantastic performance as well. This is perfectly captured with no obstructions, no blackouts, and very little washout even in wide shots. The sound is excellent. Includes curtain call, Chandra and Nick's BC/EFA speech, and playbill scans.
 
-#### Wicked - First National Tour (Emerald City) - March 15, 2015 (Closing Night) 
-{: .no_toc .d-inline-block }
+Wicked - First National Tour (Emerald City) - March 15, 2015 (Closing Night) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1147,8 +1147,8 @@ NOTES
 
 ### Japan
 
-#### Wicked - Japan - January 28, 2008
-{: .no_toc .d-inline-block }
+Wicked - Japan - January 28, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -1158,8 +1158,8 @@ CAST
 
 ### West End
 
-#### Wicked - West End - 2006
-{: .no_toc .d-inline-block }
+Wicked - West End - 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 Conductor Cam
 {: .label .label-green }
@@ -1173,8 +1173,8 @@ CAST
 NOTES
 : Conductor\'s cam. It is definitely Idina & Hellen in the video, but I don\'t know the rest of the cast.
 
-#### Wicked - West End - September 27, 2006 (Opening Night) (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - West End - September 27, 2006 (Opening Night) (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.24 GB`
@@ -1185,8 +1185,8 @@ CAST
 NOTES
 : Opening Night. Very shaky camera and many heads in the way, esp. in Act 1. Some blackouts as well. Highlights include No One Mourns the Wicked, The Wizard and I, Dancing Through Life, Popular, One Short Day, Defying Gravity, Wicked Witch of the East, As Long As You\'re Mine, No Good Deed, For Good, and the finale.
 
-#### Wicked - West End - October 31, 2006
-{: .no_toc .d-inline-block }
+Wicked - West End - October 31, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1201,8 +1201,8 @@ CAST
 NOTES
 : Great performance from Idina on the Halloween performance. Shot around a head, but worked around as best as possible. Has a few glitchy spots and missing last 3 minutes. Some great vocals and riffs from Idina, not previously captured on video. B+
 
-#### Wicked - West End - November 8, 2006
-{: .no_toc .d-inline-block }
+Wicked - West End - November 8, 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1216,8 +1216,8 @@ CAST
 NOTES
 : Crystal clear picture and sound. AMAZING quality, one of the top Wickeds. Fantastic cast and includes the extended scenes. A+
 
-#### Wicked - West End - October 18, 2007
-{: .no_toc .d-inline-block }
+Wicked - West End - October 18, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1232,8 +1232,8 @@ CAST
 NOTES
 : Wonderfully captured and great performances from Kerry and the West End Cast. Her Defying Gravity is wonderful. A
 
-#### Wicked - West End - September, 2008
-{: .no_toc .d-inline-block }
+Wicked - West End - September, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.13 GB`
@@ -1244,7 +1244,7 @@ CAST
 NOTES
 : No zooms but shot from the front row. May be listed as 2008-09-06 or 2008-09-08
 
-#### Wicked - West End - November 23, 2010
+Wicked - West End - November 23, 2010
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu` `4.31 GB`
@@ -1252,8 +1252,8 @@ FORMAT
 CAST
 : Rachel Tucker (Elphaba), Sarah Earnshaw (s/b Glinda), Lee Mead (Fiyero), Julian Forsyth (u/s The Wizard), Julie Legrand (Madame Morrible), Cassandra Compton (Nessarose), Danny Mac (u/s Boq), Gareth Chart (u/s Doctor Dillamond)
 
-#### Wicked - West End - December 12, 2011 (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - West End - December 12, 2011 (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.05 GB`
@@ -1264,8 +1264,8 @@ CAST
 NOTES
 : Gina\'s first performance.
 
-#### Wicked - West End - February 20, 2013
-{: .no_toc .d-inline-block }
+Wicked - West End - February 20, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.19 GB`
@@ -1273,8 +1273,8 @@ FORMAT
 CAST
 : Louise Dearman (Elphaba), Lucy van Gasse (s/b Glinda), Ben Freeman (Fiyero), Christopher Howell (u/s The Wizard), Jacqueline Hughes (u/s Madame Morrible), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Stuart Ramsay (u/s Doctor Dillamond)
 
-#### Wicked - West End - November 16, 2013 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - West End - November 16, 2013 (Matinee) (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1288,8 +1288,8 @@ CAST
 NOTES
 : Song only highlights; consisting of NOMTW, TWAI, WITF, parts of DTL, Popular, OSD, TG, ALSYM, NGD, plus Bows and Speeches. NO Defying Gravity. Filmed from the front row. A lot of spotlight wash out throughout. This is Wicked London\'s 3,000th Performance, which also happened to be a cast change\'s muck up matinee. As well as the usual random changes for the muck up, this boot also captures one of the Flatheads having an epic costume fail and a techie running after them across the stage in One Short Day.
 
-#### Wicked - West End - December 7, 2013 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - West End - December 7, 2013 (Matinee) (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1304,8 +1304,8 @@ CAST
 NOTES
 : Act 1 audio is only. The camera pointed too high in Act 2, but it's a high-resolution cam. Audio overall is very good, nice and clear.
 
-#### Wicked - West End - April 12, 2014 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - West End - April 12, 2014 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1319,8 +1319,8 @@ CAST
 NOTES
 : Shot from the Dress Circle, no zooms. Some shakyness Some blackouts in act 1 and head obstruction. Video is a bit dark. Includes Curtain Call and Savannah's speech for Emma doing the London Marathon.
 
-#### Wicked - West End - June 4, 2014
-{: .no_toc .d-inline-block }
+Wicked - West End - June 4, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1336,8 +1336,8 @@ CAST
 NOTES
 : Some spotlight washout. Act 2 is not fully focused but still watchable. Includes Curtain Call.
 
-#### Wicked - West End - June 23, 2014
-{: .no_toc .d-inline-block }
+Wicked - West End - June 23, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1351,8 +1351,8 @@ CAST
 NOTES
 : First double standby show for the 2014 London cast! Some spotlight washout. Act 1 isn\'t fully focused (especially at the edges of the video), Act 2 is better. Includes Curtain Call.
 
-#### Wicked - West End - October 27, 2014
-{: .no_toc .d-inline-block }
+Wicked - West End - October 27, 2014
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1366,8 +1366,8 @@ CAST
 NOTES
 : First performance for the new cast!
 
-#### Wicked - West End - August 27, 2015 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - West End - August 27, 2015 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 cityofemeraldtrading
 {: .label .label-blue }
@@ -1378,8 +1378,8 @@ FORMAT
 CAST
 : Natalie Mcqueen (u/s Elphaba), Savannah Stevenson (Glinda), Jeremy Taylor (Fiyero), Katie Rowley Jones (Nessarose), Sam Lupton (Boq), Liza Sadovy (Madame Morrible), Martyn Ellis (The Wizard), Steven Pinder (Doctor Dillamond)
 
-#### Wicked - West End - June 20, 2018 (Matinee) (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - West End - June 20, 2018 (Matinee) (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -1393,8 +1393,8 @@ CAST
 NOTES
 : Act One Only
 
-#### Wicked - West End - January, 2019
-{: .no_toc .d-inline-block }
+Wicked - West End - January, 2019
+{: .fs-5 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -1405,8 +1405,8 @@ FORMAT
 CAST
 : Aimée Fisher (u/s Elphaba), Maria Coyne (s/b Glinda), David Witts (Fiyero), Chris Jarman (u/s The Wizard), Melanie La Barrie (Madame Morrible), Rosa O\'Reilly (Nessarose), Scott Sutcliffe (u/s Boq), Rhidian Marc (u/s Doctor Dillamond), Chris George (Chistery), Jennie Abbotts (Witch\'s Mother)
 
-#### Wicked - West End - March 23, 2019 
-{: .no_toc .d-inline-block }
+Wicked - West End - March 23, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -1423,8 +1423,8 @@ CAST
 NOTES
 : Maria\'s last show as Glinda.
 
-#### Wicked - West End - October, 2019
-{: .no_toc .d-inline-block }
+Wicked - West End - October, 2019
+{: .fs-5 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -1436,8 +1436,8 @@ FORMAT
 CAST
 : Nikki Bentley (Elphaba), Lisa-Anne Wood (s/b Glinda), Alistair Brammer (Fiyero), Andy Hockley (The Wizard), Kim Ismay (Madame Morrible), Natasha Ferguson (t/r Nessarose), Idriss Kargbo (Boq), Rhidian Marc (u/s Doctor Dillamond), Tonye Scott Obene (Chistery), Meg Astin (s/w Midwife), Lucie Horsfall (Witch\'s Mother), Rhidian Marc (Witch\'s Father / Ozian Official)
 
-#### Wicked - West End - November, 2019 
-{: .no_toc .d-inline-block }
+Wicked - West End - November, 2019 
+{: .fs-5 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -1451,8 +1451,8 @@ CAST
 NOTES
 : No heads, only obstruction is a bar that does sometimes block action at the bottom of the stage. 15.7GB in MTS files. Do not list with the specific date, the master has asked for the video to be listed with just the month.
 
-#### Wicked - West End - January, 2020 
-{: .no_toc .d-inline-block }
+Wicked - West End - January, 2020 
+{: .fs-5 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -1468,8 +1468,8 @@ NOTES
 
 ### Los Angeles
 
-#### Wicked - Los Angeles - April 14, 2007
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - April 14, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -1481,8 +1481,8 @@ CAST
 NOTES
 : Can be shaky at times, with some skips and obstruction but great sound and performances
 
-#### Wicked - Los Angeles - August 4, 2007
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - August 4, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1496,8 +1496,8 @@ CAST
 NOTES
 : Eden really impressed and Megan is still terrific. A beautiful capture of the LA cast with no obstructions and solid performances from most. A+
 
-#### Wicked - Los Angeles - October 28, 2007
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - October 28, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1511,8 +1511,8 @@ CAST
 NOTES
 : Julie\'s Last. Stunning capture of Julie\'s Final as Elphaba. She was amazing all the way around, vocal, acting, beauty. Natalie makes a terrific Nessa and gives lines with a different delivery, which is nice. A+
 
-#### Wicked - Los Angeles - December 30, 2007
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - December 30, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -1526,8 +1526,8 @@ CAST
 NOTES
 : This show is Eden, Adam and Carol\'s last performances.
 
-#### Wicked - Los Angeles - January 18, 2008
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - January 18, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -1538,8 +1538,8 @@ FORMAT
 CAST
 : Caissie Levy (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), JoAnne Worley (Madame Morrible), Marcie Dodd (Nessarose), Michael Drolet (Boq), Timothy Britten Parker (Doctor Dillamond), Peter John Chursin (Chistery), Linda Kerns (Midwife), Gina Starbuck (Witch\'s Mother), Matthew Stocke (Witch\'s Father / Ozian Official), Adam Lambert, Alexander Selma, Brooke Wendle, Courtney Corey, DJ Gregory, Dioni Michelle Collins, Gina Starbuck, Jeremy Kocal, Linda Kerns, Lindsay Janisse, Matthew Stocke, Melissa Fahn, Natalie Daradich, Peter John Chursin, Terrance Spencer, Zach Hensler
 
-#### Wicked - Los Angeles - April 23, 2008
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - April 23, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1556,8 +1556,8 @@ CAST
 NOTES
 : Amazing capture with amazing closeups. Marcie is to die for. Performances were fantastic all the way around. Megan and Marcie\'s chemistry is so fresh. A+
 
-#### Wicked - Los Angeles - April 24, 2008
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - April 24, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1571,8 +1571,8 @@ CAST
 NOTES
 : Beautiful capture with amazing closeups. Performances were fantastic all the way around. Teal is wonderful and Megan is at the top of her game. A+
 
-#### Wicked - Los Angeles - August 9, 2008
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - August 9, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1589,8 +1589,8 @@ CAST
 NOTES
 : Beautiful capture and nice performances from the cast. Adam was a great Fiyero and has a beautiful voice with vocal variations which are very nice. Briana\'s Nessa is very nice here aswell, a nice transition in her character. A
 
-#### Wicked - Los Angeles - August 10, 2008 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - August 10, 2008 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1604,8 +1604,8 @@ CAST
 NOTES
 : Great capture of second time Adam went on for Fiyero. There is about a three minute blackout in part of Dancing Through Life. Teal presenting wonderful work here! A
 
-#### Wicked - Los Angeles - September 6, 2008 (Matinee) 
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - September 6, 2008 (Matinee) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1616,8 +1616,8 @@ FORMAT
 CAST
 : Marcie Dodd (s/b Elphaba), Erin Mackey (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Laura Dysarczyk (u/s Nessarose), Michael Drolet (Boq), David DeVries (Doctor Dillamond)
 
-#### Wicked - Los Angeles - October 31, 2008
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - October 31, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1634,8 +1634,8 @@ CAST
 NOTES
 : Eden & Megan\'s first show since their return to close the LA production. A great capture of a stellar performance. There are quite a few cover-ups through the first half of the first act, up to Popular, but most of them are very short. The video is also a little bit shaky but never for more than a few seconds at a time.
 
-#### Wicked - Los Angeles - November 2, 2008 
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - November 2, 2008 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1647,8 +1647,8 @@ FORMAT
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), David DeVries (Doctor Dillamond)
 
-#### Wicked - Los Angeles - January 11, 2009 (Closing Night) 
-{: .no_toc .d-inline-block }
+Wicked - Los Angeles - January 11, 2009 (Closing Night) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1661,8 +1661,8 @@ CAST
 
 ### Stuttgart
 
-#### Wicked - Stuttgart - October, 2007 (Highlights)
-{: .no_toc .d-inline-block }
+Wicked - Stuttgart - October, 2007 (Highlights)
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1676,8 +1676,8 @@ CAST
 NOTES
 : DVD includes some Media/Press Day Footage with the entire cast, some rehearsal footage, some behind the scenes footage, and some footage from opening night. In German. 1 hour and 20 minutes of overall footage
 
-#### Wicked - Stuttgart - July 23, 2008
-{: .no_toc .d-inline-block }
+Wicked - Stuttgart - July 23, 2008
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `No DVD menu`
@@ -1688,8 +1688,8 @@ CAST
 NOTES
 : Act 1 is filmed in 4:3 and Act 2 is filmed in 16:9
 
-#### Wicked - Stuttgart - December 7, 2008 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - Stuttgart - December 7, 2008 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1697,8 +1697,8 @@ FORMAT
 CAST
 : Willemijn Verkaik (Elphaba), Jana Stelley (alt Glinda), Mathias Edenborn (Fiyero), Stefan Poslovski (u/s The Wizard), Barbara Raunegger (Madame Morrible), Nicole Radeschnig (Nessarose), Stefan Stara (Boq), Matthias Dressel (u/s Doctor Dillamond)
 
-#### Wicked - Stuttgart - February 20, 2009
-{: .no_toc .d-inline-block }
+Wicked - Stuttgart - February 20, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1709,8 +1709,8 @@ CAST
 NOTES
 : Willemijn seemed to be in a bit of a funny mood, she cracked up in Heissgeliebt (Popular) and nearly started laughing in the Catfight. She does a High Witch Cackle in the Cornfield scene, probably to try it for Jana's last the next day. Lucy seemed out to make her laugh even more than usual. Most of Wicked Witch of the East is missing and so is the beginning of March of the Witch Hunters.
 
-#### Wicked - Stuttgart - May 1, 2009
-{: .no_toc .d-inline-block }
+Wicked - Stuttgart - May 1, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -1721,8 +1721,8 @@ FORMAT
 CAST
 : Willemijn Verkaik (Elphaba), Lucy Scherer (Glinda), Mathias Edenborn (Fiyero), Carlo Lauber (The Wizard), Helena Blöcker (u/s Madame Morrible), Janine Tippl (Nessarose), Stephan Luethy (Boq), Michael Günther (Doctor Dillamond)
 
-#### Wicked - Stuttgart - January 29, 2010 (Closing Night)
-{: .no_toc .d-inline-block }
+Wicked - Stuttgart - January 29, 2010 (Closing Night)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1735,8 +1735,8 @@ NOTES
 
 ### San Francisco
 
-#### Wicked - San Francisco - August 5, 2009
-{: .no_toc .d-inline-block }
+Wicked - San Francisco - August 5, 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1750,8 +1750,8 @@ CAST
 NOTES
 : This performance was a wonderful one. Teal was on fire and much different from her LA days. Alexa has a very high powerful voice which was stunning. DeeDee and Patty were both sensational. A
 
-#### Wicked - San Francisco - September 5, 2010 (Closing Night) 
-{: .no_toc .d-inline-block }
+Wicked - San Francisco - September 5, 2010 (Closing Night) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1764,8 +1764,8 @@ CAST
 
 ### Second National Tour
 
-#### Wicked - Second National Tour (Munchkinland) - March 28, 2009 (Matinee) 
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - March 28, 2009 (Matinee) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1779,8 +1779,8 @@ CAST
 NOTES
 : Nice capture of the Second National Tour cast, with a big mishap when the power suddenly goes out in the middle of Thank Goodness. Helene and the rest of the cast keep right on going until a crew member comes onstage and stops the show. The DVD includes video of the entire debacle until the curtain goes down, and it continues for a bit after this, then cuts out, then resumes again when the show is picked back up during Wicked Witch of the East. As for the video, the first part of the show is mostly blacked out, but once it gets to The Wizard and I, it\'s much better. The dragon\'s head blocked Marcie\'s face during Defying Gravity, but other than that, there\'s virtually no obstruction. Overall, an amazing capture with no spotlight washout, amazing colour and sound.
 
-#### Wicked - Second National Tour (Munchkinland) - March 29, 2009 
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - March 29, 2009 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1794,8 +1794,8 @@ CAST
 NOTES
 : First couple minutes of each act are blacked out, but those are the only ones that last more than a few seconds; head obstruction get annoying, but worked around well with a mix of wides, mediums, and closeups throughout the show; little washout, sound is excellent throughout the show. 2 DVDs
 
-#### Wicked - Second National Tour (Munchkinland) - June 6, 2009 (Matinee) 
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - June 6, 2009 (Matinee) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1809,8 +1809,8 @@ CAST
 NOTES
 : Nice video with two heads that obstruct the stage at times but are filmed around and action is rarely blocked. There are only two quick dropouts in each act and some washout in high contrast scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
-#### Wicked - Second National Tour (Munchkinland) - March 7, 2010 
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - March 7, 2010 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1824,8 +1824,8 @@ CAST
 NOTES
 : Helene and Colin's final performance.
 
-#### Wicked - Second National Tour (Munchkinland) - April 13, 2014 (Matinee) 
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - April 13, 2014 (Matinee) 
+{: .fs-5 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1839,8 +1839,8 @@ CAST
 NOTES
 : A perfect capture of the brand new tour cast. Kara\'s an excellent Glinda and really tugged at the heart with \"I\'m Not That Girl (Reprise).\" The show is completely intact with no no blackouts, no obstruction, and no washout. The video is very steady throughout and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call and Matt and Emily's very entertaining BC/EFA speech.
 
-#### Wicked - Second National Tour (Munchkinland) - October 29, 2015
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - October 29, 2015
+{: .fs-5 .text-gamma .d-inline-block }
 
 kradder32
 {: .label .label-blue }
@@ -1854,8 +1854,8 @@ CAST
 NOTES
 : Master notes: This is one of my new favorite captures of the show, it follows the action very well for almost being in the front row of the theatre, and gives you a great perspective of the show that DVDs can not often give you. Her vocal and acting choices bring such a fresh twist to Elphaba. There was also a very drunk audience member near me in Act Two, that yells a few drunk remarks that had the audience laughing. Curtain call is included and audio is near perfect, synced with my Zoom H2.
 
-#### Wicked - Second National Tour (Munchkinland) - September 7, 2016
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - September 7, 2016
+{: .fs-5 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1869,8 +1869,8 @@ CAST
 NOTES
 : Beautiful HD capture of Jessica and Kristen\'s first performances as Elphaba and Nessarose. Jessica has such clarity and power behind her voice, all while making the character her own. A
 
-#### Wicked - Second National Tour (Munchkinland) - September 24, 2017
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - September 24, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 kradder32
 {: .label .label-blue }
@@ -1885,8 +1885,8 @@ CAST
 NOTES
 : A wonderful capture of Jessica's final performance with no obstructions or washout. Jessica gave a topnotch performance and added new riffs. There are a few quick dropouts during applause and a nice mix of wides, mediums, and close-ups. Audio is perfect and curtain call is included.
 
-#### Wicked - Second National Tour (Munchkinland) - August 4, 2018
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - August 4, 2018
+{: .fs-5 .text-gamma .d-inline-block }
 
 myroadofgoodintentions
 {: .label .label-blue }
@@ -1900,8 +1900,8 @@ CAST
 NOTES
 : Captured with high quality camera. Some obstructions due to heads and washout but majority very clear high quality.
 
-#### Wicked - Second National Tour (Munchkinland) - June 2, 2019
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - June 2, 2019
+{: .fs-5 .text-gamma .d-inline-block }
 
 myroadofgoodintentions
 {: .label .label-blue }
@@ -1912,8 +1912,8 @@ CAST
 NOTES
 : It was Allison's last show as an understudy, before she became lead and Mili's last show. There are several black out periods due to a high usher presence. The only song that are mostly blacked out are The Wizard and I and What is This Feeling. There were a large number of obstructions that occur throughout, but other sections are really good, such as The Wicked Witch of the East and No Good Deed. Lots of good zooms and facials throughout.
 
-#### Wicked - Second National Tour (Munchkinland) - December 15, 2019
-{: .no_toc .d-inline-block }
+Wicked - Second National Tour (Munchkinland) - December 15, 2019
+{: .fs-5 .text-gamma .d-inline-block }
 
 myroadofgoodintentions
 {: .label .label-blue }
@@ -1929,8 +1929,8 @@ NOTES
 
 ### Oberhausen
 
-#### Wicked - Oberhausen - May 2, 2010
-{: .no_toc .d-inline-block }
+Wicked - Oberhausen - May 2, 2010
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu` `4.18 GB`
@@ -1941,8 +1941,8 @@ CAST
 NOTES
 : Beautiful capture with no obstructions of the German production. Willemijn is an Elphaba of many languages and has quite a powerhouse voice and really shines! A
 
-#### Wicked - Oberhausen - September 2, 2011 (Closing Night)
-{: .no_toc .d-inline-block }
+Wicked - Oberhausen - September 2, 2011 (Closing Night)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.22 GB`
@@ -1955,8 +1955,8 @@ NOTES
 
 ## Scheveningen
 
-#### Wicked - Scheveningen - July 29, 2012 (Matinee)
-{: .no_toc .d-inline-block }
+Wicked - Scheveningen - July 29, 2012 (Matinee)
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1967,8 +1967,8 @@ CAST
 NOTES
 : Final matinee for Chantal Janzen. She hits an optional high note in NOMTW. Willemijn also was on fire - she hit F5!
 
-#### Wicked - Scheveningen - January 10, 2013
-{: .no_toc .d-inline-block }
+Wicked - Scheveningen - January 10, 2013
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1981,8 +1981,8 @@ NOTES
 
 ### Mexico
 
-#### Wicked - Mexico - 2006
-{: .no_toc .d-inline-block }
+Wicked - Mexico - 2006
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1996,8 +1996,8 @@ CAST
 NOTES
 : Amazing pro-shot video of the Mexican production of Wicked! The sets are great and look almost identical to the Broadway set. Elphaba\'s voice was unique, she did ok with a few songs but I struggled with others (esp. the end of DG and NGD). Glinda was great and fun to watch! This also contains interviews and a behind the scenes video.
 
-#### Wicked - Veracruz, Mexico - 2009
-{: .no_toc .d-inline-block }
+Wicked - Veracruz, Mexico - 2009
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -2014,8 +2014,8 @@ NOTES
 
 ### Brazil
 
-#### Wicked - Brazil - February, 2016 
-{: .no_toc .d-inline-block }
+Wicked - Brazil - February, 2016 
+{: .fs-5 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2031,8 +2031,8 @@ NOTES
 
 ### International Tour
 
-#### Wicked - International Tour - April 15, 2017
-{: .no_toc .d-inline-block }
+Wicked - International Tour - April 15, 2017
+{: .fs-5 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -2045,8 +2045,8 @@ CAST
 
 ### Specials
 
-#### Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
-{: .no_toc .d-inline-block }
+Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
+{: .fs-5 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2054,8 +2054,8 @@ FORMAT
 NOTES
 : "Something Wicked This Way Comes"  "Betty and Henry continue their illicit romance and plan a secret date to "Wicked," but things don't go as planned... Meanwhile, Daniel woos an important advertiser (guest star Marlo Thomas), a lady with a penchant for younger men."  Even though the show takes place in New York, it is filmed in Los Angeles, and they filmed the Wicked scenes at the Pantages Theatre in LA, with Eden Espinoza and Megan Hilty as Elphaba and Galinda.  Complete with original commercials.   A
 
-#### Wicked - Anniversary Specials - October 29, 2018
-{: .no_toc .d-inline-block }
+Wicked - Anniversary Specials - October 29, 2018
+{: .fs-5 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
