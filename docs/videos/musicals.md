@@ -9529,7 +9529,7 @@ NOTES
 ### Specials
 
 Moulin Rouge (2001)
-{: .text-gamma .d-inline-block }
+{: .text-gamma .head-4 .d-inline-block }
 
 Film
 {: .label .label-green }

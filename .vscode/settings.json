@@ -1,6 +1,7 @@
 {
     "favorites.resources": [
         "_layouts/default.html",
+        "_sass/custom/custom.scss",
         "_sass/typography.scss",
         "index.md",
         "docs/videos/videos.md",
