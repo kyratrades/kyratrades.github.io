@@ -23,7 +23,7 @@ permalink: /musicals
 ## & Juliet
 
 & Juliet - West End - November, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -38,7 +38,7 @@ NOTES
 : First video released of the show in London and Grace's amazing Juliet debut! Sophie swings on in her track. Video wanders a little bit in the first 5 mins but then great. Not obstructed by any heads. Includes HQ bows.
 
 & Juliet - West End - December, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -53,7 +53,7 @@ NOTES
 : Video occasionally has minor obstructions at the bottom of the screen but no action is missed. Doesn\'t include the 'can't stop this feeling' finale.
 
 & Juliet - West End - February, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -65,7 +65,7 @@ CAST
 : Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), Ivan de Freitas (u/s Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (s/w Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna), Josh Baker (s/w Thomas)
 
 & Juliet - West End - March, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -82,7 +82,7 @@ NOTES
 ## 3 Musketeers
 
 3 Musketeers - Rotterdam, The Netherlands - 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -103,7 +103,7 @@ NOTES
 ### Pre-Broadway / Los Angeles
 
 9 to 5 - Pre-Broadway / Los Angeles - September 13, 2008 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -127,7 +127,7 @@ NOTES
 : Shot from mezzanine with no head obstructions so a very clear shot. A little a bit shaky for the first number but steady after. Opening night was on the 20th, so this is a very early performance.
 
 9 to 5 - Pre-Broadway / Los Angeles - October 19, 2008 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -139,7 +139,7 @@ CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
 
 9 to 5 - Pre-Broadway / Los Angeles - October 19, 2008 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -162,7 +162,7 @@ NOTES
 ### Broadway
 
 9 to 5 - Broadway - 2009 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel
 {: .label .label-green }
@@ -177,7 +177,7 @@ NOTES
 : Press reels 2009 Includes (6 pro-shot clips + 2 extras): 1. Here For You 2. I Just Might 3. Backwoods Barbie 4. Rooster To Hen 5. Heart to Hart 6. Shine Like the Sun 7. Stagedoor (Last Preview) 8. Talkback with Dolly Parton and Patricia Resnick
 
 9 to 5 - Broadway - April 11, 2009 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -192,7 +192,7 @@ CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
 9 to 5 - Broadway - April 11, 2009 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Burntplain
 {: .label .label-blue }
@@ -204,7 +204,7 @@ CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
 9 to 5 - Broadway - April 30, 2009 (Opening Night) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -216,7 +216,7 @@ NOTES
 : **Act One only** of the Broadway opening night; shot in 16:9 widescreen. Coverups during \"9 to 5\", the second half of \"I Just Might\" and the scene right before \"Backwoods Barbie\" and about a minute at the end of the dream sequences; camera also wanders sometimes and heads in the wide shots when taper zoomed out to get the whole picture; DVD includes \"Get Out and Stay Out\" from the April 17th performance with Gaelen Gilliland as Judy.Well-shot from the orchestra. There is sometimes the top of a head at the bottom of the screen, but it never blocks Gaelen.
 
 9 to 5 - Broadway - June 14, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -228,7 +228,7 @@ NOTES
 : One head in the way at times and the first couple of minutes of each act are blacked out; second half of \"I Just Might\" is very shaky and slightly blacked out; good sound throughout; nice clear video.
 
 9 to 5 - Broadway - June 21, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -245,7 +245,7 @@ NOTES
 : Gaelen makes a great Judy -- very different from SJB, but extremely solid and made the role her own. Allison and Megan were on top of their game as well. A FANTASTIC FLUB occurred when Gaelen's scarf got tangled on her microphone wire and it took Allison a very long time to untie it, and by that time, she'd ad-libbed her way out of it and then collapsed in a heap of laughter. It was definitely one of those moments you're glad to have captured on video!
 
 9 to 5 - Broadway - September 6, 2009 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -262,7 +262,7 @@ NOTES
 ### MISC
 
 9 to 5 - US National Tour - November 6, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -277,7 +277,7 @@ NOTES
 : Beautiful capture of the tour cast. The cast remains fantastic and top notch. Mamie is truely a force to be reckoned with. These ladies remain one of the best replacement cast, that I have ever saw. A
 
 9 to 5 - North Shore Music Theatre - September, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -294,7 +294,7 @@ NOTES
 ## 13
 
 13 - Broadway - September 16, 2008 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -311,7 +311,7 @@ NOTES
 ## The 25th Annual Putnam County Spelling Bee
 
 The 25th Annual Putnam County Spelling Bee - Off-Broadway - February 15, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -323,7 +323,7 @@ NOTES
 : There's a fair number of digital glitches and it takes a few minutes for the camera to get aimed, but overall a great video with clear sound. Includes NY1 review and interview segment. Best of the three videos.
 
 The 25th Annual Putnam County Spelling Bee - Chicago - June 28, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -346,7 +346,7 @@ NOTES
 ## 42nd Street
 
 42nd Street - Broadway - 1981
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `480p` `3.18 GB`
@@ -358,7 +358,7 @@ NOTES
 : Often misidentified as 1980, Millicent Martin did not take over as Dorothy Brock until 10/28/1981.
 
 42nd Street - Tokyo, Japan - August, 1986
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -377,7 +377,7 @@ NOTES
 : Performed in English with hardcoded Japanese subtitles. Often labelled as the original broadway production, but this is the Japanese touring production with an American cast. There are 2 versions of this going around. One suffers from very dark video but has pretty good sound, and the other has great video but very tinny and compressed audio. (And has 15 seconds missing from Clare Leach\'s intro). Check with traders.
 
 42nd Street - Teatro Insurgentes, México - June, 1990
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -390,7 +390,7 @@ CAST
 NOTES: Note from Blvd-on-Sunset: A really charming and professional production in Spanish! The production uses very similar/exact sets and costumes from Broadway. Nicely filmed. Half pro-shot, half hand-shot from stalls. Includes special features: Tv interviews, short behind-the-scenes footage such as costumes and sets, show commercial and various full pro-shot footage of "dames" and "we're in the money".
 
 42nd Street - First UK Tour - 1991
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -405,7 +405,7 @@ NOTES
 : \[Note from Blvd-on-Sunset\] This video has been widely mislabelled as \"2006 UK Tour\" for years and some traders are unaware of this. A show programme from the 1991 UK Tour confirms this. Recorded through the House camera with some static at bottom of screen, and some generational loss. B+
 
 42nd Street - Broadway Revival - 2001 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -420,7 +420,7 @@ NOTES
 : Dance captain\'s reel. An hour of semi pro-shot footage of dance numbers only. Includes: audition, shadow waltz, go into your dance, your getting to be a habit with me, getting out of town, dames/keep young and beautiful, regency club scene, eyes for you, we\'re in the money, lullaby of broadway, short montage between Julian and Peggy, plenty of money and you, shuffle off to buffalo, 42nd street, curtain call and finale ultimo. Static audio in background. The video has also gone through a lot of gen loss.
 
 42nd Street - Broadway Revival - April 21, 2001 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.10 GB`
@@ -432,7 +432,7 @@ NOTES
 : Preview. Filmed from balcony and a lot of closeups and mediums. Clear audio, but a little static (barely noticeable). A lot of traders mis-identify Dorothy as Christine Ebersole but she sported a blonde wig in her run whereas the Dorothy in this has a brunette wig and looks more like Beth Leavel. Similarly Maggie Jones in this video is Mary Testa, you can tell from her face and build. A-
 
 42nd Street - Stuttgart - 2004 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -450,7 +450,7 @@ NOTES
 : The Stuttgart production is a replica of the 2001 Broadway revival performed in German. Pro-shot footage from house-cam mixed with soundboard. Includes 21mins of Audition, With Plenty of Money And You, 42nd Street, Curtain Call and Finale. Note that the audio becomes slightly quiet after 3 minutes in, but watchable.
 
 42nd Street - Second National Tour - December 3, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -465,7 +465,7 @@ NOTES
 : Pro-Shot with VHS information on the bottom of the screen.
 
 42nd Street - Mexico - September 6, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -480,7 +480,7 @@ NOTES
 : A regional theatre production.
 
 42nd Street - Asian Tour (Shanghai) - September, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -495,7 +495,7 @@ NOTES
 : You can\'t make out the actor\'s faces. The sound is very clear and fed from the soundboard, but the tap sounds get watered out. It seems this particular performance is cursed with little mishaps here and there. Billy drops his walking stick a few seconds after his appearance when the mirror sequence finishes. A chorus member also slips during we\'re in the money. The ensemble who form into a circle for the mirror sequence form the circle on the right side of the stage (a foot way from the middle) but they move back into the middle a seconds later. The spotlighting on the actors is also very crude, sometimes they lag behind the actor\'s movements and don\'t follow them accurately.
 
 42nd Street - Second Non-Equity US National Tour - March 9, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -510,7 +510,7 @@ NOTES
 : Beautiful HD capture with no obstructions of the brand new tour. This production has a fast pace and such high energy dance numbers. A really stunning tour that had the audience cheering, highly recommended!
 
 42nd Street - Second Non-Equity US National Tour - June 7, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -525,7 +525,7 @@ NOTES
 : A fantastic capture of the current tour. The ensemble is the standout here; the dance numbers are absolutely incredible. There is no obstruction, just one quick dropout in act one, and only some slight washout in a few of the wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, finale, and playbill scans.
 
 42nd Street - Drury Lane Theatre (Illinois, USA) - 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -540,7 +540,7 @@ NOTES
 : Not to be confused with the West End revival, this is a re-imagined production by the Dury Lane Theatre in Chicago with hoofer and rhythm style tap, as well as jazz funk orchestrations.
 
 42nd Street - Second West End Revival - November, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -560,7 +560,7 @@ NOTES
 ## 110 In The Shade
 
 110 In The Shade - Broadway Revival - April 15, 2007 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -574,7 +574,7 @@ NOTES
 ## 1776
 
 1776 - Encores! - March 31, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -592,7 +592,7 @@ NOTES
 ## The Addams Family
 
 The Addams Family - Pre-Broadway / Chicago - December 27, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -611,7 +611,7 @@ NOTES
 : Beautiful capture of the show that is sure to change before Broadway. The talent is wonderful from every aspect and there are a lot great moments in the show. A
 
 The Addams Family - Broadway - March 12, 2010 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -629,7 +629,7 @@ NOTES
 : Many, Many changes from the Pre-Broadway run in Chicago. The show has a very different feel and works much better. The cast is still very strong and very funny. One of the biggest transformations I can remember with a Broadway Transfer! A-
 
 The Addams Family - First National Tour - October 18, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -645,7 +645,7 @@ NOTES
 : Beautiful capture of the again newly reworked version of the tour. This would technically make it version 3.0. Changes include new songs, reworked, new or cut scenes and plots, that work for the better! A+
 
 The Addams Family - Broadway - November 30, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -660,7 +660,7 @@ NOTES
 : Many, Many changes from the Pre-Broadway run in Chicago. The show has a very different feel and works much better. The cast is still very strong and very funny. One of the biggest transformations I can remember with a Broadway Transfer! A-
 
 The Addams Family - First National Tour - July, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -669,7 +669,7 @@ CAST
 : Douglas Sills (Gomez Addams), Christy Morton (u/s Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Gaelen Gilliland (Alice Beineke), Martin Vidnovic (Mal Beineke), Brian Justin Crum (Lucas Beineke)
 
 The Addams Family - First National Tour - December 30, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -678,7 +678,7 @@ CAST
 : Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Gaelen Gilliland (Alice Beineke), Martin Vidnovic (Mal Beineke), Jonathan Ritter (u/s Lucas Beineke)
 
 The Addams Family - Lima, Peru - 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -693,7 +693,7 @@ NOTES
 : Multi-Camera Pro-Shot
 
 The Addams Family - Merzig, Germany - August 23, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -702,7 +702,7 @@ CAST
 : Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
 
 The Addams Family - Merzig, Germany - August 23, 2014 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -711,7 +711,7 @@ CAST
 : Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
 
 The Addams Family - Bremen, Germany - November 30, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -720,7 +720,7 @@ CAST
 : Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Lisa Antoni (Wednesday Addams), Enrico DePieri (Fester Addams), Noah Walczuch (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Benedikt Ivo (Lucas Beineke) 
 
 The Addams Family - Fullerton, CA - October 24, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -735,7 +735,7 @@ CAST
 : Bronson Pinchot (Gomez Addams), Rachel York (Morticia Addams), Micaela Martinez (Wednesday Addams), Anthony Grupposo (Fester Addams), Dante Marenco (Pugsley Addams), Candi Milo (Grandma Addams), Dustin Ceithamer (Lurch), Tracy Rowe Mutz (Alice Beineke), Robert Yacko (Mal Beineke), Dino Nicandros (Lucas Beineke)
 
 The Addams Family - Bethlehem, Pennsylvania - July, 2016 (Pro-Shot's video master) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -751,7 +751,7 @@ NOTES
 : Single cam pro-shot. Filmed on a tripod, mix of long and close shots, soundboard audio
 
 The Addams Family - First UK Tour - 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -766,7 +766,7 @@ NOTES
 : Nice focus throughout and generally good movement. Unfortunately quite a lot of scenes are simply blackout, so this video can only be described really as a highlights reel. The audio remains good throughout and you can get a great idea of this 'updated' version of this show since its Broadway run
 
 The Addams Family - Dutch Tour - February 9, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -783,7 +783,7 @@ CAST
 ## After Midnight
 
 After Midnight - Broadway - May 18, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -800,7 +800,7 @@ NOTES
 ## Aida
 
 Aida - Broadway - March 29, 2000 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Major
 {: .label .label-blue }
@@ -821,7 +821,7 @@ NOTES
 : Amazing quality for the early 2000s. Digital if I\'m not mistaken. Audio holds up well.
 
 Aida - Broadway - May 13, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -833,7 +833,7 @@ NOTES
 : Often trades as May 19, 2001. But watch out, completely different cast. Date is most likely wrong, as Heather Headley was still playing Aida at this point. Idina Menzel only played Amneris Sep 13, 2001 - Jan 27, 2002.
 
 Aida - Broadway - May 19, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -848,7 +848,7 @@ NOTES
 : Only recording of Taylor Dayne as Amneris. Filmed around a head, bottom center.
 
 Aida - Seoul, South Korea - January 14, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : M2TS `24.6 GB`
@@ -859,7 +859,7 @@ CAST
 ## Ain\'t Too Proud
 
 Ain\'t Too Proud - Pre-Broadway Tour - August 24, 2018 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 thehouseonsunset
 {: .label .label-blue }
@@ -873,7 +873,7 @@ CAST
 ## Aladdin
 
 Aladdin - Pre-Broadway / Toronto - November 3, 2013 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -888,7 +888,7 @@ NOTES
 : Beautiful HD capture with no obstructions! Disney\'s newest theatrical production with a wonderful cast and lots of big production numbers. Sure to be some changes before it hits Broadway! A+
 
 Aladdin - Broadway - August 22, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -903,7 +903,7 @@ NOTES
 : Act one has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act two is much better with no blackouts and only some heads on the bottom that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.
 
 Aladdin - Broadway - November 5, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -918,7 +918,7 @@ NOTES
 : Beautiful HD capture of latest Disney Broadway offering. Great to see the changes from the Toronto tryout. Michael and Merwin do terrific jobs as Genie and Jafar. A
 
 Aladdin - First National Tour - March 7, 2019 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 thehouseonsunset
 {: .label .label-blue }
@@ -933,7 +933,7 @@ NOTES
 : A kids head blocks my shot from time to time but not throughout the entire video. Video ends right before Aladdin and Jasmine get onto the magic carpet.
 
 Aladdin - Broadway - March, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -947,7 +947,7 @@ CAST
 ## Alice at the Palace
 
 Alice at the Palace - Broadway - July, 1981
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -967,7 +967,7 @@ NOTES
 ## Alice By Heart
 
 Alice By Heart - Off-Broadway - March, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -987,7 +987,7 @@ NOTES
 ## Allegiance
 
 Allegiance - Broadway - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1002,7 +1002,7 @@ NOTES
 : The Collector\'s Edition DVD from the Box Set
 
 Allegiance - Broadway - October 16, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1019,7 +1019,7 @@ NOTES
 ## Amélie
 
 Amélie - Berkeley Repertory Theatre - September 5, 2015 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1034,7 +1034,7 @@ NOTES
 : An adorable and charming new show premiering at Berkeley Repertory. Samantha, Adam, and Savvy are fantastic in their roles, the music is gorgeous, and the sets are beautiful and clever. A very nice capture with just one quick dropout and one small head that can occasionally be seen at the bottom of the screen but never blocks the action. It's filmed in 16:9, with a mix of wides, mediums and close-ups. The sound is excellent. The show runs 1 hour and 40 minutes with no intermission. Includes curtain call and playbill scans. A
 
 Amélie - Pre-Broadway/Los Angeles - December 4, 2016 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1052,7 +1052,7 @@ NOTES
 : This show is magical, Phillipa is captivating, and the entire ensemble is perfectly quirky. There have been a few changes since Berkeley that tighten up the show a bit and make it ready for Broadway. A near perfect capture with no washout, no obstruction, and just one very quick dropout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Amélie - Broadway - May 12, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1067,7 +1067,7 @@ NOTES
 : Great HD capture a week before the closing performance. First 10 or so minutes are full stage shot, then zooming begins. Still a great cast with some great songs and moments in the show. A-
 
 Amélie - UK Tour - June, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -1084,7 +1084,7 @@ NOTES
 ## An American in Paris
 
 An American in Paris - First National Tour - March 23, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1099,7 +1099,7 @@ NOTES
 : A wonderful capture of the tour cast with no obstructions or washout and just a few quick dropouts. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. The best American in Paris video out there.
 
 An American in Paris - West End - May, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1116,7 +1116,7 @@ NOTES
 ## American Psycho
 
 American Psycho - Broadway - March 29, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1133,7 +1133,7 @@ NOTES
 ## Anastasia
 
 Anastasia - Pre-Broadway / Hartford - June 15, 2016 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1145,7 +1145,7 @@ CAST
 : Christy Altomare (Anya), Derek Klena (Dmitry), Manoel Felciano (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O'Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna), Nicole Scimeca (Little Anastasia / Prince Alexei Romanov), Molly Rushing (Young Anastasia / Paulina)
 
 Anastasia - Broadway - June 28, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1160,7 +1160,7 @@ NOTES
 : Great HD capture of the Broadway transfer. There are a few short scenes/moments far stage right blocked by a head, but nothing major. Beautiful production, performances and cast to match! A-
 
 Anastasia - Broadway - September 17, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R
 {: .label .label-blue }
@@ -1175,7 +1175,7 @@ NOTES
 : Actor's Benefit Performance. Includes post-show speeches.
 
 Anastasia - Stuttgart - February, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -1187,7 +1187,7 @@ CAST
 : Alexandra Alexandrova (u/s Anya), Milan van Waardenburg (Dmitry), Mathias Edenborn (Gleb Vaganov), Thorsten Tinney (Vlad Popov), Jacqueline Braun (Countess Lily Malevsky-Malevitch), Daniela Ziegler (Dowager Empress Maria Feodorovna)
 
 Anastasia - First National Tour / Dallas, TX - February 28, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 mynewfavoriteday
 {: .label .label-blue }
@@ -1202,7 +1202,7 @@ NOTES
 : Great capture of this wonderful touring company with no obstructions except for a head leaning into the frame for a second or two in Act One. Filmed with a mix of wides, mediums, and close-ups, and there’s only a couple instances of wandering after applause (limited to early in Act One) and no major dropouts.
 
 Anastasia - Broadway - March 31, 2019 (Matinee) (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -1219,7 +1219,7 @@ NOTES
 ## Annie
 
 Annie - 30th Anniversary Tour - October 1, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1234,7 +1234,7 @@ NOTES
 : Shot 14 Rows back from the stage, amazing closups, heads in some frames at times, but not much. Wonderful production Annie and the Star to Be were sensational. Best Annie out there. A-
 
 Annie - North Shore Music Theatre, Beverly MA - 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1249,7 +1249,7 @@ NOTES
 : Pro-shot. Presented \"in-the-round\" by the North Shore Music Theatre. Filmed using one camera on a tripod with audio patched in from the sound board. The disc also includes a three minute highlights montage used for promotional purposes.
 
 Annie - Second Broadway Revival - October 3, 2012 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1264,7 +1264,7 @@ NOTES
 : Excellent HD capture of this sparkly first performance Broadway Revival. Lilla is great in the role of Annie and really delivers. Katie as you would guess, makes a terrific Hannigan and so funny in the role! A great top notch revival! A
 
 Annie - Second Broadway Revival - July 14, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1279,7 +1279,7 @@ NOTES
 : Excellent HD capture of Jane in the role of Ms. Hannigan. Act one is beautifully captured, but missing the last two minutes. Act two is a blackout for the first 5 minutes and a mostly midstage for the rest of act two. A-
 
 Annie - Fifteenth UK Tour - November, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -1291,7 +1291,7 @@ CAST
 : Ava Smith (Annie), Lesley Joseph (Miss Hannigan), Alex Bourne (Oliver \"Daddy\" Warbucks), Carolyn Maitland (Grace Farrell), Richard Meek (Rooster Hannigan), Jenny Gayner (Lily St. Regis), Florrie May Wilkinson (Molly), Aliya Bashir (Pepper), Marlie Olivia Love (Duffy), Isobelle Chalmers (July), Emily-May Stephenson (Kate)
 
 Annie - Second Dutch Tour - December 8, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -1305,7 +1305,7 @@ CAST
 ## Annie 2: Miss Hannigan\'s Revenge
 
 Annie 2: Miss Hannigan\'s Revenge - Kennedy Center (Washington DC) - December 23, 1989
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `NO DVD menu`
@@ -1319,7 +1319,7 @@ NOTES
 ## Annie Get Your Gun
 
 Annie Get Your Gun - NBC - November 27, 1957
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1334,7 +1334,7 @@ NOTES
 : Pro Shot for TV, Filmed in Black and White
 
 Annie Get Your Gun - US Tour - 1993 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -1355,7 +1355,7 @@ NOTES
 : Uses original book and music, before revival made it more politically correct. Filmed on a tripod, full stage shot. Sound directly from sound board
 
 Annie Get Your Gun - Lincoln Center - March 8, 1998 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1364,7 +1364,7 @@ CAST
 : Patti LuPone (Annie Oakley), Peter Gallagher (Frank Butler), Jack Dabdoub (Buffalo Bill (Col. William F. Cody)), Mary Testa (Dolly Tate), Michael McGrath (Charlie Davenport), George Lee Andrews (Pawnee Bill), Eli Wallach (Chief Sitting Bull), Cameron Bowen (Little Jake), Cassidy Ladden (Jessie Oakley), Kimberly Hannon (Nellie Oakley)
 
 Annie Get Your Gun - Broadway - 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1373,7 +1373,7 @@ CAST
 : Bernadette Peters (Annie Oakley), Tom Wopat (Frank Butler), Valerie Wright (Dolly Tate), Peter Marx (Charlie Davenport)
 
 Annie Get Your Gun - Broadway - May 15, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1382,7 +1382,7 @@ CAST
 : Reba McEntire (Annie Oakley), Brent Barrett (Frank Butler)
 
 Annie Get Your Gun - Ravinia Festival, Highland Park, IL - August 15, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1397,7 +1397,7 @@ NOTES
 : A great capture of Patti in the role of Annie Oakley at the famous outdoor venue in Highland Park, IL. A few spots are slightly shakey due to the size of venue and zoom. A-
 
 Annie Get Your Gun - UK Tour - 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `NO DVD menu`
@@ -1409,7 +1409,7 @@ NOTES
 : Full stage, almost like a house cam. No zooms. Audio is a bit muffled.
 
 Annie Get Your Gun - Encores! - October 27, 2015 (Opening Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -1426,7 +1426,7 @@ NOTES
 ## Anyone Can Whistle
 
 Anyone Can Whistle - Carnegie Hall Concert - April 8, 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1438,7 +1438,7 @@ CAST
 : Madeline Kahn (Cora Hoover Hooper), Bernadette Peters (Fay Apple), Scott Bakula (J. Bowden Hapgood), Walter Bobbie (Comptroller Schub), Nick Wyman (Dr. Detmold), Chip Zien (Treasurer Cooley), Ken Page (Chief Magruder)
 
 Anyone Can Whistle - Ravina Festival - August, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -1447,7 +1447,7 @@ CAST
 : Patti LuPone (Cora Hoover Hooper), Audra McDonald (Fay Apple), Michael Cerveris (J. Bowden Hapgood), Ray Wills (Comptroller Schub), Peter Mohawk (Dr. Detmold), Jerry Galante (Treasurer Cooley), David Mendes (Chief Magruder), Christine Sherrill (June), Jason Bayle (John)
 
 Anyone Can Whistle - Encores! - April 10, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1465,7 +1465,7 @@ NOTES
 ### First Broadway Revival
 
 Anything Goes - First Broadway Revival - 1988
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.74 GB`
@@ -1480,7 +1480,7 @@ NOTES
 : Starts from \"I Get a kick out of you\". Grainy footage, some blur. Patti LuPone\'s voice is absolutely sublime.
 
 Anything Goes - First Broadway Revival - 1988 (Lost Footage) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1500,7 +1500,7 @@ NOTES
 ### Second Broadway Revival
 
 Anything Goes - Second Broadway Revival - April 3, 2011 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1518,7 +1518,7 @@ NOTES
 : Sensational revival and stunning production. Sutton of course is talented beyond words and it truely shows. Such a fun revival and everything is beautifully captured here. A
 
 Anything Goes - Second Broadway Revival - November 15, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -1536,7 +1536,7 @@ NOTES
 : Great audio and video, but the mic seems to get covered midway through the second act until the end of the recording, muting the audio quite severely.
 
 Anything Goes - Second Broadway Revival - November 19, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1559,7 +1559,7 @@ NOTES
 ### Third National Tour
 
 Anything Goes - Third National Tour - November 30, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `NO DVD menu`
@@ -1574,7 +1574,7 @@ NOTES
 : One head on the right side of the screen, but it never blocks the action; no blackouts and very little washout throughout the show. Filmed in 16:9 with a mix of wides, mediums, and close-ups. Great sound; video includes curtain call and BC/EFA speech.
 
 Anything Goes - Third National Tour - March 23, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -1592,7 +1592,7 @@ CAST
 : Rachel York (Reno Sweeney), Josh Franklin (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin)
 
 Anything Goes - Third National Tour - September 29, 2013 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1612,7 +1612,7 @@ CAST
 ### MISC
 
 Anything Goes - New Brunswick, NJ - 1992
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Single-Cam Pro-Shot
 {: .label .label-green }
@@ -1627,7 +1627,7 @@ NOTES
 : Plays in the Park
 
 Anything Goes - Television Special - February 28, 1954
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1645,7 +1645,7 @@ NOTES
 : NBC Pro-Shot. Part of the \"Colgate Comedy Hour\". A beautiful remastered version of this exists, however there is a timer and watermark.
 
 Anything Goes - Pittsburgh - November 18, 1988
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1657,7 +1657,7 @@ NOTES
 : Produced by the Pittsburgh Playhouse. The production was modeled after the 1987 Patti LuPone revival, using similar sets and staging. Filmed almost entirely in wider full stage shots. Some slight generational loss, and spotlight washout. B+
 
 Anything Goes - West End - November 30, 1989
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1669,7 +1669,7 @@ NOTES
 : What you'd expect for a video this old. Not a great shoot - lots of heads - and more "follow the glowing blob" than any sort of detail. Audio is nice and clean. Cuts off at just under two hours.
 
 Anything Goes - Berlin - 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1681,7 +1681,7 @@ NOTES
 : The footage is all over the place, the show IS NOT IN ORDER. Includes extra footage from dressing rooms, backstage and the wings. This footage seems to have been a shot by one of the cast or crew.
 
 Anything Goes - Paper Mill Playhouse - 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1696,7 +1696,7 @@ NOTES
 : Previously labelled as \"Housecam\", this is a pro-shot video. Mixed with soundboard.
 
 Anything Goes - First West End Revival (Drury Lane) - July 17, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1711,7 +1711,7 @@ NOTES
 : Starts from Reno\'s entrance on the ship though this scene is mostly blocked until a few seconds later. Filmed from center balcony so there\'s some good wideshots.
 
 Anything Goes - Mexico City, Mexico (2012) - July 4, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1723,7 +1723,7 @@ NOTES
 : Amateur production. Seems to be very inspired by the 2011 Broadway Revival.
 
 Anything Goes - Ogunquit Playhouse/Gateway Playhouse - May 17, 2016 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -1739,7 +1739,7 @@ NOTES
 : \"Anything Goes\" only. It is usually labelled as either May 17 or 18.
 
 Anything Goes - Ogunquit Playhouse/Gateway Playhouse - July, 2016 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -1757,7 +1757,7 @@ NOTES
 ## Aspects of Love
 
 Aspects of Love - Broadway - March 1, 1991
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.34 GB`
@@ -1768,7 +1768,7 @@ CAST
 ## Assassins
 
 Assassins - Off-Broadway - December 21, 1990
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1780,7 +1780,7 @@ NOTES
 : Lap shot with no zooms from the front of the theatre. Right top and bottom corners are blacked out by a head, blocks about a third of the screen.
 
 Assassins - Library Theatre, Manchester - October, 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1795,7 +1795,7 @@ NOTES
 : Sometimes mistakenly labelled 1996. Usually listed as PRO-SHOT, but the camera is far too unsteady to have even been filmed using a tripod. At the start of the video there is a production of the Opera "Armide" which is pro-shot and lasts 2 hours and a quarter, followed by the recording of Assassins (all on the same chapter)
 
 Assassins - Pegasus Players, Chicago IL - December 21, 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1807,7 +1807,7 @@ CAST
 : Will Chase (The Balladeer), Scott Lowell (John Wilkes Booth), Meredith Brickett (Sara Jane Moore), Lori Scarlett (Lynette \"Squeaky\" Fromme), Christopher Eudy (John Hinckley, Jr.), Jeff Still (Samuel Byck), Stef Tovar (Leon Czolgosz), Chris McNamara (Charles Guiteau), Anthony Cesarelli
 
 Assassins - Broadway - April, 2004 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1822,7 +1822,7 @@ NOTES
 : There are 2 full length videos from this production that circulate with various dates and copies. This one is most commonly listed as April 4th or 10th, but has also been listed as April 20th, 24th, and has even been mixed up with the May 29th video. Check your copy against the screenshots to see which one you have.
 
 Assassins - Broadway - May 29, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1834,7 +1834,7 @@ NOTES
 : There are two full length videos of this production which circulate under various dates. This one is most commonly listed as May 29th, but has also been circulated as April 20th, or confused with the other April video and listed as the 4th or 10th. Check your screencaps to confirm which performance you have.
 
 Assassins - Long Island - September, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1846,7 +1846,7 @@ CAST
 : Bernard Macias (The Proprietor), Jeremy Hudson (Lee Harvey Oswald), Jason Trigger (John Wilkes Booth), Brian Smith (President Gerald Ford/James Blaine), Susan Hall (Sara Jane Moore), Malorie Charak (Lynette "Squeaky" Fromme), Ron Menin (John Hinckley, Jr.), Frank Danko (Samuel Byck), Jerry Maggio (Giuseppe Zangara), Donna Maggio (Emma Goldman), Stephen Wangner (Leon Czolgosz), Patrick Finn (Charles Guiteau)
 
 Assassins - Encores! - July 14, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -1867,7 +1867,7 @@ NOTES
 ## Back to the Future: The Musical
 
 Back to the Future - Manchester Opera House - February, 2020 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -1884,7 +1884,7 @@ NOTES
 ## The Baker's Wife
 
 The Baker's Wife - London Rehearsal Reading - 1989
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1899,7 +1899,7 @@ NOTES
 : Original London cast in a workshop/performance of the complete show. Absolutely beautifully pro-shot with multiple cameras in a dance studio. A+
 
 The Baker's Wife - Music Theatre Wichita - 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1911,7 +1911,7 @@ CAST
 : Mari Swan (Geneviève), Steve Frazier (Aimable), Greg Spencer (Claude), Brian Miller (Jean-Paul) 
 
 The Baker's Wife - Paper Mill Playhouse - April, 2005 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1925,7 +1925,7 @@ CAST
 ## The Band Wagon
 
 The Band Wagon - Encores! - November 13, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1939,7 +1939,7 @@ NOTES
 ## Bandstand
 
 Bandstand - Broadway - March 31, 2017 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1956,7 +1956,7 @@ NOTES
 ## Bare: The Musical
 
 Bare: The Musical - Off-Broadway - December 2, 2012 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -1973,7 +1973,7 @@ NOTES
 ## Bat Boy: The Musical
 
 Bat Boy: The Musical - Old Bethpage, New York - May, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -1987,7 +1987,7 @@ CAST
 ## Be More Chill
 
 Be More Chill - Broadway - March, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -2002,7 +2002,7 @@ NOTES
 : Great clear video with excellent picture and good sound.
 
 Be More Chill - Broadway - August 11, 2019 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 notjustthespongenextdoor
 {: .label .label-blue }
@@ -2017,7 +2017,7 @@ NOTES
 : Closing Night on Broadway! Fantastic HD stageshot from the rear right balcony without zooms. The action is caught really well and there is no washout. The cast were on top of their game for the final performance and includes the speeches after the show.
 
 Be More Chill - Off-West End - February, 2020 (2)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -2034,7 +2034,7 @@ NOTES
 ## Beaches
 
 Beaches - Chicago - June 25, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2051,7 +2051,7 @@ NOTES
 ## Beautiful: The Carole King Musical
 
 Beautiful - Pre-Broadway / San Francisco - October 12, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2063,7 +2063,7 @@ CAST
 : Jessie Mueller (Carole King), Jake Epstein (Gerry Goffin), Anika Larsen (Cynthia Weil), Jarrod Spector (Barry Mann), Jeb Brown (Don Kirshner), Liz Larsen (Genie Klein)
 
 Beautiful: The Carole King Musical - Broadway - April 9, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2078,7 +2078,7 @@ NOTES
 : Beautiful HD capture with no obstructions. Wonderful and stunning production with a cast that is perfection! Jessie gives a performance that is incredible, as does the rest of the cast! Can't say enough wonderful things about this production as a whole! A+
 
 Beautiful: The Carole King Musical - First National Tour - December 15, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2093,7 +2093,7 @@ NOTES
 : Sometimes inaccurately circulated as October 15, 2015; Beautiful HD capture with no obstructions. Wonderful and stunning production with a cast that is perfection! Jessie gives a performance that is incredible, as does the rest of the cast! Can't say enough wonderful things about this production as a whole! A+
 
 Beautiful - First National Tour - October 16, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2108,7 +2108,7 @@ NOTES
 : Great clear capture with no blackouts and no washout. The overture is missing; the capture starts immediately before So Far Away. Some small heads can occasionally be seen, but they don\'t block the action. It\'s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, encore, and playbill scans. 2 DVDs A
 
 Beautiful - Broadway - June 24, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R
 {: .label .label-blue }
@@ -2126,7 +2126,7 @@ NOTES
 : A beautiful HD capture of Melissa Benoist\'s run in the show. She develiers a wonderful and beautiful performance as Carole and also has great vocals! The whole cast is spectacular and the show is still running strong for being on broadway for five years! Nice capture with filmed with a mix of wides, mediums and close-ups! Includes curtain call and encore. File quality/format varies across traders.
 
 Beautiful - Broadway - October, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -2141,7 +2141,7 @@ NOTES
 : Beautiful HD capture of the show, filmed from the orchestra before closing. The video starts when Carole mentions being from Brooklyn. Act Two starts part of the way through "Chains." Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
 
 Beautiful - Second UK Tour - February, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -2158,7 +2158,7 @@ NOTES
 ## Beauty and the Beast (Disney)
 
 Beauty and the Beast (Disney) - Los Angeles - April 12, 1995 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2170,7 +2170,7 @@ NOTES
 : For the time period that it was filmed, It's great. Sound and picture synch up and Gary Beach kills it as Lumiere. Susan Egan is wonderful.
 
 Beauty and the Beast (Disney) - Toronto - August 8, 1995 (Opening Night) (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -2185,7 +2185,7 @@ NOTES
 : Press reels with footage from the show and interviews
 
 Beauty and the Beast (Disney) - West End - April 29, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -2203,7 +2203,7 @@ NOTES
 : Good video, camcorder. Includes LA Cast Press Reels.
 
 Beauty and the Beast (Disney) - Vienna - May - June, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.91 GB`
@@ -2212,7 +2212,7 @@ CAST
 : Caroline Vaiscek (Belle), Steve Barton (Beast/Prince), Kevin Tarte (Gaston)
 
 Beauty and the Beast (Disney) - Broadway - September 7, 1997 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.90 GB`
@@ -2221,7 +2221,7 @@ CAST
 : Kerry Butler (Belle), Chuck Wagner (Beast/Prince)
 
 Beauty and the Beast (Disney) - Broadway - March 11, 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.01 GB`
@@ -2230,7 +2230,7 @@ CAST
 : Andrea McArdle (Belle), William Michals (Beast/Prince), Steve Blanchard (Gaston), Beth Fowler (Mrs. Potts)
 
 Beauty and the Beast (Disney) - West End - November 24, 1999 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2248,7 +2248,7 @@ NOTES
 : House Cam recording of the final West End Cast.
 
 Beauty and the Beast (Disney) - Sao Paulo, Brazil - June, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2263,7 +2263,7 @@ NOTES
 : Cleaned up nicely from original DVD but a soft source nonetheless so fine details are lacking.
 
 Beauty and the Beast (Disney) - UK Tour - 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2281,7 +2281,7 @@ NOTES
 : One camera housecam pro-shot, full stage, no zooms
 
 Beauty and the Beast (Disney) - Dutch Tour - October 4, 2005 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2293,7 +2293,7 @@ CAST
 : Chantal Janzen (Belle), Stanley Burleson (Beast/Prince), Dick Rienstra (Maurice), René van Kooten (Gaston), Carlo Bozschard (Lumière), Mariska von Holck (Mrs. Potts), Ger Otte (Cogsworth), Caroline Mout (Madame de la Grande Bouche), Nicole Berendsen (Babette), Jorge Verkoost (Le Fou)
 
 Beauty and the Beast (Disney) - Wichita, KS - 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -2310,7 +2310,7 @@ NOTES
 ## A Bed and a Chair: A New York Love Affair
 
 A Bed and a Chair - Encores! Special Event - November 13, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2324,7 +2324,7 @@ CAST
 ## Beetlejuice
 
 Beetlejuice - Broadway - July, 2019 (Sophia Anne Caruso)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -2339,7 +2339,7 @@ NOTES
 : Good HD capture from the right orchestra with beautiful zooms and way less obstructions than the March video. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
 
 Beetlejuice - Broadway - September, 2019 (Presley Ryan)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -2354,7 +2354,7 @@ NOTES
 : Beautiful HD capture of the incredible Presley Ryan as Lydia and David's first week as Adam! Filmed from the left orchestra without obstructions with a mix of wides, mediums, and closeups. This is hands down the best video of the show to date. Starts about 3 minutes into performance (mid whole being dead thing).
 
 Beetlejuice - Broadway - November, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -2371,7 +2371,7 @@ NOTES
 ## Before After
 
 Before After - Southwark Playhouse - September 26, 2020 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -2383,7 +2383,7 @@ CAST
 : Hadley Fraser (Ben), Rosalie Craig (Ami)
 
 Before After - Southwark Playhouse - September 26, 2020 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -2400,7 +2400,7 @@ NOTES
 ## Big Fish
 
 Big Fish - Broadway - November 23, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -2412,7 +2412,7 @@ CAST
 : Norbert Leo Butz (Edward Bloom), Bobby Steggert (Will Bloom), Zachary Unger (Young Will), Kate Baldwin (Sandra Bloom), Ryan Andes (Karl), Brad Oscar (Amos Calloway), Ciara Renée (The Witch), Kirsten Scott (Jenny Hill)
 
 Big Fish - Musical Theatre West - November 1, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2426,7 +2426,7 @@ CAST
 ## Billy Elliot: The Musical
 
 Billy Elliot - Australian Tour - January 23, 2008 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2444,7 +2444,7 @@ CAST
 : Corey John Snide (Billy Elliot), Genevieve Lemon (Mrs. Wilkinson), Richard Piper (Dad), Lola Nixon (Grandma), Justin Smith (Tony), Linal Haft (George), Samantha Morley (Mum), John Xintavelonis (Mr. Braithwaite), Fiona Booker (Debbie)
 
 Billy Elliot - West End - September 28, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -2462,7 +2462,7 @@ NOTES
 : Multi-cam pro-shot broadcast live to cinemas. Filmed on 28 September 2014 at the Victoria Palace Theatre in London's West End. Original livestream, letterboxed.
 
 Billy Elliot: The Musical - Netherlands - January, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -2474,7 +2474,7 @@ NOTES
 : Great recording of the Dutch production of Billy Elliot. Similar staging as on Broadway and the UK Tour.
 
 Billy Elliot - La Mirada, California - February 20, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2491,7 +2491,7 @@ NOTES
 ## Blood Brothers
 
 Blood Brothers - US National Tour - 1994, 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -2506,7 +2506,7 @@ CAST
 : Petula Clark (Mrs Johnstone), Mark McGrath (Narrator), David Cassidy (Mickey), Tif Luckenbill (Eddie), Priscilla Quinby (Mrs Lyons), John Kozeluh (Sammy), Yvette Lawrence (Linda), Walter Hudson (Mr Lyons), Marcy De Nezza (Brenda), Perry Ojeda (Perkins), Brandon Stacy Williams, Christopher Yates, Donna Marie, Kent Dalian, Leslie Ann Hendricks
 
 Blood Brothers - West End - March, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2520,7 +2520,7 @@ NOTES
 ## Bloody Bloody Andrew Jackson
 
 Bloody Bloody Andrew Jackson - Broadway - October 31, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -2538,7 +2538,7 @@ NOTES
 : Great capture of this show. A high energy rock show based on the life of Andrew Jackson's life. A
 
 Bloody Bloody Andrew Jackson - Broadway - November 10, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2549,7 +2549,7 @@ CAST
 ## The Bodyguard
 
 The Bodyguard - First National Tour - May 18, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2566,7 +2566,7 @@ NOTES
 ## Bombay Dreams
 
 Bombay Dreams - Apollo Victoria, London - September 15, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.11 GB`
@@ -2580,7 +2580,7 @@ NOTES
 ## Bonnie and Clyde
 
 Bonnie and Clyde - La Jolla Playhouse - November 14, 2009 (Matinee) (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2592,7 +2592,7 @@ NOTES
 : Nice capture of this new Wildhorn show. There are only a couple very short blackouts throughout the show and hardly any washout. A
 
 Bonnie and Clyde - Broadway - November 9, 2011 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -2612,7 +2612,7 @@ NOTES
 ## The Book of Mormon
 
 The Book of Mormon - Broadway - 2011 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2630,7 +2630,7 @@ CAST
 : Andrew Rannells (Elder Price), Josh Gad (Elder Cunningham), Nikki M James (Nabulungi), Rory O'Malley (Elder McKinley)
 
 The Book of Mormon - Broadway - March 1, 2011 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -2645,7 +2645,7 @@ NOTES
 : Very nice video of the show however a bar can be visable in wide shots but it doesn\'t interfere with anything. Disc also includes behind the scenes footage, interviews and reviews. A
 
 The Book of Mormon - Chicago - December 23, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2660,7 +2660,7 @@ NOTES
 : Beautiful HD capture of the Chicago Cast. I can not say enough wonderful things about this company! They really are rock solid and give terrific performances! Nic and Ben are really sensational and have great chemistry. A+
 
 The Book of Mormon - Second National Tour - May 17, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2677,7 +2677,7 @@ NOTES
 ## The Boy Friend
 
 The Boy Friend - US Tour - 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -2694,7 +2694,7 @@ NOTES
 ## The Boy From Oz
 
 The Boy From Oz - Broadway - 2003 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -2709,7 +2709,7 @@ NOTES
 : PRESS REEL: almost 90 minutes of pro-shot musical numbers in near perfect quality
 
 The Boy From Oz - Broadway - September 21, 2003 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2718,7 +2718,7 @@ CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
 
 The Boy From Oz - Broadway - October 16, 2003 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2727,7 +2727,7 @@ CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
 
 The Boy From Oz - Broadway - September 10, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2738,7 +2738,7 @@ CAST
 ## The Bridges of Madison County
 
 The Bridges of Madison County - Broadway - April 16, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2753,7 +2753,7 @@ NOTES
 : Excellent HD capture of this short lived musical, gone too soon. This is the second and even better capture of the show. Kelli and Steven still creating excellent work here. Gem of a show that should have stuck around longer! A
 
 The Bridges of Madison County - First National Tour - November 29, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2768,7 +2768,7 @@ NOTES
 : Excellent HD capture of the tour launch in Iowa. This was the second performance and was conducted by Jason Robert Brown himself. Great performances and top notch tour! A
 
 The Bridges of Madison County - First National Tour - January 3, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2785,7 +2785,7 @@ NOTES
 ## Brigadoon
 
 Brigadoon - Encores! - November 17, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -2802,7 +2802,7 @@ NOTES
 ## Bright Star
 
 Bright Star - Broadway - June 26, 2016 (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2819,7 +2819,7 @@ NOTES
 ## Bullets Over Broadway
 
 Bullets Over Broadway - Broadway - March 29, 2014 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2834,7 +2834,7 @@ NOTES
 : Excellent HD capture of this hilarious show. The railing can enter the very bottom of frame on wider shots, but mostly shot over it. This cast is top notch, spot on and just 100% perfect! A-
 
 Bullets Over Broadway - First National Tour - January 7, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2851,7 +2851,7 @@ NOTES
 ## Bye Bye Birdie
 
 Bye Bye Birdie - Third National Tour - 1992
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.10 GB`
@@ -2873,7 +2873,7 @@ NOTES
 ANY Cabaret Blu-rays, especially the one with Emma Stone.
 
 Cabaret - Second Broadway Revival - 1998 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -2888,7 +2888,7 @@ NOTES
 : Press Reels from 1998/1999. About 90 minutes of raw press footage of the original and replacement casts. Excellent sound and picture for both. Some generation loss.
 
 Cabaret - Vienna - 1998
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -2900,7 +2900,7 @@ CAST
 : Uwe Kröger (Emcee), Vasiliki Roussi (Sally Bowles)
 
 Cabaret - Second Broadway Revival - June 9, 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2912,7 +2912,7 @@ NOTES
 : A lot of generational loss
 
 Cabaret - Second Broadway Revival - November 13, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2921,7 +2921,7 @@ CAST
 : Raúl Esparza (Emcee), Gina Gershon (Sally Bowles), Carole Shelley (Fräulein Schneider), Larry Keith (Herr Schultz), Matthew Greer (Clifford Bradshaw), Peter Benson (Ernst Ludwig), Candy Buckley (Fräulein Kost), Michael O\'Donnell (Bobby/Two Ladies Dancer)
 
 Cabaret - 4th London Revival - November 4, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2936,7 +2936,7 @@ NOTES
 : A totally different Cabaret then previous ones. Wonderful production filled with very \"raw\" emotion. This production does contain nudity. Crystal clear picture and sound, Fantastic performances. A+
 
 Cabaret - Third Broadway Revival - March 30, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2951,7 +2951,7 @@ NOTES
 : Beautiful HD capture of the wonderful revival with no obstructions. Leeds does a wonderful job in the role of the Emcee. Stunning second revival with terrific performances from the entire cast. Linda and Danny are just perfect together! A+
 
 Cabaret - Third Broadway Revival - May 3, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2966,7 +2966,7 @@ NOTES
 : Beautiful HD capture with no obstructions and features the entire Revival Cast. Alan gives a terrific return performance as the Emcee. Gayle and Linda still give such beautiful performances that are wonderful to watch! A
 
 Cabaret - Third Broadway Revival - August 19, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -2978,7 +2978,7 @@ CAST
 : Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Benjamin Eakeley (u/s Ernst Ludwig), Kaleigh Cronin (u/s Fräulein Kost), Stacey Sipowicz (u/s Lulu/Two Ladies Dancer), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Kelly Paredes (u/s Rosie), Evan D Siegel (Hans/Rudy)
 
 Cabaret - Third Broadway Revival - November 20, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -2997,7 +2997,7 @@ NOTES
 : Excellent HD capture with Emma joining the cast as Sally. She does a dazzling job in the role and very precise in detail. Lovely performances from Kristie and Philip. A
 
 Cabaret - Third Broadway Revival - November 29, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -3012,7 +3012,7 @@ NOTES
 : Missing the first few seconds of Wilkommen, but otherwise complete. Very steady, focused, and mostly unobstructed. Includes curtain call and Alan\'s BCEFA speech.
 
 Cabaret - Third Broadway Revival - December 28, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `No DVD menu`
@@ -3024,7 +3024,7 @@ NOTES
 : This is a very nice capture with just a couple very quick dropouts. There is also one head that leans in occasionally, but generally not noticeable. There is very little washout except in some wider shots. The sound is excellent. Includes curtain call and playbill scans.
 
 Cabaret - Third Broadway Revival - March 14, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3039,7 +3039,7 @@ NOTES
 : Beautiful HD capture of Sienna joining the cast as the final Sally Bowles and Hani joining as Kost. Still wonderful and solid performances as the show plays it\'s final few performances. A
 
 Cabaret - Fifth US National Tour / Chicago, IL - February 17, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3056,7 +3056,7 @@ NOTES
 ### Specials
 
 I am Camera - TV Broadcast - 1955
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3068,7 +3068,7 @@ NOTES
 ## Call Me Madam
 
 Call Me Madam - Encores! - February 8, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3079,7 +3079,7 @@ CAST
 ## Camelot
 
 Camelot - Second Broadway Revival - 1982
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3091,7 +3091,7 @@ CAST
 : Richard Harris (King Arthur), Meg Bussert (Queen Guenevere), Richard Muenz (Sir Lancelot), James Valentine (Merlyn), Barrie Ingham (Pellinore), Richard Backus (Mordred), William Parry (Sir Dinadan), Thor Fields (Tom of Warwick), Jeanne Caryl (Nimue), William James (Sir Lionel), Andy McAvin (Sir Sagramore)
 
 Camelot - First National Tour / Chicago - May 8, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3106,7 +3106,7 @@ NOTES
 : Wonderful production. Rachel York is stunning on stage and James has a voice that is so big and beefy, both are sensational. A wonderful capture with nice shots, contains 12 minutes of blackouts at the beginning due to ushers. A-
 
 Camelot - First National Tour / Philadelphia - June 7, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3121,7 +3121,7 @@ NOTES
 ## Candide
 
 Candide - Lincoln Center Live - 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3135,7 +3135,7 @@ CAST
 ## Carousel
 
 Carousel - Broadway - 1945 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3153,7 +3153,7 @@ NOTES
 : 18 minutes of black and white sound archival footage shot with three cameras. It was recorded after a performance, with only a piano for musical accompaniment, to preserve the original choreographies.
 
 Carousel - Second Broadway Revival - March 9, 1994 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD``2.81 GB`
@@ -3165,7 +3165,7 @@ NOTES
 : There\'s a little obstruction and generation loss, no close ups, but overall, a good capture of this beloved revival.
 
 Carousel - North Shore Music Theatre - 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3180,7 +3180,7 @@ NOTES
 : Pro-shot, filmed for archival purposes using multiple cameras. Unfortunately suffers from some generational loss but a great DVD of a beautiful production. Great performances.
 
 Carousel - Carnegie Hall - June 6, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3192,7 +3192,7 @@ NOTES
 : Missing the instrumental Hornpipe and the June Ballet. Lots of zooms.
 
 Carousel - New York Philharmonic Concert - March 2, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3207,7 +3207,7 @@ NOTES
 : HD Pro-shot from PBS, recorded 3/2/13 at Avery Fisher Hall at Lincoln Center and marks the orchestra\'s 75th appearance on the series. Aired on April 26, 2013.
 
 Carousel - Chicago - April 10, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3222,7 +3222,7 @@ NOTES
 : Beautiful HD capture with no obstructions of this exquisite production. It is perfectly cast and performed. A huge production that is wonderful to take in! A
 
 Carousel - Third Broadway Revival - March 2, 2018 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3234,7 +3234,7 @@ CAST
 : Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), Margaret Colin (Mrs. Mullin), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Brittany Pollack (Louise), Garett Hawe (Enoch Snow, Jr.), Andrei Chagas (Fairground Boy)
 
 Carousel - Third Broadway Revival - August, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3248,7 +3248,7 @@ CAST
 ## Carrie: The Musical
 
 Carrie - Stratford-Upon-Avon - February 16, 1988 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3263,7 +3263,7 @@ NOTES
 : Filmed professionally for the RSC archives on the third night of the performance (February 16, 1988). Shot from first row mezzanine center with no obstructions with audio taken directly from the soundboard. Mostly a full stage shots without zooms. This is usually incorrectly labelled as \"Opening Night (February 13, 1988)\", which is incorrect, as on opening night, Barbara Cook was almost decapitated right after the set changes from \"Don\'t Waste The Moon\", which not seen in this video (also verified by the person who copied this from the archives).
 
 Carrie: The Musical - Seattle - October 10, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3280,7 +3280,7 @@ NOTES
 ## Catch Me If You Can
 
 Catch Me If You Can - Pre-Broadway / Seattle, WA - August 4, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3295,7 +3295,7 @@ NOTES
 : This is a great capture of the show. The show is filled with wonderful talent. Aaron and Norbert have a great chemistry together and Aaron has a huge voice. Kerry and Felicia both have great songs and great vocals. The show itself is very sleek and mod. A
 
 Catch Me If You Can - Pre-Broadway / Seattle, WA - August 15, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -3307,7 +3307,7 @@ NOTES
 : Some very quick blackouts, none last more than 30 seconds or so.Very little obstruction, just heads on the bottom and the right, mostly in wideshots, and they\'re hardly noticeable.
 
 Catch Me If You Can - Broadway - April 27, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3319,7 +3319,7 @@ NOTES
 : A nice capture of the short lived show. Disc also includes around 100 minutes of interviews, B-Roll, behind the scenes, etc. Great video with nice picture and clear sound. A
 
 Catch Me If You Can - Moonlight Stage, Vista, San Diego, CA - September 14, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -3333,7 +3333,7 @@ CAST
 ## Cats
 
 Cats - Vienna, Austria  - 1983
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.12 GB`
@@ -3342,7 +3342,7 @@ CAST
 : Angelika Milster (Grizabella), Ute Lemper (Bombalurina), Monica Solem (Jellylorum), Valda Aviks (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Steve Barton (Munkustrap), Gordon Bovinet (Old Deuteronomy)
 
 Cats - Vienna, Austria - 1988
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3354,7 +3354,7 @@ CAST
 : Suzanne Henderson (Grizabella), Derek Daniels (Alonzo), Stanley Dalton (Admetus/Macavity), Otto Scholtze (Bill Bailey/Tumblebrutus), Joanie O'Neill (Bombalurina), Gene Scheer (Bustopher Jones/Gus/Growltiger), Laura Edmunds (Cassandra), Laszlo Csergezan (Carbucketty), Matthew Jessner (Coricopat), Kim Duddy (Demeter), Pamela Liebig (Electra), Pia Douwes (Jellylorum), Elisabeth Meller (Jemima), Barbara Pöschl (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Andrew Morris (Mungojerrie), Darryl Robinson (Munkustrap), Gordon Bovinet (alt Old Deuteronomy), Beatrix Wipperich (Rumpleteazer), Dean Welterlen (Rum Tum Tugger), Michael Estes (Skimbleshanks), Elizabeth Mills-Karzel (Tantomile), Alexandra Young-Schmidt (Victoria), Andrew Currie (Pouncival), Pamela Liebig (Etcetera)
 
 Cats - West End - April 25, 1992
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -3372,7 +3372,7 @@ NOTES
 : In the beginning, it\'s only black and white. This video also includes a clip from Amsterdam production. Fun fact: In this version of the show, there are two Gumbie Cats during the \"Gumbie Tap Dance\" sequence.
 
 Cats - West End - January 23, 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.48 GB`
@@ -3385,7 +3385,7 @@ NOTES
 : This video really follows where the action is. It\'s also including 2 documentaries, one from the original London production, one from the original Vienna production.
 
 Cats - Commercial Release - August, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3403,7 +3403,7 @@ NOTES
 : Filmed on stage at the Adelphi Theatre (London, England) and distributed commercially.
 
 Cats - West End - May 11, 2002 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -3419,7 +3419,7 @@ NOTES
 : Closing night in London. Live streamed to Covent Garden via large screen so it is a recording of the show being played on a big screen outside. Also includes interviews with some of the actors, Elaine Paige, Bonnie Langford, Andrew Lloyd Webber and Gillian Lynne before the show. Very fierce performance by the cast. Also the audience is totally excited by the show. At the end of the show there\'s a long encore with a medley performed by many people who have been in the London production of Cats. Brian Blessed, the Original London Cast, the final London cast and the original creative team also sing \"The Addressing of Cats\" together. Although the quality isn\'t that good (as it was filmed from a screen), this video is a must have for everyone who loves the show!
 
 Cats - Amsterdam, Netherlands - June 29, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB `1 DVD` `3.94 GB`
@@ -3428,7 +3428,7 @@ CAST
 : Pia Douwes (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Cindy Belliot (Jemima), Marleen van der Loo (Jennyanydots), Mark John Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Marco Bakker (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Stanley Burleson (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival)
 
 Cats - Rotterdam, Netherlands - July 28, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB `1 DVD` `4.30 GB`
@@ -3440,7 +3440,7 @@ NOTES
 : Starts at the The invitation to the Jellicle ball and missing a couple of minutes at the start of act 2 two. Act one is filmed in night shot, and act two comes with a verry clear picture. Veerle Castelyn is followed a lot.
 
 Cats - Netherlands - September 16, 2007 (Unknown's video master) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB `2 DVDs` `7.88 GB`
@@ -3449,7 +3449,7 @@ CAST
 : Penny Voss (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Veerle Casteleyn (Jemima), Maaike Schuurmans (Jennyanydots), Mark J Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Paul Walthuis (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Gino Emnes (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival) 
 
 Cats - The Muny, St. Louis - July 25, 2010 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3467,7 +3467,7 @@ NOTES
 : Part of the 2010 MUNY Season in St. Louis, which usually draws big Broadway names as demonstrated here. Stephanie does a fantastic job as Grizabella here, as does Ken recreating his Old Deuteronomy from the Original Broadway Cast. A-
 
 Cats - Mexico - December 29, 2013 (Matinee) (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -3482,7 +3482,7 @@ NOTES
 : Recorded by the company with zoom's for production viewing only
 
 Cats - Broadway Revival - October 30, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3499,7 +3499,7 @@ NOTES
 ## Chaplin: The Musical
 
 Chaplin: The Musical - Broadway - December 13, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -3516,7 +3516,7 @@ NOTES
 ## Charlie and the Chocolate Factory
 
 Charlie and the Chocolate Factory - Broadway - April 20, 2017 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3531,7 +3531,7 @@ NOTES
 : Great HD capture of the new musical based on the Roald Dahl classic novel. A fresh dark take on the material, which was fun and very enjoyable! A great comedic cast and innovative production. A
 
 Charlie and the Chocolate Factory - Broadway - May 1, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3546,7 +3546,7 @@ NOTES
 : Fantastic HD video with excellent picture and clear great sound; Video has great close-ups and good stage shots for dancing numbers.
 
 Charlie and the Chocolate Factory - First National Tour - October 2, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3563,7 +3563,7 @@ NOTES
 ## The Cher Show
 
 The Cher Show - Pre-Broadway / Chicago - July 13, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3578,7 +3578,7 @@ NOTES
 : Beautiful HD capture with no obstructions. The show is a lot of fun and terrific performances from the cast. Stephanie along with Teal and Micaela embody Cher and knock it out of the park! A+
 
 The Cher Show - Broadway - January, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3590,7 +3590,7 @@ CAST
 : Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
 
 The Cher Show - Broadway - April, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -3610,7 +3610,7 @@ NOTES
 ## Chess
 
 Chess - Toronto - Equity Fights Aids / Actors Fund Of Canada Benefit - April 12, 1992
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3622,7 +3622,7 @@ NOTES
 : Colm Wilkinson performs Anthem as an encore at the end of the performance
 
 Chess - Actors\' Fund Benefit Concert - September 21, 2003 (Rehearsal)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3634,7 +3634,7 @@ NOTES
 : Complete footage of the final rehearsal before the benefit concert. Great sound and picture.
 
 Chess - Actors\' Fund Benefit Concert - September 22, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3646,7 +3646,7 @@ CAST
 : Josh Groban (Anatoly Sergievsky), Julia Murney (Florence Vassy), Adam Pascal (Freddie Trumper), Sutton Foster (Svetlana Sergievskaya), Raúl Esparza (Arbiter), Norm Lewis (Molokov), Jonathan Dokuchitz (Walter de Courcey)
 
 Chess - Royal Albert Hall Concert - May 12, 2008 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3658,7 +3658,7 @@ CAST
 : Josh Groban (Anatoly Sergievsky), Idina Menzel (Florence Vassy), Adam Pascal (Freddie Trumper), Kerry Ellis (Svetlana Sergievskaya), Marti Pellow (Arbiter), David Bedella (Molokov), Clarke Peters (Walter de Courcey)
 
 Chess - Kennedy Center/Washington D.C. - February 15 And 18, 2018 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3676,7 +3676,7 @@ NOTES
 ### National Tour(s)
 
 Chicago - First National Tour - 1978
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3688,7 +3688,7 @@ NOTES
 : One of the few copies of the Bob Fosse staging instead of the concert presentation. It\'s an older video but still wonderful to watch even with some major generation loss. C
 
 Chicago - Fourth National Tour - November 23, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3703,7 +3703,7 @@ NOTES
 : Amazing cast and so much fun in this production. Paige is great, Brenda is sassy, and Woods vocals are wild. Best Chicago video ever. Crystal Clear picture and sound. A+
 
 Chicago - Fourth National Tour - May 12, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3718,7 +3718,7 @@ NOTES
 : A terrific capture of this show with amazing shots. Michelle is the highlight here and gives a wonderful performance. A
 
 Chicago - Seventh National Tour - February 2, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -3732,7 +3732,7 @@ CAST
 ### Broadway Revival
 
 Chicago - Broadway Revival - 1996 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3747,7 +3747,7 @@ NOTES
 : Almost the full show (2 hours and 7 minutes). Usually referred to as Press Reels, this is actually the unedited footage shot for press or archival purposes. Decent amount on generation loss with some distortion at the top of the screen, and a time code at the bottom. Sometimes incorrectly labeled as 1995 .
 
 Chicago - Broadway Revival - September 8, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3756,7 +3756,7 @@ CAST
 : Amy Spanger (Roxie Hart), Stephanie Pope (Velma Kelly), Michael C Hall (Billy Flynn)
 
 Chicago - Broadway Revival - May 10, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3768,7 +3768,7 @@ NOTES
 : Starts at \"All That Jazz.\" Shaky at times but overall good quality
 
 Chicago - Broadway Revival - May 22, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3780,7 +3780,7 @@ NOTES
 : A couple minutes total worth of blackouts; coverups mainly in \"Roxie\" very Joey-focused with very nice close-ups throughout, and clear picture.
 
 Chicago - Broadway Revival - October 25, 2011 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3798,7 +3798,7 @@ NOTES
 : Filmed in 16:9 HD Widescreen, a mezzanine bar at times obstructs the very front of the stage but otherwise very clear. Includes NY1 Interview with Kara DioGuardi. Wonderful cast, and the capture uses mostly wider shots so you can see the big pictures of the dances.
 
 Chicago - Broadway Revival - November 18, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -3810,7 +3810,7 @@ CAST
 : Amy Spanger (Roxie Hart), Amra-Faye Wright (Velma Kelly), Billy Ray Cyrus (Billy Flynn), Brian O\'Brien (Amos Hart), Carol Woods (Matron \"Mama\" Morton), R Lowe (Mary Sunshine)
 
 Chicago - Broadway Revival - July 5, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -3825,7 +3825,7 @@ NOTES
 : Excellent HD capture of Brandy Norwood joining the cast as Roxie. Everything is nicely captured, a few minor and quick parts to the extreme far right can be blocked a few times. Brady did an excellent job in the role and was really giving a solid performance! A-
 
 Chicago - Broadway Revival - June 7, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -3842,7 +3842,7 @@ NOTES
 ### West End Revival
 
 Chicago - West End Revival - 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3851,7 +3851,7 @@ CAST
 : Chita Rivera (Roxie Hart), Valarie Pettiford (Velma Kelly), Michael Siberry (Billy Flynn), Norman Pace (Amos Hart), Sue Kelvin (Matron \"Mama\" Morton), Charles Shirvell (Mary Sunshine), Robbie O\'Reilly (Hunyak), Cat Lawrence (Liz), Rachel Stanley (Annie), Suzy Bloom (June), Jacqui Jameson (Mona), Jo Ellery (Go-To-Hell-Kitty)
 
 Chicago - West End Revival - August 14, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `4.03 GB`
@@ -3864,7 +3864,7 @@ NOTES
 : Filmed between heads, but the quality is amazing for its time.
 
 Chicago - West End Revival - March 27, 2004 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `6.46 GB`
@@ -3876,7 +3876,7 @@ NOTES
 : Quite a lot of head obstructions, some black-outs, but great sound. Starts about 2 minutes into 'all that jazz'.
 
 Chicago - West End Revival - February 9, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -3887,7 +3887,7 @@ CAST
 ### The Netherlands
 
 Chicago - Utrecht, the Netherlands - 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3902,7 +3902,7 @@ NOTES
 : The 2-Disc version is commonly mislabeled as `Fall, 1999`, but is actually the 1999 one according to a few Dutch traders.
 
 Chicago - Utrecht, the Netherlands - Fall, 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3917,7 +3917,7 @@ NOTES
 : Good capture; Multicam proshot. One camera is centre stage, the other is on the left balcony.
 
 Chicago - Utrecht, the Netherlands - 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3934,7 +3934,7 @@ NOTES
 ### MISC
 
 Chicago - San José Civic Light Opera - January, 1988
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3949,7 +3949,7 @@ NOTES
 : Single Cam Pro-Shot with Soundboard Audio. Directed by Dianna Shuster with Bick Goss recreating Bob Fosse\'s original choreography.
 
 Chicago - Long Beach Civic Light Opera - 1992
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3961,7 +3961,7 @@ NOTES
 : Audience shot, much generation loss, good sound, problems with the video at the end. Re-creation of Bob Fosse\'s original staging. Features the original scenic design from 1975. Directed by Rob Marshall (who later directed the movie adaption of this musical) with choreography by Ann Reinking (in the style of Bob Fosse). Highly recommended for fans of \'Chicago\'.
 
 Chicago - Mexico City - 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3976,7 +3976,7 @@ NOTES
 : Multi-Cam Pro-Shot from the original production, meant for production viewing only
 
 Chicago - Madrid - 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -3991,7 +3991,7 @@ NOTES
 : Multicamera Proshot
 
 Chicago - Hollywood Bowl - July 26, 2013 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -4000,7 +4000,7 @@ CAST
 : Ashlee Simpson (Roxie Hart), Samantha Barks (Velma Kelly), Stephen Moyer (Billy Flynn), Drew Carey (Amos Hart), Lucy Lawless (Matron \"Mama\" Morton), D Tablak (Mary Sunshine)
 
 Chicago - South Korea - 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Company Shot
 {: .label .label-green }
@@ -4013,7 +4013,7 @@ CAST
 : 최정원 Choi Jung Won (Velma Kelly), 아이비 Ivy (Roxie Hart), 안재욱 Ahn Jae Wook (Billy Flynn)
 
 Chicago - Ettlingen, Germany - July, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -4030,7 +4030,7 @@ NOTES
 ## Children of Eden
 
 Children of Eden - Cabrillo Music Theatre - April 17, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -4044,7 +4044,7 @@ CAST
 ## Chita Rivera: The Dancer's Life
 
 Chita Rivera: The Dancer's Life - Broadway - January 25, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.93 GB`
@@ -4055,7 +4055,7 @@ CAST
 ## A Chorus Line
 
 A Chorus Line - Off-Broadway - July 12, 1975
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4074,7 +4074,7 @@ NOTES
 : The original Broadway cast filmed prior to moving to Broadway. Professionally filmed using multiple cameras for the Lincoln Center Theatre on Film and Tape (TOFT) archives. Newly surfaced video which is a HUGE improvement over the previous version which has been in circulation for a while. This is also complete and includes the opening announcement alerting the audience that the show is being filmed. Amazing quality, but still has a little generational loss. In black and white. The DVD has been enhanced with chapter stops for all of the musical numbers. This, along with the tapes of Crazy for You and Passion, is amongst the only three TOFT tapes that have been leaked.
 
 A Chorus Line - The Netherlands - 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4086,7 +4086,7 @@ CAST
 : Wilbert Gieske (Zach), Fons van Kraaij (Larry), Roy Kullick (Don), Marieke van Hulst (Maggie), Birger van Severen (Mike), Hannah van Meurs (Connie), Thomasj Vets (Greg), Ellis van Laarhoven (Cassie), Anouk van Nes (Sheila), Hans van der Heijden (Bobby), Manon Novak (Bebe), Carolien Canters (Judy), Perry Dossett (Richie), Job Vlaar (Al), Eva Roest (Kristine), Jacqueline Aronson (Val), Paul Boereboom (Mark), Hein Gerrits (Paul), Cystine Carreon (Diana), Cyrille Carreon (Tricia), Peter van Dosselaer (Butch), Axel de Graaf (Roy), Regi Severins (Lois), Peter Stoelhorst (Frank), Roeselien Wekker (Vicki)
 
 A Chorus Line - New Orleans - February 16, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4098,7 +4098,7 @@ CAST
 : Alton Geno (Zach), Benjamin Linn (Larry), Jeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
 
 A Chorus Line - Broadway Revival - September 30, 2006 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4110,7 +4110,7 @@ NOTES
 : Commonly mislabelled as Opening Night (October 5, 2006), however menu says it is September 30, 2006. Video includes the playbill and some bonus news features of the Pre-Opening, Opening Night and the Review.
 
 A Chorus Line - Broadway Revival - October 15, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4125,7 +4125,7 @@ NOTES
 : Fabulous show and crystal clear. Last 7 minutes are audio only. A- 
 
 A Chorus Line - Broadway Revival - November 3, 2007 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4138,7 +4138,7 @@ NOTES
 : A nice capture of the show before cast changes.
 
 A Chorus Line - Broadway Revival - August 17, 2008 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -4150,7 +4150,7 @@ NOTES
 : Final performance: filmed from front row of mezzanine video starts near the end of the audition and shot goes down for applause breaks; captures everything clearly after Mike\'s \"I Can Do That\" but pretty full throughout
 
 A Chorus Line - National Tour - March 27, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4162,7 +4162,7 @@ NOTES
 : Great capture, filmed from the front, center mezzanine, so the choreography looks just the way it was intended. Missing about twenty seconds during Paul\'s monologue for a tape change. First five seconds are blacked out; clear sound, nice video AJeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
 
 A Chorus Line - North Shore Music Theatre - November, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4177,7 +4177,7 @@ NOTES
 : Performed in the round, two cameras and sound patched in from the soundboard.
 
 A Chorus Line - Hollywood Bowl - July 29, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -4200,7 +4200,7 @@ Every Little Step (Documentary) `MP4` `1080p` `1:33:15`
 ## A Christmas Carol Goes Wrong
 
 A Christmas Carol Goes Wrong - BBC Special - December 30, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4217,7 +4217,7 @@ NOTES
 ## A Christmas Story
 
 A Christmas Story - Broadway - November 7, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4240,7 +4240,7 @@ NOTES
 ## Cinderella (Rodgers & Hammerstein)
 
 Cinderella (Rodgers & Hammerstein) - US National Tour (2000) - May 5, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.65 GB`
@@ -4255,7 +4255,7 @@ NOTES
 : A beautiful capture from the orchestra. Jamie-Lynn does a smashing job as Cinderella. Also includes Tv appearances about the show. A
 
 Cinderella (Rodgers & Hammerstein) - New York City Opera - November 21, 2004 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.88 GB`
@@ -4270,7 +4270,7 @@ NOTES
 : Excellent picture and sound with lots of nice closeups. A
 
 Cinderella (Rodgers & Hammerstein) - Broadway - March 2, 2013 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4291,7 +4291,7 @@ NOTES
 : Beautiful HD capture of this classic show, with this being the first time having appeared on Broadway! Really a top notch cast and a beautiful production, nicely staged! A
 
 Cinderella (Rodgers & Hammerstein) - Broadway - March 13, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -4303,7 +4303,7 @@ CAST
 : Laura Osnes (Ella), Santino Fontana (Topher), Victoria Clark (Marie), Harriet Harris (Madame), Ann Harada (Charlotte), Greg Hildreth (Jean-Michel), Marla Mindelle (Gabrielle), Phumzile Sojola (Lord Pinkleton), Peter Bartlett (Sebastian)
 
 Cinderella (Rodgers & Hammerstein) - Broadway - April 17, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4318,7 +4318,7 @@ NOTES
 : Beautiful HD capture with no obstructions. Carly and Fran were wonderful in the roles and really gave them their own touch! Great to see the show still in wonderful shape. A+
 
 Cinderella (Rodgers & Hammerstein) - Broadway - August 21, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -4333,7 +4333,7 @@ NOTES
 : A nice capture of Paige's Broadway run. Act one has a couple small heads that can occasionally be seen at the bottom of the screen, but they don't affect the action. Act two has no obstruction, but there is one blackout for about one minute during The Pursuit. There are also a couple quick dropouts in each act. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There is some chatter from the kids in the audience, but the sound is otherwise excellent. Includes curtain call, encore, and playbill scans.
 
 Cinderella (Rodgers & Hammerstein) - First National Tour - December 21, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4351,7 +4351,7 @@ NOTES
 : Beautiful HD capture with no obstructions. This cast has to be one of the best ever on tour. Paige and Kecia were so hilarious and wonderful in their roles. Gabrielle falls in the Finale and Paige brings out a newspaper at curtain call, to reference Newsies also in Chicago. A+
 
 Cinderella (Rodgers & Hammerstein) - Broadway - January 1, 2015 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -4366,7 +4366,7 @@ NOTES
 : Great HD capture of the final Broadway cast. Filmed just 2 days before the show closed. Keke is great as Ella but a very different voice from Laura and Paige. One slight head at the bottom at times but very visible. No washouts.
 
 Cinderella (Rodgers & Hammerstein) - Second National Tour - May, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -4383,7 +4383,7 @@ NOTES
 ## City of Angels
 
 City of Angels - US First National Tour - November, 1991
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4392,7 +4392,7 @@ CAST
 : Jeff McCarthy (Stone), Stephen Bogardus (Stine), Catherine Cox (Donna / Oolie)
 
 City of Angels - West End - April 3, 1994
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4404,7 +4404,7 @@ NOTES
 : Intense video gen loss, some parts of video/audio is really bad. For some reason, a John Barrowman tv interview is included?? Makes no sense, but it\'s an interesting interview!
 
 City of Angels - Illinois (Northwestern University) - January 27, 1996
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4416,7 +4416,7 @@ CAST
 : Colby Bessera (Stone), Eric Silverberg (Stine), Daniel Kramer (Buddy / Irwin S. Irving), Kate Shindle (Gabby / Bobbi), Amy Silverman (Donna / Oolie), Kristi Frazer (Carla / Alaura), David Ayers (Pancho / Munoz), Russel Koplin (Avril / Mallory)
 
 City of Angels - San Jose - June, 1998
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `480p` `557.1 MB`
@@ -4425,7 +4425,7 @@ CAST
 : Darrin Baker (Stone), Neal Benari (Stine), Kenny Morris (Buddy / Irwin S. Irving), Jeanne Jones (Gabby / Bobbi), Valerie Perri (Donna / Oolie), Herschel Sparber (Jimmy Powers), Lisa Robinson (Carla / Alaura), Gary Littman (Pancho / Munoz), Annmarie Martin (Avril / Mallory)
 
 City of Angels - West End Revival - March 9, 2020 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 BwaytoWestEnd
 {: .label .label-blue }
@@ -4442,7 +4442,7 @@ NOTES
 ## The Color Purple
 
 The Color Purple - Broadway Revival - November 11, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4457,7 +4457,7 @@ NOTES
 : Excellent HD capture of the new revival which been stripped down and streamlined to focus on Celie's journey. Some beautiful moments in the show with the direction and simplicity spotlighting the story. A few blackouts in the first 5 minutes as clueless ushers fumbled around. A
 
 The Color Purple - Broadway Revival - May 11, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4474,7 +4474,7 @@ NOTES
 ## Come From Away
 
 Come From Away - Washington D.C. - September 24, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4489,7 +4489,7 @@ NOTES
 : Beautiful HD capture of the PreBroadway try out in DC. Terrific ensemble piece telling the stories of stranded passengers during the 9/11 attacks. A
 
 Come From Away - Broadway - March 10, 2017 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -4504,7 +4504,7 @@ NOTES
 : A beautiful capture of the new Broadway musical. The score is fantastic and the production is wonderful.
 
 Come From Away - Melbourne, Australia - 2019 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel
 {: .label .label-green }
@@ -4519,7 +4519,7 @@ NOTES
 : Proshot B-Roll of Welcome to the Rock, Me and the Sky & Somewhere in the Middle of Nowhere
 
 Come From Away - West End - April, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -4534,7 +4534,7 @@ NOTES
 : This video is never to be publicly shared on YouTube, tumblr, Facebook, Stagedork etc. SD MP4, 3.34GB. Often confused with queenofthedead\'s video, which is also from April, 2019, but in HD MOV.
 
 Come From Away - Melbourne, Australia - September 12, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 WizardWisdom
 {: .label .label-blue }
@@ -4549,7 +4549,7 @@ NOTES
 : HD capture of the Australian company of this fantastic musical. Includes a video of a post-show Q&A with the cast in honour of the 18th anniversary of September 12. Shot from the back row of the dress circle, so a head blocks the centre at times but it’s shot around where possible. Most noticeable in the group numbers where a lot of the action is downstage. The first 4 minutes or so is mostly wandering shots as I was setting up my camera and evading ushers. A lot of great close-ups - Zoe’s “Me and the Sky” is a highlight.
 
 Come From Away - West End - November, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -4564,7 +4564,7 @@ NOTES
 : Incomplete: starts 12 mins in. Shot around heads. The combination of the revolve and the lighting of this show might make it a jolty watch but the action is caught as best as possible. If I had to decide who to film, I chose Rachel Tucker.
 
 Come From Away - West End - November 5, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 wheredidtherockgo
 {: .label .label-blue }
@@ -4579,7 +4579,7 @@ NOTES
 : The bottom left of the video is slightly obstructed by a lighting rail. The master accidentally stop recording during '38 Planes' but realized right away so it’s only missing a second or two. Some nice close-ups. Clive misses the cue for the first “Welcome to the Rock!”
 
 Come From Away - First National Tour - February, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Hollis Mizner 
 {: .label .label-blue }
@@ -4591,7 +4591,7 @@ CAST
 : Marika Aubrey (Beverley/Annette & others), Andrew Samonsky (Kevin T./Garth & others), Kevin Carolan (Claude & others), Harter Clingman (Oz & others), Julia Knitel (Janice & others), Nick Duckart (Kevin J./Ali & others), Chamblee Ferguson (Nick/Doug & others), Christine Toy Johnson (Diane & others), Danielle K Thomas (Hannah & others), Julie Johnson (Beulah & others), Sharone Sayegh (Bonnie & others), James Earl Jones II (Bob & others)
 
 Come From Away - West End - February, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -4608,7 +4608,7 @@ NOTES
 ## Company
 
 Company - Berlin - April 6, 1986
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4623,7 +4623,7 @@ NOTES
 : Single camera archival recording.
 
 Company - Donmar Warehouse - February, 1996
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4639,7 +4639,7 @@ NOTES
 : Pro-Shot for television, directed by Sam Mendes. Some generation loss. There are a couple of different rips making the rounds.
 
 Company - Kennedy Center - June, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.11 GB`
@@ -4651,7 +4651,7 @@ NOTES
 : This video came to me labelled as June 15th. It gets listed under various dates including June 5th, June 6th, June 15th, July 7th, and different copies exist in varying quality and size.
 
 Company - Second Broadway Revival - November 14, 2006 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4666,7 +4666,7 @@ NOTES
 : Beautiful DVD and wonderfully executed revival. Raul and Heather are amazing, as is the rest of the cast. A+
 
 Company - First Australian Revival - 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4684,7 +4684,7 @@ NOTES
 : Directed by Gales Edwards. This almost looks like it was filmed for TV, but it was most probably just filmed for the cast and crew, or maybe it was filmed for press reel purposes. Full show, filmed using multiple cameras with sound patched directly in from the soundboard. Interesting production, with a different interpretation. The stage is a black-and-white checker board design with a large-framed, red ribbon-tied set, and the cast is dressed entirely in black and white with an occasional splash of red. A
 
 Company - Second Broadway Revival - 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4699,7 +4699,7 @@ NOTES
 : Filmed live on stage at the Ethel Barrymore Theatre (New York, NY) and distributed commercially.
 
 Company - Plays in the Park NJ - June, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4714,7 +4714,7 @@ NOTES
 : Pro-shot video; very nice Danny Arnold, Holly Curran, Christina Ryan, Erica Cenci, Alison Byrne, George A.Williams, Maddie Orton, Matthew Curtis, Judi Laganga, Jay Lowman, Sandy Taylor, Frank Norek, Lisa Van Doren, Todd Michaels
 
 Company - New York Philharmonic Concert - April, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4729,7 +4729,7 @@ NOTES
 : Filmed version of the staged concert production at the New York Philharmonic. Filmed April 7-9, 2011.
 
 Company - Second West End Revival - January, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -4741,7 +4741,7 @@ CAST
 : Rosalie Craig (Bobby/Bobbie), Patti LuPone (Joanne), Mel Giedroyc (Sarah), Gavin Spokes (Harry), Daisy Maywood (Susan), Ashley Campbell (Peter), Jennifer Saayeng (Jenny), Richard Henders (David), Richard Fleeshman (April/Andy), Matthew Seadon-Young (Kathy/Theo), George Blagden (Marta/PJ), Jonathan Bailey (Amy/Jamie), Alex Gaumond (Paul), Ben Lewis (Larry)
 
 Company - Third Broadway Revival - March, 2020 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -4756,7 +4756,7 @@ NOTES
 : First Preview
 
 Company - Third Broadway Revival - March 10, 2020 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Gifted Upon Request
 {: .label .label-purple }
@@ -4773,7 +4773,7 @@ NOTES
 ## The Count of Monte Cristo (Wildhorn)
 
 The Count of Monte Cristo (Wildhorn) - St. Gallen - November 4, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4785,7 +4785,7 @@ CAST
 : Thomas Borchert (Edmond Dantès/The Count of Monte Cristo), Sophie Berner (Mercédès), Carsten Lepper (Fernand Mondego), Christoph Goetten (Gérard de Villefort), Karim Khawatmi (Danglars), Dean Welterlen (Abbé Faria), Ava Brennan (Luisa Vampa), Barbara Obermeier (Valentine de Villefort), Kurt Schrepfer (Jacopo), André Bauer (Morrel), Ines Hengl-Pirker, Jochen Schmidtke, Patrick A Stamme
 
 The Count of Monte Cristo (Wildhorn) - Leipzig, Germany - February 4, 2012 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4797,7 +4797,7 @@ CAST
 : Marc Clear (Edmond Dantès/The Count of Monte Cristo), Marysol Ximénez-Carrillo (Mercédès), Andreas Rainer (Fernand Mondego), Milko Milev (Gérard de Villefort), Kostadin Arguirov (Danglars), Cusch Jung (Abbé Faria), Sabine Töpfer (Luisa Vampa), Heiner Kock (Albert Mondego), Mirjam Neururer (Valentine de Villefort), Peter-Paul Stampehl (Jacopo), Roland Otto (Morrel), Mathias Paarsch (Louis Dantès), Carolin Schumann (Isabella), Therese Wittmar (Gabriella), Miranda Caasmann (Sophia), Sebastian Fuchsberger
 
 The Count of Monte Cristo (Wildhorn) - Tecklenburg - August 9, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4809,7 +4809,7 @@ CAST
 : Marc Clear (Edmond Dantès/The Count of Monte Cristo), Anna Thorén (Mercédès), Carsten Lepper (Fernand Mondego), Reinhard Brussmann (Gérard de Villefort), Frank Winkels (Danglars), Reinhard Brussmann (Abbé Faria), Femke Soetenga (Luisa Vampa), Thomas Hohler (Albert Mondego), Karoline Goebel (Valentine de Villefort), Hakan T Aslan (Jacopo), Alexander Bellinkx (Morrel)
 
 The Count of Monte Cristo - South Korea - December 25, 2020 (Rehearsal)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -4826,7 +4826,7 @@ NOTES
 ## Cruel Intentions
 
 Cruel Intentions - Los Angeles - July 31, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4840,7 +4840,7 @@ NOTES
 ## Cry-Baby
 
 Cry-Baby - Broadway - June 22, 2008 (Matinee) (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4855,7 +4855,7 @@ CAST
 ## Damn Yankees
 
 Damn Yankees - Broadway Revival - 1994
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4869,7 +4869,7 @@ NOTES
 ## Dear Evan Hansen
 
 Dear Evan Hansen - Broadway - November, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -4884,7 +4884,7 @@ NOTES
 : Excellent HD capture of the Broadway transfer. In the long journey to Broadway, the show still lives up to all it\'s hype and greatness. The cast gives amazing performances and leaves it all on the stage. A
 
 Dear Evan Hansen - Broadway - December, 2016 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -4899,7 +4899,7 @@ NOTES
 : Act One only! A nice capture with no washout and just one quick dropout during the scene after Waving Through a Window. There is one head that blocks part of the front of the stage, but it's worked around generally doesn't do more than block the actors' legs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent.
 
 Dear Evan Hansen - Broadway - December 29, 2018 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 bluebird
 {: .label .label-blue }
@@ -4914,7 +4914,7 @@ NOTES
 : Act One only! Gabrielle is a wonderful Zoe and really gives the role her all. Filmed from the center mezzanine, with obstructions in the bottom of the screen, filmed between heads. Lots of washout, especially in the brighter scenes, but definitely watchable.
 
 Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 myroadofgoodintentions
 {: .label .label-blue }
@@ -4929,7 +4929,7 @@ NOTES
 : High quality boot shot with an HD camera. Some shakiness and jumping around and quick zooms in and out to find the action as master was less familiar with this show. Really great captures of faces and mix of wide shots and zooms.
 
 Dear Evan Hansen - Broadway - January, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -4946,7 +4946,7 @@ NOTES
 ## Der Besuch der alten Dame
 
 Der Besuch der alten Dame - Vienna - April 26, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `15.69 GB` `English (.srt)`
@@ -4960,7 +4960,7 @@ NOTES
 ## Dessa Rose
 
 Dessa Rose - Off-Broadway - May 20, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4974,7 +4974,7 @@ NOTES
 ## Dirty Rotten Scoundrels
 
 Dirty Rotten Scoundrels - Musical Theatre West - July 9, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -4991,7 +4991,7 @@ NOTES
 ## Disaster!
 
 Disaster! - Broadway - February 20, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5008,7 +5008,7 @@ NOTES
 ## Disenchanted!
 
 Disenchanted! - Off-Broadway - December 28, 2014 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5022,7 +5022,7 @@ NOTES
 ## Do I Hear a Waltz?
 
 Do I Hear a Waltz? - Encores! - May 15, 2016 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5039,7 +5039,7 @@ NOTES
 ## Doctor Zhivago
 
 Doctor Zhivago - Broadway - March 29, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5056,7 +5056,7 @@ NOTES
 ## Dogfight
 
 Dogfight - Off-Broadway - August 15, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5073,7 +5073,7 @@ NOTES
 ## Dracula, the Musical (Wildhorn)
 
 Dracula, the Musical (Wildhorn) - Broadway - September 3, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5087,7 +5087,7 @@ NOTES
 ## The Drowsy Chaperone
 
 The Drowsy Chaperone - Broadway - May 20, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu` `2.60 GB`
@@ -5096,7 +5096,7 @@ CAST
 : Bob Martin (Man in Chair), Sutton Foster (Janet van de Graaf), Beth Leavel (The Drowsy Chaperone), Troy Britton Johnson (Robert Martin), Edward Hibbert (Underling), Eddie Korbich (George), Jason Kravits (Gangster #1), Garth Kravits (Gangster #2), Lenny Wolpe (Mr. Feldzieg), Jennifer Smith (Kitty), Georgia Engel (Mrs. Tottendale), Danny Burstein (Aldolpho), Kecia Lewis-Evans (Trix)
 
 The Drowsy Chaperone - Broadway - July 29, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5117,7 +5117,7 @@ NOTES
 : Beautiful Filming and picture. Great shots! A+
 
 The Drowsy Chaperone - National Tour - October 8, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -5138,7 +5138,7 @@ NOTES
 ## Earth Girls Are Easy
 
 Earth Girls Are Easy - Reading - September 30, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -5155,7 +5155,7 @@ NOTES
 ## Elaine Stritch: At Liberty
 
 Elaine Stritch: At Liberty - Broadway - April 10, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.71 GB`
@@ -5167,7 +5167,7 @@ NOTES
 : A great copy of the show's original Broadway run. Audio is good and video maintains a nice mid show/close up throughout.
 
 Elaine Stritch: At Liberty - West End - May 29, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5184,7 +5184,7 @@ NOTES
 ## Elisabeth
 
 Elisabeth - Miskolc, Hungary - 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5196,7 +5196,7 @@ NOTES
 : Proving that sometimes emergency covers are great, and sometimes they're... well, *interesting* might be the most generous word here. Dolhai only played Rudolf up to this point, so the fact that he was called in as e/c for Lucheni shows just how desperate the staff were.
 
 Elisabeth - Scheveningen, the Netherlands - July 22, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Director's Tape
 {: .label .label-green }
@@ -5211,7 +5211,7 @@ NOTES
 : Closing night. Directorstape, audio is from the soundboard.
 
 Elisabeth - Vienna, Austria - 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5226,7 +5226,7 @@ NOTES
 : Official pro-shot DVD release with extra documentary disc. Includes fan-made English subtitles.
 
 Elisabeth - Seoul, South Korea - August 26, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `19.3 GB`
@@ -5237,7 +5237,7 @@ CAST
 ## Evening Primrose
 
 Evening Primrose - US television series ABC Stage 67 - 1966
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5254,7 +5254,7 @@ NOTES
 ## An Evening With Patti LuPone and Mandy Patinkin
 
 An Evening With Patti LuPone and Mandy Patinkin - US Tour / Philadelphia, PA - October 28, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : AVI `480p` `2.42 GB`
@@ -5264,7 +5264,7 @@ CAST
 : Patti LuPone, Mandy Patinkin
 
 An Evening With Patti LuPone and Mandy Patinkin - Broadway - November 17 and 18, 2011 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5278,7 +5278,7 @@ NOTES
 ## Everybody\'s Talking About Jamie
 
 Everybody\'s Talking About Jamie - West End - July 5, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5296,7 +5296,7 @@ NOTES
 ## Evil Dead: The Musical
 
 Evil Dead: The Musical - Montreal - July, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5313,7 +5313,7 @@ NOTES
 ## Evita
 
 Evita - Broadway - November 30, 1979
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5328,7 +5328,7 @@ NOTES
 : Better than average for its age. Audio is solid, and there's relatively little gen loss but some extended ducks. Includes TV commercial.
 
 Evita - Broadway - 1980
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` M4V `480p` `1.67 GB`
@@ -5342,7 +5342,7 @@ NOTES
 : COMMONLY CONFUSED WITH NOVEMBER 30, 1979. Please check your copy and the screenshots for both to ensure your video is not the same; the 1980 video does not have a commercial, is filmed from the left of the house rather than the right, and features Tom Carder as Che instead of Mandy Patinkin. Washed out color, but it is still present. Very dark. Tracking issues at times, but a pleasant surprise for its age.
 
 Evita - Village Players, Toledo Ohio - August 3, 1991
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.67 GB`
@@ -5354,7 +5354,7 @@ CAST
 : Jeanne DeLong (Eva Perón), Hunter Foster (Che), Sutton Foster (Perón's Mistress)
 
 Evita - Netherlands - May 22, 1996
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5372,7 +5372,7 @@ CAST
 : Pia Douwes (Eva Perón), Bill van Dijk (Che), Jeroen Phaff (Perón), Frans Limburg (Magaldi), Marleen van der Loo (Perón's Mistress)
 
 Evita - Sacramento Music Circus - August 17, 2008 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -5387,7 +5387,7 @@ NOTES
 : Filmed in widescreen with no major obstructions, some great zooms, and a very steady, clear picture. Final performance of the Sacramento production. This production was performed in the round, so sometimes the actors have their backs to the camera, but it is overall very well balanced on all sides. The stage also rises and revolves, which is used to great effect during \"Don\'t Cry For Me, Argentina\"
 
 Evita - First Broadway Revival - March 14, 2012 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5408,7 +5408,7 @@ NOTES
 : Great Capture of the due Broadway transfer from London. Elena is a great Evita, the addition of Michael, Ricky and Max are excellent. A lavish and well executed Evita that was due for a date with Broadway. A
 
 Evita - First Broadway Revival - July 28, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5423,7 +5423,7 @@ NOTES
 : Excellent HD capture of the Alternate Eva. Christina vocally commands the score and thrilling to watch. She really should have had the role full time! Beautiful production and stunning Eva. A
 
 Evita - First Broadway Revival - August 13, 2012 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -5438,7 +5438,7 @@ NOTES
 : Very nice video; a couple of short blackouts towards the beginning of the show but otherwise well filmed with good close-ups and sound.
 
 Evita - First Broadway Revival - August 15, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5453,7 +5453,7 @@ NOTES
 : Beautiful HD capture of Jessica in the role of Eva with a fresh take on the character. She brings a great element to Eva, since she is normally in an ensemble track, her dancing flourishes with perfection! A
 
 Evita - Seventh National Tour - September 22, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5468,7 +5468,7 @@ NOTES
 : Beautiful HD capture with no obstructions. Josh and Caroline do a great job as Che and Eva. A solid tour, great performances and production value! A+
 
 Evita - Nashville, Tennessee - September 13, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5483,7 +5483,7 @@ NOTES
 : Excellent HD capture of the new production by Studio Tenn & TPAC. This was a huge show with a very large cast. Some terrific staging moments and of course Eden did a fantastic job as Eva, beautiful production! A
 
 Evita - Regent\'s Park Open Air Theatre - September, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -5504,7 +5504,7 @@ NOTES
 ## Falsettos
 
 Falsettos - Broadway - January-February, 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5513,7 +5513,7 @@ CAST
 : Mandy Patinkin (Marvin), Stephen Bogardus (Whizzer), Barbara Walsh (Trina), Chip Zien (Mendel), Andrew Harrison Leeds (alt Jason), Heather MacRae (Dr. Charlotte), Maureen Moore (Cordelia)
 
 Falsettos - Broadway Revival - October 28, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5528,7 +5528,7 @@ NOTES
 : Beautiful HD capture of the Revival following opening night. Such a talented cast and the chemistry amongst them is incredible. Beautifully executed and not to be missed! A
 
 Falsettos - Broadway Revival - December 30, 2016 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -5537,7 +5537,7 @@ CAST
 : Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)
 
 Falsettos - Broadway Revival - January, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5552,7 +5552,7 @@ NOTES
 : Filmed in January 2017 and aired on PBS on October 27, 2017. Can be found on BroadwayHD to stream.
 
 Falsettos - Third National Tour - June, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FetchHappened
 {: .label .label-blue }
@@ -5569,7 +5569,7 @@ NOTES
 ## Fanny
 
 Fanny - Encores! - February 6, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5583,7 +5583,7 @@ NOTES
 ## Fantasticks
 
 The Fantasticks - Pasadena Playhouse - September 28, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -5597,7 +5597,7 @@ NOTES
 ## Fela!
 
 Fela! - Off-Broadway - October 5, 2008 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5614,7 +5614,7 @@ NOTES
 ## Fiddler on the Roof
 
 Fiddler on the Roof - Broadway (2004 Revival) - February 28, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -5623,7 +5623,7 @@ CAST
 : Alfred Molina (Tevye), Randy Graff (Golde), Laura Michelle Kelly (Hodel), John Cariani (Motel), Robert Petkoff (Perchik), Sally Murphy (Tzeitel), Nancy Opel (Yente), David Wohl (Lazar Wolf), Tricia Paoluccio (Chava), David Ayers (Fyedka), Lea Michele (Shprintze), Molly Ephraim (Bielke)
 
 Fiddler on the Roof - Sixth Broadway Revival - December 29, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -5640,7 +5640,7 @@ NOTES
 ## Finding Neverland
 
 Finding Neverland - Pre-Broadway / Cambridge - August 17, 2014 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -5655,7 +5655,7 @@ NOTES
 : Fantastic capture from start to finish with just a couple quick dropouts in act one; clear video with no washout or obstruction; filmed in 16:9, with a mix of wides, mediums, and close-ups.
 
 Finding Neverland - Pre-Broadway / Cambridge - September 3, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5670,7 +5670,7 @@ NOTES
 : Beautiful HD capture of this sensational new show headed to Broadway. The performances, actors, music, book, the comedy are all divine. I think this will take 2015 Tony and also awards for Jeremy and Laura, it was that stunning! A+
 
 Finding Neverland - Broadway - March 15, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5685,7 +5685,7 @@ NOTES
 : Beautiful HD capture of the First Broadway Preview with Matthew and Kelsey joining the cast. There were a lot of changes to this show compared to the ART Pre-Broadway production. A wonderful show in my opinion! A
 
 Finding Neverland - Broadway - April 30, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -5700,7 +5700,7 @@ NOTES
 : Video filmed from center mezzanine with very clear picture and nice close-ups
 
 Finding Neverland - Broadway - March 31, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5715,7 +5715,7 @@ NOTES
 : Beautiful capture of Alfie and Sally joining the cast. Alfie commanded the score and sang the hell out of it. So many beautiful moments and such chemistry with Laura. A
 
 Finding Neverland - First National Tour - February 25, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -5732,7 +5732,7 @@ NOTES
 ## Follies
 
 Follies - Lincoln Center Concert - 1985
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5747,7 +5747,7 @@ NOTES
 : Concert staging with the New York Philharmonic Orchestra. Starring Carol Burnett, Mandy Patinkin, Barbara Cook and Lee Remick. Proshot and a very nice concert, directly from dvd. A+
 
 Follies - National Theatre - November 16, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5765,7 +5765,7 @@ NOTES
 ## Fosse
 
 Fosse - Broadway - August, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5780,7 +5780,7 @@ NOTES
 : Aired as part of the Great Performances series on PBS television. <https://www.imdb.com/title/tt0312701/>
 
 Fosse - Amsterdam, The Netherlands - 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.04 GB`
@@ -5794,7 +5794,7 @@ NOTES
 ## Freaky Friday
 
 Freaky Friday - First National Tour / Cleveland, OH - May 2, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5811,7 +5811,7 @@ NOTES
 ## Frozen
 
 Frozen - Pre-Broadway / Denver - September 30, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5826,7 +5826,7 @@ NOTES
 : Second to the last day. Sometimes the rail can get in the way of the shot
 
 Frozen - Pre-Broadway / Denver - October 1, 2017 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5841,7 +5841,7 @@ NOTES
 : Beautiful capture of the Final Performance in the Pre-Broadway Denver Tryout. Some wonderful powerful vocal variations by Caissie. There are a few blackouts, and a few parts in Act 1 has something blocking the right side. But other than that, zooms and quality is perfect!
 
 Frozen - Broadway - May 3, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -5856,7 +5856,7 @@ NOTES
 : Great capture from the Broadway transfer and a few minor changes from the Denver run. Nicely captured from the balcony.
 
 Frozen - Broadway - January, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -5871,7 +5871,7 @@ NOTES
 : Stunning HD capture of Alyssa as Elsa, Chad's temporary residence in the company and one of Harris's first shows as Kristoff. Filmed from the left orchestra with a mix of wides, mediums, and many closeups.
 
 Frozen - Broadway - February, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -5885,7 +5885,7 @@ CAST
 ## Fun Home
 
 Fun Home - Broadway - March 29, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5900,7 +5900,7 @@ NOTES
 : Great HD capture of the Broadway Transfer. Performed mostly in the round, the actors are all over the stage. Judy's performances are so layered and beautiful, as is the entire cast! A-
 
 Fun Home - Broadway - June 23, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -5915,7 +5915,7 @@ NOTES
 : Great capture of the performance. Instead of where Sunset recorded, SJ recorded it from the other side of the stage.
 
 Fun Home - Broadway - July 20, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5930,7 +5930,7 @@ NOTES
 : Excellent HD capture of the shows final weeks before closing. Garbriella does a terrific job taking over the role of Alison, while the whole cast is still perfection. A
 
 Fun Home - First National Tour - November 3, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5945,7 +5945,7 @@ NOTES
 : Great HD capture of the newly launched tour. Some really beautiful performances from the entire cast. Staged differently from the Broadway production to fit touring theaters. A
 
 Fun Home - First National Tour - November 4, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -5960,7 +5960,7 @@ NOTES
 : Terrific HD capture of the tour with the alternate actress playing Small Alison. Terrific work from the whole cast. Kate really is stunning in the role and doing amazing work! A
 
 Fun Home - First National Tour - March 1, 2017 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -5975,7 +5975,7 @@ NOTES
 : This is one of the recordings of the tour cast with really nice closeups. Filmed in 16:9 and includes playbill scans. This is one of the last recordings of SJ before she stopped.
 
 Fun Home - Victory Gardens, Chicago - September 21, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -5992,7 +5992,7 @@ NOTES
 ## Funny Girl
 
 Funny Girl - Music Theater Of Wichita - July, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6007,7 +6007,7 @@ NOTES
 : Semi-pro shot. Wonderful staging. The cameras volume lowers about 40 min. into production, but all you need do is turn up the volume of your T.V. to adjust the sound.
 
 Funny Girl - Actors\' Fund Benefit Concert - September 23, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6024,7 +6024,7 @@ NOTES
 ## A Funny Thing Happened on the Way to the Forum
 
 A Funny Thing Happened on the Way to the Forum - Second Broadway Revival - 1996
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.68 GB`
@@ -6039,7 +6039,7 @@ CAST
 ## A Gentleman\'s Guide to Love and Murder
 
 A Gentleman\'s Guide to Love and Murder - Broadway - May 3, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6051,7 +6051,7 @@ CAST
 : Jefferson Mays (The D'Ysquith Family), Bryce Pinkham (Monty Navarro), Lisa O'Hare (Sibella Hallward), Lauren Worsham (Phoebe D'Ysquith), Jane Carr (Miss Marietta Shingle)
 
 A Gentleman\'s Guide to Love and Murder - First National Tour - September 29, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6066,7 +6066,7 @@ NOTES
 : Beautiful capture of the tour which launched in Chicago. There\'s tiny bits of washout when the camera is in wideshot due to the spotlights of the stage. Terrific cast and a wonderful tour of this production!
 
 A Gentleman\'s Guide to Love and Murder - First National Tour - April 24, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -6083,7 +6083,7 @@ NOTES
 ## Gentlemen Prefer Blondes
 
 Gentlemen Prefer Blondes - Encores! - May 12, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -6100,7 +6100,7 @@ NOTES
 ## Ghost: The Musical
 
 Ghost: The Musical - Broadway - July 28, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6117,7 +6117,7 @@ NOTES
 ## Grease
 
 Grease - Manila, Philippines - August 15, 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -6132,7 +6132,7 @@ NOTES
 : Quality loss
 
 Grease - Second Broadway Revival - July 28, 2007 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6144,7 +6144,7 @@ NOTES
 : Good picture and great sound with nice closeups throughout with a head in the way only once or twice for a few moments.
 
 Grease - Second Broadway Revival - January 4, 2009 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -6162,7 +6162,7 @@ NOTES
 : Final Performance
 
 Grease - Grease: Live (FOX Special) - January 31, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6176,7 +6176,7 @@ CAST
 ## Grey Gardens
 
 Grey Gardens - Los Angeles - August 2, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -6187,7 +6187,7 @@ CAST
 ## Groundhog Day
 
 Groundhog Day - Broadway - April 1, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6204,7 +6204,7 @@ NOTES
 ## Gypsy
 
 Gypsy - Second Broadway Revival - 1990 (Full Show)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.32 GB`
@@ -6216,7 +6216,7 @@ NOTES
 : Complete show, nicely filmed with slight generation loss but clear sound and very watchable A-
 
 Gypsy - Second Broadway Revival - 1991
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MKV `480p` `3.86 GB`
@@ -6229,7 +6229,7 @@ NOTES
 : Surprisingly steady and clear for a 1991 video.
 
 Gypsy - Third Broadway Revival - April 3, 2003 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.95 GB`
@@ -6241,7 +6241,7 @@ NOTES
 : Shot from the first row of the balcony, very clear and unobstructed. Includes a CBS News feature, and a clip from the Gypsy performance at the 2003 Tony Awards
 
 Gypsy - Ravinia Festival - August 13, 2006 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6256,7 +6256,7 @@ NOTES
 : AMAZING performace!!! AMAZING filming! Beautiful picture and shots, enough said. A
 
 Gypsy - Encores! - July 29, 2007 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6275,7 +6275,7 @@ NOTES
 : Another terrific production by Encores! Wonderful performances by all. Includes curtain call part where Patti calls Laurents and Sondheim on stage. A-
 
 Gypsy - Fourth Broadway Revival - March 25, 2008 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6290,7 +6290,7 @@ NOTES
 : A not to be missed production, very detailed and near perfection. Beautifully captured and performances that rival the definition of musical theater. A Great close-ups, some blackouts but not on the musical numbers, balcony edge can be seen sometimes, master class performances.
 
 Gypsy - Fourth Broadway Revival - April 5, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6302,7 +6302,7 @@ NOTES
 : Nicely filmed from the balcony. Occasional heads and the balcony railing in the wider shot. Not as many close ups as the other video capture of the show, but this one allows you to appreciate the staging a little more. A
 
 Gypsy - Fourth Broadway Revival - September 17, 2008 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6317,7 +6317,7 @@ NOTES
 : Great Highlights that run almost an hour in length. It is the first 49 minutes of Act One which goes through "You'll Never Get Away From Me" and all of "Rose's Turn" from Act Two. A
 
 Gypsy - West End Revival - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6334,7 +6334,7 @@ CAST
 ### Specials
 
 Gypsy: Ultimate Edit - Fourth Broadway Revival - 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 VLT 3:1
 {: .label .label-purple }
@@ -6355,7 +6355,7 @@ NOTES
 ## Hadestown
 
 Hadestown - National Theatre, London - December 27, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 chauvelin
 {: .label .label-blue }
@@ -6370,7 +6370,7 @@ NOTES
 : HD widescreen from the far right circle without minimal zooms. First known full recording of this show pre-Broadway transfer. Far left of the stage is cut off but otherwise a nice video
 
 Hadestown - Broadway - March, 2019 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -6389,7 +6389,7 @@ EDITOR'S NOTES
 : This video is an edit I made with StarCuffedJeans's video of the March 2019 Broadway performance, and I filled the blanks with other shows: The intro "Road to Hell" is from lots-of-lists's master of January 2019 at the National Theater, in London. The intro of Act 2, "Lady of the Underground" is from chauvelin's master, also in London, but it transitions to StarCuffedJeans's audio at the start of the song, so the musicians Persephone is introducing in the song aren't the same artists as she names. (may sound like a detail but worth mentioning! Also the ensemble in those other videos aren't the same performers in the main one!) But the video is clear, and that helps a lot to know what's going on on stage! I would have loved to fill other blackouts mid-show but the London and Broadway outfits are very different for Orpheus and Eurydice, so it doesn't really blends seamlessly, and I decided to keep the same SCJ's master all the way. The ending song, "We Raise Our Cups" after the bows comes from another video but I don't know who is the master of this one. Also, the nice title and intermission screens were taken from everyturnandtwist's master!
 
 Hadestown - Broadway - August, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 everyturnandtwist
 {: .label .label-blue }
@@ -6404,7 +6404,7 @@ NOTES
 : \[Please don't trade any of my masters to dontsaythebword/broadwayenthusiast\] My first Broadway video, unfortunately I had a tech issue and the video stops right near the end of Epic III. Act I has washout, it gets better in Act II, but I\'m still figuring out how to film in professional theaters (they got some BRIGHT LIGHTS!!!) There are two heads seen on the side of the video during most parts as I am a mere five feet tall. Some performers get cut off by the mezzanine bar when they\'re at the front of the stage (especially Eva). But overall I\'m really happy with how it came out! The only dropouts are inbetween songs (I really couldn\'t stop myself from cheering and clapping at this one) Please contact me if you are interested in this video! It is NFT except through me until Dec. 1, after that it is fully tradeable!
 
 Hadestown - Broadway - January, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 everyturnandtwist
 {: .label .label-blue }
@@ -6421,7 +6421,7 @@ NOTES
 ## Hair
 
 Hair - Actors\' Fund Benefit Concert - September 20, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6433,7 +6433,7 @@ CAST
 : Adam Pascal (Claude), Euan Morton (Claude), Harris Doran (Claude), Norm Lewis (Claude), Raúl Esparza (Claude), Jennifer Hudson (Sheila), Liz Callaway (Sheila), Shoshana Bean (Sheila), Gavin Creel (Berger), John Tartaglia (Berger), Lea DeLaria (Berger), Christopher Sieber (Woof), Jai Rodriguez (Woof), Billy Porter (Hud), Chuck Cooper (Hud), Harvey Fierstein (Jeanie), Ana Gasteyer (Dionne), Lillias White (Dionne), Orfeh (Dionne), Annie Golden (Crissy), RuPaul (Margaret Mead/Tourist Lady), Ann Harada (Lorri), Kathy Brier (Emeraretta), Brandi Chavonne Massey (Diane), Ledisi (Suzanna), Shayna Steele (Natalie), Darius de Haas (Featured Soloist), Eden Espinosa (Featured Soloist), Laura Benanti (Featured Soloist), Paul Castree (Featured Soloist), Sherie Rene Scott (Featured Soloist), Toxic Audio (Featured Soloist), Aliane Baquerot, Anisha Nagarajan, Bobby Daye, Brian Corey, Brian M Golub, Brooke Wendle, Chris Ghelfi, Christopher Zelno, Craig Ramsay, Darius Nichols, DeQuina Moore, Eliseo Roman, Evan Knapp, Geoffrey Hemingway, Gustavo Wons, Isaac Calpito, J Elaine Marcos, Jackie Hoffman, Jason S Little, Jason Weston, Jenifer Foote, Jerad Bortz, Jessica Walker, Jim J Bullock, Julie Garnye, Julie Lyke, Kate Chapman, Kenway Hon Wai K Kua, Lucia Giannetta, Mary Faber, MaryAnn Hu, Meredith Akins, Michael McKean, Nancy Opel, Naomi Kakuk, Nell Snaidas, Orville Mendoza, Schele Williams, Shanna VanDerwerker, Stuart Capps, Trent Armand Kendall
 
 Hair - Off-Broadway - July 9, 2008 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6445,7 +6445,7 @@ NOTES
 : This footage is from the free performance preview of the Public Theatre\'s Shakespeare in the Park production of \"Hair\" at Theory\'s New York store on the Plaza. Only three songs (Hair, I Got Life, Let The Sunshine In) on one DVD with scene selection. Total run time is about 12 minutes. A
 
 Hair - Broadway Revival - March 15, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6454,7 +6454,7 @@ CAST
 : Gavin Creel (Claude), Caissie Levy (Sheila), Will Swenson (Berger), Andrew Kober (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Sasha Allen (Dionne), Allison Case (Crissy)
 
 Hair - West End - September 4, 2010 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6466,7 +6466,7 @@ NOTES
 : Final matinee of the London production, which includes a lot of adlibbing by the cast.
 
 Hair - First National Tour - October 28, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6484,7 +6484,7 @@ NOTES
 : Beautiful capture of the Opening Night performance of the Tour cast. Great to see the cast full of energy and Caren back in the role of Sheila. A
 
 Hair - Hollywood Bowl - August 1, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -6495,7 +6495,7 @@ CAST
 ## Hairspray
 
 Hairspray - Broadway - 2002 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -6510,7 +6510,7 @@ NOTES
 : 13.5 mins of Pro-shot Press Reels including \"Montage of Scenes\" (1:11) \"Welcome to the \'60s\" (2:26) \"Run and Tell That\" (2:58) \"Mama I\'m a Big Girl Now\" (1:24) \"I Can Hear The Bells\" (1:18) \"It Takes Two\" (2:10) \"I Know Where I\'ve Been\" (1:00)
 
 Hairspray - Broadway - July 29, 2002 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.25 GB`
@@ -6522,7 +6522,7 @@ NOTES
 : Digital, Shot from first row mezz. Lots of close ups.
 
 Hairspray - Broadway - August 31, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6531,7 +6531,7 @@ CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Mary Bond Davis (Motormouth Maybelle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Corey Reynolds (Seaweed J. Stubbs), Clarke Thorell (Corny Collins), Danelle Eugenia Wilson (Little Inez)
 
 Hairspray - Broadway - October 9, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -6549,7 +6549,7 @@ NOTES
 : Starts during The Nicest Kids In Town
 
 Hairspray - Broadway - 2003 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Conductor Cam
 {: .label .label-blue }
@@ -6564,7 +6564,7 @@ NOTES
 : Full show songs and background music, shot from inside the Pit. Meant for understudies and replacement actors to study for their roles in the show.
 
 Hairspray - Broadway - January 4, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6573,7 +6573,7 @@ CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Kerry Butler (Penny Pingleton), Matthew Morrison (Link Larkin)
 
 Hairspray - First National Tour - December 13, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6594,7 +6594,7 @@ NOTES
 : Great Dvd with crystal clear picture & sound. Cast had lots of energy and Understudies did a great job! A
 
 Hairspray - NBC Live - December 7, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6611,7 +6611,7 @@ NOTES
 ## Hamilton
 
 Hamilton - Broadway - December 29, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -6626,7 +6626,7 @@ NOTES
 : The man, the myth, the legend. This year's most talked about show, fully captured. Enjoy. This is a great capture overall; there some heads at the bottom and sides that can be seen occasionally, especially in wider shots, but they are worked around when necessary and rarely affect the action. There are no major blackouts, just a few quick dropouts, mostly between scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Hamilton - Broadway - June, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6642,7 +6642,7 @@ NOTES
 : The film is edited together from three performances of Hamilton at the Richard Rodgers Theatre in New York City between June 26 and 28, 2016 with the original principal Broadway cast members, prior to the departure of Miranda, Leslie Odom Jr., Phillipa Soo and Ariana DeBose from the production, combined with a few \"setup shots\" recorded without an audience present. ADMIN NOTE: Only to be listed as \"June, 2016\".
 
 Hamilton - Broadway - June 19, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -6658,7 +6658,7 @@ NOTES
 : Javier is fantastic in the lead role; he's very different from Lin - a bit darker, more intense, and less care-free, but just as passionate. The understudies are great as well, but Andrew is the stand-out; his nuanced performance as Philip is heartbreaking. Seeing the show with so many new faces proves that it has legs beyond the original cast and will continue to be a hit. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. This is the correct date for the low quality video labeled as June 16, 2016.
 
 Hamilton - Broadway - August 13, 2016 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -6674,7 +6674,7 @@ NOTES
 : More new performers captured in this phenomenal show. Lexi is lovely as Eliza and makes the role her own. Standout understudies were Sydney and Andrew - both give fantastic performances as Burr and Lafayette/Jefferson. My best capture of this show to date. It's fully captured with no washouts and no blackouts, just a couple very quick dropouts between scenes. There are a couple heads that can be seen occasionally, but they are worked around and don't obstruct the action. It\'s filmed in 16:9, with a mix of wides, mediums and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Hamilton - Chicago - October 2, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6689,7 +6689,7 @@ NOTES
 : Stunning capture of the Chicago company and Joseph's first performance as Hamilton. Such a talented and wonderful cast. Ari and Karen just blew my mind with perfection! A+
 
 Hamilton - First National Tour (Angelica) - August 12, 2017 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -6706,7 +6706,7 @@ NOTES
 ## Haven
 
 Haven - Los Angeles - November, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6723,7 +6723,7 @@ NOTES
 ## Head Over Heels
 
 Head Over Heels - Broadway - June 23, 2018 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6735,7 +6735,7 @@ NOTES
 : Recorded at the first preview performance from the balcony. No zooms or pans, just a full stage shot, filmed between heads. Improves a little in Act 2. The disc also includes two commercials for the show.
 
 Head Over Heels - Broadway - August, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -6747,7 +6747,7 @@ CAST
 : Bonnie Milligan (Pamela), Taylor Iman Jones (Mopsa), Alexandra Socha (Philoclea), Andrew Durand (Musidorus), Jeremy Kushnier (Basilius), Rachel York (Gynecia), Peppermint (Pythio), Tom Alan Robbins (Dametas)
 
 Head Over Heels - Broadway - January 5, 2019 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `5.73 GB`
@@ -6761,7 +6761,7 @@ NOTES
 ## Heathers: The Musical
 
 Heathers - Off-Broadway - May 25, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -6779,7 +6779,7 @@ NOTES
 ## Hedwig and the Angry Inch
 
 Hedwig and the Angry Inch - South Korea - November 16, 2019 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : M2TS `20.1 GB`
@@ -6790,7 +6790,7 @@ CAST
 ## Helen of Troy
 
 Helen of Troy - Reading (NYC) - June 13, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.10 GB`
@@ -6804,7 +6804,7 @@ NOTES
 ## Hello, Dolly!
 
 Hello, Dolly! - Fourth National Tour - July, 1977 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -6819,7 +6819,7 @@ NOTES
 : Recorded through the house camera, with amazing sound. In black and white. This one is best enjoyed for the audio, but you can still make out what\'s happening on stage. C
 
 Hello, Dolly! - 30th Anniversary National Tour - 1994
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6831,7 +6831,7 @@ CAST
 : Carol Channing (Dolly Gallagher Levi), Jay Garner (Horace Vandergelder), Michael DeVries (Cornelius Hackl), Florence Lacey (Irene Molloy), Cory English (Barnaby Tucker)
 
 Hello, Dolly! - Third Broadway Revival - October 19, 1995 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6843,7 +6843,7 @@ NOTES
 : Hosted by Pat Collins, David Birney, and Phil Harper. Local NYC coverage of the 30th Anniversary revival starring Carol Channing. Includes taped pieces with footage from the show, rehearsal footage, as well as interviews with Channing, Director Lee Roy Reams, Jerry Herman, and others (90 minutes). Also includes Press Reels from \"Stage Door Charley\".
 
 Hello, Dolly! - 30th Anniversary National Tour - December 17-19, 1996
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6858,7 +6858,7 @@ NOTES
 : Multi-camera pro-shot. This is a "Producer's Reference Tape", which was filmed so that future touring companies would have a reference, and ensure that choreography, blocking, direction, etc. would remain consistent in future productions. Filmed using two cameras with sound patched in from the soundboard. This has been listed as 1977/1978 often, however, there was there was no Tuesday December 17th in 1977, 1978, 1994 or 1995. Only in 1996. The tour was in Melbourne, FL Dec 17th-19th 1996. As this is in December 1996, Jay Garner and Florence Lacey were replaced by Herman Petras and Jeanne Lehman respectively.
 
 Hello, Dolly! - Fourth Broadway Revival - March 30, 2017 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6873,7 +6873,7 @@ NOTES
 : Filmed from the back of the orchestra. There are times that a cloth that the master is using covers their lens to conceal them. Bette gets a standing ovation after "Hello Dolly" and at Curtain Call.
 
 Hello, Dolly! - Fourth Broadway Revival - June 28, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6885,7 +6885,7 @@ NOTES
 : Excellent quality, however a vertical post on the left gets in the way occasionally, but is well filmed-around. A great capture of Donna in the role. A-
 
 Hello, Dolly! - Fourth Broadway Revival - July, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6900,7 +6900,7 @@ NOTES
 : Wonderful HD capture in semi-proshot style. Whole show is done in stable set position, medium stage shot with no movement or zooms. Donna really knocks Dolly out of the park with her vocals, acting and stage presence! A
 
 Hello, Dolly! - Fourth Broadway Revival - March 4, 2018 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R
 {: .label .label-blue }
@@ -6915,7 +6915,7 @@ NOTES
 : Great clear HD video with excellent picture and sound throughout; very nice video with closeups. A
 
 Hello, Dolly! - Fifth National Tour - October 23, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6938,7 +6938,7 @@ NOTES
 ## Hercules: The Muse-ical
 
 Hercules: The Muse-ical - Disney Wonder - 2000\'S
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -6955,7 +6955,7 @@ NOTES
 ## High Fidelity
 
 High Fidelity - Broadway - December 16, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6969,7 +6969,7 @@ NOTES
 ## High Society
 
 High Society - Broadway - April 19, 1998 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -6983,7 +6983,7 @@ NOTES
 ## How to Succeed in Business Without Really Trying
 
 How to Succeed in Business Without Really Trying - Second Broadway Revival - March 5, 2011 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -6999,7 +6999,7 @@ NOTES
 : Slightly shaky in a few parts, but nothing too bad. Act Two does not have a lot of close-ups and mostly mid-stage shots with no whiteouts; a total of about 4 minutes of blackouts throughout the show; great sound and good video. A- 2 DVDs
 
 How to Succeed in Business Without Really Trying - Second Broadway Revival - January 11, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7014,7 +7014,7 @@ NOTES
 : Excellent capture of Darren's three week stint with the show. Tons of excitement from the audience which made the cast sparkle even more. Show is top shape and Darren is charming as one would expect!
 
 How to Succeed in Business Without Really Trying - Second Broadway Revival - February 4, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7031,7 +7031,7 @@ NOTES
 ## The Hunchback of Notre Dame (Disney)
 
 The Hunchback of Notre Dame (Disney) - La Jolla Playhouse - November 9, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -7052,7 +7052,7 @@ NOTES
 : A great capture of the American premiere at La Jolla Playhouse. The incredibly talented cast delivers the score beautifully. Michael and Ciara both give powerhouse performances. This is a perfect capture with no blackouts, no obstruction, and just slight washout in some wide shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 The Hunchback of Notre Dame (Disney) - Papermill Playhouse - April 2, 2015 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7061,7 +7061,7 @@ CAST
 : Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), Jeremy Stolle (Jehan Frollo), Anise Ritchie, Beth Kirkpatrick, Dashaun Young, Ian Patrick Gibb, Joseph J Simeone, Julian Decker, Neal Mayer, Nora Menken, Richard Ruiz, Samantha Massell, Vincent Rodriguez III, William Michals
 
 The Hunchback of Notre Dame (Disney) - Papermill Playhouse - April 5, 2015 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `8.19 GB`
@@ -7076,7 +7076,7 @@ CAST
 ## I Love You, You’re Perfect, Now Change
 
 I Love You, You’re Perfect, Now Change - London Coliseum Livestream - January, 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7090,7 +7090,7 @@ CAST
 ## I'll Say She Is: The Lost Marx Brothers Musical
 
 I'll Say She Is - Off-Broadway / NY International Fringe Festival - August 18, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.00 GB`
@@ -7104,7 +7104,7 @@ NOTES
 ## If/Then
 
 If/Then - Broadway - March 8, 2014 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7119,7 +7119,7 @@ NOTES
 : Beautiful HD capture with no obstructions. Has some variations from the PreBroadway version, including cut songs, added songs and scenes. This version seems more streamlined and a great piece. A
 
 If/Then - Broadway - May 25, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -7134,7 +7134,7 @@ NOTES
 : There are a couple quick dropouts during the prologue and What If?, and the first half of act one is a bit shaky, but it's much better as the show goes on. There is one head that obstructs a small portion of the front of the stage, but it never blocks more than the actors' feet and it's rarely noticeable overall. There is no washout, and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call and playbill scans.
 
 If/Then - Broadway - August 30, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7149,7 +7149,7 @@ NOTES
 : Stunning HD capture of Jackie and Charles in the lead roles. Jackie gives a flawless and powerful performance, which was beautifully sung. Flawless capture with no obstructions! \*\*BEWARE of copies where one of the VOB files has been replaced with a lower quality MP4\*\*
 
 If/Then - Broadway - February 22, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7164,7 +7164,7 @@ NOTES
 : Excellent HD capture of one of Jackie\'s final performances. This day promo footage was being filmed and her parents were sitting right behind me. She held the final note in Starting Over for 19 seconds, such a wonderful performance! A
 
 If/Then - First National Tour - October 13, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7179,7 +7179,7 @@ NOTES
 : Beautiful HD capture of the very first performance on tour. The cast was full of energy and really ready to perform the show, since the Broadway closing. I have never heard Idina sing the score as she had this night, great new riffs, variations and such power, nailed it!
 
 If/Then - First National Tour - January 24, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -7194,7 +7194,7 @@ NOTES
 : Idina\'s last performance. An emotional performance by the whole cast, particularly Idina. Her feelings overcome her during Always Starting Over and the Finale, leading to roaring cheers of support from the crowd. There is also a fantastic blooper during What If: Elizabeth's phone rings and the phone is not in her pocket. Chaos ensues. A really fantastic capture with no obstruction, no washout, and just two quick dropouts in act one. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. A
 
 If/Then - First National Tour - March 3, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7211,7 +7211,7 @@ NOTES
 ## In the Heights
 
 In the Heights - Broadway - March 5, 2008 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7226,7 +7226,7 @@ NOTES
 : Great capture of this great show with fantastic closeups! Javier does a smashing job. Great cast and energy. A
 
 In the Heights - Broadway - May 18, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7237,7 +7237,7 @@ CAST
 ## Into the Woods
 
 Into the Woods - Broadway - May, 1989
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7253,7 +7253,7 @@ NOTES
 : Proshot. Aired on March 15, 1991, but in reality it was filmed between May 23 -- 25, 1989. Filmed as a part of the Season 10 premiere episode of PBS's American Playhouse. Almost the entire original Broadway cast (the only exception being Snow White (who was pregnant) returned to film it.
 
 Into the Woods - 10th Anniversary Reunion Concert - New York - November 9, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.00 GB`
@@ -7265,7 +7265,7 @@ NOTES
 : Reunion concert; Cameraman wanders from the action a little too often, unfortunately. Sound is great however.
 
 Into the Woods - Los Angeles / Pre-Broadway - February 15, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.57 GB`
@@ -7274,7 +7274,7 @@ CAST
 : Vanessa Williams (Witch), Stephen DeRosa (Baker), Kerry O'Malley (Baker's Wife), Laura Benanti (Cinderella), Molly Ephraim (Little Red Riding Hood), Adam Wylie (Jack), Gregg Edelman (Wolf/Cinderella's Prince), Christopher Sieber (Rapunzel's Prince), John McMartin (Narrator), Dame Judi Dench (Giant's voice)
 
 Into the Woods - Broadway Revival - April 13, 2002 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.96 GB`
@@ -7287,7 +7287,7 @@ NOTES
 : \“Hello Little Girl\” was staged differently in shows after this date.
 
 Into the Woods - Broadway Revival - May 16, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.33 GB`
@@ -7299,7 +7299,7 @@ NOTES
 : This copy is COMPLETE. It goes all the way to the end of the show, without any corruption! Crisper quality than the other video of this production, yet it has a lot of heads to film around. The video has two wolves, the three little pigs, and it includes \“Our Little World.\”
 
 Into the Woods - Pittsburgh CLO - August 9, 2009 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -7314,7 +7314,7 @@ NOTES
 : Not the closing performance as previously listed. This was the matinee performance, and the production had an evening show as their closing. A couple of minor obstructions but only in the wider shots. Almost no blackouts and nicely captured.
 
 Into the Woods - Regent\'s Park Open Air Theatre - September 9, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7329,7 +7329,7 @@ NOTES
 : Sept 9/10, 2010. Exists in 2 versions, one is a DT rip, in 720p and low bitrate sound and video, and and Amazon rip in 1080p and high bitrate sound and video. Ask traders.
 
 Into the Woods - Shakespeare In The Park - July 29, 2012 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7344,7 +7344,7 @@ NOTES
 : Great HD capture of the much hyped Shakespeare in the Park Production. Beautifully thought out and executed production with a few flubs and bloopers that are hilarious. Donna and Amy were just sensational! A-
 
 Into the Woods - Shakespeare In The Park - August 1, 2012 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -7359,7 +7359,7 @@ NOTES
 : Single cam, whole-stage shot, no zooms.
 
 Into the Woods - Fiasco Theatre Tour - April 6, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -7368,7 +7368,7 @@ CAST
 : Stephanie Umoh (Witch), Evan Harrington (Baker), Eleasha Gamble (Baker's Wife), Laurie Veldheer (Cinderella), Lisa Helmi Johanson (Little Red Riding Hood), Anthony C Chatmon II (Wolf/Cinderella's Prince), Darick Pead (Rapunzel's Prince), Fred Rose (Mysterious Man), Bonne Kramer (Jack's Mother), Bonne Kramer (Cinderella's Stepmother), Darick Pead (Florinda), Anthony C Chatmon II (Lucinda), Lisa Helmi Johanson (Rapunzel), Darick Pead (Milky White)
 
 Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 itwbroadwaytrades
 {: .label .label-blue }
@@ -7383,7 +7383,7 @@ NOTES
 : A fantastic capture of this all star cast performing at the legendary Hollywood Bowl. The audience was energetic and enthusiastic throughout. Shot in a mix of wides and zooms. This video is of the actors ON STAGE, not the big screens set up around the venue. There is occasional spotlight washout, but it is quickly corrected. Shot in crystal clear HD with no obstructions.
 
 Into the Woods - Hollywood Bowl - July 28, 2019 (Closing Night) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MOV `1080p` `26 files` `2.63 GB`
@@ -7397,7 +7397,7 @@ NOTES
 ## It Shoulda Been You
 
 It Shoulda Been You - Broadway - April 11, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7412,7 +7412,7 @@ NOTES
 : Brilliant capture of the hysterical new musical. Sierra is brilliant, Tyne and Harriet are fantastic - and Lisa steals the show. Great humor in the show. A head on the left side of the stage is shot around nicely, but it is present when action is over near it. A
 
 It Shoulda Been You - Broadway - July 21, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -7429,7 +7429,7 @@ NOTES
 ## It\'s a Bird, It\'s a Plane, It\'s Superman!
 
 It\'s a Bird, It\'s a Plane, It\'s Superman! - Encores! - March 21, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 COMMENTS
 : Audio on left channel only, turn on mono
@@ -7450,7 +7450,7 @@ NOTES
 ## Jagged Little Pill
 
 Jagged Little Pill - Broadway - November, 2019 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -7465,7 +7465,7 @@ NOTES
 : Stunning HD capture of the Alanis Morrisette musical in Broadway Previews. Filmed from the left orchestra with a mix of wides, mediums, and closeups. Fantastic performances all around with the action well-followed.
 
 Jagged Little Pill - Broadway - February, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -7482,7 +7482,7 @@ NOTES
 ## Jawbreaker: The Musical
 
 Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 29, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7494,7 +7494,7 @@ NOTES
 : This musical is performed as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway\'s best alternating in the roles. Shot from the front of the venue and a nice capture. A
 
 Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 30, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7508,7 +7508,7 @@ NOTES
 ## Jerry\'s Girls
 
 Jerry\'s Girls - National Tour - February-March, 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7523,7 +7523,7 @@ NOTES
 : Full show, filmed using one camera on a tripod, with sound patched in directly from the sound board. This footage might have been intended for media use. A
 
 Jerry\'s Girls - Broadway - 1986
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.12 GB`
@@ -7540,7 +7540,7 @@ NOTES
 ## Jesus Christ Superstar
 
 Jesus Christ Superstar - Seoul, South Korea - June 27, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : WMV `720p` `3.71 GB`
@@ -7549,7 +7549,7 @@ CAST
 : 박은태 Park Eun Tae (Jesus), 최재림 Choi Jae Rim (Judas), 장은아 Jang Eun Ah (Mary), 김태한 Kim Tae Han (Pilate), 김영주 Kim Young Joo (Herod), 지혜근 Ji Hye Guen (Annas), 최종선 Choi Jong Sun (Simon)
 
 Jesus Christ Superstar - Live In Concert (NBC) - April 1, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7563,7 +7563,7 @@ CAST
 ## Joseph and the Amazing Technicolor Dreamcoat
 
 Joseph and the Amazing Technicolor Dreamcoat - US Tour / Chicago - November 23, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7578,7 +7578,7 @@ CAST
 ## Kiss Me, Kate
 
 Kiss Me, Kate - Television Production - November 20, 1958
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7593,7 +7593,7 @@ NOTES
 : Surviving kinescope print.
 
 Kiss Me, Kate - British Television Production - April 21, 1964
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -7611,7 +7611,7 @@ NOTES
 : This version was rewritten and abbreviated to fit within its 95-minute time slot. A little on the dark side, in black and white with a slight blue tinge, has producer's counter numbers hard-coded on the screen in the upper third. This version of the show was produced for the launch of a new station in the UK. After months of preparing the launch of the new television station---with it's brand-new 625 line resolution (until then UK TV's had a resolution of 405 lines)---the night turned out to be a disaster. 50 minutes before the launch, a fire broke out at a local power station, cutting power to most of London but not the television station. They started the evening's news show which was to be followed by this broadcast, but it soon became clear that there was no audience, and after a few minutes, the schedule was abandoned. The production was instead shown the next day. The date that's superimposed on the video is April 20, 1964---the originally scheduled night. It is unclear if this is a fi
 
 Kiss Me, Kate - US National Tour - June 24, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -7620,7 +7620,7 @@ CAST
 : Rachel York (Lilli Vanessi / Katharine), Rex Smith (Fred Graham / Petruchio), Susan Beaubian (Hattie), Randy Donaldson (Paul), Nancy Anderson (Lois Lane / Bianca), Jim Newman (Bill Calhoun / Lucentio), Herman Petras (Harry Trevor / Baptista), Chuck Wagner (Harrison Howell), Richard Poe (Gangster / First Man), Michael Arkin (Gangster / Second Man), Carmen Yurich, Carol Lee Meadows, Ivy Fox, Jody Reynard, John D Baker, John Treacy Egan, Juliet Fischer, Keith Howard, Kevin B McGlynn, Kimberly Dawn Neumann, Laura Marie Crosta, Marci Reid, Margaret Shafer, Matthew J Vargo, Michael Lackey, Rachel Lafer, Rommy Sandhu, Stephen Reed, Steven Sofia, Tina Marie Casamento
 
 Kiss Me, Kate - London - August, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7636,7 +7636,7 @@ NOTES
 : Pro-shot for \"Great Performances\" on PBS.
 
 Kiss Me, Kate - BBC Proms - August 2, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7651,7 +7651,7 @@ NOTES
 : The concert used the original 1948 version of the show in a new critical edition by David Charles Abell and Seann Alderking.
 
 Kiss Me, Kate - Third Broadway Revival - March, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -7665,7 +7665,7 @@ CAST
 ## Kiss of the Spider Woman
 
 Kiss of the Spider Woman - First National Tour - 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.67 GB`
@@ -7683,7 +7683,7 @@ NOTES
 ## The Last Five Years
 
 The Last Five Years - Northlight Theatre, Skokie, IL (Chicago) - 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MKV `480p` `3.18 GB`
@@ -7692,7 +7692,7 @@ CAST
 : Norbert Leo Butz (Jamie Wellerstein), Lauren Kennedy (Cathy Hiatt)
 
 The Last Five Years - Vienna, Austria - 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7707,7 +7707,7 @@ NOTES
 : Proshot from the Kammeroper Wien, staged in English.
 
 The Last Five Years - Off-West End / Southwark Playhouse - March, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot 
 {: .label .label-blue }
@@ -7719,7 +7719,7 @@ CAST
 : Oli Higginson (Jamie Wellerstein), Molly Lynch (Cathy Hiatt)
 
 The Last Five Years - Virtual - June 25-27, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7736,7 +7736,7 @@ NOTES
 ## Le Petit Prince
 
 Le Petit Prince - Paris - 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7753,7 +7753,7 @@ NOTES
 ## Legally Blonde
 
 Legally Blonde - Broadway - April 14, 2007 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7768,7 +7768,7 @@ NOTES
 : Great fun show and nice capture. Laura was wonderful along with a fantastic cast. A-
 
 Legally Blonde - Broadway - May 19, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -7780,7 +7780,7 @@ NOTES
 : A nice capture of the show. Missing about 3 and a half minutes of the show during Legally Blonde remix and about 8 seconds of skipping at the very end during the graduation. A-
 
 Legally Blonde - Broadway - May 20, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7792,7 +7792,7 @@ NOTES
 : Another great capture of the show. Has great sound and an over all nice sharp capture of the original cast.
 
 Legally Blonde - Broadway - July 1, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7807,7 +7807,7 @@ NOTES
 : DeQuina Moore\'s last performance
 
 Legally Blonde - Broadway - September 2, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7816,7 +7816,7 @@ CAST
 : Laura Bell Bundy (Elle Woods), Andy Karl (u/s Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
 
 Legally Blonde - Broadway - September 18, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7832,7 +7832,7 @@ NOTES
 : MTV Proshot, Broadcast October 13th and October 14th 2007.
 
 Legally Blonde - Broadway - March 2, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7841,7 +7841,7 @@ CAST
 : Haven Burton (u/s Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Becky Gulsvig (u/s Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
 
 Legally Blonde - Broadway - March 16, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -7853,7 +7853,7 @@ CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Gaelen Gilliland (u/s Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Haven Burton (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Tiffany Engen (u/s Mom/Whitney), Lindsay Nicole Chambers (u/s Judge), Nick Kenkel (u/s Padamadan/Nikos), Rusty Mowery (u/s Padamadan/Nikos)
 
 Legally Blonde - Broadway - May 15, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -7865,7 +7865,7 @@ CAST
 : Becky Gulsvig (u/s Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Gaelen Gilliland (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Kevin Pariseau (u/s Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid)
 
 Legally Blonde - Broadway - July 26, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7883,7 +7883,7 @@ NOTES
 : Featuring the winner of MTV\'s Search for Elle Woods Series, Bailey. She did a wonderful job and very cute in the role. She also did not copy Laura\'s Elle and did it her own, which was great. Amber as Paulette did a wonderful job in the role and has such a big voice and very pretty. I never get tired of this show as it is so much fun. Beautifully captured with terrific closeups. A
 
 Legally Blonde - First UK Tour - October 4, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `NFT`
@@ -7895,7 +7895,7 @@ NOTES
 : An amazing capture in 16:9 wide-screen with no obstructions with action well followed. This cast is a real treat giving Impeccable sparkling performances. Brookes's Elle really shines and she is a joy to watch. A+
 
 Legally Blonde - North Shore Music Theatre - November, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7910,7 +7910,7 @@ NOTES
 : Performed in the round, one camera on a tripod and sound patched in from the soundboard.
 
 Legally Blonde - 54 Below - March 3, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7924,7 +7924,7 @@ CAST
 ## Lennon
 
 Lennon - Broadway - August 6, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -7942,7 +7942,7 @@ NOTES
 : Some great close ups but also some nice wide shots to get good stage shots; sound is clear with some minor clipping. A-
 
 Lennon - Broadway - August 21, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.69 GB`
@@ -7959,7 +7959,7 @@ NOTES
 ## The Light in the Piazza
 
 The Light in the Piazza - Broadway - April 21, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.94 GB`
@@ -7968,7 +7968,7 @@ CAST
 : Victoria Clark (Margaret Johnson), Kelli O’Hara (Clara Johnson), Matthew Morrison (Fabrizio Naccarelli), Mark Harelik (Signor Naccarelli), Michael Berresse (Giuseppe Naccarelli), Sarah Uriarte Berry (Franca Naccarelli) 
 
 The Light in the Piazza - Broadway - June 15, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -7986,7 +7986,7 @@ NOTES
 ## The Lightning Thief: The Percy Jackson Musical
 
 The Lightning Thief: The Percy Jackson Musical - Broadway - October, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -8003,7 +8003,7 @@ NOTES
 ## Little Me
 
 Little Me - West End Revival - 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.01 GB`
@@ -8017,7 +8017,7 @@ NOTES
 ## The Little Mermaid
 
 The Little Mermaid - Pre-Broadway / Denver - August 31, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -8032,7 +8032,7 @@ NOTES
 : Amazing show and performances beautifully captured. A
 
 The Little Mermaid - Broadway - January 30, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -8047,7 +8047,7 @@ NOTES
 : Great capture with great closups. The first 11 minutes after the overture are mostly blackouts due to late comers, after that no real problems. Bret did a nice job as understudy. Sierra and Sherie still rock with much greatness! Also includes the Part of Your World performance and interview on The View. A-
 
 The Little Mermaid - Broadway - March 29, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8059,7 +8059,7 @@ NOTES
 : Many blackouts for the first 15 minutes of the show. Also 4 minutes missing after Scuttle checks if Prince Eric has a pulse in his feet, then resumes in the middle of \"She\'s in Love.\" Interesting to see the understudies in the roles, from the master. B
 
 The Little Mermaid - Broadway - June 27, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -8071,7 +8071,7 @@ NOTES
 : A minor blackout at the beginning of Act Two due to an usher helping someone who fell in the aisle
 
 The Little Mermaid - Moscow - December 21, 2013 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls
@@ -8084,7 +8084,7 @@ NOTES
 : Full Act 1, but only about 37 minutes of act 2. Quality: A-
 
 The Little Mermaid - Hollywood Bowl - June 3, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p` `780 MB`
@@ -8099,7 +8099,7 @@ NOTES
 : A wide shot focusing on the full stage and the center screen
 
 The Little Mermaid - ABC Live Special - November 5, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8113,7 +8113,7 @@ CAST
 ## Little Miss Sunshine
 
 Little Miss Sunshine - La Jolla - February 20, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -8127,7 +8127,7 @@ NOTES
 ## A Little Night Music
 
 A Little Night Music - New York City Opera - November 7, 1990
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8142,7 +8142,7 @@ NOTES
 : Production at Lincoln Center, PBS aired, pro-shot. Very slight generational loss.
 
 A Little Night Music - San Francisco - December 7, 1998
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.97 GB`
@@ -8154,7 +8154,7 @@ NOTES
 : The San Francisco company of The Phantom Of The Opera presented this staged benefit concert. Nice two camera archival recording with sound system audio. There is a strong audio buzz.
 
 A Little Night Music - North Shore Music Theatre, Beverly MA - September, 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8169,7 +8169,7 @@ CAST
 : Donna McKechnie, Jeff McCarthy, Merle Louise, Angela Gaylor, Adam Monley, Chuck Wagner, Diana Canova, Natasha Ashworth, Julia Haubner, Jeremy Holm, Sharon Richards, Curtis Olds, Joy Hermalyn, Susan Derry, Michael Hailing
 
 A Little Night Music - Ravinia Festival - August, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.45 GB`
@@ -8178,7 +8178,7 @@ CAST
 : Patti LuPone (Desiree Armfeldt), Zoe Caldwell (Madame Armfeldt), George Hearn (Fredrik Egerman), Johanna McKenzie Miller (Anne Egerman), John McVeigh (Henrik Egerman), Marc Kudisch (Count Carl-Magnus Malcolm), Hollis Resnik (Countess Charlotte Malcolm), Sara Ramirez (Petra)
 
 A Little Night Music - Kennedy Center - August 16, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.94 GB`
@@ -8190,7 +8190,7 @@ NOTES
 : Audience cam Kennedy Center production. Shot from first row mezz, very clear with lots of close-ups. Great production, from master.
 
 A Little Night Music - West End Revival - July 21, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8202,7 +8202,7 @@ NOTES
 : An amazing capture of the West End revival before it went to Broadway. Filmed in 16:9 with hardly any blackouts or obstructions. Does not include Curtain Call.
 
 A Little Night Music - Théâtre Du Châtelet - 2010 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -8217,7 +8217,7 @@ NOTES
 : This is the first production of Sondheim\'s show ever in France. Produced at the world-famous Theatre du Chatelet in Paris. In English and full stage shot with clear sound but no closeups. A
 
 A Little Night Music - Broadway Revival - May 4, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8226,7 +8226,7 @@ CAST
 : Catherine Zeta-Jones (Desiree Armfeldt), Angela Lansbury (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Ramona Mallory (Anne Egerman), Hunter Ryan Herdlicka (Henrik Egerman), Aaron Lazar (Count Carl-Magnus Malcolm), Erin Davie (Countess Charlotte Malcolm), Leigh Ann Larkin (Petra), Katherine Leigh Doherty (Fredrika Armfeldt), Bradley Dean (Frid)
 
 A Little Night Music - Broadway Revival - September 4, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8238,7 +8238,7 @@ NOTES
 : Due to disruptions in the audience, \"Now, Later, Soon\" and a scene in Act II are replaced with those from the recording made on April 4, 2010, and the beginning of \"Liaisons\" is taken instead from a recording from a few days earlier, as is the last minute of Act I. The edits are well made, and make the best recording possible with no cast changes.
 
 A Little Night Music - Houston Grand Opera - March 16, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8252,7 +8252,7 @@ NOTES
 ## Little Shop of Horrors
 
 Little Shop of Horrors - Off-Broadway - June, 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.44 GB`
@@ -8264,7 +8264,7 @@ NOTES
 : Fyvush Finkel served as the understudy for Mr. Mushnik in the original cast, while Brad Moraz served as the understudy for Seymour, Audrey II, and Orin/Everyone Else. Marsha Waterbury (under her maiden name Marsha Skaggs) would go on to play Audrey in a few regional productions of Little Shop, as well as an English-language production that toured Japan between 1986 and 1987. Sometimes circulated as a YouTube rip of the original VOB files watermarked from \"The Little Shop Archive.\"
 
 Little Shop of Horrors - Japan Tour - October, 1987
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8279,7 +8279,7 @@ NOTES
 : Clear, slightly faint picture. Broadcast on Japanese TV. Often misidentified as the original Off-Broadway production, this production toured Japan and was directed by Victor Valentine.
 
 Little Shop of Horrors - Pre-Broadway - June 5, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.01 GB`
@@ -8291,7 +8291,7 @@ CAST
 : Hunter Foster (Seymour), Alice Ripley (Audrey), Lee Wilkof (Mushnik), Reg Rogers (Orin), Billy Porter (Audrey II), Dioni Michelle Collins (Crystal), Haneefah Wood (Ronnette), Moeisha McGill (Chiffon)
 
 Little Shop of Horrors - Broadway - September 21, 2003 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -8306,7 +8306,7 @@ CAST
 : Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
 
 Little Shop of Horrors - Broadway - September 23, 2003 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.85 GB`
@@ -8318,7 +8318,7 @@ NOTES
 : Very nice capture and taper follows action well and not too many coverups. Includes Theater Talk segment. A
 
 Little Shop of Horrors - Revival National Tour - July 3, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.43 GB` `This is the correct file`
@@ -8330,7 +8330,7 @@ NOTES
 : Understudies for Audrey and Crystal. Great performances. Crystal clear picture and sound. A+
 
 Little Shop of Horrors - American Musical Theater Of San Jose - January-February, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8345,7 +8345,7 @@ NOTES
 : Single camera on tripod, mix of full-stage and mid-range shots, soundboard audio.
 
 Little Shop of Horrors - UK Tour - May 4, 2009 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8357,7 +8357,7 @@ NOTES
 : Average quality. Follows most of the action.
 
 Little Shop of Horrors - Encores! Off-Center - July 1, 2015 (Opening Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -8372,7 +8372,7 @@ NOTES
 : Opening Night filmed from the very back of City Center, so there is some spotlight washout that\'s never too bad and a head that\'s shot well around. A-
 
 Little Shop of Horrors - Encores! Off-Center - July 2, 2015 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -8387,7 +8387,7 @@ NOTES
 : Beautiful HD capture of the Encores Summer Series. Ellen and Jake were perfection and this was the 2015 show that was not to be missed! The last 15 mins (customers coming in and song/scene finale don\'t feed the plants) are mostly blind shot, where a few times no action can be seen. Everything else is there and beautiful. A-
 
 Little Shop of Horrors - São Paulo - Brasil - 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8402,7 +8402,7 @@ NOTES
 : Pro-shot with zooms. Performance with audience. Great quality (in 1080P - HD).
 
 Little Shop of Horrors - Third Mexico City Revival - May 4, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 MozartWasCrazy
 {: .label .label-blue }
@@ -8417,7 +8417,7 @@ NOTES
 : Third Revival Of Little Shop Of Horrors in Mexico City, Limited Run!
 
 Little Shop of Horrors - Cape Playhouse - July, 2019 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `13 files` `580.1 MB`
@@ -8429,7 +8429,7 @@ NOTES
 : Highlights running around 40 minutes long, only known video from this production. 1080p/720p YouTube rips. Clips include: Little Shop of Horrors, Skid Row (Downtown), Da-Doo, Grow for Me, Ya Never Know, Somewhere That\'s Green x2, Dentist!, Now (It\'s Just the Gas), Suddenly, Seymour, Sominex/Suppertime (Reprise) through Somewhere That\'s Green (Reprise), and Don\'t Feed the Plants, filmed at multiple performances due to overlapping songs that were filmed from different angles.
 
 Little Shop of Horrors - Pasadena Playhouse - October 13, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MOV `1080p` `743.7 MB`
@@ -8444,7 +8444,7 @@ NOTES
 : Includes the full show and the curtain call. There is some drifting in Act One, but it isn't as prevalent in Act Two. There are a lot of obstructions, but I was (mostly) able to film around them. The only part that was really blocked was Somewhere That's Green. Somewhere That's Green (Reprise) is the only majorly whitewashed part, but other than that it's not too much of an issue. Overall, it's a pretty decent capture of the show, considering it's my first video master.
 
 Little Shop of Horrors - Constellation Theatre Company - November 22, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 theatrecouple14
 {: .label .label-blue }
@@ -8459,7 +8459,7 @@ NOTES
 : Perfect audio, very obstructed video, but the stuff you can see is great. Wonderful performances from entire cast. Enthusiastic audience. Please don\'t sell. Gifting encouraged. \[NOT FOR SALE\]
 
 Little Shop of Horrors - Off-Broadway Revival - January 24, 2020 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `12 files` `2.28 GB`
@@ -8473,7 +8473,7 @@ NOTES
 ## Little Women
 
 Little Women - Broadway - December 11, 2004 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8487,7 +8487,7 @@ NOTES
 ## Love Cycle: A Soap Operetta
 
 Love Cycle: A Soap Operetta - Commercial Release - February 9, 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8504,7 +8504,7 @@ NOTES
 ## Love Never Dies
 
 Love Never Dies - West End - June 25, 2010 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -8519,7 +8519,7 @@ NOTES
 : House cam pro-shot. Pre-changes. Mic seems to cut out toward the end of \"The Beauty Underneath\" but is back by \"The Phantom Confronts Christine.\"
 
 Love Never Dies - Melbourne - September 15, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8534,7 +8534,7 @@ NOTES
 : Pro-shot of the revamped Australian Production. Released on BluRay.
 
 Love Never Dies - First National Tour - September 25, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -8556,7 +8556,7 @@ NOTES
 <p align="center"><small>AKA The Unauthorized Autobiography of Samantha Brown</small></p>
 
 The Mad Ones - Costa Mesa, CA - May 3, 2009 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8568,7 +8568,7 @@ NOTES
 : Final performance: a good mix of wides, mediums, and close-ups shots but a little more obstruction here, but it mostly just blocks the actors\' feet/legs sometimes; some washout in the wides, and the dialogue is pretty quiet sometimes, but it\'s all still understandable. Many changes had been made since the previous video, most notably in The Girl Who Drove Away, Drive, and Sam\'s monologue after I Wouldn\'t Change Anything. A
 
 The Mad Ones - Russo Richardson Productions Livestream - January 30, 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `3.84 GB`
@@ -8579,7 +8579,7 @@ CAST
 ## Made in Dagenham
 
 Made in Dagenham - West End - April 8, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `3 files` `8.24 GB`
@@ -8593,7 +8593,7 @@ NOTES
 ## Mame
 
 Mame - Kennedy Center, Washington D.C. - 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.77 GB` `No DVD menu`
@@ -8607,7 +8607,7 @@ NOTES
 ## Mamma Mia!
 
 Mamma Mia! - West End - September 14, 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.94 GB`
@@ -8619,7 +8619,7 @@ NOTES
 : Good record to have of the show. Filmed on a VHS tape and age is apparent, but still quite watchable. Every 20 minutes or so, the sound cuts out for around 5 seconds. Does not include curtain call or megamix. Good use of zooms, however due to film age, faces aren't overly clear. Neon floor is used in this performance. Only known recording of the show in London.
 
 Mamma Mia! - Stuttgart - December 29, 2004 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -8634,7 +8634,7 @@ NOTES
 : It\'s a very nice stage shot. Little spotlight washout and a very high quality soundboard recording, especially when you compare it to other German stageshots of the show. However, I must fault picture quality, it is very pixelated, like it\'s been scaled up from an online video. Neon floor is included.
 
 Mamma Mia! - Hamburg - 2005 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -8649,7 +8649,7 @@ NOTES
 : Single cam proshot with no zooms. Filmed at a slight angle, so it\'s not entirely horizontal, but it\'s still a steady capture of the full show, megamix songs, and even a little post-show maintenance.
 
 Mamma Mia! - Shanghai - 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : AVI `992x544` `1.28 GB`
@@ -8661,7 +8661,7 @@ NOTES
 : HD stage shot of the Shanghai musical spectacular! Very respectable quality and is great fun to watch. The show uses the Novello set, has no neon floor, and the stage is very large. This is the only known stage shot in 16:9 HD and best of all, the only spotlight washout\'s in Super Trouper.
 
 Mamma Mia! - Stuttgart Revival - August, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -8673,7 +8673,7 @@ NOTES
 : Filmed during Willemijn\'s short stint as Donna, and she\'s simply phenomenal in the role. Acts it brilliantly, sings it even better and is just adorable and awesome all around. The rest of the cast are also great, The video is filmed from central stalls and features a completely unobstructed view of the stage.
 
 Mamma Mia! - Hollywood Bowl - July 30, 2017 (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -8687,7 +8687,7 @@ CAST
 ## Marry Me a Little
 
 Marry Me a Little - The Barn Theatre, Cirencester - 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8704,7 +8704,7 @@ NOTES
 ## Mary Poppins
 
 Mary Poppins - West End - February 22, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `4.95 GB`
@@ -8716,7 +8716,7 @@ NOTES
 : Shot from Left side of audience, noticeable angle, decent zooms and good detail, but a bit shaky. Audio is a bit tinny.
 
 Mary Poppins - Broadway - October 14, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -8731,7 +8731,7 @@ NOTES
 : Whole show, not highlights. Large drops where only audio can be heard (Full list of drops listed below.) Crystal clear audio and what scenes are filmed are as high quality as you can hope for 2006. Playback includes still images of the Showbill / Playbill, with cast. Shaky cam during first number, settles on Cherry Tree Lane set. Several long drops, especially during first act, but is still a good capture of the whole show). Unknown who Jane and Michael Banks are played by. Alternates for Broadway are Katherine Doherty / Kathryn Faughnan / Delaney Moro (Jane Banks) and Matthew Gumley / Henry Hodges / Alexander Scheitinger (Michael Banks)
 
 Mary Poppins - Broadway - October 31, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -8743,7 +8743,7 @@ CAST
 : Ashley Brown (Mary Poppins), Gavin Lee (Bert), Kathryn Faughnan (Jane Banks), Henry Hodges (Michael Banks), Daniel Jenkins (George Banks), Rebecca Luker (Winifred Banks)
 
 Mary Poppins - Hamburg - June, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -8757,7 +8757,7 @@ CAST
 ## Matilda the Musical
 
 Matilda the Musical - First National Tour - June 14, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -8769,7 +8769,7 @@ NOTES
 : Contains bows and pictures of program at end of video, pictures of program are too blurry to read though.
 
 Matilda the Musical - West End - November, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -8786,7 +8786,7 @@ NOTES
 ## Me and My Girl
 
 Me and My Girl - Encores! - May, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -8800,7 +8800,7 @@ CAST
 ## Mean Girls
 
 Mean Girls - Broadway - April 24, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -8815,7 +8815,7 @@ NOTES
 : Beautiful quality video! A blackout in the very beginning of Act 1, but other than that amazing quality! The show does the movie justice and is just as dark and funny as the movie.
 
 Mean Girls - Broadway - June 10, 2018 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -8830,7 +8830,7 @@ NOTES
 : Shot in 4K with a lot of close-ups. Camera occasionally wanders during dialogue, but it\'s generally good during the songs. There was some obstruction on the right side that I couldn\'t work around, but altogether most of the action is captured as the staging of the show puts everything major in the center. I am obviously not practiced yet in taking videos, but if you want to see facial expressions you haven\'t caught before it\'s a good boot. The cast is honestly on the top of their game.
 
 Mean Girls - Broadway - June, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -8845,7 +8845,7 @@ NOTES
 : Excellent HD capture of newcomer Reneé Rapp as Regina, bringing a new and powerful take to the role. Devon is a fantastic Mrs. Heron / Ms. Norbury / Mrs. George! Starts during It Roars. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
 
 Mean Girls - Broadway - May, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -8860,7 +8860,7 @@ NOTES
 : Beautiful HD capture of the new cast and Ashley as Regina. Erika flubs a line during \"Whose House is This\" and the cast spends the remainder of the song recovering. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
 
 Mean Girls - Broadway - February, 2020 (Erika's Last)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -8872,7 +8872,7 @@ CAST
 : Olivia Kaufmann (s/b Cady Heron), Cailen Fu (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Tovi Wayne (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Aaron Alcaraz (s/w Marwan Jitla), Maria Briggs (s/w Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
 
 Mean Girls - Broadway - February, 2020 (Olivia and Cailen)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -8893,7 +8893,7 @@ NOTES
 ### West End
 
 Les Misérables - West End - May 9, 1987 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -8908,7 +8908,7 @@ NOTES
 : Commonly mistaken as December 28, 1988! Martin Smith was part of the West End cast for 6 months starting December 1986, and the non-circulated first-generation DVD labels the date as 1987/05/09.
 
 Les Misérables - West End - December 28, 1991 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -8924,7 +8924,7 @@ NOTES
 he master. A
 
 Les Misérables - West End - October 8, 2006 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -8939,7 +8939,7 @@ NOTES
 : A pro-shot clip (28 minutes) from 21st Anniversary celebration at Queen\'s Theatre. Includes \'Bring Him Home (Colm Wilkinson and the Original London Cast of Les Miserables), I Dreamed A Dream (Patti LuPone), \'Memory (Elaine Paige), and \'One Day More\'.
 
 Les Misérables - West End - August 12, 2012 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p + 480p` `142.2 MB`
@@ -8954,7 +8954,7 @@ NOTES
 : WMV video, but surprisingly large picture and better quality than I expected. Some head obstruction. 25 minutes long and includes highlights of \'Valjean\'s Soliloquy\', \'Fantine\'s Death\', \'Confrontation\', \'Stars\', \'Bring Him Home\', and \'Epilogue\'.
 
 Les Misérables - West End - November, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -8968,7 +8968,7 @@ CAST
 ### Broadway
 
 Les Misérables - Broadway - May 18, 2003 (Closing Night) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -8985,7 +8985,7 @@ NOTES
 ### 10th Anniversary Concert
 
 Les Misérables - 10th Anniversary: The Dream Cast In Concert - October, 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9002,7 +9002,7 @@ NOTES
 ### First Broadway Revival
 
 Les Misérables - First Broadway Revival - May 12, 2007 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 jstarz
 {: .label .label-blue }
@@ -9019,7 +9019,7 @@ NOTES
 ### Third UK Tour / 25th Anniversary Tour
 
 Les Misérables - Third UK Tour - September 17, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 thewho
 {: .label .label-blue }
@@ -9034,7 +9034,7 @@ NOTES
 :  \[NOT FOR SALE\] Barbican Center Theatre, London. First time in history two same productions of a major musical played in the same city.
 
 Les Misérables - Third UK Tour - September 25, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 thewho
 {: .label .label-blue }
@@ -9051,7 +9051,7 @@ NOTES
 ### Second Broadway Revival
 
 Les Misérables - Second Broadway Revival - March 1, 2014 (Preview) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 where is your red schaaaf
 {: .label .label-blue }
@@ -9066,7 +9066,7 @@ NOTES
 : First preview. It includes most of the show. Loud excited audience. Blind shot from stage right third row, with no zooms. Keala Settle sprained her ankle at some point between The Robbery and One Day More, resulting in her not being in One Day More and using a cane during Wedding Chorale/Beggars at the Feast.
 
 Les Misérables - Second Broadway Revival - March 8, 2014 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9081,7 +9081,7 @@ NOTES
 : Audience was full of excitement! The last 20 seconds are missing from the very end due to battery issues
 
 Les Misérables - Second Broadway Revival - March 29, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `240p` `2.31 GB`
@@ -9093,7 +9093,7 @@ NOTES
 : Some camera wondering, and nearly complete video. MP4.
 
 Les Misérables - Second Broadway Revival - May 13, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Turnofthescorpion
 {: .label .label-blue }
@@ -9108,7 +9108,7 @@ NOTES
 : Excellent capture of the Revival Broadway production with excellent clarity. A
 
 Les Misérables - Second Broadway Revival - August 21, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -9123,7 +9123,7 @@ NOTES
 : A fantastic capture of this lavish production. It’s refreshing to see different faces in the lead roles, and both Nathaniel and Earl carry the show well. Nathaniel’s vocals are powerful and he has a great rapport with Caissie and Samantha. A lovely capture overall with no obstruction. Look Down is mostly blacked out and there are a couple quick dropouts during The Bishop scene and Lovely Ladies, but the show is otherwise fully intact. There is also some washout in high contrast wide shots. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Les Misérables - Second Broadway Revival - November 6, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD Menu`
@@ -9135,7 +9135,7 @@ NOTES
 : ACT TWO ONLY! Starts after "On My Own". Heads in the way. Includes BC/EFA speech by John. Video mostly centered around John.
 
 Les Misérables - Second Broadway Revival - June 15, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -9153,7 +9153,7 @@ NOTES
 ### Fourth UK & Ireland Tour
 
 Les Misérables - Fourth UK & Ireland Tour - January, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -9165,7 +9165,7 @@ CAST
 : Killian Donnelly (Jean Valjean), Nic Greenshields (Javert), Katie Hall (Fantine), Bronwen Hanson (Cosette), Harry Apps (Marius), Tegan Bannister (Éponine), Will Richardson (Enjolras), Martin Ball (Thénardier), Sophie-Louise Dann (Madame Thénardier)
 
 Les Misérables - Fourth UK & Ireland Tour - November, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -9182,7 +9182,7 @@ NOTES
 ### The All-Star Staged Concert
 
 Les Misérables - The All-Star Staged Concert - December 2, 2019 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9201,7 +9201,7 @@ NOTES
 ### MISC
 
 Les Misérables - Third National Tour - February 7, 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `1 DVD` `4.17 GB`
@@ -9214,7 +9214,7 @@ NOTES
 : A GREAT video shot from the center of the mezzanine with a digital camera and no obstructions. Great zooming and framing, the taper obviously knew the show. Crystal clear picture and sound quality. A very professionally done cast/crew listing at the beginning of the tape.
 
 Les Misérables - São Paulo, Brazil - 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : AVI `480p` `3.53 GB`
@@ -9226,7 +9226,7 @@ NOTES
 : This recording ends at "Beggars at the Feast"
 
 Les Misérables - São Paulo, Brazil - 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `6.87 GB`
@@ -9238,7 +9238,7 @@ NOTES
 : Seems like it was the final performance, or a special perfomance due to the clapping and confetti. Missing a small part of the musical, but nothing huge. It looks like it was filmed almost directly above the stage.
 
 Les Misérables - Norway - 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9253,7 +9253,7 @@ NOTES
 : Proshot DVD made for cast. Professional quality menus with cast list, production info and chapter selections.
 
 Les Misérables - Walnut Street Theatre, Philadelphia, PA - May 17, 2008 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.79 GB`
@@ -9265,7 +9265,7 @@ CAST
 : Hugh Panaro (Jean Valjean), Paul Schoeffler (Javert), Jessica Bogart (Fantine), Julie Craig (Cosette), Josh Young (Marius), Christina DeCicco (Éponine), Jeffrey Coon (Enjolras), Scott Greer (Thénardier), Dawn Spence (Madame Thénardier), Dante Mignucci (Gavroche), Laurel Gwynne Yaros (Little Cosette), Maggie Fitzgerald (Young Éponine), Peter Schmitz (The Bishop), Fran Prisco (Grantaire), Ben Dibble (Combeferre), Steve Pacek (Jean Prouvaire), Constantine Germanacos (Factory Foreman), Denise Whelan (Factory Girl), Mary Martello (Crone)
 
 Les Misérables - Spanish Tour - December 21, 2013 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -9277,7 +9277,7 @@ CAST
 : Nicholas Martinelli (Jean Valjean), Ignasi Vidal (Javert), Elena Medina (Fantine), Talía del Val (Cosette), Guido Balzeratti (Marius), Lydia Fairén (Éponine), Manu Pilas (u/s Enjolras), Armando Pita (Thénardier), Eva Digo (Madame Thénardier), Samuel Gomez (Grantaire)
 
 Les Misérables - Pre-Broadway / Toronto Revival - January 11, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 where is your red schaaaf
 {: .label .label-blue }
@@ -9292,7 +9292,7 @@ NOTES
 : Extended highlights separated by song; runs about 105 minutes. Special charity performance with Colm Wilkinson.
 
 Les Misérables - Dallas - August 2, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -9309,7 +9309,7 @@ NOTES
 ## Miss Saigon
 
 Miss Saigon - Broadway - November 16, 1998 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.96 GB`
@@ -9321,7 +9321,7 @@ NOTES
 : Highlights running about 65 minutes in total.
 
 Miss Saigon - Netherlands - July 4, 1999 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9333,7 +9333,7 @@ CAST
 : Linda Wagenmakers (Kim), Tony Neef (Chris), Willem Nijholt (The Engineer), Mark Dollevoet (John), Claudia de Graaf (Ellen), Cystine Carreon (Gigi)
 
 Miss Saigon - Manila - December 24, 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9348,7 +9348,7 @@ NOTES
 : Multi-Cam Pro-shot, in English. Says \"For preview purposes only. Not for commercial use\" during the entire video at the bottom of the screen. 2 versions floating around. A complete version, normally at a higher video quality. Also a incomplete version, the last 10 minutes substituted from a bootleg recording with a different cast. Screenshots to compare.
 
 Miss Saigon - Broadway - January 3, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.03 GB`
@@ -9360,7 +9360,7 @@ NOTES
 : First 10-15 minutes lots of shots of nothing untiltaper gets settled, though the sound is very good. After that any close-ups, clear picture. B
 
 Miss Saigon - Second UK Tour - 2006 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -9375,7 +9375,7 @@ NOTES
 : House-cam footage. Pretty grainy, but sound is clear.
 
 Miss Saigon - Broadway Revival - March 9, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9390,7 +9390,7 @@ NOTES
 : Great HD capture of the Broadway Revival. Terrific performances from the entire cast with many changes from the original production. There is a 7 minute black out near the top of Act 2 which effects the second half of Bui-Doi and the scene between Chris and John. A-
 
 Miss Saigon - Broadway Revival - May 13, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9407,7 +9407,7 @@ NOTES
 ## Monty Python\'s Spamalot
 
 Monty Python\'s Spamalot - Broadway - March 12, 2005 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `1 DVD`
@@ -9420,7 +9420,7 @@ NOTES
 : Broadway Previews. Playbill scans. Includes NY1 Review + Theatre Talk Interview.
 
 Monty Python\'s Spamalot - Broadway - June 8, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -9434,7 +9434,7 @@ NOTES
 ## Moulin Rouge! The Musical
 
 Moulin Rouge! - Pre-Broadway / Boston - July 13, 2018 (Preview) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MOV `1080p` `5 files` `1.03 GB`
@@ -9446,7 +9446,7 @@ NOTES
 : Highlights totaling about 14 minutes. Includes clips of Bad Romance, Come What May, Chandelier, Rollin' in the Deep, and the Finale/Bows. Camera often wanders to the ceiling and doesn't capture the stage. Many heads in the way and a lot of spotlight washout. The finale is really the only good clip.
 
 Moulin Rouge! - Pre-Broadway / Boston - August, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -9464,7 +9464,7 @@ NOTES
 : Housecam with clear soundboard audio. A significant step up above the usual housecam quality and it really shows off the production values.
 
 Moulin Rouge! - Pre-Broadway / Boston - August 19, 2018 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9479,7 +9479,7 @@ NOTES
 : HD capture of the final PreBroadway performance. A drunk woman's head blocks most of the left side and she does not sit still. This is far from perfect, but if you want a glimpse in the Moulin Rouge...the show is sensational! B
 
 Moulin Rouge! - Broadway - December, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -9494,7 +9494,7 @@ NOTES
 : Beautiful HD capture of the Original Broadway Cast. Starts after \"Welcome to the Moulin Rouge!\". Filmed in 16:9 with a mix of wides, mediums, and close-ups.
 
 Moulin Rouge! - Broadway - January, 2020 (Amber Ardolino) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -9512,7 +9512,7 @@ NOTES
 : Beautiful HD capture of the fabulous Amber Ardolino as Satine and Dylan Paul as the Duke. Filmed from the rear left orchestra with a mix of wides, mediums, and many close-ups.
 
 Moulin Rouge! - Broadway - January, 2020 (Ashley Loren)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -9529,7 +9529,7 @@ NOTES
 ### Specials
 
 Moulin Rouge (2001)
-{: .fw-500 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Film
 {: .label .label-green }
@@ -9570,7 +9570,7 @@ NOTES
 ## Murder Ballad
 
 Murder Ballad - Off-Broadway - July 13, 2013
-{: .fw-500 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9585,7 +9585,7 @@ NOTES
 : Excellent HD capture; performed in the round in a bar setting, so the action takes place all over the theater.
 
 Murder Ballad - West End - December 3, 2016 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p` `5.54 GB`
@@ -9596,7 +9596,7 @@ CAST
 ## My Fair Lady
 
 My Fair Lady - UK Tour - October 12, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -9611,7 +9611,7 @@ NOTES
 : Archival recording. Stunning touring production with a massive cast, fabulous set and costumes. Mostly close up and medium shots but there\'s a few amazing wide shots.
 
 My Fair Lady - Lincoln Center - March 9, 2007 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -9623,7 +9623,7 @@ NOTES
 : A presentation of The New York Philharmonic at Avery Fisher Hall in New York\'s Lincoln Center. Act 1 is well filmed with great close ups and clarity, but unfortunately due to technical issues, Act 2 is audio only (No video)
 
 My Fair Lady - Third Broadway Revival - April 14, 2018 (Matinee) (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -9635,7 +9635,7 @@ CAST
 : Lauren Ambrose (Eliza Doolittle), Harry Hadden-Paton (Henry Higgins), Allan Corduner (Colonel Pickering), Norbert Leo Butz (Alfred P. Doolittle), Jordan Donica (Freddy Eynsford-Hill), Diana Rigg (Mrs. Higgins), Linda Mugleston (Mrs. Pearce), Manu Narayan (Professor Zoltan Karpathy)
 
 My Fair Lady - Third Broadway Revival - January, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -9647,7 +9647,7 @@ CAST
 : Kerstin Anderson (u/s Eliza Doolittle), Harry Hadden-Paton (Henry Higgins), Allan Corduner (Colonel Pickering), Danny Burstein (Alfred P. Doolittle), Christian Dante White (Freddy Eynsford-Hill), Rosemary Harris (Mrs. Higgins), Linda Mugleston (Mrs. Pearce), Clarke Thorell (Professor Zoltan Karpathy)
 
 My Fair Lady - Third Broadway Revival - February, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -9664,7 +9664,7 @@ NOTES
 ## The Mystery of Edwin Drood
 
 The Mystery of Edwin Drood - Broadway - January 26, 1986
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -9673,7 +9673,7 @@ CAST
 : Betty Buckley (Edwin Drood/Miss Alice Nutting), Howard McGillin (John Jasper/Mr. Clive Paget), Cleo Laine (The Princess Puffer/Miss Angela Prysock), George Rose (Chairman/Mr. William Cartwright), Patti Cohenour (Rosa Bud/Miss Deirdre Peregrine), Donna Murphy (s/b Helena Landless/Miss Janet Conover), John Herrera (Neville Landless/Mr. Victor Grinstead), George N Martin (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Jerome Dempsey (Durdles/Mr. Nick Cricker), Joe Grifasi (Bazzard/Mr. Phillip Bax), Stephen Glavin (Deputy/Master Nick Cricker)
 
 The Mystery of Edwin Drood - Broadway Revival - October 23, 2012 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9685,7 +9685,7 @@ CAST
 : Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Betsy Wolfe (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andy Karl (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker), Nick Corley (Stage Manager and Barkeep/Mr. James Throttle)
 
 The Mystery of Edwin Drood - Broadway Revival - November 7, 2012 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9697,7 +9697,7 @@ CAST
 : Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Betsy Wolfe (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andy Karl (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker), Nick Corley (Stage Manager and Barkeep/Mr. James Throttle)
 
 The Mystery of Edwin Drood - Broadway Revival - March 10, 2013 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -9712,7 +9712,7 @@ NOTES
 : Final Broadway Performance. Excellent HD capture of the final show. The audience was full of fans of the show, so great energy and applause throughout. Three lovers were selected, including John Jasper. Touching final curtain speech by the Director and Rupert Holmes.
 
 The Mystery of Edwin Drood - Broadway Revival - March 10, 2013 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9730,7 +9730,7 @@ CAST
 ## Natasha, Pierre & The Great Comet of 1812
 
 Natasha, Pierre & The Great Comet of 1812 - Broadway - October 29, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9745,7 +9745,7 @@ NOTES
 : Nice HD capture of this immersive production that take place all over the theater. Everything is captured as best as can be done in this setting. A beautiful production with so many layers and phenomenal performances. A-
 
 Natasha, Pierre & The Great Comet of 1812 - Broadway - December 29, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -9761,7 +9761,7 @@ NOTES
 : Fantastic and powerful performances from the whole cast. This is as nicely captured as can be expected from this show. There are several set pieces that obstruct the view of the action in certain places. There are about fourteen minutes of blackouts: most of the first seven minutes of act one, one and a half minutes of The Private and Intimate Life of the House, one minute of The Ball, three minutes of Balaga, one minute of The Abduction, and a couple other quick dropouts. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Natasha, Pierre & The Great Comet of 1812 - Broadway - June 27, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9776,7 +9776,7 @@ NOTES
 : A Great HD capture of creator Dave Malloy stepping in for a limited run of shows. Beautiful performance from South Asian actress Shoba as Natasha. A few heads shot around in a couple of scenes downstage, but usually worked around when present. A-
 
 Natasha, Pierre & The Great Comet of 1812 - Broadway - August 13, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9793,7 +9793,7 @@ NOTES
 ## A New Brain
 
 A New Brain - Encores! Off-Center - June 24, 2015 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -9804,7 +9804,7 @@ CAST
 ## The New Yorkers
 
 The New Yorkers - New York City Center Encores! - March 26, 2017 (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -9821,7 +9821,7 @@ NOTES
 ## Newsies
 
 Newsies - Pre-Broadway / Paper Mill Playhouse - October, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `3.92 GB` `Original files`
@@ -9833,7 +9833,7 @@ NOTES
 : Filmed in 16:9 widescreen, almost no obstructions except for a head on the edge of the widest shots. Only very brief drop-outs for applause. Super fun for fans of the show to see the version before it came to Broadway. This is the only known full video of this pre-Broadway production. Yes, there is a typo in Andrew Keenan-Bolger's name in the video's cast list. Sorry. Audio fed in from external source, so the audio is nice and clear. Do not identify master or exact date.
 
 Newsies - Broadway - February 10, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Eleka Nahmen
 {: .label .label-blue }
@@ -9850,7 +9850,7 @@ NOTES
 ## Next to Normal
 
 Next to Normal - Off-Broadway / Second Stage - March 13, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 broadwayspunk
 {: .label .label-blue }
@@ -9865,7 +9865,7 @@ NOTES
 : This includes Alice's flip out in the beginning to replace all the Costco stuff. It was a fantastic show and an even better video than my previous 3/1/08 master. I shot it in a different style to showcase more of the stage (since you can only stare at someone's face for so long). Really emotional times in the theatre and you can hear sniffles in the camera. Recorded three days before the show was closed and rewritten. 
 
 Next to Normal - Pre-Broadway / Arena Stage - December 21, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9880,7 +9880,7 @@ NOTES
 : Excellent rare capture of the PreBroadway DC run. This is when the show finally found focus, took shape and fell into place. Such a remarkable and raw performance from Alice here. If you thought you have seen her best performance, think again! A
 
 Next to Normal - Broadway - April 10, 2009 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9895,7 +9895,7 @@ NOTES
 : Beautiful capture of the full original cast, from the orchestra. This hands down is the best capture of the original cast. This was done early in Alice's run, before she had strained her voice. Wonderful to revisit this show in all its glory! A+
 
 Next to Normal - Broadway - March 18, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -9912,7 +9912,7 @@ NOTES
 : Rating: A-
 
 Next to Normal - First National Tour - April 29, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9927,7 +9927,7 @@ NOTES
 : Beautiful capture with no obstructions. Sensational performance from Pearl as Diana. She is in my tops for actresses playing the role. Great tenderness and vulnerability with a strong big voice! Don\'t miss this one! A
 
 Next to Normal - First National Tour - May 8, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9942,7 +9942,7 @@ NOTES
 : This video is filmed from the center of the theater and has many mid-stage shots (with no spotlight washout at all), so many times it feels like watching a pro-shot. Plus, there are many close-ups when necessary. Overall, a great video, especially for those who are not familiar with the show.
 
 Next to Normal - Pioneer Theatre Company, Salt Lake City UT - October 1, 2011 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -9958,7 +9958,7 @@ NOTES
 : Overall, a very solid cast and excellent performances all-around. Judy McLane especially stood out as Diana, as did Jonathan Rayson as Dan. One of my favorite Diana/Dan combinations I've seen. Absolutely genuine and powerful acting from those two, which is pretty amazing considering the show's run was only three weeks long. They made very good use of some new staging and a new set, bringing out some new nuances to the show. Some elements I thought were essential to the Broadway/tour productions were missing, but it's nothing too drastic. There were also some very minor script changes that were interesting. Everyone (perhaps because it was the closing show) was giving 110% and was on fire.
 
 Next to Normal - Arizona Theatre Company/San Jose Repertory Theatre - January 29, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -9973,7 +9973,7 @@ NOTES
 : Kendra Kassebaum was such a phenomenal Diana - her acting was out of this world! Shot in 16:9 widescreen, a tad dark in some low-light scenes, but no obstructions at all. One brief blackout for the first minute of \"Why Stay?\" when a battery change was necessary. But also included (at the end of the DVD) is a clip of \"Why Stay?\" shot in its entirety from 2 days prior to make up for that. Quick drop-outs for applause. Also, the angle where my seat was weird, so there\'s slight tilt in the video. Audio fed in from external source, so the audio is nice and clear.
 
 Next to Normal - Fürth, Germany - November 2, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 musicalwasmyfirstlove
 {: .label .label-blue }
@@ -9988,7 +9988,7 @@ NOTES
 : Missing the first 10 minutes of Act 2 ("Wish I Were Here" / "Wär ich nur da") A great quality recording of the German version of "Next to Normal" retitled "Fast Normal" (Almost Normal). The cast is wondeful and got a standing ovation that lasted a couple of minutes.
 
 Next to Normal - TheaterWorks Hartford - 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10003,7 +10003,7 @@ NOTES
 : Beautiful multicam proshot archive for theatre. Rebroadcast in 2020 during quarantine, introduction and watermark at bottom of screen. Really, a very nice, beautiful video.
 
 Next to Normal - Dresden, Germany - April, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -10015,7 +10015,7 @@ CAST
 : Pia Douwes (Diana), Felix Martin (Dan), Dirk Johnston (Gabe), Sabrina Weckerlin (Natalie), Dominik Hees (Henry), Ramin Dustdar (Dr. Fine/Dr. Madden) 
 
 Next to Normal - Syracuse, NY - February, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -10032,7 +10032,7 @@ NOTES
 ## Nine
 
 Nine - Broadway Revival - March, 2003 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -10047,7 +10047,7 @@ NOTES
 : 45 minutes of beautiful pro-shot material.
 
 Nine - Broadway Revival - April, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.87 GB`
@@ -10058,7 +10058,7 @@ CAST
 ## Notre-Dame de Paris
 
 Notre-Dame de Paris - Paris, France - 1998
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10076,7 +10076,7 @@ CAST
 ## October Sky
 
 October Sky - San Diego - October 2, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -10093,7 +10093,7 @@ NOTES
 ## The Office: a Musical Parody
 
 The Office: a Musical Parody - Off-Broadway - December 23, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MOV `1080p` `7.19 GB`
@@ -10107,7 +10107,7 @@ NOTES
 ## Oklahoma!
 
 Oklahoma! - Pre-Broadway Tour - 1979
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10122,7 +10122,7 @@ NOTES
 : RARE FIND! Amazingly good quality for a video of this age, with only minimal generational loss. This video was probably made for a cast member, or maybe for media use at it was filmed from a tripod, with sound patched in directly from the sound board. (It\'s great to see Christine Ebersol as Ado Annie.) A- Sometimes listed as BROADWAY with Harry Groener (Will Parker)
 
 Oklahoma! - National Theatre / West End Revival - 1999
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10137,7 +10137,7 @@ NOTES
 : National theatre production starring Hugh Jackma
 
 Oklahoma! - Fourth Broadway Revival - February 25, 2002 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.81 GB`
@@ -10146,7 +10146,7 @@ CAST
 : Patrick Wilson (Curly McLain), Josefina Gabrielle (Laurey Williams), Andrea Martin (Aunt Eller), Justin Bohon (Will Parker), Shuler Hensley (Jud Fry), Jessica Boevers (Ado Annie), Aasif Mandvi (Ali Hakim), Mia Price (Gertie Cummings), Michael McCarthy (Andrew Carnes)n. Mostly filmed in a studio with partial scenes filmed at the Olivier stage.
 
 Oklahoma! - BBC Proms - August 11, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10161,7 +10161,7 @@ NOTES
 : ProShot television broadcast
 
 Oklahoma! - Broadway Revival - October 23, 2019 (Matinee) \| Musain
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `13.18 GB`
@@ -10175,7 +10175,7 @@ NOTES
 ## Oliver!
 
 Oliver! - Broadway - 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.46 GB`
@@ -10186,7 +10186,7 @@ CAST
 ## On a Clear Day You Can See Forever 
 
 On a Clear Day You Can See Forever - Broadway Revival - November 12, 2011 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -10203,7 +10203,7 @@ NOTES
 ## On the Town
 
 On the Town - Third Broadway Revival - October 1, 2014 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -10220,7 +10220,7 @@ NOTES
 ## On The Twentieth Century
 
 On The Twentieth Century - Broadway Revival - February 21, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -10238,7 +10238,7 @@ NOTES
 ## Once On This Island
 
 Once On This Island - Broadway Revival - July, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -10255,7 +10255,7 @@ NOTES
 ## Once Upon A Mattress
 
 Once Upon A Mattress - Broadway - 1964
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10272,7 +10272,7 @@ NOTES
 ## Oslo
 
 Oslo - Broadway - July 15, 2017 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -10290,7 +10290,7 @@ NOTES
 ## The Pajama Game
 
 The Pajama Game - Broadway (2006 Revival) - February 18, 2006 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -10304,7 +10304,7 @@ NOTES
 ## Parade
 
 Parade - Avery Fisher Hall, Lincoln Center - February 16, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -10321,7 +10321,7 @@ NOTES
 ## Passion
 
 Passion - Broadway - August 3, 1994
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10336,7 +10336,7 @@ NOTES
 : Videotaped for the Lincoln Centre Archives on Film and Tape Archive. Multi-camera Pro-shot. This is only the third video that has been leaked from the library of Broadway shows from the Lincoln Center Archives (the other two are A Chorus Line and Crazy for You). Warning: contains nudity.
 
 Passion - Broadway - January 16–18, 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10350,7 +10350,7 @@ NOTES
 : Pro-Shot filmed just after closing for American Playhouse on PBS.
 
 Passion - Netherlands - 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10366,7 +10366,7 @@ CAST
 : Vera Mann (Fosca), Stanley Burleson (Giorgio), Pia Douwes (Clara)
 
 Passion - Lincoln Center - March 31, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10388,7 +10388,7 @@ NOTES
 ### Sydmonton Festival
 
 The Phantom of the Opera - Sydmonton Festival - July, 1985
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10405,7 +10405,7 @@ NOTES
 ### West End
 
 The Phantom of the Opera - West End - March 27, 1987 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.88 GB`
@@ -10417,7 +10417,7 @@ NOTES
 : Highlights. \'All I Ask of You\' is audio only with still pictures; video ends at \'Notes II\'. Extremely difficult to make out anything other than the figures of people; black-and-white image and very heavy generation loss. Also includes some concert performances and news clips from the Broadway and Los Angeles productions.
 
 The Phantom of the Opera - West End - 1988 (2)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.95 GB`
@@ -10429,7 +10429,7 @@ NOTES
 : There\'s a lot of generation loss and tons of washout and color bleeding. Often labeled as having Michael Ball as Raoul, but it\'s Michael Cormick. Dave Willetts and Jan Hartley-Morris are both very lovely, old school actors.
 
 The Phantom of the Opera - West End - February 26, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `6.68 GB`
@@ -10441,7 +10441,7 @@ NOTES
 : John Owen Jones last show before his return in 2010. Filmed from the stalls, a lot of close ups, especially of Rachel Barrell
 
 The Phantom of the Opera - West End - January, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `5.95 GB`
@@ -10450,7 +10450,7 @@ CAST
 : Earl Carpenter (The Phantom of the Opera), Rachel Barrell (Christine Daaé), David Shannon (Raoul), Wendy Ferguson (Carlotta Giudicelli), David Lawrence (u/s Monsieur Firmin), Sam Hiller (Monsieur André), Emily Harvey (u/s Madame Giry), Rohan Tickell (Ubaldo Piangi), Heidi Ann O\'Brien (Meg Giry)
 
 The Phantom of the Opera - West End - February 25, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `7.46 GB`
@@ -10462,7 +10462,7 @@ NOTES
 : Gorgeous crystal clear picture, beautifully filmed in widescreen from the front of the circle so there are no obstructions or heads in the way.
 
 The Phantom of the Opera - West End - September 9, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `6.22 GB` `No DVD menu`
@@ -10474,7 +10474,7 @@ NOTES
 : Gina, Simon, Kate and Tori\'s first show.
 
 The Phantom of the Opera - West End - December, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -10489,7 +10489,7 @@ NOTES
 : Lots of blackouts, safety rail in the way as well as a head at times \|\| A bit of shakiness
 
 The Phantom of the Opera - West End - April, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -10504,7 +10504,7 @@ NOTES
 : Shot around heads and lighting equipment.
 
 The Phantom of the Opera - West End - November, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -10521,7 +10521,7 @@ NOTES
 ### Broadway
 
 The Phantom of the Opera - Broadway - 1987 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.25 GB`
@@ -10533,7 +10533,7 @@ NOTES
 : Rehearsal footage from a documentary. About 40 minutes long.
 
 The Phantom of the Opera - Broadway - February 28, 1988 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.66 GB`
@@ -10545,7 +10545,7 @@ NOTES
 : About an hour and a half of the show, missing a bunch of the beginning of act 2, which starts in the middle of Don Juan. Clear video for its age.
 
 The Phantom of the Opera - Broadway - April, 1988
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.15 GB`
@@ -10558,7 +10558,7 @@ NOTES
 : Starts partway through \'Overture\'. Color bleeding, washout, generation loss, and several unimportant scenes (\'Prologue\', \'Magical Lasso\', etc.) are cut out, but nevertheless a video of the original cast on Broadway.
 
 The Phantom of the Opera - Broadway - October 8, 1988
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.21 GB`
@@ -10570,7 +10570,7 @@ NOTES
 : Act 1 starts partway through Auctioneer\'s speech; Act 2 midway through \'Masquerade\'. Includes a clip of Michael Crawford\'s bows for his last show on Broadway, shot from a different angle and possibly taken from another source. The DVD menu has Christine labeled as Patti Cohenour, but it's actually Dale Kristien.
 
 The Phantom of the Opera - Broadway - 1989
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.23 GB`
@@ -10582,7 +10582,7 @@ NOTES
 : Almost black-and-white video with constant flickering lines. Dark and tons of generation loss and washout
 
 The Phantom of the Opera - Broadway - July 31, 2002 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.72 GB`
@@ -10591,7 +10591,7 @@ CAST
 : Howard McGillin (The Phantom of the Opera), Elizabeth Southard (Christine Daaé), Michael Shawn Lewis (Raoul), Wren Marie Harrington (u/s Carlotta Giudicelli), Jeff Keller (Monsieur Firmin), George Lee Andrews (Monsieur André), Marilyn Caskey (Madame Giry), Larry Wayne Morbitt (Ubaldo Piangi)
 
 The Phantom of the Opera - Broadway - May 20, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -10606,7 +10606,7 @@ NOTES
 : Decent picture and quality but with some washout in some shots. Hugh and Lisa have been said to have the best chemistry together.
 
 The Phantom of the Opera - Broadway - October 7, 2003
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -10624,7 +10624,7 @@ NOTES
 : Amazing quality video for its time and also early Hugh run!
 
 The Phantom of the Opera - Broadway - March 2, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -10642,7 +10642,7 @@ NOTES
 : Great quality video but the filmer seemed to lack in knowledge of the show so wideshots are more than usual. Amazing trio, but Hugh is a little less stronger this night
 
 The Phantom of the Opera - Broadway - October 1, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `FAULTY`
@@ -10657,7 +10657,7 @@ NOTES
 : Hugh\'s last night performing and Sandra gives a very sweet speech. Hugh Panaro\'s last performance at the time, includes curtain call and speeches at the end. Beautiful, clear picture with great detail and quality, and the entire cast was on fire.
 
 The Phantom of the Opera - Broadway - May 9, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -10675,7 +10675,7 @@ NOTES
 : A gorgeous video and the filmer knows the show very well. Includes a flub where Buquet fails to appear in time for Magical Lasso so Meg Giry gets in touch with her Leroux roots
 
 The Phantom of the Opera - Broadway - October 13, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -10687,7 +10687,7 @@ CAST
 : Hugh Panaro (The Phantom of the Opera), Trista Moldovan (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Kevin Ligon (Monsieur Firmin), Aaron Galligan-Stierle (Monsieur André), Cristin Hubbard (Madame Giry), Christian Sebek (Ubaldo Piangi), Joelle Gates (Meg Giry)
 
 The Phantom of the Opera - Broadway - November 22, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -10699,7 +10699,7 @@ CAST
 : Hugh Panaro (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Jim Weitzer (Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
 
 The Phantom of the Opera - Broadway - April 27, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 inallyourfantasies
 {: .label .label-blue }
@@ -10714,7 +10714,7 @@ CAST
 : Hugh Panaro (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Richard Poole (u/s Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
 
 The Phantom of the Opera - Broadway - May 9, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 inallyourfantasies
 {: .label .label-blue }
@@ -10726,7 +10726,7 @@ CAST
 : Peter Jöback (The Phantom of the Opera), Elizabeth Welch (u/s Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Richard Poole (u/s Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
 
 The Phantom of the Opera - Broadway - May 18, 2013 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 inallyourfantasies
 {: .label .label-blue }
@@ -10738,7 +10738,7 @@ CAST
 : Peter Jöback (The Phantom of the Opera), Samantha Hill (Christine Daaé), Jeremy Stolle (u/s Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Richard Poole (u/s Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
 
 The Phantom of the Opera - Broadway - July 27, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 inallyourfantasies
 {: .label .label-blue }
@@ -10750,7 +10750,7 @@ CAST
 : Peter Jöback (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Kenneth Kantor (u/s Monsieur Firmin), Jim Weitzer (Monsieur André), Marilyn Caskey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry), Richard Poole (Joseph Buquet), Greg Mills (Auctioneer), Justin Peck (Slave Master), Kelly Jeanne Grant (Page), Greg Mills (Monsieur Reyer), Scott Mikita (Monsieur Lefèvre), David Michael Garry (Don Attilio), Jeremy Stolle (Passarino), Greg Mills (Hairdresser), Nathan Patrick Morgan (Jeweller), Satomi Hoffman (Wardrobe Mistress), Andrew Drost (Porter), Elizabeth Welch (Princess), Sarah Bakker (Madame Firmin)
 
 The Phantom of the Opera - Broadway - March 6, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Turnofthescorpion
 {: .label .label-blue }
@@ -10768,7 +10768,7 @@ NOTES
 : Great quality! There\'s a lot of shakiness and head obstruction, though, and the occasional short blackout.
 
 The Phantom of the Opera - Broadway - May 12, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 inallyourfantasies
 {: .label .label-blue }
@@ -10786,7 +10786,7 @@ NOTES
 : First show for Norm Lewis and Sierra Boggess. There are two masters (joint masters) for this video: inallyourfantasies and turnofthescorpion
 
 The Phantom of the Opera - Broadway - September, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -10800,7 +10800,7 @@ CAST
 ### First National Tour (Christine)
 
 The Phantom of the Opera - First National Tour - 1989
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.02 GB`
@@ -10814,7 +10814,7 @@ NOTES
 ### Stuttgart
 
 The Phantom of the Opera - Stuttgart - November 16, 2002 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -10829,7 +10829,7 @@ NOTES
 : Monitor video.
 
 The Phantom of the Opera - Stuttgart - 2003 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -10846,7 +10846,7 @@ NOTES
 ### Brazil
 
 The Phantom of the Opera - São Paulo - 2005 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -10863,7 +10863,7 @@ NOTES
 ### Las Vegas
 
 The Phantom of the Opera - Las Vegas - August 8, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -10880,7 +10880,7 @@ NOTES
 ### Third National Tour (Music Box)
 
 The Phantom of the Opera - Third National Tour - January 5, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -10898,7 +10898,7 @@ NOTES
 : First act starts during the Overture.
 
 The Phantom of the Opera - Third National Tour - April 6, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 musicinthestars
 {: .label .label-blue }
@@ -10915,7 +10915,7 @@ NOTES
 ### 25th Anniversary - Live At The Royal Albert Hall
 
 The Phantom of the Opera - 25th Anniversary - Live At The Royal Albert Hall - October 2, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10933,7 +10933,7 @@ NOTES
 ### Fourth National Tour
 
 The Phantom of the Opera - Fourth National Tour - July 27, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -10948,7 +10948,7 @@ NOTES
 : Beautiful HD capture with no obstructions. Grace does a terrific job as the alternate Christine and has wonderful voice. Lindsay as Carlotta has one of the highest singing voices I have ever heard in the role!
 
 The Phantom of the Opera - Fourth National Tour - November 16, 2016 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 kradder32
 {: .label .label-blue }
@@ -10962,7 +10962,7 @@ CAST
 ## The Phantom of the Opera on Ice
 
 The Phantom of the Opera on Ice - England - 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10976,7 +10976,7 @@ CAST
 ## Phantom: The Untold Story
 
 Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -10991,7 +10991,7 @@ CAST
 : Yoshiki Yamamoto (Erik) & Sort Cast
 
 Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11006,7 +11006,7 @@ CAST
 : Yusuke Hayashi (Erik) & Destin Cast
  
 Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11021,7 +11021,7 @@ CAST
 : Hiroo Kasahara (Erik), Hirokazu Sekido (Christine) & Avenir Cast
 
 Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11036,7 +11036,7 @@ CAST
 : Yoshiki Yamamoto (Erik), Shinya Matsumoto (Christine) & Espoir Cast
 
 Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11048,7 +11048,7 @@ CAST
 : Auber Cast
  
 Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11060,7 +11060,7 @@ CAST
 : Gluck Cast
 
 Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11072,7 +11072,7 @@ CAST
 : Halevy Cast
  
 Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11086,7 +11086,7 @@ CAST
 ## Pipe Dream
 
 Pipe Dream - Encores! - March 28, 2012 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11103,7 +11103,7 @@ NOTES
 ## Pippin
 
 Pippin - Hamilton, Ontario - 1981
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11119,7 +11119,7 @@ NOTES
 : Final TV broadcast and video version. Cuts around 20 mins from the Fosse cut due to time constraints (\~1hr 50mins).
 
 Pippin - Hamilton, Ontario - 1981 (Director's Cut)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11134,7 +11134,7 @@ NOTES
 : FOSSE CUT. Different (and longer) than the eventual TV broadcast with different angles and takes. Bob Fosse\'s master which he edited and returned back to the producers. Ultimately his cut was not used and he was apparently unhappy with the finished version. Generation loss and counter numbers at the bottom of the screen. Staged by Fosse's associate Kathryn Doby, based on his original Broadway staging. FIlmed in Hamilton, Ontario, Canada.
 
 Pippin - World AIDS Day Benefit Concert - November 29, 2004
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.14 GB`
@@ -11152,7 +11152,7 @@ NOTES
 The Pirate Queen - Broadway - March 24, 2007 (Preview) `1 Disc, complete files`
 
 The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11167,7 +11167,7 @@ NOTES
 : Pro-shot copy, filmed with multiple cameras. Made presumably for archival purposes. Includes the documentary \"The Making of The Pirate Queen\".
 
 The Pirate Queen - Pre-Broadway / Chicago - October 8, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11176,7 +11176,7 @@ CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
 
 The Pirate Queen - Pre-Broadway / Chicago - October 11, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11185,7 +11185,7 @@ CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
 
 The Pirate Queen - Broadway - March 24, 2007 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -11200,7 +11200,7 @@ CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
 
 The Pirate Queen - Broadway - April 11, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11209,7 +11209,7 @@ CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
 
 The Pirate Queen - Broadway - April 13, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11226,7 +11226,7 @@ NOTES
 ## Pretty Woman: The Musical
 
 Pretty Woman - Pre-Broadway / Chicago - April 13, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11241,7 +11241,7 @@ NOTES
 : Beautiful HD capture of the PreBroadway production. This includes Steve as Edward before he left the production prior to Broadway. Such a fun show with terrific performances and a rare glimpse of Steve in the role! A
 
 Pretty Woman - Broadway - July, 2018 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -11256,7 +11256,7 @@ NOTES
 : (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts or obstructions. More spotlight washout than the Feb 2019 recording by the same master, but it\'s very minimal. Filmed at slight angle and with more closeups compared to the other recording. Very good capture of the actors\' expressions. Both are worth watching.
 
 Pretty Woman - Broadway - February, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -11271,7 +11271,7 @@ NOTES
 : (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts, obstructions and spotlight washout. Filmed more centre than the preview recording by the same master; mix of wides, mediums and some closeups; very good capture of the sets and actor choreography. Both are worth watching.
 
 Pretty Woman - Hamburg - September 25, 2019 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -11285,7 +11285,7 @@ CAST
 ## Pride and Prejudice: A New Musical
 
 Pride and Prejudice: A New Musical - TheatreWorks Silicon Valley- 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11302,7 +11302,7 @@ NOTES
 ## The Prince of Egypt
 
 The Prince of Egypt - West End - February, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -11314,7 +11314,7 @@ CAST
 : Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved), Iman Pabani (Young Miriam/Leah/Young Hebrew Girl), Leo Babet (Young Aaron/Young Egyptian Boy/Young Midian Boy)
 
 The Prince of Egypt - West End - March 5, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 BwaytoWestEnd
 {: .label .label-blue }
@@ -11328,7 +11328,7 @@ CAST
 ## Priscilla, Queen of the Desert
 
 Priscilla, Queen of the Desert - Broadway - March 6, 2011 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11343,7 +11343,7 @@ NOTES
 : Great to finally see this show arrive on Broadway. Great capture of this fun show with a very talented cast. The changes with the added Madonna songs are very nice. A-
 
 Priscilla, Queen of the Desert - First National Tour - January 4, 2013 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11360,7 +11360,7 @@ NOTES
 ## The Producers
 
 The Producers - Plays In The Park - 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11377,7 +11377,7 @@ NOTES
 ## The Prom
 
 The Prom - Broadway - February, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -11392,7 +11392,7 @@ NOTES
 : Excellent capture! Josh mistakenly mentions Alyssa in \'Tonight Belongs to You\' despite not being meant to know her name at this point. The last three minutes of the show are from a different performance, during previews, with Brooks Ashmanskas as Barry and Josh Lamon as Sheldon, but it is a full video in total.
 
 The Prom - Broadway - March, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -11409,7 +11409,7 @@ NOTES
 ## Promises, Promises
 
 Promises, Promises - Broadway Revival - April 1, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -11427,7 +11427,7 @@ NOTES
 : Good picture and sound with nice closeups and wide shots for the dancing; nice video. A-
 
 Promises, Promises - Broadway Revival - September 22, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -11445,7 +11445,7 @@ NOTES
 ## Putting it Together
 
 Putting it Together - Off-Broadway - March, 1993 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -11461,7 +11461,7 @@ NOTES
 : An even better version has been shared by aurora spiderwoman: <https://youtu.be/DgzFncSip5I>
 
 Putting it Together - Broadway - February 20, 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11479,7 +11479,7 @@ CAST
 ## Ragtime
 
 Ragtime - Broadway - December 29, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.76 GB`
@@ -11491,7 +11491,7 @@ NOTES
 : VHS to DVD transfer done by Master for clearest picture and sound. Includes commercials and reviews.
 
 Ragtime - Paper Mill Playhouse - July 16, 2005 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11505,7 +11505,7 @@ NOTES
 ## Ratatouille
 
 Ratatouille: The Tiktok Musical - TodayTix Livestream - January 1, 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11522,7 +11522,7 @@ CAST
 ## Rebecca das Musical
 
 Rebecca - Seoul, South Korea - January 29, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 VLT 3:1
 {: .label .label-purple }
@@ -11536,7 +11536,7 @@ CAST
 ## RENT
 
 RENT - Broadway - April 24, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11551,7 +11551,7 @@ NOTES
 : The original Broadway cast of Rent reunites for Rent 10, a one night-only, benefit concert version of the show to mark the 10th anniversary of Jonathan Larson\'s landmark musical. Includes intro speeches by Allan Gordon, Mayor Bloomberg, Senator Schumer. Beautifully shot, amazingly clear video. An enthusiastic audience and a few flubs by the cast makes this video even more fun. A
 
 RENT - Broadway - February 21, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11560,7 +11560,7 @@ CAST
 : Harley Jay (Mark Cohen), Jay Wilkison (u/s Roger Davis), Tamyra Gray (Mimi Márquez), Justin Johnston (Angel Dumott Schunard), Michael McElroy (Tom Collins), Nicolette Hart (Maureen Johnson), Kenna J Ramsey (Joanne Jefferson), Rodney Hicks (Benjamin Coffin III), Andrea Goss (Alexi Darling and others), Caren Lyn Manuel (Mark's mom and others), Peter Matthew Smith (u/s Gordon/Mr. Grey), Marcus Paul James (Mr. Jefferson/Soloist #2 and others), Maia Nkenge Wilson (Mrs. Jefferson/Soloist #1 and others), Shaun Earl (Paul and others), Andy Señor Jr (Steve and others)
 
 RENT - Broadway - September 7, 2008 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11575,7 +11575,7 @@ NOTES
 : Filmed on 08/20/08 and 09/07/08. Released on DVD as \"RENT: Filmed Live On Broadway\" on 02/03/09. <https://www.imdb.com/title/tt1273675/>
 
 RENT - Mark Tour - March 14, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -11587,7 +11587,7 @@ CAST
 : Anthony Rapp (Mark Cohen), Adam Pascal (Roger Davis), Lexi Lawson (Mimi Márquez), Justin Johnston (Angel Dumott Schunard), Michael McElroy (Tom Collins), Nicolette Hart (Maureen Johnson), Haneefah Wood (Joanne Jefferson), Jacques C Smith (Benjamin Coffin III), Yuka Takara (Alexi Darling and others), Adam Halpin (Gordon/Mr. Grey), John Watson (Mr. Jefferson/Soloist \#2 and others), Trisha Jeffrey (u/s Mrs. Jefferson/Soloist \#1 and others), Telly Leung (Steve and others)
 
 RENT - Hollywood Bowl - August 6, 2010 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -11602,7 +11602,7 @@ NOTES
 : Nicely filmed with a good mix of wide shots and close ups. Wayne Brady and Telly Leung have wonderful chemistry together.
 
 RENT - FOX Live Special - January 27, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11617,7 +11617,7 @@ NOTES
 : The show is prerecorded up until the last 10 minutes because Brennin Hunt (Roger Davis) hurt his foot. He is seen in his cast during the last 10 minutes. The original cast comes out at the end to sing Seasons of Love again! <https://www.imdb.com/title/tt6881910/>
 
 25 Years of Rent: Measured in Love - NYTW Livestream - March 2, 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11634,7 +11634,7 @@ NOTES
 ## The Rocky Horror Show
 
 The Rocky Horror Show - Let\'s Do The Time Warp Again! - October 20, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11651,7 +11651,7 @@ NOTES
 ## Roméo et Juliette (Gérard Presgurvic)
 
 Roméo & Juliette: de la Haine à l'Amour (Presgurvic) - Palais des Congrès, Paris - July 12-13, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11666,7 +11666,7 @@ NOTES
 : Commercial DVD released in Korea
 
 Rómeó és Júlia (Gérard Presgurvic) - Szeged, Hungary - August 19, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11681,7 +11681,7 @@ NOTES
 : Official pro-shot DVD release with extras and booklet scans. The menu has been edited to include Russian labels and optional Russian subtitles. Unfortunately, there are no English subtitles on the DVD. However, an English fan-subbed version is up on Youtube: [Act 1](https://www.youtube.com/watch?v=ikESnkpQBR8) • [Act 2](https://www.youtube.com/watch?v=iI3SsWQcwW0)
 
 Roméo et Juliette (Gérard Presgurvic) - Vienna, Austria - 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11696,7 +11696,7 @@ NOTES
 : Pro-shot DVD (ISO) including extras and making of documentary.
 
 Roméo et Juliette - Paris, France - 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -11724,7 +11724,7 @@ Read more about the show's interesting history and the difference between each v
 ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `March 9, 1999`, `May 30, 1999 (Highlights)`.
 
 The Scarlet Pimpernel - Broadway - October, 1997 (SP1)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `4.97 GB`
@@ -11733,7 +11733,7 @@ CAST
 : Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
 
 The Scarlet Pimpernel - Broadway - February, 1998 (SP1)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.59 GB`
@@ -11742,7 +11742,7 @@ CAST
 : Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
 
 The Scarlet Pimpernel - Broadway - May 8, 1999 (SP2)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.99 GB`
@@ -11751,7 +11751,7 @@ CAST
 : Douglas Sills (Sir Percy Blakeney), Rachel York (Marguerite St. Just), Rex Smith (Chauvelin)
 
 The Scarlet Pimpernel - Broadway - May 29 and 30, 1999 (SP2)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `5.43 GB`
@@ -11763,7 +11763,7 @@ NOTES
 : Mainly the 29th, but \"The Riddle\" and the curtain call from the 30th are spliced in nicely; also has highlights footage from the 30th (Closing Night)
 
 The Scarlet Pimpernel - Broadway - October 9, 1999 (SP3)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.16 GB`
@@ -11775,7 +11775,7 @@ NOTES
 : Well-shot video with some spotlight washout on the wider shots, but otherwise nice. Transferred from VHS and has a counter at the lower right corner.
 
 The Scarlet Pimpernel - First National Tour - March 4, 2000 (SP4)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Major
 {: .label .label-blue }
@@ -11787,7 +11787,7 @@ CAST
 : Douglas Sills (Sir Percy Blakeney), Amy Bodnar (Marguerite St. Just), William Michals (Chauvelin)
 
 The Scarlet Pimpernel - Riverside, CA - September, 2001 (SP4)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -11802,7 +11802,7 @@ NOTES
 : Directed and choreographed by Grant Rosen (SP4 National Tour swing). Features sets and costumes from the Equity National Tour. Some generational loss and occasional audio “buzz“ due to over-copying, but still a great recording.
 
 The Scarlet Pimpernel - Overland Park - June 27, 2002 (SP4)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11811,7 +11811,7 @@ CAST
 : Ron Bohmer (Sir Percy Blakeney), Sandra Joseph (Marguerite St. Just), Tim Noland (Chauvelin), Lori Blalock (Marie Gosholtz)
 
  The Scarlet Pimpernel - Edison, NJ - 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Multi-Cam Pro-Shot
 {: .label .label-green }
@@ -11826,7 +11826,7 @@ NOTES
 : Plays in the Park
 
 The Scarlet Pimpernel - Baden, Germany - 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Multi-Cam Pro-Shot
 {: .label .label-green }
@@ -11838,7 +11838,7 @@ CAST
 : Darius Merstein-MacLeod (Sir Percy Blackeney), Maricel Wölk (Marguerite St. Just), Christopher Murray (Chauvelin), Zoltan Tombor (Armand St. Just), Christa Ertl, Dessislava Valeva-Philipova, Franz Födinger, Alois Haselbacher, Robert Herzl, Jan Hutter, Sam Madwar, Franz Josef Koepp, Klaus Ofczarek, Robert Sadil, Dietmar Seidner, Stephan Wapenhans, Christian Zmek
 
  The Scarlet Pimpernel - Takarazuka, Japan - 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Multi-Cam Pro-Shot
 {: .label .label-green }
@@ -11853,7 +11853,7 @@ NOTES
 : Monn Troupe
 
  The Scarlet Pimpernel - Bielefeld, Germany - March 28, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11864,7 +11864,7 @@ CAST
 ## School of Rock
 
 School of Rock - Broadway - November 11, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11879,7 +11879,7 @@ NOTES
 : Great HD capture of this great new ALW show. There is a 5 minute blackout during the scene after the opening song, due to late seating issues. The cast is phenomenal and Alex gives a sensational performance. High energy show with great songs and is so much fun! The last 11 minutes (which is the finale) ARE here, but from a different performance as someone was taking \*multiple\* flash pictures with their iphone in the row and was scolded and babysat those 11 minutes. A-
 
 School of Rock - Broadway - December 30, 2015 (Matinee) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -11896,7 +11896,7 @@ NOTES
 ## The Secret Garden
 
 The Secret Garden - World AIDS Day Concert - December 5, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.18 GB`
@@ -11905,7 +11905,7 @@ CAST
 : Jaclyn Neidenthal (Mary Lennox), Steven Pasquale (Archibald Craven), Laura Benanti (Lily Craven), Will Chase (Dr. Neville Craven), Celia Keenan-Bolger (Martha), Michael Arden (Dickon), Struan Erlenborn (Colin Craven), David Canary (Ben Weatherstaff), Sara Gettelfinger (Rose), Max von Essen (Captain Albert Lennox), Deborah S Craig (Mrs. Winthrop/Alice), Matt Cavenaugh (Lieutenant Ian Shaw), Jenny Powers (Claire), Nehal Joshi (Fakir), Reshma Shetty (Ayah), Barbara Rosenblat (Mrs. Medlock), Benjamin Magnuson (Major Holmes), Shonn Wiley (Lieutenant Peter Wright)
 
 The Secret Garden - Lincoln Center - February 21, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -11919,7 +11919,7 @@ CAST
 ## Seussical
 
 Seussical - Pre-Broadway / Boston - August 27, 2000 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11934,7 +11934,7 @@ NOTES
 : First preview and world premiere of the show. Very different from the Broadway production and includes the cut Lorax sequence in the second act
 
 Seussical - Broadway - 2000 (Highlights) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Press Reel 
 {: .label .label-green }
@@ -11946,7 +11946,7 @@ CAST
 : David Shiner (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Anthony Blair Hall (Jojo), Janine LaManna (Gertrude McFuzz), Michele Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo), Erick Devine (The Mayor)
 
 Seussical - Broadway - November 10, 2000
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11955,7 +11955,7 @@ CAST
 : David Shiner (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Anthony Blair Hall (Jojo), Janine LaManna (Gertrude McFuzz), Michele Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo), Erick Devine (The Mayor)
 
 Seussical - Broadway - May 20, 2001 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11969,7 +11969,7 @@ NOTES
 ## She Loves Me
 
 She Loves Me - First Broadway Revival - 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.58 GB`
@@ -11978,7 +11978,7 @@ CAST
 : Diane Fratantoni (Amalia Balash), Boyd Gaines (Georg Nowack), Sally Mayes (Ilona Ritter), Howard McGillin (Steven Kodaly), Lee Wilkof (Ladislav Sipos), Jonathan Freeman (Headwaiter)
 
 She Loves Me - Second Broadway Revival - February 23, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -11987,7 +11987,7 @@ CAST
 : Laura Benanti (Amalia Balash), Zachary Levi (Georg Nowack), Byron Jennings (Mr. Maraczek), Jane Krakowski (Ilona Ritter), Gavin Creel (Steven Kodaly), Michael McGrath (Ladislav Sipos), Nicholas Barasch (Arpad Laszlo), Peter Bartlett (Headwaiter)
 
 She Loves Me - Second Broadway Revival - February 24, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12002,7 +12002,7 @@ NOTES
 : Excellent HD capture of the highly reviewed revival. This is a great cast and they are giving terrific performances.
 
 She Loves Me - Second Broadway Revival - June 16, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -12017,7 +12017,7 @@ NOTES
 : A gorgeous production of this rarely produced classic, and each of the cast is absolutely perfect in their roles. There is a hilarious little blooper when Jane opens the champagne and it bubbles over, spilling onto the floor. Perfectly captured with no blackouts, no obstruction, and just some slight washout in a few wide shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, encore, and playbill scans.
 
 She Loves Me - Second Broadway Revival - June 30, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12034,7 +12034,7 @@ NOTES
 ## Six
 
 Six - West End - April, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -12049,7 +12049,7 @@ NOTES
 : What is captured is good quality, but it is quite obstructed. The camera aimed high, a few drop outs and there is a safety rail/lighting rail in the way. Includes finale Megasix (MOV).
 
 Six - Norwegian Bliss - September 4, 2019 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -12064,7 +12064,7 @@ NOTES
 : Video ends mid-way through \"Six\". It\'s a bit grainy and there is minimal spotlight washout but definitely watchable. Audio is perfectly clear. From the first tech run through, with no audience. Hazel had lost her voice, so she did the choreography while the audio was provided by Bryony Duncan backstage. The cast is amazing and at the top of their game. In 2 MP4 files (7.91 GB/1:06:54).
 
 Six - Pre-Broadway Tour - December 1, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 myroadofgoodintentions
 {: .label .label-blue }
@@ -12079,7 +12079,7 @@ NOTES
 : Video starts in the middle of Ex-Wives (but still includes all their introductions!) due to neglect of hitting the record button. It was shot with a no-fear attitude and it shows\--they action is followed for the almost the entirety of the show and there are zooms of each queen during her song. The camera loved this show and there is very little to no washout. There is occasional obstruction from a bar across the bottom that couldn\'t be shot around, but it doesn\'t block the action. There was some obstruction from heads during the MegaSix.
 
 Six - Second UK Tour - February, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot 
 {: .label .label-blue }
@@ -12094,7 +12094,7 @@ NOTES
 : MTS, includes finale Megasix (MOV)
 
 Six - Broadway - February, 2020 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -12111,7 +12111,7 @@ NOTES
 ## Sleeping Beauty And Her Winter Knight
 
 Sleeping Beauty And Her Winter Knight - California - December 13, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -12128,7 +12128,7 @@ NOTES
 ## Sleepless: A Musical Romance
 
 Sleepless - Off-West End - September, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -12145,7 +12145,7 @@ CAST
 ## Snapshots: A Musical Scrapbook
 
 Snapshots - A Contemporary Theatre of Connecticut (ACT) - 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `6.57 GB`
@@ -12160,7 +12160,7 @@ NOTES
 ## Something Rotten!
 
 Something Rotten! - Broadway - March 28, 2015 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12175,7 +12175,7 @@ NOTES
 : Excellent HD capture of this hilarious new musical. The cast is just too perfect in every way. Superb performances, music, story and a great homage to theatre and musicals. Not to be missed! A
 
 Something Rotten! - Broadway - June 20, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -12191,7 +12191,7 @@ NOTES
 : With a mix of original cast and new faces, there are great performances all around. Nicely captured just a couple quick dropouts. There are some heads at the bottom of the screen that regularly block the actors’ feet, but they are worked around as much as possible, and generally don’t affect the main action. There is also some occasional washout, especially in wider shots. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Something Rotten! - Broadway - July 23, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12208,7 +12208,7 @@ NOTES
 ## Song and Dance
 
 Song and Dance - London - April 28, 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12220,7 +12220,7 @@ CAST
 : Sarah Brightman (Emma), Wayne Sleep (The Dancing Man)
 
 Song and Dance - Broadway - October 2, 1985
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.06 GB`
@@ -12237,7 +12237,7 @@ NOTES
 ## Songs for a New World
 
 Songs for a New World - London Palladium - October, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -12249,7 +12249,7 @@ CAST
 : Rachel John (Woman 1), Cedric Neal (Man 1), Rachel Tucker (Woman 2), David Hunter (Man 2)
 
 Songs For A New World - Quarantine Edition - February, 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12263,7 +12263,7 @@ CAST
 ## The Sound of Music
 
 The Sound of Music - Broadway (1998 Revival) - February 20, 1998
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.12 GB`
@@ -12272,7 +12272,7 @@ CAST
 : Rebecca Luker (Maria Rainer), Michael Siberry (Captain Georg Von Trapp), Patti Cohenour (The Mother Abbess), Jan Maxwell (Elsa Schraeder), Fred Applegate (Max Detweiler), Sara Zelle (Liesel Von Trapp), Gina Ferrall (Sister Berthe), Ann Brown (Sister Sophia), Andrea Bowen (Marta), Ashley Rose Orr (Gretl), Dashiell Eaves (Rolf Gruber), Patricia Conolly (Frau Schmidt)
 
 The Sound Of Music - Hollywood Bowl - July 30, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.82 GB`
@@ -12284,7 +12284,7 @@ NOTES
 : This production uses the score, book, and orchestrations of the original 1959 show.  Filmed using multiple cameras.   A-
 
 The Sound of Music - North American Tour - October 11, 2015 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -12298,7 +12298,7 @@ CAST
 ## South Pacific
 
 South Pacific - Thousand Oaks, CA - 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12313,7 +12313,7 @@ NOTES
 : Pro-shot. Performed in the Cabrillo Music Theatre (now known as the Civic Arts Plaza)
 
 South Pacific - First National Tour - 2009 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -12328,7 +12328,7 @@ NOTES
 : Shot with in-house camera. Full shot w/no zooms. Audio is from the soundboard. Slight fuzziness at parts but action is still visible.
 
 South Pacific - First Broadway Revival - August 18, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12345,7 +12345,7 @@ NOTES
 ## Spider-Man: Turn Off The Dark
 
 Spider-Man: Turn Off The Dark - Broadway - October 14, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Lanelle
 {: .label .label-blue }
@@ -12368,7 +12368,7 @@ NOTES
 ## SpongeBob SquarePants: The Broadway Musical
 
 SpongeBob SquarePants: The Broadway Musical - Pre-Broadway / Chicago - June 7, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12383,7 +12383,7 @@ NOTES
 : Only Known Capture of Emmy Raver-Lampman as Pearl
 
 SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -12408,7 +12408,7 @@ NOTES
 ### Off-Broadway
 
 Spring Awakening - Off-Broadway - July 9, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12422,7 +12422,7 @@ NOTES
 ### Broadway
 
 Spring Awakening - Broadway - February 10, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12437,7 +12437,7 @@ NOTES
 : AMAZING capture, closeups, performances. Not to be missed. A+
 
 Spring Awakening - Broadway - May 18, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12449,7 +12449,7 @@ NOTES
 : Jonathan Groff and Lea Michele\'s last performance
 
 Spring Awakening - Broadway - July 19, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 broadwayspunk
 {: .label .label-blue }
@@ -12464,7 +12464,7 @@ NOTES
 : Skylar Astin, Lilli Cooper, Brian Charles Johnson, Phoebe Strole, and Remy Zaken's last performance
 
 Spring Awakening - Broadway - January 18, 2009 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -12478,7 +12478,7 @@ NOTES
 ### First National Tour
 
 Spring Awakening - First National Tour - August 15, 2008
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12495,7 +12495,7 @@ NOTES
 ### West End
 
 Spring Awakening - West End (Novello Theatre) - May 30, 2009 (Matinee) (Closing Night) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12509,7 +12509,7 @@ NOTES
 ### Broadway Revival
 
 Spring Awakening - Broadway Revival - November 15, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12526,7 +12526,7 @@ NOTES
 ## Starlight Express
 
 Starlight Express - London Workshop - 1983
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12541,7 +12541,7 @@ NOTES
 : Pro-shot video filmed in a studio and not on stage
 
 Starlight Express - Las Vegas - September 8, 1996
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12556,7 +12556,7 @@ NOTES
 : Last show of the 1995-1996 cast. Pro-shot, filmed with one camera for the cast and crew. Repaired audio.
 
 Starlight Express - Bochum, Germany - January 28, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12570,7 +12570,7 @@ NOTES
 ## The Story of My Life
 
 The Story of My Life - Broadway - February 11, 2009 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12587,7 +12587,7 @@ NOTES
 ## Sunday in the Park with George
 
 Sunday in the Park with George - Broadway - October 21–25, 1985
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12602,7 +12602,7 @@ NOTES
 : Pro-shot for PBS
 
 Sunday in the Park with George - Théâtre Du Châtelet, Paris - April 17, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12623,7 +12623,7 @@ NOTES
 ### Sydmonton Festival
 
 Sunset Boulevard - Sydmonton - August 31, 1991
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12638,7 +12638,7 @@ NOTES
 : 36 minutes footage. Nice to see how different this is in terms of lyrics, music arrangements, dialogue compared to the 1992 Sydmonton video. Very grainy, a lot of gen loss B-
 
 Sunset Boulevard - Sydmonton - September 5, 1992
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12656,7 +12656,7 @@ NOTES
 ### West End
 
 Sunset Boulevard - West End - July, 1993 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -12672,7 +12672,7 @@ NOTES
 : Black and white house-cam footage with crystal clear soundboard audio, slightly washed out at times (as it was in infrared) but a great capture of the performances and the staging. Definitely filmed in July. MP4 version is higher quality with no graininess and clear footage.
 
 Sunset Boulevard - West End - 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12687,7 +12687,7 @@ NOTES
 : Suffered generation loss, Colors are weird, Soundboard audio. Joe is played by Glyn Kerslake (u/s), NOT John Barrowman
 
 Sunset Boulevard - West End - February 7, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.10 GB`
@@ -12701,7 +12701,7 @@ NOTES
 ### Broadway
 
 Sunset Boulevard - Broadway - July 14, 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.72 GB`
@@ -12713,7 +12713,7 @@ NOTES
 : Good quality for it\'s age, no fuzziness or lines. Has nice angles of scenes and few spotlight washouts. Recorded from the left mezzanine from the fist few rows with full curtain call.
 
 Sunset Boulevard - Broadway - March 3, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.44 GB`
@@ -12727,7 +12727,7 @@ NOTES
 ### Broadway Revival
 
 Sunset Boulevard - Broadway Revival - February 3, 2017 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12742,7 +12742,7 @@ NOTES
 : Beautiful HD capture from the Orchestra of the Second Preview performance. Glenn again knocks her performance out of the park! Some subtle changes and delivery from the first performance. Terrific audience response and energy from the cast throughout the show!
 
 Sunset Boulevard - Broadway Revival - June 25, 2017 (Closing Night) (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12759,7 +12759,7 @@ NOTES
 ### MISC
 
 Sunset Boulevard - Los Angeles - June 17, 1994
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Issues
 {: .label .label-red }
@@ -12774,7 +12774,7 @@ NOTES
 : Beautifully filmed with great close-ups. Occasional heads in the bottom of the frame. Some generational loss, and some tracking issues, VHS flicker gets worse towards end, but surprisingly good for it's age. Starts in the middle of the prologue.
 
 Sunset Boulevard - Netherlands - 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12786,7 +12786,7 @@ CAST
 : Pia Douwes (Norma Desmond), Antonie Kamerling (Joe Gillis), Peter de Smet (Max von Mayerling), Maike Boerdam (Betty Schaeffer), Jasper Kerkhof (Artie Green), Dick Schaar (Cecil B. DeMille), Paul Disbergen (Sheldrake), Derek Blok (Manfred), Mo Marcus (Heather)
 
 Sunset Boulevard - Wichita, KS - July 9, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12801,7 +12801,7 @@ NOTES
 : A big, gorgeous production by the Music Theatre Of Wichita. Beautifully filmed using one camera on a tripod, with sound patched directly in from the sound board. Crystal clear. 2 DVDs.
 
 Sunset Boulevard - Tecklenburg - September 9, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12816,7 +12816,7 @@ NOTES
 : Pro-Shot video. Performed in open air theatre at night.
 
 Sunset Boulevard - Dortmund, Germany - December, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -12831,7 +12831,7 @@ NOTES
 : Dortmund, Germany. Unique staging of Sunset Boulevard, filmed in 16:9.
 
 Sunset Boulevard - UK Tour - April 8, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Rumpel
 {: .label .label-blue }
@@ -12846,7 +12846,7 @@ NOTES
 : An awesome capture of this new tour
 
 Sunset Boulevard - Curve Theatre -  December, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12863,7 +12863,7 @@ NOTES
 ## Sweeney Todd: The Demon Barber of Fleet Street
 
 Sweeney Todd: The Demon Barber of Fleet Street - San Jose Civic Light Opera - January, 1988 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -12878,7 +12878,7 @@ NOTES
 : This is a different interpretation of the show, set during World War I. Beautifully filmed. Occasionally dark, and some generational loss. Semi-pro shot using one camera on a tripod.
 
 Sweeney Todd: The Demon Barber of Fleet Street - San Francisco Symphony Concert - July, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12894,7 +12894,7 @@ NOTES
 : Aired on PBS on October 31, 2001.
 
 Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 18, 2005 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12906,7 +12906,7 @@ NOTES
 : Shot from the mezzanine
 
 Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 29, 2005 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -12918,7 +12918,7 @@ NOTES
 : Very good video of this show with amazing closeups and excellent sound throughout; includes NY1 reviews, opening night story and interviews.
 
 Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - April 2, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -12933,7 +12933,7 @@ NOTES
 : Great Revival and nicely done. Crystal clear picture and sound. Lots of closeups. A
 
 Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - September 3, 2006 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -12942,7 +12942,7 @@ CAST
 : Michael Cerveris (Sweeney Todd), Patti LuPone (Mrs. Lovett), Benjamin Magnuson (Anthony Hope), Lauren Molina (Johanna), Mark Jacoby (Judge Turpin), Manoel Felciano (Tobias Ragg), Alexander Gemignani (Beadle Bamford), Diana DiMarzio (Beggar Woman), Donna Lynne Champlin (Adolfo Pirelli), John Arbo (Jonas Fogg)
 
 Sweeney Todd: The Demon Barber of Fleet Street - Third West End Revival - 2011 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -12957,7 +12957,7 @@ NOTES
 : Fixed house-cam recording of the 2012 West End revival at Adelphie Theatre. There is a copy with press footage inserted for A Little Priest and Epiphany. Unsure if there is unaltered footage circulating; check with traders.
 
 Sweeney Todd: The Demon Barber of Fleet Street - New York Philharmonic Concert - March 5-8, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -12975,7 +12975,7 @@ NOTES
 : Filmed in March 2014 and aired on PBS on September 26, 2014.
 
 Sweeney Todd: The Demon Barber of Fleet Street - TheatreWorks Silicon Valley - October 12, 2014 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -12989,7 +12989,7 @@ CAST
 ## Sweet Charity
 
 Sweet Charity - Off-Broadway Revival - November 12, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -13004,7 +13004,7 @@ CAST
 ## Taboo: the Boy George Musical
 
 Taboo - West End - 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -13018,7 +13018,7 @@ CAST
 ## Tales of the City
 
 Tales of the City - American Conservatory Theater, San Francisco - 2011 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -13037,7 +13037,7 @@ NOTES
 <p align="center"><small>AKA Dance of the Vampires</small></p>
 
 Tanz Der Vampire - Vienna - October 4, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -13052,7 +13052,7 @@ NOTES
 : 2-camera proshot of the original cast with optional English subtitles
 
 Dance of the Vampires - Broadway - January 25, 2003 (Closing Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `3 DVDs`
@@ -13061,7 +13061,7 @@ CAST
 : Michael Crawford (Count Krolock), Mandy Gonzalez (Sarah), Max von Essen (Alfred), René Auberjonois (Abronsius), Ron Orbach (Chagal), Liz McCartney (Rebecca), Leah Hocking (Magda), Mark Price (Boris), Asa Somers (Herbert)
 
 Tanz der Vampire - Hamburg, Germany - November 10, 2005
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -13076,7 +13076,7 @@ NOTES
 : Pro-shot DVD with optional English subtitles, originally intended for commercial release. Includes extras like cast profiles, TV advertisement, press footage, and the closing night finale.
 
 Tanz der Vampire - First Japanese Version / Tokyo, Japan - August 26, 2006 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -13089,7 +13089,7 @@ NOTES
 : Very good video quality and good zooms, but many head obstruction. Also master hides his camera quite often.
 
 Tanz der Vampire - St. Petersburg, Russia - May 27, 2018 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -13103,7 +13103,7 @@ NOTES
 ## Tarzan
 
 Tarzan - Scheveningen - June 23, 2007 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -13120,7 +13120,7 @@ NOTES
 ## They\'re Playing Our Song
 
 They\'re Playing Our Song - Los Angeles - October 2, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -13131,7 +13131,7 @@ CAST
 ## Thoroughly Modern Millie
 
 Thoroughly Modern Millie - Broadway - April 13, 2002 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -13146,7 +13146,7 @@ NOTES
 ## Thrill Me: The Leopold & Loeb Story
 
 Thrill Me - Datteln, Germany - October 5, 2012
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 LT 2:1
 {: .label .label-purple }
@@ -13161,7 +13161,7 @@ NOTES
 : ​Great to excellent sound and picture, filmed from very close to the stage. Performed in German.
 
 Thrill Me - South Korea - April 2, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `3.61 GB`
@@ -13172,7 +13172,7 @@ CAST
 ## tick, tick... BOOM!
 
 tick, tick... BOOM! - Off-Broadway - May 31, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `4.11 GB`
@@ -13181,7 +13181,7 @@ CAST
 : Raúl Esparza (Jon), Jerry Dixon (Michael), Amy Spanger (Susan)
 
 tick, tick... BOOM! - Off-Broadway - September 18, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.02 GB`
@@ -13190,7 +13190,7 @@ CAST
 : Raúl Esparza (Jon), Jerry Dixon (Michael), Amy Spanger (Susan)
 
 tick, tick... BOOM! - Korea - 2002
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.68 GB`
@@ -13204,7 +13204,7 @@ NOTES
 ## Time and Again
 
 Time and Again - Manhattan Theatre Club - January-February, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.94 GB`
@@ -13218,7 +13218,7 @@ NOTES
 ## Titanic
 
 Titanic - Broadway - November 12, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.22 GB`
@@ -13232,7 +13232,7 @@ NOTES
 ## \[title of show\]
 
 \[title of show\] - London Coliseum - November, 2020
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -13246,7 +13246,7 @@ CAST
 ## Tootsie
 
 Tootsie - Broadway - December, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 theaterfan64
 {: .label .label-blue }
@@ -13263,7 +13263,7 @@ NOTES
 ## Treason the Musical
 
 Treason the Musical in Concert - Cadogan Hall, London - March, 2021
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -13280,7 +13280,7 @@ NOTES
 ## Two by Two
 
 Two by Two - Reprise! Theatre Company - November 1, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Watched
 {: .label .label-yellow }
@@ -13304,7 +13304,7 @@ NOTES
 ## Urinetown
 
 Urinetown - Broadway - August 29, 2001 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -13316,7 +13316,7 @@ NOTES
 : Fourth preview.
 
 Urinetown - Broadway - October 20, 2001
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -13328,7 +13328,7 @@ NOTES
 : Shot from second row center mezzanine. Lots of close-ups, as good as the other video. Includes changed dialogue lines at the end of act two, and the curtain call and \'dance\' at the end. Some copies include 5 BCEFA skits from Gypsys and Easter Bonnets.
 
 Urinetown - Singapore - October 3, 2019 \| Apr1na14
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MTS `18.79 GB`
@@ -13346,7 +13346,7 @@ NOTES
 ## Victor/Victoria
 
 Victor/Victoria - Broadway - October 25, 1995 (Opening Night)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -13361,7 +13361,7 @@ NOTES
 : Captured for Japanese Television in HD in 1995! Later released on BluRay.
 
 Victor/Victoria - Broadway - January-February, 1997
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -13372,7 +13372,7 @@ CAST
 ## Violet
 
 Violet - Broadway - March 30, 2014 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13387,7 +13387,7 @@ NOTES
 : Beautiful HD capture of this wonderful show with no obstructions. The cast was divine and did an exquisite job performing and telling the story. A+
 
 Violet - Broadway - May 24, 2014
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -13409,7 +13409,7 @@ NOTES
 ### Pre-Broadway / Cambridge
 
 Waitress - Pre-Broadway / Cambridge - September 2, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13426,7 +13426,7 @@ NOTES
 ### Broadway
 
 Waitress - Broadway - March 30, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13441,7 +13441,7 @@ NOTES
 : Beautiful capture of this stunning Broadway transfer. This is the performance where the set broke and Sara Bareilles came out while it was being fixed. She sang (a cut song from the show and Part of Your World) and talked with the audience, which is included. A+
 
 Waitress - Broadway - June 14, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -13456,7 +13456,7 @@ NOTES
 : Fantastic performances from the entire original cast. Jessie's voice fits beautifully with the score, and she gives a gut-wrenching performance of She Used to Be Mine. Drew, Kimiko, Keala, and Christopher are each hilarious and endearing. Nicely captured with just a few quick dropouts and no major blackouts. There is one head on the left that can occasionally be seen, but it never blocks the action. There is some slight washout in some of the wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 Waitress - Broadway - July 20, 2016
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13471,7 +13471,7 @@ NOTES
 : Beautiful HD capture with no obstructions of this charming show. Kimiko was on leave and Stephanie steps into the role, doing a wonderful job as Dawn. Terrific cast and performances! A+
 
 Waitress - Broadway - April 19, 2017
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13486,7 +13486,7 @@ NOTES
 : Beautiful HD capture of the new cast change as the composer, Sara Bareilles takes over Jenna. Her performance of \"What Baking Can Do\" will knock you onto the floor! Terrific and fresh cast with a ton of exciting energy! A
 
 Waitress - Broadway - May, 2018 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -13498,7 +13498,7 @@ CAST
 : Katharine McPhee (Jenna), NaTasha Yvette Williams (Becky), Caitlin Houlahan (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Benny Elledge (Cal), Ben Thompson (Earl), Tiffany Mann (t/r Nurse Norma), Stephanie Torns (Francine Pomatter), Keri René Fuller (t/r Mother), Matt DeAngelis (Father)
 
 Waitress - Broadway - August 10, 2018 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 sorrynotsorry
 {: .label .label-blue }
@@ -13513,7 +13513,7 @@ NOTES
 : Act two only, recorded vertically from a box with obstructed view of the stage. Very steady camera, excellent audio quality, and pretty good video!
 
 Waitress - Broadway - September, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -13528,7 +13528,7 @@ NOTES
 : Incredible capture of Nicolette's first few days in the role, and the first known video of Adam and Katie. The action is very well followed, filmed from the same seats as the May, 2018 video. The quality is gorgeous, and the closeups are beautiful.
 
 Waitress - Broadway - January, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -13543,7 +13543,7 @@ NOTES
 : Filmed early in Sara\'s third run, before she added new riffs, but she still gives off a wonderful performance to a very reactive audience.
 
 Waitress - Broadway - January 12, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -13558,7 +13558,7 @@ NOTES
 : There\'s a good amount of obstruction, and I took the opportunity to rest my hand whenever Joe was onstage\...but pretty much everything that matters (or at least everything that the master cares about) is captured well. Sometimes we\'re on a slant and sometimes things aren\'t centered. Deal with it. I did the best I could while feeling comfortable and it\'s HD.
 
 Waitress - Broadway - April, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -13573,7 +13573,7 @@ NOTES
 : A nearly perfect video and ABSOLUTELY PERFECT performance. Small obstructions occur at Joe\'s table (but who cares) and during Negative. The rest of show, however, is captured gorgeously (and this time not diagonally). The video is very Shoshana focused, but I try to give everyone (yes, Jeremy too) their moments. The colors are absolutely vivid and I was trying new stabilization settings on my camera and god I\'m gonna keep it this way. Do not list this video with an exact date.
 
 Waitress - Broadway - July, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -13588,7 +13588,7 @@ NOTES
 : Beautiful HD capture of a lot of new and old cast members, including newcomers Alison, Mark, and Noah, along with Caitlin's return to the role and Richard's short temporary residence in the Broadway company. Dayna is absolutely hilarious as Becky. Act One starts shortly after Earl\'s entrance. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
 
 Waitress - Broadway - November, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -13603,7 +13603,7 @@ NOTES
 : Good HD capture of Jordin's brilliant take on the main role. Act One starts right when "The Negative" begins. Act Two begins just a few lines into the Act. There are a couple of dropouts throughout the show but none lasting more than 10 seconds, with most being significantly shorter than that. Some very slight wandering as the master changed camera angles or focused on someone taking photos of the show with an iPhone. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
 
 Waitress - Broadway - January 5, 2020 (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -13620,7 +13620,7 @@ NOTES
 ### First National Tour
 
 Waitress - First National Tour - July 29, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13635,7 +13635,7 @@ NOTES
 : Great HD capture of the Original Tour Cast. Desi does a wonderful job as Jenna, who has since left the Tour. Great performances! A
 
 Waitress - First National Tour - December 13, 2018 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -13652,7 +13652,7 @@ NOTES
 ### West End
 
 Waitress - West End - April, 2019 (Highlights)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -13667,7 +13667,7 @@ NOTES
 : Act One Only! Includes Act Two audio.
 
 Waitress - West End - March, 2020 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -13682,7 +13682,7 @@ NOTES
 : Missing about 2 mins throughout Opening Up. Bar obstructs at the bottom of the shot for action close to the front of the stage but for Waitress this isn\'t much. Sara and Gavin break in their first scene.
 
 Waitress - West End - March, 2020 (2)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -13694,7 +13694,7 @@ CAST
 : Sara Bareilles (Jenna), NaTasha Yvette Williams (Becky), Evelyn Hoskins (Dawn), Gavin Creel (Dr. Pomatter), Joel Montague (Ogie), Richard Taylor Woods (Cal), Andrew Boyer (Joe), Tamlyn Henderson (Earl), Rosemary Nkrumah (Nurse Norma), Lucia De Wan (Lulu), Olivia Moore (Francine Pomatter), Leanne Pinder (s/w Mother), Matthew Rowland (s/w Father)
 
 Waitress - West End - March 7, 2020 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 bwaybohemian
 {: .label .label-blue }
@@ -13711,7 +13711,7 @@ NOTES
 ### Second Non-Equity National Tour
 
 Waitress - Second National Tour - November, 2019 (Preview) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -13728,7 +13728,7 @@ NOTES
 ## War Paint
 
 War Paint - Pre-Broadway / Chicago - June 29, 2016 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13743,7 +13743,7 @@ NOTES
 : Beautiful HD capture of the PreBroadway tryout at the Goodman Theater. Stunning performances from both ladies. Glorious moment when Patti\'s bracelet and ring fall off mid song! A
 
 War Paint - Broadway - March 11, 2017 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13758,7 +13758,7 @@ NOTES
 : Beautiful HD capture of the Broadway transfer. Some changes for Broadway from the previous Goodman Theater production. Excellent performances from the entire cast with clear picture and great sound throughout; very good video. 2 DVDs. A
 
 War Paint - Broadway - April 29, 2017 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -13775,7 +13775,7 @@ NOTES
 ## We Are The Tigers
 
 We Are The Tigers - Off-Broadway - March, 2019 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -13792,7 +13792,7 @@ NOTES
 ## The Wedding Singer
 
 The Wedding Singer - Broadway - April 1, 2006 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13811,7 +13811,7 @@ NOTES
 : Includes pictures of outside of the theatre and playbill. This was before the changes were made to the production. Blackouts throughout the show.
 
 The Wedding Singer - Broadway - April 11, 2006
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13825,7 +13825,7 @@ CAST
 ## West Side Story
 
 West Side Story - Amstetten, Austria - November 30, 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.54 GB`
@@ -13837,7 +13837,7 @@ NOTES
 : Good shoot but not a great camera. Gen loss, audio has an echo to it, colours range from violet to orange, mostly orange. Has a corner timer for the first 28 minutes. Songs in English, dialogue in German. Includes TV appearances. Remastering couldn’t fix all the blockiness but helped with some other things. The same as the video labelled '1994'.
 
 West Side Story - Second Broadway Revival - February 23, 2009 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13852,7 +13852,7 @@ NOTES
 : Stunning production of this revival. Josefina and Karen still steal the show. The cast was on fire and there was a lot of energy in the audience as it was the first performance on Broadway. There are some changes from the DC run, which work better. Beautiful production and capture with no obstructions.
 
 West Side Story - Sixth US National Tour - September 7, 2011 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -13864,7 +13864,7 @@ CAST
 : Kyle Harris (Tony), Ali Ewoldt (Maria), Michelle Aravena (Anita), Joseph J Simeone (Riff), German Santiago (Bernardo), Drew Foster (Action), Jay Garcia (Chino), Ryan Christopher Chotto (A-Rab), Grant Gustin (Baby John), Nathan Keen (Big Deal), Kyle Robinson (Diesel), Cary Tedder (Snowboy), Alexandra Frolhinger (Anybodys), Christopher Patrick Mullen (Lt. Schrank), Mike Boland (Krupke), John O\'Creagh (Doc), Stephen DeRosa (Glad Hand), Dea Julien (Rosalia), Lori Ann Ferreri (Consuela), Kristen Paulicelli (Graziella), Karolina Blonski (Velma), Michael Scirrotto (Pepe), Waldemar Quinones-Villanueva (Tio), Dean Andre de Luna (Inca), Jeffrey C Sousa (Bolo), Kirstin Tucker (Hotsie), Alicia Charles (Alicia), Dani Spieler (Bebecita), Beth Crandall (Zaza), Tim Hausmann (Federico), Jessica Swesey (Mugsy)
 
 West Side Story - Hollywood Bowl - July 19, 2016 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -13879,7 +13879,7 @@ NOTES
 : This concert version of the show is abridged with shortened scenes, simple costumes, and no sets or choreography, but Jeremy, Solea, and Karen are absolutely phenomenal with soaring vocals and emotional performances. Very well captured with no dropouts, no obstruction, and no washout. The stage is filmed directly most of the time; the screens are occasionally filmed, usually when the actors are not onstage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 West Side Story - Leicester Curve - December, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -13891,7 +13891,7 @@ CAST
 : Jamie Muscato (Tony), Adriana Ivelisse (Maria), Carly Mercedes Dyer (Anita), Ronan Burns (Riff), Jonathan Hermosa-Lopez (Bernardo), Isaac Gryn (Action), Damian Buhagiar (Chino), Ryan Anderson (A-Rab), Alex Christian (Baby John), Dale White (Big Deal), Michael O’Reilly (Diesel), Beth Hinton-Lever (Anybodys), Darren Bennett (Lt. Schrank), Christopher Wright (Krupke), Christopher Wright (Doc), Darren Bennett (Glad Hand), Mireia Mambo (Rosalia), Abigail Climer (Consuela), Thea Bunting (Graziella), Katie Lee (Velma), Richard Appiah-Sarpong (Pepe), Dominic Sibanda (Indio)
 
 West Side Story - Leicester Curve - December, 2019
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 queenofthedead
 {: .label .label-blue }
@@ -13908,7 +13908,7 @@ NOTES
 ## When You Wish: The Story of Walt Disney
 
 When You Wish: The Story of Walt Disney - Los Angeles - October 16, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -13922,7 +13922,7 @@ NOTES
 ## Where\'s Charley?
 
 Where\'s Charley? - NYCC Encores! - March 18, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -13940,7 +13940,7 @@ NOTES
 ## The Wild Party (Lippa)
 
 The Wild Party (Lippa) - Encores! Off-Center - July 17, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -13955,7 +13955,7 @@ NOTES
 : Excellent HD capture from the Encores Summer Series! The cast was terrific and full of energy giving everything they had. Great to see these songs performed again by this caliber of talent! A
 
 The Wild Party (Lippa) - Encores! Off-Center - July 18, 2015 (Closing Night) 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 
 {: .label .label-blue }
@@ -13972,7 +13972,7 @@ NOTES
 ## The Witches of Eastwick
 
 The Witches of Eastwick - West End - September 12, 2001 
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -13987,7 +13987,7 @@ NOTES
 : Full stage capture shot through the house camera. Good sound quality. Sometimes incorrectly listed as December 9 due to North American dating (the show closed in October)
 
 The Witches of Eastwick - UK Tour - April 4, 2009
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -14001,7 +14001,7 @@ NOTES
 ## The Wiz
 
 The Wiz - NBC Live! - December 3, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -14018,7 +14018,7 @@ NOTES
 ## The Wizard of Oz (Webber)
 
 The Wizard of Oz (Webber) - First National Tour - October 10, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -14035,7 +14035,7 @@ NOTES
 ## Women on the Verge of a Nervous Breakdown
 
 Women on the Verge of a Nervous Breakdown - Broadway - December 29, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `1 DVD` `3.49 GB`
@@ -14050,7 +14050,7 @@ NOTES
 ## Wonderland
 
 Wonderland - Broadway - April 2, 2011 (Preview)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -14068,7 +14068,7 @@ NOTES
 : Beautiful bright capture of this short lived show that only played 31 previews and 33 performances. I thought this show was very enjoyable and fun with great music. Great performances and voices from the cast! A+
 
 Wonderland - Broadway - May 12, 2011
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -14089,7 +14089,7 @@ NOTES
 ## Xanadu
 
 Xanadu - National Tour - December 20, 2009 (Matinee)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
 {: .label .label-blue }
@@ -14107,7 +14107,7 @@ CAST
 ## Young Frankenstein
 
 Young Frankenstein - Seattle / Pre-Broadway - August 28, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -14128,7 +14128,7 @@ NOTES
 ## Zombie Prom
 
 Zombie Prom - Pre-Broadway / Ft. Lauderdale - August, 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.50 GB`
@@ -14142,7 +14142,7 @@ NOTES
 ## Zorba
 
 Zorba - Encores! - May 6, 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }

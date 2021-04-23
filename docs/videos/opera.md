@@ -10,7 +10,7 @@ permalink: /opera
 {: .no_toc }
 
 La bohème - Opera Australia - 1993
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -25,7 +25,7 @@ NOTES
 : Broadcast on Channel 13 WNET TV, PBS in New York 1993. Recorded live at the Sydney Opera House Sydney, Australia 1993. Directed by Baz Luhrmann. Includes DVD cover as JPG.
 
 Don Carlo (Verdi) - Metropolitan Opera -  December 11, 2010
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -37,7 +37,7 @@ CAST
 : Marina Poplavskaya, Anna Smirnova, Roberto Alagna, Simon Keenlyside, Ferruccio Furlanetto, Eric Halfvarson. Conducted by Yannick Nézet-Séguin.
 
 Евгений Онегин / Eugene Onegin - 1958
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Film
 {: .label .label-green }
@@ -59,7 +59,7 @@ NOTES
 : A 1958 Soviet opera film, acted by non-singers but dubbed by opera singers. Unfortunately can't find an English subtitle file so wouldn't recommend this as a first watch of the opera, but visually everything is really pretty and period-appropriate
 
 Eugene Onegin (Tchaikovsky) - Metropolitan Opera - February 24, 2007
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p` `1.93 GB` `English (.srt)`
@@ -68,7 +68,7 @@ CAST
 : Renée Fleming, Ramón Vargas, Dmitri Hvorostovsky, Sergei Aleksashkin. Conducted by Valery Gergiev.
 
 La forza del destino - Metropolitan Opera - March 24, 1984
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `Commercial DVD` `Multilingual soft subtitles`
@@ -81,7 +81,7 @@ NOTES
 : Soft subtitles for: italiano, english, deutsch, français, castellano, 中文
 
 Lucia di Lammermoor (Donizetti) - Teatro Real Madrid -  July 7, 2018
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `720p` `929.4 MB` `English (.srt)`
@@ -90,7 +90,7 @@ CAST
 : Lisette Oropesa, Javier Camarena, Artur Ruciński
 
 Madame Butterfly (Frédéric Mitterand) - 1995
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : AVI `352p` `1.46 GB` `English (.sub) (.idx)` `Portuguese (.srt)`
@@ -99,7 +99,7 @@ CAST
 : Ying Huang as the titular character
 
 Queen Of Spades - Metropolitan Opera
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `486p` `2.78 GB`

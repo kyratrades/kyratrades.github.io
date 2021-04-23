@@ -18,8 +18,8 @@ ___
 
 ### Apr 22, 2021
 
-#### Metamorphoses - Broadway - April 10, 2002
-{: .no_toc .d-inline-block }
+Metamorphoses - Broadway - April 10, 2002
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -30,8 +30,8 @@ CAST
 NOTES
 : A fantastic show captured pretty well. There's a head that occasionally gets in the way, and there is a lot of noise from moving the camera, but you still get everything from the show. What a brilliant production! B+
 
-#### Amélie	- UK Tour - June, 2019		
-{: .no_toc .d-inline-block }
+Amélie	- UK Tour - June, 2019		
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -42,8 +42,8 @@ FORMAT
 CAST
 : Audrey Brisson, Danny Mac, Johnson Willis, Rachel Dawson, Jez Unwin, Kate Robson-Stuart, Sophie Crawford, Faoileann Cunningham, Caolan McCarthy, Oliver Grant, Samuel Morgan-Grahame, Josh Sneesby, Charley Magalit, Chris Jared, Emma Jane Morton, Nuwan Hugh Perera	Filmed from the left side mezzanine. Beth continually improves with this wonderful quality video of the fantastic cast of the tour.
 
-#### Tootsie - Broadway - December, 2019
-{: .no_toc .d-inline-block }
+Tootsie - Broadway - December, 2019
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 theaterfan64
 {: .label .label-blue }
@@ -57,8 +57,8 @@ CAST
 NOTES
 : Full stage shot of the show during it’s run on Broadway. There is washout, as it’s a full stage shot, but it is very very watchable. About 8 minutes is missing right before the Act 1 finale.
 
-#### Fela! - Off-Broadway - October 5, 2008 (Closing Night)
-{: .no_toc .d-inline-block }
+Fela! - Off-Broadway - October 5, 2008 (Closing Night)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -72,8 +72,8 @@ CAST
 NOTES
 : Professionally recorded, using multiple cameras at 37 Arts during the final days of the Off-Broadway run.
 
-#### Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 30, 2010
-{: .no_toc .d-inline-block }
+Jawbreaker: The Musical, In Concert - Los Angeles, CA - July 30, 2010
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -84,8 +84,8 @@ CAST
 NOTES
 : The musical is performed  as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway's best alternating in the roles. For the second show, they had a video screen projecting a nice wide shot of the entire show. Video is a clear and unobstructed screen capture of the show. Tapers camera went out during the song "Suck It", so only the first minute of this song is captured. Picks right back up at the intro/beginning of the next song, "With You." Otherwise a great quality capture.  Originally planned as a one night only event, this was filmed on the second night of the world premier presentation of this new musical.   A-
 
-#### Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
-{: .no_toc .d-inline-block }
+Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -93,8 +93,8 @@ FORMAT
 NOTES
 : "Something Wicked This Way Comes"  "Betty and Henry continue their illicit romance and plan a secret date to "Wicked," but things don't go as planned... Meanwhile, Daniel woos an important advertiser (guest star Marlo Thomas), a lady with a penchant for younger men."  Even though the show takes place in New York, it is filmed in Los Angeles, and they filmed the Wicked scenes at the Pantages Theatre in LA, with Eden Espinoza and Megan Hilty as Elphaba and Galinda.  Complete with original commercials.   A
 
-#### The Sound Of Music - Hollywood Bowl - July 30, 2006
-{: .no_toc .d-inline-block }
+The Sound Of Music - Hollywood Bowl - July 30, 2006
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.82 GB`
@@ -105,8 +105,8 @@ CAST
 NOTES
 : This production uses the score, book, and orchestrations of the original 1959 show.  Filmed using multiple cameras.   A-
 
-#### The Festival of New American Musicals Benefit - Los Angeles, CA - January 19, 2009
-{: .no_toc .d-inline-block }
+The Festival of New American Musicals Benefit - Los Angeles, CA - January 19, 2009
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.34 GB`
@@ -114,8 +114,8 @@ FORMAT
 NOTES
 : EXCLUSIVE! Davis Gaines, Rachel York, Jason Graae, Valerie Pettiford, Cathy Woo. Hosted by Marc Cherry (Desperate Housewives, The Golden Girls…) in his own home, this benefit raised money for LA’s newest theatrical venue in a casual setting before invited guests. Marc’s house is packed with celebrities, and it’s fun to play “who’s who?” before the show starts.  The five artists perform a mix of Broadway standards, and original music written just for the occasion (There is a hilarious piece, written by Marc Cherry, called “Friday The 13th, The Musical”, in which Jason Graae plays “Jason Voorhees”, and sings a selection of Broadway standards to a new set of lyrics.)  This has the look and feel of a home movie, and it offers an interesting glimpse at a Hollywood party.  About The Festival of New American Theatre: “The Festival was founded in 2006 by Marcia Seligson, Producing Artistic Director of Los Angeles’ Reprise! By 2006 it was clear to Seligson that a renaissance in American theater was beginning to happen. Wicked had debuted on Broadway and was drawing huge audiences dominated by teenagers who had never seen a Broadway musical before. Where previously only a handful of successful musicals were “new” and ”American” now the number had doubled and tripled in a few short years. Away from Broadway, a new generation of composers, lyricists and book writers were beginning to attract a substantial following. Names like Adam Guettel, Jason Robert Brown, Ricky Ian Gordon and Michael John LaChiusa were having shows produced off Broadway, on college campuses and in small theaters around the country. Where Reprise! was dedicated to revivals of classic American musicals, Seligson decided it was the right time to develop an event to celebrate “the new” and to showcase the enormous body of creative and performing talent they had discovered in Southern California during the first decade of Reprise!”  About 45 minutes. A
 
-#### Rachel York, Up Close And Personal At Stage 72 - New York - March 24, 2014
-{: .no_toc .d-inline-block }
+Rachel York, Up Close And Personal At Stage 72 - New York - March 24, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : AIFF `745 MB`
@@ -123,8 +123,8 @@ FORMAT
 NOTES
 : In her new one woman show, Rachel York celebrates her love of singing and performing in a delightful evening of stories and song. She includes numbers made famous by early inspirations, favorite show tunes from her Broadway career, jazz standards from her album (“Let’s Fall in Love”). A-
 
-#### Stars In The Alley - New York - June 4, 1999
-{: .no_toc .d-inline-block }
+Stars In The Alley - New York - June 4, 1999
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -134,8 +134,8 @@ NOTES
 
 ### Apr 21, 2021
 
-#### Gypsy: Ultimate Edit - Fourth Broadway Revival - 2008
-{: .no_toc .d-inline-block }
+Gypsy: Ultimate Edit - Fourth Broadway Revival - 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 VLT 3:1
 {: .label .label-purple }
@@ -151,8 +151,8 @@ NOTES
 
 ### Apr 20, 2021
 
-#### Anything Goes - New Brunswick, NJ - 1992
-{: .no_toc .d-inline-block }
+Anything Goes - New Brunswick, NJ - 1992
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Single-Cam Pro-Shot
 {: .label .label-green }
@@ -166,8 +166,8 @@ CAST
 NOTES
 : Plays in the Park
 
-#### Tony Awards - New York, NY - June 7, 1981
-{: .no_toc .d-inline-block }
+Tony Awards - New York, NY - June 7, 1981
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -175,8 +175,8 @@ Pro-Shot
 FORMAT
 : VOB+smalls `1 DVD` `2.19 GB`
 
-####  The Scarlet Pimpernel - Takarazuka, Japan - 2010
-{: .no_toc .d-inline-block }
+ The Scarlet Pimpernel - Takarazuka, Japan - 2010
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Multi-Cam Pro-Shot
 {: .label .label-green }
@@ -190,8 +190,8 @@ CAST
 NOTES
 : Monn Troupe
 
-####  The Scarlet Pimpernel - Edison, NJ - 2006
-{: .no_toc .d-inline-block }
+ The Scarlet Pimpernel - Edison, NJ - 2006
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Multi-Cam Pro-Shot
 {: .label .label-green }
@@ -205,8 +205,8 @@ CAST
 NOTES
 : Plays in the Park
 
-#### Le Petit Prince - Paris - 2002
-{: .no_toc .d-inline-block }
+Le Petit Prince - Paris - 2002
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -222,8 +222,8 @@ NOTES
 
 ### Apr 2, 2021
 
-#### Seth\'s Broadway Chatterbox - New York City - 2003
-{: .no_toc .d-inline-block }
+Seth\'s Broadway Chatterbox - New York City - 2003
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -238,8 +238,8 @@ CAST
 
 ### Mar 29, 2021
 
-#### The Best Is Yet to Come: The Music of Cy Coleman - Off-Broadway - May 28, 2011
-{: .no_toc .d-inline-block }
+The Best Is Yet to Come: The Music of Cy Coleman - Off-Broadway - May 28, 2011
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -250,8 +250,8 @@ CAST
 NOTES
 : Some obstructions to the picture for the first 7 minutes; filmed from about the 4th row and a little off to the side
 
-#### Broadway Backwards 9 - New York City - March 24, 2014
-{: .no_toc .d-inline-block }
+Broadway Backwards 9 - New York City - March 24, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -266,8 +266,8 @@ NOTES
 
 ## Rebecca das Musical
 
-#### Rebecca - Seoul, South Korea - January 29, 2020
-{: .no_toc .d-inline-block }
+Rebecca - Seoul, South Korea - January 29, 2020
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 VLT 3:1
 {: .label .label-purple }
@@ -278,8 +278,8 @@ FORMAT
 CAST
 : Lee Ji Hye (Ich), Ock Joo Hyun (Mrs Danvers), KAI/Jeong Ki Yeol (Maxim), Choi Min Cheol (Jack Favell), Choi Hyuk Joo (Mrs Van Hopper), Ryu Soo Hwa (Beatrice), Choi Byung Kwang (Giles), Park Jin Woo (Frank Crawley), Kim Ji Wook (Ben), Lee Jong Moon (Colonel Jullian), Oh Yoon Seo (Clarice)
 
-#### Camelot - First National Tour / Philadelphia - June 7, 2007
-{: .no_toc .d-inline-block }
+Camelot - First National Tour / Philadelphia - June 7, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -291,8 +291,8 @@ CAST
 NOTES
 : Beautiful production, very nicely filmed and crystal clear. DVD has been constructed to include an opening main menu, with thumbnail scene selections for all of the musical numbers. A little shaky for the first minute or two then the filmer settles down for an amazing video.
 
-#### The Scarlet Pimpernel - Riverside, CA - September, 2001 (SP4)
-{: .no_toc .d-inline-block }
+The Scarlet Pimpernel - Riverside, CA - September, 2001 (SP4)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -308,8 +308,8 @@ NOTES
 
 ### Mar 22, 2021
 
-#### I'll Say She Is - Off-Broadway / NY International Fringe Festival - August 18, 2014
-{: .no_toc .d-inline-block }
+I'll Say She Is - Off-Broadway / NY International Fringe Festival - August 18, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.00 GB`
@@ -320,8 +320,8 @@ CAST
 NOTES
 : A production of what was the first Marx Brothers Broadway musical in 1924; not very well filmed, from the audience in what looks like a lap-shot with spotlight washout and not in focus; good sound B-
 
-#### Nothing like a Dame - New York - 1997
-{: .no_toc .d-inline-block }
+Nothing like a Dame - New York - 1997
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -335,8 +335,8 @@ CAST
 NOTES
 : February 24, 1997. Filmed using one camera on a tripod, with audio patched in directly from the soundboard. A
 
-#### Les Misérables - Second Broadway Revival - June 15, 2016 
-{: .no_toc .d-inline-block }
+Les Misérables - Second Broadway Revival - June 15, 2016 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -344,8 +344,8 @@ SJ Bernly
 FORMAT
 : Blu-ray MKV `28.74 GB` `LT`
 
-#### The 24th Easter Bonnet Competittion - Minsky Theatre, New York - April 27, 2010
-{: .no_toc .d-inline-block }
+The 24th Easter Bonnet Competittion - Minsky Theatre, New York - April 27, 2010
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -353,8 +353,8 @@ Pro-Shot
 FORMAT
 : VOB+smalls `1 DVD`
 
-#### Natasha, Pierre & The Great Comet of 1812 - Broadway - December 29, 2016 
-{: .no_toc .d-inline-block }
+Natasha, Pierre & The Great Comet of 1812 - Broadway - December 29, 2016 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -362,8 +362,8 @@ SJ Bernly
 FORMAT
 : Blu-ray M2TS `30.40 GB` `LT`
 
-#### Elaine Stritch: At Liberty - Broadway - April 10, 2002
-{: .no_toc .d-inline-block }
+Elaine Stritch: At Liberty - Broadway - April 10, 2002
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.71 GB`
@@ -374,8 +374,8 @@ CAST
 NOTES
 : A great copy of the show's original Broadway run. Audio is good and video maintains a nice mid show/close up throughout.
 
-#### The Scarlet Pimpernel - Broadway - February, 1998 
-{: .no_toc .d-inline-block }
+The Scarlet Pimpernel - Broadway - February, 1998 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.59 GB`
@@ -383,8 +383,8 @@ FORMAT
 CAST
 : Douglas Sills (Sir Percy Blakeney), Christine Andreas (Marguerite St. Just), Terrence Mann (Chauvelin)
 
-#### Chicago - West End Revival - March 27, 2004 
-{: .no_toc .d-inline-block }
+Chicago - West End Revival - March 27, 2004 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `6.46 GB`
@@ -395,8 +395,8 @@ CAST
 NOTES
 : Quite a lot of head obstructions, some black-outs, but great sound. Starts about 2 minutes into 'all that jazz'.
 
-#### Der Besuch der alten Dame - Vienna - April 26, 2014
-{: .no_toc .d-inline-block }
+Der Besuch der alten Dame - Vienna - April 26, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `15.69 GB` `English (.srt)`
@@ -407,8 +407,8 @@ CAST
 NOTES
 : Corrected from original DVD authoring as part of remastering process. Pretty good shoot and A/V quality.
 
-#### Cats - Amsterdam, Netherlands - June 29, 2007
-{: .no_toc .d-inline-block }
+Cats - Amsterdam, Netherlands - June 29, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB `1 DVD` `3.94 GB`
@@ -416,8 +416,8 @@ FORMAT
 CAST
 : Pia Douwes (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Cindy Belliot (Jemima), Marleen van der Loo (Jennyanydots), Mark John Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Marco Bakker (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Stanley Burleson (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival)
 
-#### Cats - Rotterdam, Netherlands - July 28, 2007
-{: .no_toc .d-inline-block }
+Cats - Rotterdam, Netherlands - July 28, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB `1 DVD` `4.30 GB`
@@ -428,8 +428,8 @@ CAST
 NOTES
 : Starts at the The invitation to the Jellicle ball and missing a couple of minutes at the start of act 2 two. Act one is filmed in night shot, and act two comes with a verry clear picture. Veerle Castelyn is followed a lot.
 
-#### Cats - Netherlands - September 16, 2007 (Unknown's video master) 
-{: .no_toc .d-inline-block }
+Cats - Netherlands - September 16, 2007 (Unknown's video master) 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB `2 DVDs` `7.88 GB`
@@ -437,8 +437,8 @@ FORMAT
 CAST
 : Penny Voss (Grizabella), Merlijn Wolsink (Alonzo), Pierre Alexandre (Admetus/Macavity), Daymon Montaigne Jones (Bill Bailey/Tumblebrutus), Anouk van Nes (Bombalurina), Paul Donkers (Bustopher Jones/Gus/Growltiger), Caroline Beuth (Cassandra), Michael Macalintal (Coricopat), Suzanne Heijne (Demeter), Veerle Casteleyn (Electra), Annemieke Van Der Veer (Jellylorum), Veerle Casteleyn (Jemima), Maaike Schuurmans (Jennyanydots), Mark J Richardson (Mr. Mistoffelees), Mark van Beelen (Mungojerrie), Roberto de Groot (Munkustrap), Paul Walthuis (Old Deuteronomy), Marjolein Teepen (Rumpleteazer), Gino Emnes (Rum Tum Tugger), Marcel Visscher (Skimbleshanks), Hannah van Meurs (Tantomile), Anique Bosch (Victoria), João Paulo De Almeida (Pouncival) 
 
-#### Cats - Vienna, Austria - 1988
-{: .no_toc .d-inline-block }
+Cats - Vienna, Austria - 1988
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -451,8 +451,8 @@ CAST
 
 ### Mar 19, 2021
 
-#### Hamilton - Broadway - August 13, 2016 (Matinee) 
-{: .no_toc .d-inline-block }
+Hamilton - Broadway - August 13, 2016 (Matinee) 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -460,8 +460,8 @@ SJ Bernly
 FORMAT
 : Blu-ray M2TS `35.34 GB` `LT`
 
-#### Hamilton - Broadway - June 19, 2016 
-{: .no_toc .d-inline-block }
+Hamilton - Broadway - June 19, 2016 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -469,8 +469,8 @@ SJ Bernly
 FORMAT
 : Blu-ray M2TS `35.68 GB` `LT`
 
-#### Heathers - Off-Broadway - May 25, 2014 
-{: .no_toc .d-inline-block }
+Heathers - Off-Broadway - May 25, 2014 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -478,8 +478,8 @@ SJ Bernly
 FORMAT
 : Blu-ray M2TS `24.19 GB` `LT`
 
-#### Something Rotten! - Broadway - June 20, 2016
-{: .no_toc .d-inline-block }
+Something Rotten! - Broadway - June 20, 2016
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -489,8 +489,8 @@ FORMAT
 
 ### Mar 18, 2021
 
-#### Treason the Musical in Concert - Cadogan Hall, London - March, 2021
-{: .no_toc .d-inline-block }
+Treason the Musical in Concert - Cadogan Hall, London - March, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -504,8 +504,8 @@ CAST
 NOTES
 : With a fusion of original folk and pop songs, this wonderful new musical tells one of the most intriguing tales in England’s history, and features a stunning score and lyrics by Ricky Allan, and book by Kieran Lynn and Ricky Allan. The musical’s world premiere and online concert will be directed by Hannah Chissick, with musical supervision by Nick Pinchbeck and orchestration by Matthew Malone. Online concert filmed live at the Cadogan Hall, and streamed online from Friday 12 - Sunday 14 March 2021.
 
-#### Hedwig and the Angry Inch - South Korea - November 16, 2019 (Matinee)
-{: .no_toc .d-inline-block }
+Hedwig and the Angry Inch - South Korea - November 16, 2019 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : M2TS `20.1 GB`
@@ -513,8 +513,8 @@ FORMAT
 CAST
 : 전동석 Jeon Dong Seok (Hedwig), 홍서영 Hong Seo Young (Yitzhak)
 
-#### Elisabeth - Seoul, South Korea - August 26, 2015
-{: .no_toc .d-inline-block }
+Elisabeth - Seoul, South Korea - August 26, 2015
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : MP4 `19.3 GB`
@@ -522,8 +522,8 @@ FORMAT
 CAST
 : 조정은 Jo Jung-eun (Elisabeth), 전동석 Dong-suk Jeon (Der Tod)
 
-#### I am Camera - TV Broadcast - 1955
-{: .no_toc .d-inline-block }
+I am Camera - TV Broadcast - 1955
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -532,8 +532,8 @@ NOTES
 : Pro-Shot RARE copy of the feature film adaptation of the Christopher Isherwood stage play with the Tony-winning Julie Harris playing ‘Sally Bowles.’ The basis for the musical CABARET (B&W)
 : DVD transfer from a VHS Factory copy -Video Release: 8/28/91
 
-#### Nothing like a Dame - New York - 1996
-{: .no_toc .d-inline-block }
+Nothing like a Dame - New York - 1996
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -547,8 +547,8 @@ CAST
 NOTES
 : February 25, 1996. Filmed using one camera on a tripod, with audio patched in directly from the soundboard. A
 
-#### Nothing like a Dame - New York - 2005
-{: .no_toc .d-inline-block }
+Nothing like a Dame - New York - 2005
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -559,8 +559,8 @@ FORMAT
 CAST
 : Lillias White, Amanda Green, Phyllis Newman, Barbara Walsh, Jennifer Cody, Karen Ziemba, Randy Graff, Dee Hoty, Phylicia Rashad, Zoe Caldwell, Charles Busch, Sutton Foster, Megan McGinnis, Andrea McArdle, more
 
-#### An Evening With Patti LuPone and Mandy Patinkin - Broadway - November 17 and 18, 2011 (Preview)
-{: .no_toc .d-inline-block }
+An Evening With Patti LuPone and Mandy Patinkin - Broadway - November 17 and 18, 2011 (Preview)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -571,8 +571,8 @@ CAST
 NOTES
 : Filmed in 16:9 Widescreen; act two shot over and between a head but it's never really an issue; good clear video A
 
-#### Tony Awards - 1988
-{: .no_toc .d-inline-block }
+Tony Awards - 1988
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -589,8 +589,8 @@ NOTES
 : Romance/Romance, "I'll Always Remember the Song"/"It's Not Too Late" - Scott Bakula, Alison Fraser
 : Sarafina!, "Sarafina!" - Company
 
-#### Zombie Prom - Pre-Broadway / Ft. Lauderdale - August, 1993
-{: .no_toc .d-inline-block }
+Zombie Prom - Pre-Broadway / Ft. Lauderdale - August, 1993
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.50 GB`
@@ -601,8 +601,8 @@ CAST
 NOTES
 : Mislabeled as Off Broadway March 1996, this video is clearly from the 1993 Ft. Lauderdale production as it has Leslie McMillan-Perez as Delilah Strict. See the 8-13-1993 [Sun Sentinel story](https://www.sun-sentinel.com/news/fl-xpm-1993-08-13-9301290464-story.html).
 
-#### Sly Fox - Broadway - March 27, 2004
-{: .no_toc .d-inline-block }
+Sly Fox - Broadway - March 27, 2004
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -612,8 +612,8 @@ CAST
 
 ### Mar 15, 2021
 
-#### Newsies - Pre-Broadway / Paper Mill Playhouse - October, 2011
-{: .no_toc .d-inline-block }
+Newsies - Pre-Broadway / Paper Mill Playhouse - October, 2011
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `3.92 GB` `Original files`
@@ -624,8 +624,8 @@ CAST
 NOTES
 : Filmed in 16:9 widescreen, almost no obstructions except for a head on the edge of the widest shots. Only very brief drop-outs for applause. Super fun for fans of the show to see the version before it came to Broadway. This is the only known full video of this pre-Broadway production. Yes, there is a typo in Andrew Keenan-Bolger's name in the video's cast list. Sorry. Audio fed in from external source, so the audio is nice and clear. Do not identify master or exact date.
 
-#### Songs for a New World - London Palladium - October, 2020
-{: .no_toc .d-inline-block }
+Songs for a New World - London Palladium - October, 2020
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 hitmewithyourbethshot
 {: .label .label-blue }
@@ -636,8 +636,8 @@ FORMAT
 CAST
 : Rachel John (Woman 1), Cedric Neal (Man 1), Rachel Tucker (Woman 2), David Hunter (Man 2)
 
-#### Joseph and the Amazing Technicolor Dreamcoat - US Tour / Chicago - November 23, 2005
-{: .no_toc .d-inline-block }
+Joseph and the Amazing Technicolor Dreamcoat - US Tour / Chicago - November 23, 2005
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -647,8 +647,8 @@ CAST
 
 ## February, 2021
 
-#### Songs For A New World - Quarantine Edition - February, 2021
-{: .no_toc .d-inline-block }
+Songs For A New World - Quarantine Edition - February, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -659,8 +659,8 @@ FORMAT
 CAST
 : Rachel Tucker, Rachel John, Ramin Karimloo, Cedric Neal
 
-#### Simply Sondheim - Signature Theatre - 2021
-{: .no_toc .d-inline-block }
+Simply Sondheim - Signature Theatre - 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -675,8 +675,8 @@ NOTES
 : Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
 : Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
 
-#### Evening Primrose - US television series ABC Stage 67 - 1966
-{: .no_toc .d-inline-block }
+Evening Primrose - US television series ABC Stage 67 - 1966
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
