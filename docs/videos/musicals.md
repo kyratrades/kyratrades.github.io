@@ -9445,7 +9445,7 @@ CAST
 NOTES
 : Highlights totaling about 14 minutes. Includes clips of Bad Romance, Come What May, Chandelier, Rollin' in the Deep, and the Finale/Bows. Camera often wanders to the ceiling and doesn't capture the stage. Many heads in the way and a lot of spotlight washout. The finale is really the only good clip.
 
-#### Moulin Rouge! The Musical - Pre-Broadway / Boston - August 2018
+#### Moulin Rouge! - Pre-Broadway / Boston - August 2018
 {: .no_toc .d-inline-block }
 
 House-Cam
@@ -9493,21 +9493,6 @@ CAST
 NOTES
 : Beautiful HD capture of the Original Broadway Cast. Starts after \"Welcome to the Moulin Rouge!\". Filmed in 16:9 with a mix of wides, mediums, and close-ups.
 
-#### Moulin Rouge! - Broadway - January, 2020 (Ashley Loren)
-{: .no_toc .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `5.05 GB`
-
-CAST
-: Aaron Tveit (Christian), Ashley Loren (s/b Satine), Austin Durant (t/r Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Tam Mutu (The Duke), Robyn Hurder (Nini), Jacqueline B Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre)
-
-NOTES
-: Beautiful HD capture of the stunning Ashley Loren as Satine. Filmed in 16:9 from the mezzanine with a mix of wides, mediums, and many closeups. Starts after "Welcome to the Moulin Rouge!" Includes some minor obstructions, otherwise a great capture of a fantastic cast.
-
 #### Moulin Rouge! - Broadway - January, 2020 (Amber Ardolino) 
 {: .no_toc .d-inline-block }
 
@@ -9525,6 +9510,21 @@ CAST
 
 NOTES
 : Beautiful HD capture of the fabulous Amber Ardolino as Satine and Dylan Paul as the Duke. Filmed from the rear left orchestra with a mix of wides, mediums, and many close-ups.
+
+#### Moulin Rouge! - Broadway - January, 2020 (Ashley Loren)
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.05 GB`
+
+CAST
+: Aaron Tveit (Christian), Ashley Loren (s/b Satine), Austin Durant (t/r Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Tam Mutu (The Duke), Robyn Hurder (Nini), Jacqueline B Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre)
+
+NOTES
+: Beautiful HD capture of the stunning Ashley Loren as Satine. Filmed in 16:9 from the mezzanine with a mix of wides, mediums, and many closeups. Starts after "Welcome to the Moulin Rouge!" Includes some minor obstructions, otherwise a great capture of a fantastic cast.
 
 ### Specials
 
