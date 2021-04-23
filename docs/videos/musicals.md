@@ -9450,13 +9450,13 @@ NOTES
 #### Moulin Rouge! - Pre-Broadway
 {: .no_toc .d-inline-block }
 
-Boston - August, 2018
-
 House-Cam
 {: .label .label-green }
 
 Watched
 {: .label .label-yellow }
+
+Boston - August, 2018
 
 FORMAT
 : VOB+smalls `1 DVD`
