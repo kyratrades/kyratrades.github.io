@@ -10,7 +10,7 @@ permalink: /
 
 ### No. of items listed:
 
-<center>Videos: 1134</center>
+<center>Videos: 1177</center>
 
 <center>Audios: <code>TBA</code></center>
 
