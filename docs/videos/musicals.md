@@ -9528,8 +9528,8 @@ NOTES
 
 ### Specials
 
-**Moulin Rouge (2001)**
-{: .text-gamma .d-inline-block }
+Moulin Rouge (2001)
+{: .text-gamma .fs-5 .d-inline-block }
 
 Film
 {: .label .label-green }
