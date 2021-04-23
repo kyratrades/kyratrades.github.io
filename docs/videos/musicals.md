@@ -9433,10 +9433,8 @@ NOTES
 
 ## Moulin Rouge! The Musical
 
-#### Moulin Rouge! - Pre-Broadway
+#### Moulin Rouge! - Pre-Broadway / Boston - July 13, 2018 (Preview) (Highlights)
 {: .no_toc .d-inline-block }
-
-Boston - July 13, 2018 (Preview) (Highlights)
 
 FORMAT
 : MOV `1080p` `5 files` `1.03 GB`
@@ -9447,10 +9445,8 @@ CAST
 NOTES
 : Highlights totaling about 14 minutes. Includes clips of Bad Romance, Come What May, Chandelier, Rollin' in the Deep, and the Finale/Bows. Camera often wanders to the ceiling and doesn't capture the stage. Many heads in the way and a lot of spotlight washout. The finale is really the only good clip.
 
-#### Moulin Rouge! - Pre-Broadway
+#### Moulin Rouge! - Pre-Broadway / Boston - August 2018
 {: .no_toc .d-inline-block }
-
-Boston - August, 2018
 
 House-Cam
 {: .label .label-green }
@@ -9467,10 +9463,8 @@ CAST
 NOTES
 : Housecam with clear soundboard audio. A significant step up above the usual housecam quality and it really shows off the production values.
 
-#### Moulin Rouge! - Pre-Broadway
+#### Moulin Rouge! - Pre-Broadway / Boston - August 19, 2018 (Closing Night)
 {: .no_toc .d-inline-block }
-
-Boston - August 19, 2018 (Closing Night)
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -9484,10 +9478,8 @@ CAST
 NOTES
 : HD capture of the final PreBroadway performance. A drunk woman's head blocks most of the left side and she does not sit still. This is far from perfect, but if you want a glimpse in the Moulin Rouge...the show is sensational! B
 
-#### Moulin Rouge! - Broadway
+#### Moulin Rouge! - Broadway - December, 2019 
 {: .no_toc .d-inline-block }
-
-Al Hirschfeld Theatre - December, 2019
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -9501,10 +9493,8 @@ CAST
 NOTES
 : Beautiful HD capture of the Original Broadway Cast. Starts after \"Welcome to the Moulin Rouge!\". Filmed in 16:9 with a mix of wides, mediums, and close-ups.
 
-#### Moulin Rouge! - Broadway
+#### Moulin Rouge! - Broadway - January, 2020 (Amber Ardolino) 
 {: .no_toc .d-inline-block }
-
-Al Hirschfeld Theatre - January, 2020 (Amber Ardolino)
 
 StarCuffedJeans
 {: .label .label-blue }
@@ -9521,10 +9511,8 @@ CAST
 NOTES
 : Beautiful HD capture of the fabulous Amber Ardolino as Satine and Dylan Paul as the Duke. Filmed from the rear left orchestra with a mix of wides, mediums, and many close-ups.
 
-#### Moulin Rouge! - Broadway
+#### Moulin Rouge! - Broadway - January, 2020 (Ashley Loren)
 {: .no_toc .d-inline-block }
-
-Al Hirschfeld Theatre - January, 2020 (Ashley Loren)
 
 StarCuffedJeans
 {: .label .label-blue }
