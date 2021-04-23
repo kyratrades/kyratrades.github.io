@@ -9529,7 +9529,7 @@ NOTES
 ### Specials
 
 Moulin Rouge (2001)
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-gamma .d-inline-block }
 
 Film
 {: .label .label-green }
@@ -9553,7 +9553,7 @@ IMDB
 ## Mozart! das Musical
 
 Mozart! - Vienna, Austria - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fw-500 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
