@@ -9569,8 +9569,8 @@ NOTES
 
 ## Murder Ballad
 
-Murder Ballad - Off-Broadway - July 13, 2013
-{: .fs-5 .text-gamma .d-inline-block }
+#### Murder Ballad - Off-Broadway - July 13, 2013
+{: .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
