@@ -13805,7 +13805,7 @@ NOTES
 : Includes pictures of outside of the theatre and playbill. This was before the changes were made to the production. Blackouts throughout the show.
 
 #### The Wedding Singer - Broadway - April 11, 2006
-: .no_toc .d-inline-block }
+{: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
