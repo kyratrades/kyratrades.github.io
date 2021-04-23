@@ -9553,7 +9553,7 @@ IMDB
 ## Mozart! das Musical
 
 Mozart! - Vienna, Austria - 2015
-{: .fs-5 .text-gamma .d-inline-block }
+{: .fs-5 .pb-0 .text-gamma .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
