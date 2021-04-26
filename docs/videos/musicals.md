@@ -4471,6 +4471,21 @@ CAST
 NOTES
 : Beautiful capture of the ever stunning Heather Headley joining the cast. There really is no need to say anymore! A
 
+The Color Purple - Curve Theatre - 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `4.94 GB`
+
+CAST
+: T’shan Williams (Celie), Danielle Fiamanya (Nettie), Anelisa Lamola (Church Soloist), Rosemary Annabella Nkrumah (Darlene), Danielle Kassaraté (Doris), Landi Oshinowo (Jarene), Jochebel Ohene Maccarthy (Church Tamborinist), Km Drew Boateng (Pa & Bobby), Jo Servi (Preacher & Grady Mister), Ako Mitchell (Mister), Simon-Anthony Rhoden (Harpo), Karen Mavundukure (Sofia), Perola Congo (Squeak), Carly Mercedes Dyer (Shug Avery), Geoff Aymer (Ol’ Mister), Owen Chaponda (Guard)
+
+NOTES
+: \"The Color Purple – At Home\" streamed from February 16 to March 16, 2021. Includes Programme and Education Pack PDFs.
+
 ## Come From Away
 
 Come From Away - Washington D.C. - September 24, 2016
@@ -9517,6 +9532,9 @@ Moulin Rouge! - Broadway - January, 2020 (Ashley Loren)
 StarCuffedJeans
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : MP4 `1080p` `5.05 GB`
 
@@ -9549,6 +9567,18 @@ NOTES
 
 IMDB
 : <https://www.imdb.com/title/tt0203009/>
+
+La Belle Bizarre du Moulin Rouge - Hamburg, Germany - January 17, 2009
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Anna Montanaro, Jesper Tyden
+
+NOTES
+: A stage musical version of the film “Moulin Rouge”.  The dialogue is in German, and the songs are in English.  Not the complete show-first act only.  Filmed from the balcony.
 
 ## Mozart! das Musical
 

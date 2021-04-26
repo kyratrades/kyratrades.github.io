@@ -688,7 +688,7 @@ FORMAT
 : MP4 `1080p` `7.18 GB`
 
 CAST
-: Laurel Harris (s/b Elphaba), Katie Rose Clarke (Glinda), Ryan McCartan (Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Kristen Martin (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond), Manuel Herrera (Chistery), Kathy Santen (Midwife), Sterling Masters (Witch\'s Mother), William Ryall (Witch\'s Father / Ozian Official)
+: Laurel Harris (s/b Elphaba), Katie Rose Clarke (Glinda), Ryan McCartan (Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Gizel Jimenez (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond), Manuel Herrera (Chistery), Kathy Santen (Midwife), Sterling Masters (Witch\'s Mother), William Ryall (Witch\'s Father / Ozian Official)
 
 NOTES
 : This is a vivid 4K video with almost no obstructions. Pretty much everything is centered, with beautiful zooms but also wider shots that showcase the dancing and set design. At times the video appears on an angle because my wrists are weak, but you don\'t miss anything because of it. There is also washout at times, but I do believe my camera handles the spotlights better than a lot of Wicked videos. All in all this is a gorgeous capture of old and new cast members\... I\'m not finished yet in this bootleg business but if I was this could be my magnum opus.

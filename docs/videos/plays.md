@@ -570,6 +570,9 @@ Noises Off - Second Broadway Revival - February 24, 2016
 SunsetBlvd79
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `2 DVDs`
 
@@ -803,6 +806,24 @@ NOTES
 
 ## Vanya and Sonia and Masha and Spike
 
+Vanya and Sonia and Masha and Spike - Lincoln Center Theater - 2012
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: MP4 `1080p` `3.19 GB` `WEB-DL`
+
+CAST
+: Nicholas Martin, featuring Genevieve Angelson, Shalita Grant, Billy Magnussen, Kristine Nielsen, David Hyde Pierce and Sigourney Weaver
+
+NOTES
+: Includes digital program, .srt and .vtt subtitles, and assortment of extras – backstage tour, rehearsal room footage, etc. Streamed March 18 - April 11, 2021 as part of "Private Reels: From the Lincoln Center Theater Archive". Read more about it [here](https://www.playbill.com/article/lincoln-center-theater-production-of-vanya-and-sonia-and-masha-and-spike-streams-beginning-march-18).
+
 Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -811,7 +832,7 @@ Issues
 
 FORMAT
 : VOB+smalls `1 DVD`
-: Only can play the playbill from the menu, video closes out when attempting to click on either act. Would trade for a functional copy!
+: Can pnly play the playbill from the menu, video closes out when attempting to click on either act. Would trade for a functional copy!
 
 CAST
 : David Hyde Pierce (Vanya), Kristine Nielsen (Sonia), Sigourney Weaver (Masha), Billy Magnussen (Spike), Shalita Grant (Cassandra), Genevieve Angelson (Nina)

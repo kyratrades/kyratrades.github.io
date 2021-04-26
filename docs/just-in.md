@@ -16,7 +16,37 @@ ___
 
 ## April, 2021
 
-### Apr 22, 2021
+### Apr 27, 2021
+
+Vanya and Sonia and Masha and Spike - Lincoln Center Theater - 2012
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `3.19 GB` `WEB-DL`
+
+CAST
+: Nicholas Martin, featuring Genevieve Angelson, Shalita Grant, Billy Magnussen, Kristine Nielsen, David Hyde Pierce and Sigourney Weaver
+
+NOTES
+: Includes digital program, .srt and .vtt subtitles, and assortment of extras – backstage tour, rehearsal room footage, etc. Streamed March 18 - April 11, 2021 as part of "Private Reels: From the Lincoln Center Theater Archive". Read more about it [here](https://www.playbill.com/article/lincoln-center-theater-production-of-vanya-and-sonia-and-masha-and-spike-streams-beginning-march-18).
+
+The Color Purple - Curve Theatre - 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `4.94 GB`
+
+CAST
+: T’shan Williams (Celie), Danielle Fiamanya (Nettie), Anelisa Lamola (Church Soloist), Rosemary Annabella Nkrumah (Darlene), Danielle Kassaraté (Doris), Landi Oshinowo (Jarene), Jochebel Ohene Maccarthy (Church Tamborinist), Km Drew Boateng (Pa & Bobby), Jo Servi (Preacher & Grady Mister), Ako Mitchell (Mister), Simon-Anthony Rhoden (Harpo), Karen Mavundukure (Sofia), Perola Congo (Squeak), Carly Mercedes Dyer (Shug Avery), Geoff Aymer (Ol’ Mister), Owen Chaponda (Guard)
+
+NOTES
+: \"The Color Purple – At Home\" streamed from February 16 to March 16, 2021. Includes Programme and Education Pack PDFs.
 
 Metamorphoses - Broadway - April 10, 2002
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -83,6 +113,41 @@ CAST
 
 NOTES
 : The musical is performed  as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway's best alternating in the roles. For the second show, they had a video screen projecting a nice wide shot of the entire show. Video is a clear and unobstructed screen capture of the show. Tapers camera went out during the song "Suck It", so only the first minute of this song is captured. Picks right back up at the intro/beginning of the next song, "With You." Otherwise a great quality capture.  Originally planned as a one night only event, this was filmed on the second night of the world premier presentation of this new musical.   A-
+
+### Apr 24, 2021
+
+La Belle Bizarre du Moulin Rouge - Hamburg, Germany - January 17, 2009
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Anna Montanaro, Jesper Tyden
+
+NOTES
+: A stage musical version of the film “Moulin Rouge”.  The dialogue is in German, and the songs are in English.  Not the complete show-first act only.  Filmed from the balcony.
+
+Patti LuPone At Les Mouches - New York - 1980
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: During her run in Evita, Tony Award winner Patti LuPone played an extended, acclaimed engagement at the now defunct New York nightspot Les Mouches.  After she finished up with Evita she headed over to the gay disco Les Mouches in Chelsea for this Midnight Saturday cabaret show.
+: Recorded on the last night of the 30-week run.  Filmed using one camera on a tripod with sound patched directly in from the sound board.  Some generational loss. (To see a modern-day recreation of this show, see Leslie Kritzer IS Patti LuPone At Les Mouches.)
+
+Patti LuPone: Matters Of The Heart - Los Angeles, CA - August 28, 1998
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Patti LuPone in concert at the Cerritos Center in Los Angeles, with Dick Gallagher at the piano.  This was the first time she did this particular concert, which she presented on Broadway in 2000, and then toured through 2005.  She edited the show down a lot from what is presented here.  This was recorded on the first of two nights.  Songs include: "Ridin' High," "I've Still Got My Health," "Let's Face the Music and Dance," "A Mile Down the Highway (There's a Toll Bridge)", "Where Love Resides," "Storybook," Theme from Carnival ("Love Makes The World Go 'Round"), "A Cock-Eyed Optimist," "I Want a Man," "It's For You," "I'm In Love with a Wonderful Guy," "Shattered Illusions," "They Say It's Wonderful," "Not a Day Goes By," "Playbill," John Bucchino "Bewitched," "I Will," "Air That I Breathe," "Sand and Water," "Being Alive," "When the World Was Young," "I Never Do Anything Twice," "I Regret Everything," "Real Emotional Girl," "My Father," "Look Mummy, No Hands," "My Son," "Back To Before," "Same Old Lang Syne," "Hello Young Lovers," "If These Walls Could Speak," "Don't Cry For Me Argentina," "As Long As He Needs Me," "I Dreamed a Dream," "The Way You Look Tonight”.  Nicely filmed from the balcony.  Some spotlight washout.
+
+### Apr 22, 2021
 
 Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -263,8 +328,6 @@ NOTES
 : The best of Broadway wowed a sold-out house at the Al Hirschfeld Theatre, bringing laughter, tears and cheers to the unforgettable ninth annual edition of Broadway Backwards. Performances by Bryan Batt, Uzo Aduba, Rachel Bay Jones, Andrew Keenan- Bolger, Stephanie J. Block, John Tartaglia, Andrew Rannells, Norm Lewis, Debra Monk, Jonathan Groff, Beth Leavel and Billy Porter. Multicam proshot.
 
 ### Mar 24, 2021
-
-## Rebecca das Musical
 
 Rebecca - Seoul, South Korea - January 29, 2020
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }

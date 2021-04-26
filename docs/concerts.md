@@ -107,6 +107,9 @@ NOTES
 Broadway Miscast - MCC Theatre - March 4, 2013
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
+Listened
+{: .label .label-yellow }
+
 FORMAT
 : MP3 `24 tracks`
 
@@ -616,6 +619,16 @@ NOTES
 
 ## Patti Lupone
 
+Patti LuPone At Les Mouches - New York - 1980
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: During her run in Evita, Tony Award winner Patti LuPone played an extended, acclaimed engagement at the now defunct New York nightspot Les Mouches.  After she finished up with Evita she headed over to the gay disco Les Mouches in Chelsea for this Midnight Saturday cabaret show.
+: Recorded on the last night of the 30-week run.  Filmed using one camera on a tripod with sound patched directly in from the sound board.  Some generational loss. (To see a modern-day recreation of this show, see Leslie Kritzer IS Patti LuPone At Les Mouches.)
+
 An Evening with Patti LuPone - PBS Special - 1997
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -624,6 +637,15 @@ Watched
 
 NOTES
 : On the same DVD as the [Anything Goes \'lost footage\'](https://kyratrades.github.io/musicals#anything-goes---first-broadway-revival---1988-lost-footage-highlights)
+
+Patti LuPone: Matters Of The Heart - Los Angeles, CA - August 28, 1998
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Patti LuPone in concert at the Cerritos Center in Los Angeles, with Dick Gallagher at the piano.  This was the first time she did this particular concert, which she presented on Broadway in 2000, and then toured through 2005.  She edited the show down a lot from what is presented here.  This was recorded on the first of two nights.  Songs include: "Ridin' High," "I've Still Got My Health," "Let's Face the Music and Dance," "A Mile Down the Highway (There's a Toll Bridge)", "Where Love Resides," "Storybook," Theme from Carnival ("Love Makes The World Go 'Round"), "A Cock-Eyed Optimist," "I Want a Man," "It's For You," "I'm In Love with a Wonderful Guy," "Shattered Illusions," "They Say It's Wonderful," "Not a Day Goes By," "Playbill," John Bucchino "Bewitched," "I Will," "Air That I Breathe," "Sand and Water," "Being Alive," "When the World Was Young," "I Never Do Anything Twice," "I Regret Everything," "Real Emotional Girl," "My Father," "Look Mummy, No Hands," "My Son," "Back To Before," "Same Old Lang Syne," "Hello Young Lovers," "If These Walls Could Speak," "Don't Cry For Me Argentina," "As Long As He Needs Me," "I Dreamed a Dream," "The Way You Look Tonight”.  Nicely filmed from the balcony.  Some spotlight washout.
 
 Coulda Woulda Shoulda - Orange County, California - October 10, 2009
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
