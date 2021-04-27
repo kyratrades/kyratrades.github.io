@@ -1862,7 +1862,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -2487,6 +2487,40 @@ CAST
 
 NOTES
 : A fantastic regional production by McCoy/Rigby Entertainment. The cast is phenomenal, and I believe this is the only full capture of Mitchell in the role. A near perfect capture with no obstruction and no washout. The first minute of act two is blacked out, and there are a couple quick dropouts between scenes, but the rest of the show is fully intact. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+## Bitter And Happy
+
+Bitter And Happy - Macau - April, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SpaceAlienWithFourButts
+{: .label .label-blue }
+
+FORMAT
+: M2TS `1080p` `NFT`
+: NFT except through [master](https://spacealienwithfourbutts.weebly.com)
+
+CAST
+: Lam Wai Kei, Ng Jeon Zung, Sek Jan Ci
+
+MASTER'S NOTES
+: A decent video of this Macau original play filmed from the front row. It has more closeups compared to the first master.  It doesn't include the curtain call. The show is performed in Cantonese.
+
+Bitter And Happy - Macau - April, 2021 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SpaceAlienWithFourButts
+{: .label .label-blue }
+
+FORMAT
+: M2TS `1080p` `NFT`
+: NFT except through [master](https://spacealienwithfourbutts.weebly.com)
+
+CAST
+: Lam Wai Kei, Ng Jeon Zung, Sek Jan Ci
+
+MASTER'S NOTES
+: It doesn't have a lot of close-ups as my other masters cause I was in no mood to bootleg. It misses the first 15 minutes and ends in the middle of the curtain call. The show is performed in Cantonese.
 
 ## Blood Brothers
 
@@ -5514,7 +5548,7 @@ NOTES
 
 # F
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fela">Fela!</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#freaky-friday">Freaky Friday</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/musicals#fanny">Fanny</a> • <a href="https://kyratrades.github.io/musicals#fantasticks">Fantasticks</a> • <a href="https://kyratrades.github.io/musicals#fela">Fela!</a> • <a href="https://kyratrades.github.io/musicals#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/musicals#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/musicals#flowers-for-algernon">Flowers For Algernon</a> • <a href="https://kyratrades.github.io/musicals#follies">Follies</a> • <a href="https://kyratrades.github.io/musicals#fosse">Fosse</a> • <a href="https://kyratrades.github.io/musicals#freaky-friday">Freaky Friday</a> • <a href="https://kyratrades.github.io/musicals#frozen">Frozen</a> • <a href="https://kyratrades.github.io/musicals#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/musicals#funny-girl">Funny Girl</a> • <a href="https://kyratrades.github.io/musicals#a-funny-thing-happened-on-the-way-to-the-forum">A Funny Thing Happened on the Way to the Forum</a></p>
 
 ## Falsettos
 
@@ -5743,6 +5777,24 @@ CAST
 
 NOTES
 : There are many scene and dialogue changes made from the Broadway version, as well as a couple new songs added for the tour. Billy and Christine give wonderful performances. This is perfectly captured with no blackouts, no obstruction, and no washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+## Flowers For Algernon
+
+Flowers For Algernon - Guangzhou, China - March 28, 2021 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SpaceAlienWithFourButts
+{: .label .label-blue }
+
+FORMAT
+: MTS `1080p` `NFT forever`
+: Contact the master [here](https://spacealienwithfourbutts.weebly.com).
+
+CAST
+: Zhang Junbo (Charlie Gordon), Gloria Guo Yaorong (Alice Kinnian), Guo Junyu (Porfessor Harold Nemur), Sun Lijie (Dr.Strauss), Li Lei (Matt Goldon/Joe Carp), Zheng Ling (Rose Goldon/Mrs.Donner), Lian Jiangwei (Mr.Donner), Tang Chao (Gimpy), Jiang Xu (Fanny)
+
+MASTER'S NOTES
+: A pretty watchable video of the Chinese musical adaptation of Daniel Keyes's novel. It is different from the English musical 'Charlie and Algernon' which is based on the same novel. The video is full. I wasn't in a good position for bootlegging. I had my cam on my chest for the first 15 minutes and I didn't get a good shot of the stage. But then I found my own way and the video quality is way better after that. It has a lot of close-ups. However it was my very first time to film with this camcorder and I forgot to adjust the mode and shooting format so the resolution is not very high. Even so you can still see well the faces of the actors when zooming in.
 
 ## Follies
 
@@ -6415,8 +6467,8 @@ FORMAT
 CAST
 : Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)
 
-NOTES
-: \[Please don't trade any of my masters to dontsaythebword/broadwayenthusiast\] My first Broadway video, unfortunately I had a tech issue and the video stops right near the end of Epic III. Act I has washout, it gets better in Act II, but I\'m still figuring out how to film in professional theaters (they got some BRIGHT LIGHTS!!!) There are two heads seen on the side of the video during most parts as I am a mere five feet tall. Some performers get cut off by the mezzanine bar when they\'re at the front of the stage (especially Eva). But overall I\'m really happy with how it came out! The only dropouts are inbetween songs (I really couldn\'t stop myself from cheering and clapping at this one) Please contact me if you are interested in this video! It is NFT except through me until Dec. 1, after that it is fully tradeable!
+MASTER'S NOTES
+: My first Broadway video, unfortunately I had a tech issue and the video stops right near the end of Epic III. Act I has washout, it gets better in Act II, but I\'m still figuring out how to film in professional theaters (they got some BRIGHT LIGHTS!!!) There are two heads seen on the side of the video during most parts as I am a mere five feet tall. Some performers get cut off by the mezzanine bar when they\'re at the front of the stage (especially Eva). But overall I\'m really happy with how it came out! The only dropouts are inbetween songs (I really couldn\'t stop myself from cheering and clapping at this one).
 
 Hadestown - Broadway - January, 2020
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -10058,6 +10110,22 @@ CAST
 
 NOTES
 : Judy McLane has one of those voices that is somehow always perfect, and she sings the hell out of this score. This was her second time playing Diana, and had a somewhat different take on the role since her first time in 2011 - more vulnerable, more intense. Filmed with a newer HD camera and compiled with different DVD software, now generating two discs instead of one - better quality! Great 16:9 capture with little obstruction or washout except in the wide shots - great picture in medium and close zooms. Brief 30-second dropout at start of Act 2 due to wrong camera settings that were quickly fixed. Audio fed in from external source, so the audio is nice and clear.
+
+Next to Normal - Guangzhou, China - April 18, 2021 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SpaceAlienWithFourButts
+{: .label .label-blue }
+
+FORMAT
+: M2TS `1080p` `NFT forever`
+: Contact the master [here](https://spacealienwithfourbutts.weebly.com).
+
+CAST
+: 朱芾 Zhu Fu (Diana Goodman), 赵禹钧 Zhao Yujun (Dan), 高雨晨 Gao Yuchen (Gabe), 严中杰 Yan Zhongjie (Natalie),  陈凯 Chen Kai (Henry), 乐巍 Le Wei (Dr. Fine/Dr. Madden)
+
+MASTER'S NOTES
+: There are some blackouts during everything else, who’s crazy and the scene in between cause some people were late for the show and a few seconds of dropout in I Miss the Mountain. But still, it’s got great close-ups. If you hear some noise in the video, that’s poor little me wiping my tears. Both actress in this show are amazing.
 
 ## Nine
 
