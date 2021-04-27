@@ -107,9 +107,6 @@ NOTES
 Broadway Miscast - MCC Theatre - March 4, 2013
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
-Listened
-{: .label .label-yellow }
-
 FORMAT
 : MP3 `24 tracks`
 
@@ -124,6 +121,9 @@ Broadway Miscast - MCC Theatre - April 3, 2017
 
 wickedlittletown
 {: .label .label-blue }
+
+Listened
+{: .label .label-yellow }
 
 FORMAT
 : MP3 `23 tracks`
