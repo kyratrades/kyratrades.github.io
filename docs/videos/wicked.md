@@ -16,7 +16,7 @@ permalink: /wicked
 
 ---
 
-### Broadway
+## Broadway
 
 Wicked - Broadway - October, 2003 (Highlights) 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -765,7 +765,7 @@ FORMAT
 CAST
 : Jennifer DiNoia (s/b Elphaba), Celia Hottenstein (u/s Glinda), Sam Gravitte (Fiyero), Michael McCormick (The Wizard), Alexandra Billings (Madame Morrible), Shoba Narayan (Nessarose), Riley Costello (Boq), Michael X Martin (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch's Mother), Bret Shuford (u/s Witch's Father / Ozian Official)
 
-### Chicago
+## Chicago
 
 Wicked - Chicago - August 5, 2006
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -816,7 +816,7 @@ CAST
 NOTES
 : Some head and railing obstructions throughout the show; misses the far right side of the stage but some nice close-ups and excellent sound on the video; first couple minutes of each act are blacked out, and there are a few quick dropouts throughout the show. In 2 dvd; sunsetblvd79\'s master is better than this copy, this one is just for completionists.
 
-### First National Tour
+## First National Tour
 
 Wicked - First National Tour (Emerald City) - April 23, 2005
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1145,7 +1145,7 @@ CAST
 NOTES
 : Closing night performance of the 1st National Tour. Emotional and wonderful show.
 
-### Japan
+## Japan
 
 Wicked - Japan - January 28, 2008
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1156,7 +1156,7 @@ FORMAT
 CAST
 : Megumi Hamada (Elphaba), Asako Tomada (u/s Glinda), Li Tao (Fiyero), Kurihara Hideo (u/s The Wizard), Mori Izumi (Madame Morrible), Yamamoto Takae (Nessarose), Takayuki Ito (Boq), Tamaki Endo (Midwife), Akane Mao (Witch\'s Mother), Kazunari Shirakura (u/s Witch\'s Father / Ozian Official)
 
-### West End
+## West End
 
 Wicked - West End - 2006
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1466,7 +1466,7 @@ CAST
 NOTES
 : Very high quality, good zooms and close ups, minimal spotlight washout. There are a few blackouts during One Short Day, presumably due to ushers, but follows the action well
 
-### Los Angeles
+## Los Angeles
 
 Wicked - Los Angeles - April 14, 2007
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1659,7 +1659,7 @@ FORMAT
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Briana Yacavone (Nessarose), Eddy Rioseco (Boq), Tom Flynn (Doctor Dillamond)
 
-### Stuttgart
+## Stuttgart
 
 Wicked - Stuttgart - October, 2007 (Highlights)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1733,7 +1733,7 @@ CAST
 NOTES
 : Missing room assignments and MOTWH. Very shaky camera
 
-### San Francisco
+## San Francisco
 
 Wicked - San Francisco - August 5, 2009
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1762,7 +1762,7 @@ FORMAT
 CAST
 : Marcie Dodd (Elphaba), Alli Mauzey (Glinda), Cliffton Hall (Fiyero), Tom McGowan (The Wizard), Jody Gelb (Madame Morrible), Deedee Magno Hall (Nessarose), Etai BenShlomo (Boq), Paul Slade Smith (Doctor Dillamond), Nicky Venditti (Chistery), Fiama Fricano (Midwife), Neka Zang (Witch\'s Mother), Tim Talman (Witch\'s Father / Ozian Official)
 
-### Second National Tour
+## Second National Tour
 
 Wicked - Second National Tour (Munchkinland) - March 28, 2009 (Matinee) 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1927,7 +1927,7 @@ CAST
 NOTES
 : Shot with a high quality camera from the balcony. A mix of wide and zooms. Starts a few minutes into no one mourns the wicked. Second act is missing thank goodness and part of governor's mansion--does include wicked witch of the east. Occasional shakiness and waundering, sometimes heads are cut a bit, some whiteouts and bluriness (especially during Defying Gravity camera was just really struggling, sorry!)
 
-### Oberhausen
+## Oberhausen
 
 Wicked - Oberhausen - May 2, 2010
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1979,7 +1979,7 @@ CAST
 NOTES
 : Awesome filming quality, very steady, great zooms and close-ups. Willemijn, Cèline, and Ferry are all phenomenal! A very funny mess-up takes place in act two. Penultimate show for production. Final show for Cèline Purcell and Ferry Doedens. Muck-up where Fiyero flies in with a broom instead of a rifle in Catfight
 
-### Mexico
+## Mexico
 
 Wicked - Mexico - 2006
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -2026,7 +2026,7 @@ CAST
 NOTES
 : One of the best wicked korean bootlegs to be ever filmed. Oak Joo Hyun is killing it with her ruffs and Kim Bo Kyung is a bouncy, funny but at times serious Glinda. During catfight after Fiyero swings in, Kim throws the hat accidentally to Oak's face but Oak and Kim both managed to stay in character despite some laughter from audience.
 
-### Brazil
+## Brazil
 
 Wicked - Brazil - February, 2016 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -2043,7 +2043,7 @@ CAST
 NOTES
 : Rehearsal performance without audience. Only producers are present so there\'s very little applause. Sound is not from the soundboard.
 
-### International Tour
+## International Tour
 
 Wicked - International Tour - April 15, 2017
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -2057,7 +2057,7 @@ FORMAT
 CAST
 : Jodie Steele (alt Elphaba), Carly Anderson (Glinda), Bradley Jaden (Fiyero), Steven Pinder (The Wizard), Kim Ismay (Madame Morrible), Emily Shaw (Nessarose), Iddon Jones (Boq), Steven Pinder (Doctor Dillamond)
 
-### Specials
+## Specials
 
 Ugly Betty, The Wicked Episode - TV Broadcast (ABC-TV) - November 1, 2007
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
