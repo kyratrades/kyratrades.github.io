@@ -11610,12 +11610,10 @@ Pro-Shot
 
 FORMAT
 : MP4 `1080p` `1.27 GB`
-
-COMMENTS
-: Includes tracked audio
+: Includes fan-tracked audio
 
 CAST
-: Wayne Brady (Django), Tituss Burgess (Remy), Kevin Chamberlin (Gusteau), André De Shields (Ego), Andrew Barth Feldman (Linguini), Adam Lambert (Emile), Priscilla Lopez (Mabel), Ashley Park (Colette), Owen Tabaka (Young Ego), Mary Testa (Skinner), Cori Jaskier, Talia Suskauer, Nikisha Williams, JJ Niemann, John Michael Lyles, Raymond J. Lee, Joy Woods
+: Wayne Brady (Django), Tituss Burgess (Remy), Kevin Chamberlin (Auguste Gusteau), André De Shields (Anton Ego), Andrew Barth Feldman (Linguini), Adam Lambert (Emile), Priscilla Lopez (Mabel), Ashley Park (Colette), Mary Testa (Skinner), Michael Breslin (Reporter), Patrick Foley (Reporter), Adrianna Hicks (Rat Queen), Cori Jaskier (Vocal Ensemble), Sandy Keyon (TV Anchor), Nicole Lambert (Rat Queen), Raymond J. Lee (Vocal Ensemble), John-Michael Lyles (Vocal Ensemble), Andrea Macasaet (Rat Queen), Brittany Mack (Rat Queen), Courtney Mack (Rat Queen), Mallory Maedke (Rat Queen), Abby Mueller, Jj Niemann (Vocal/Dance Ensemble), Larry Owens (Reporter), Samantha Pauly (Rat Queen), Talia Suskauer (Vocal Ensemble), Owen Anthony Tabaka (young Anton Ego), Anna Uzele (Rat Queen), Natalie Walker (Reporter), Nikisha Williams (Vocal Ensemble), Joy Woods (Dance Ensemble)
 
 ## Rebecca das Musical
 
