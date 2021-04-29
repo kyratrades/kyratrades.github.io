@@ -96,10 +96,9 @@ Pro-Shot
 
 FORMAT
 : MKV `720p` `Screen recording`
-: Soundcheck + Concert (except for the last song)
 
 NOTES
-: [Link](https://www.todaytix.com/x/nyc/shows/22913-stephanie-j.-block-and-sebastian-arcelus-and-seth-rudetsky) Low-quality screenrecording of the concert, technical issues towards the end.
+: \[[Link](https://www.todaytix.com/x/nyc/shows/22913-stephanie-j.-block-and-sebastian-arcelus-and-seth-rudetsky)\] Low-quality screenrecording of the concert, technical issues towards the end. Includes soundcheck but missing the last song of the concert.
 
 SUTTON FOSTER: Bring Me to Light - City Center - April, 2021
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -111,7 +110,7 @@ FORMAT
 : MP4 `1080p` `1.49 GB`
 
 NOTES
-: [Link](https://www.todaytix.com/x/nyc/shows/23081-sutton-foster-or-bring-me-to-light) Sutton Foster takes over New York City Center, filling it with her indomitable spirit, for a concert with her friends Raúl Esparza, Joaquina Kalukango, Kelli O’Hara, and Wren Rivera that celebrates their connections to the historic theater and reflects on the challenges facing all of us. Together, they enliven City Center with the hope of what lies ahead through performances of musical theater favorites from Anyone Can Whistle, Camelot, Oklahoma!, South Pacific, Violet, The Wild Party, and more. Accompanied by Music Director Michael Rafter (piano) and Matt Hinkley (guitar), Bring Me to Light is directed by Leigh Silverman, with Jeanine Tesori serving as Creative Producer.
+: \[[Link](https://www.todaytix.com/x/nyc/shows/23081-sutton-foster-or-bring-me-to-light)\] Sutton Foster takes over New York City Center, filling it with her indomitable spirit, for a concert with her friends Raúl Esparza, Joaquina Kalukango, Kelli O’Hara, and Wren Rivera that celebrates their connections to the historic theater and reflects on the challenges facing all of us. Together, they enliven City Center with the hope of what lies ahead through performances of musical theater favorites from Anyone Can Whistle, Camelot, Oklahoma!, South Pacific, Violet, The Wild Party, and more. Accompanied by Music Director Michael Rafter (piano) and Matt Hinkley (guitar), Bring Me to Light is directed by Leigh Silverman, with Jeanine Tesori serving as Creative Producer.
 
 ### Apr 27, 2021
 
