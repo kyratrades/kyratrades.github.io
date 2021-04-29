@@ -22,7 +22,9 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 ### Trading
-Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
+Online trading only. All items listed "NFT" are by the request of the master, I will not trade or sell them.
+
+Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
 
 For example:
 ```yaml
