@@ -12,7 +12,7 @@ permalink: /wicked
 ### Navigation
 {: .no_toc }
 
-<p align="center"><a href="https://kyratrades.github.io/wicked#broadway">Broadway</a> • <a href="https://kyratrades.github.io/wicked#chicago">Chicago</a> • <a href="https://kyratrades.github.io/wicked#first-national-tour">First National Tour</a> • <a href="https://kyratrades.github.io/wicked#japan">Japan</a> • <a href="https://kyratrades.github.io/wicked#west-end">West End</a> • <a href="https://kyratrades.github.io/wicked#los-angeles">Los Angeles</a> • <a href="https://kyratrades.github.io/wicked#stuttgart">Stuttgart</a> • <a href="https://kyratrades.github.io/wicked#san-francisco">San Francisco</a> • <a href="https://kyratrades.github.io/wicked#second-national-tour">Second National Tour</a> • <a href="https://kyratrades.github.io/wicked#oberhausen">Oberhausen</a> • <a href="https://kyratrades.github.io/wicked#scheveningen">Scheveningen</a> • <a href="https://kyratrades.github.io/wicked#mexico">Mexico</a> • <a href="https://kyratrades.github.io/wicked#brazil">Brazil</a> • <a href="https://kyratrades.github.io/wicked#international-tour">International Tour</a> • <a href="https://kyratrades.github.io/wicked#specials">Specials</a></p>
+<p align="center"><a href="https://kyratrades.github.io/wicked#broadway">Broadway</a> • <a href="https://kyratrades.github.io/wicked#chicago">Chicago</a> • <a href="https://kyratrades.github.io/wicked#first-national-tour">First National Tour</a> • <a href="https://kyratrades.github.io/wicked#japan">Japan</a> • <a href="https://kyratrades.github.io/wicked#west-end">West End</a> • <a href="https://kyratrades.github.io/wicked#los-angeles">Los Angeles</a> • <a href="https://kyratrades.github.io/wicked#stuttgart">Stuttgart</a> • <a href="https://kyratrades.github.io/wicked#san-francisco">San Francisco</a> • <a href="https://kyratrades.github.io/wicked#second-national-tour">Second National Tour</a> • <a href="https://kyratrades.github.io/wicked#oberhausen">Oberhausen</a> • <a href="https://kyratrades.github.io/wicked#scheveningen">Scheveningen</a> • <a href="https://kyratrades.github.io/wicked#mexico">Mexico</a> • <a href="https://kyratrades.github.io/wicked#korea">Korea</a> • <a href="https://kyratrades.github.io/wicked#brazil">Brazil</a> • <a href="https://kyratrades.github.io/wicked#international-tour">International Tour</a> • <a href="https://kyratrades.github.io/wicked#specials">Specials</a></p>
 
 ---
 
@@ -2011,6 +2011,20 @@ CAST
 
 NOTES
 : Very interesting low scale production. Different translation than the recent Mexico City production, but it\'s still okay for the most part. Leads are decent but not great, it is technically a replica production, but the sets are smaller and a lot of the fancier things are left out. Proshot, and induces rehearsal footage. Directed by future Mexican Dr. Dillamond Beto Torres!
+
+## Korea
+
+Wicked - Seoul, Korea - March 28, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: WMV `720p` `4.57 GB`
+
+CAST
+: 옥주현 Ock Joo-Hyun (Elphaba), 김보경 Kim Bo Kyung (Glinda), 조상웅 Jo Sang Woong (Fiyero), 남경주 Nam Kyung Ju (The Wizard), 김영주 Kim Young Joo (Madame Morrible), 이에은 Lee Ye Eun (Nessarose), 긴동현 Kim Dong Hyun (Boq),  초정근 Cho Jung Keun (Doctor Dillamond)
+
+NOTES
+: One of the best wicked korean bootlegs to be ever filmed. Oak Joo Hyun is killing it with her ruffs and Kim Bo Kyung is a bouncy, funny but at times serious Glinda. During catfight after Fiyero swings in, Kim throws the hat accidentally to Oak's face but Oak and Kim both managed to stay in character despite some laughter from audience.
 
 ### Brazil
 

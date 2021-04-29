@@ -6870,6 +6870,21 @@ NOTES
 
 ## Hello, Dolly!
 
+Hello, Dolly! - World Tour - 1966
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Mary Martin
+
+NOTES
+: Hosted by Mary Martin. A TV documentary about the many different productions of the show from Broadway to London to Japan and beyond. Includes many rare clips. Most of the video focuses on the productions in Japan and Vietnam, featuring Martin. Some generational Loss.
+
 Hello, Dolly! - Fourth National Tour - July, 1977 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -8536,6 +8551,21 @@ CAST
 
 NOTES
 : Highlights include from \"Dentist!\" to \"Mushnik and Son\" and from \"Suddenly Seymour\" to \"Suppertime\"
+
+Little Shop of Horrors - Renaissance Theatre - April, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `3.62 GB`
+
+CAST
+: Ryan Shreve (Seymour Krelborn), Emma Skaggs (Audrey) Scott Smith (Orin Scrivello/Various), Condrea Webber (Audrey II), Beau Robert (Mr. Mushnik), Antonio Brown (Ronette), Leiah Lewis (Crystal), Nykera Gardner (Chiffon)
+
+NOTES
+: Recorded with a live audience then streamed to at-home audiences
 
 ## Little Women
 
@@ -11572,7 +11602,7 @@ CAST
 
 # R
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/musicals#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/musicals#rent">RENT</a> • <a href="https://kyratrades.github.io/musicals#the-rocky-horror-show">The Rocky Horror Show</a> • <a href="https://kyratrades.github.io/musicals#roméo-et-juliette-gérard-presgurvic">Roméo et Juliette (Gérard Presgurvic)</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/musicals#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/musicals#rent">RENT</a> • <a href="https://kyratrades.github.io/musicals#rock-of-ages">Rock of Ages</a> • <a href="https://kyratrades.github.io/musicals#the-rocky-horror-show">The Rocky Horror Show</a> • <a href="https://kyratrades.github.io/musicals#roméo-et-juliette-gérard-presgurvic">Roméo et Juliette (Gérard Presgurvic)</a></p>
 
 ## Ragtime
 
@@ -11725,7 +11755,27 @@ CAST
 : Gilles Chiasson, Wilson Jermaine Heredia, Rodney Hicks, Christopher Jackson, Kristen Lee Kelly, Tamika Lawrence, Jesse L. Martin, Idina Menzel, Aiko Nakasone, Eva Noblezada, Adam Pascal, Ben Platt, Billy Porter, Anthony Rapp, Daphne Rubin-Vega, Ali Stroker, Tracie Thoms, Byron Utley, Fredi Walker-Browne, Sebastian Arcelus, Annaleigh Ashford, Martha Banta, Adam Chanler-Berat, Linda Chapman, Nicholas Christopher, Paul Clay, Wilson Cruz, Brandon Victor Dixon, Wendy Ettinger, Stephen Graham, Michael Greif, Janet Harckham, Jeremy O. Harris, Neil Patrick Harris, Victoria Leacock Hoffman, Mariko Kojima, Julie Larson, Telly Leung, Kamilah Marshall, Kevin McCollum, Lin-Manuel Miranda, Anaïs Mitchell, Shakina Nayfack, James C. Nicola, Dael Orlandersmith, Councilmember Carlina Rivera, Jai Rodriguez, Jeffrey Seller, Leigh Silverman, Ephraim Sykes, Bernie Telsey, Jennifer Ashley Tepper, Ivo van Hove, Tom Viola, Tim Weil, Angela Wendt, Marlies Yearby, And many more!
 
 NOTES
-: Includes Livestream with Chat, Trivia breakout room, Rent Singalong, Reflections from Andy Señor Jr, James C. Nicola, & Victor I. Cazares, and bonus photos and materials from Rent through the years. 
+: Includes Livestream with Chat, Trivia breakout room, Rent Singalong, Reflections from Andy Señor Jr, James C. Nicola, & Victor I. Cazares, and bonus photos and materials from Rent through the years.
+
+## Rock of Ages
+
+### Specials
+
+Rock of Ages Live: All Star Reunion Concert - April 23, 3021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `11.75 GB` `WEB-DL`
+
+CAST
+: Constantine Maroulis, Laura Bell Bundy, Frankie Grande, Kyle Gass, Chris Hardwick, Kate Rockwell, Mitchell Jarvis, Wesley Taylor, Willam, Dot-Marie Jones, Dan Finnerty, Tom Lenk, Kerry Butler, James Snyer, James Carpinello, Dee Snider, Andre Ward, Becca Jotte, Amy Spanger, Adam Dannheisser, Michele Mais, Callandra Olivia, Reginia Levert, Matt Wolpe, Chris D'arienzo, Dave Gibbs
+
+NOTES
+: The BEST-REVIEWED, MOST-NOMINATED, LONGEST RUNNING, [hair band] musical of all time, Rock of Ages, will play a one-night only, livestream shredfest, featuring an all star “supergroup” of RoA alumni. Prepare to STREAM at the top of your lungs to some of the greatest 80’s hits, like you’ve never heard them before – live from the REAL Bourbon Room Hollywood stage. Pants optional, rock horns required!
+: Includes full show directly downloaded and screen recording of full show with live comments from other watchers (for true fans who want to see the conversation!)
 
 ## The Rocky Horror Show
 

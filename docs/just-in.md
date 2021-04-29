@@ -16,6 +16,103 @@ ___
 
 ## April, 2021
 
+### Apr 29, 2021
+
+Wicked - Seoul, Korea - March 28, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: WMV `720p` `4.57 GB`
+
+CAST
+: 옥주현 Ock Joo-Hyun (Elphaba), 김보경 Kim Bo Kyung (Glinda), 조상웅 Jo Sang Woong (Fiyero), 남경주 Nam Kyung Ju (The Wizard), 김영주 Kim Young Joo (Madame Morrible), 이에은 Lee Ye Eun (Nessarose), 긴동현 Kim Dong Hyun (Boq),  초정근 Cho Jung Keun (Doctor Dillamond)
+
+NOTES
+: One of the best wicked korean bootlegs to be ever filmed. Oak Joo Hyun is killing it with her ruffs and Kim Bo Kyung is a bouncy, funny but at times serious Glinda. During catfight after Fiyero swings in, Kim throws the hat accidentally to Oak's face but Oak and Kim both managed to stay in character despite some laughter from audience.
+
+Hello, Dolly! - World Tour - 1966
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Mary Martin
+
+NOTES
+: Hosted by Mary Martin. A TV documentary about the many different productions of the show from Broadway to London to Japan and beyond. Includes many rare clips. Most of the video focuses on the productions in Japan and Vietnam, featuring Martin. Some generational Loss.
+
+Little Shop of Horrors - Renaissance Theatre - April, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `3.62 GB`
+
+CAST
+: Ryan Shreve (Seymour Krelborn), Emma Skaggs (Audrey) Scott Smith (Orin Scrivello/Various), Condrea Webber (Audrey II), Beau Robert (Mr. Mushnik), Antonio Brown (Ronette), Leiah Lewis (Crystal), Nykera Gardner (Chiffon)
+
+NOTES
+: Recorded with a live audience then streamed to at-home audiences
+
+West End Acoustic - April, 2021 (Streamed)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `2.14 GB`
+
+NOTES
+: Tyrone Huntley, Renée Lamb, Nicholas McLean, Maiya Quansah-Breed and Sam Tutty come together for an unplugged celebration of all your favourite musicals. Featuring songs from Dear Evan Hansen, Six, Little Shop of Horrors, West Side Story, The Wiz and many more. With musical direction and keys by Chris Poon alongside Sofie Veie on guitar, West End Acoustic was performed for a live audience at Riverside Studios in London on 8 December 2020.
+
+Rock of Ages Live: All Star Reunion Concert - April 23, 3021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `11.75 GB` `WEB-DL`
+
+CAST
+: Constantine Maroulis, Laura Bell Bundy, Frankie Grande, Kyle Gass, Chris Hardwick, Kate Rockwell, Mitchell Jarvis, Wesley Taylor, Willam, Dot-Marie Jones, Dan Finnerty, Tom Lenk, Kerry Butler, James Snyer, James Carpinello, Dee Snider, Andre Ward, Becca Jotte, Amy Spanger, Adam Dannheisser, Michele Mais, Callandra Olivia, Reginia Levert, Matt Wolpe, Chris D'arienzo, Dave Gibbs
+
+NOTES
+: The BEST-REVIEWED, MOST-NOMINATED, LONGEST RUNNING, [hair band] musical of all time, Rock of Ages, will play a one-night only, livestream shredfest, featuring an all star “supergroup” of RoA alumni. Prepare to STREAM at the top of your lungs to some of the greatest 80’s hits, like you’ve never heard them before – live from the REAL Bourbon Room Hollywood stage. Pants optional, rock horns required!
+: Includes full show directly downloaded and screen recording of full show with live comments from other watchers (for true fans who want to see the conversation!)
+
+Stephanie J. Block and Sebastian Arcelus & Seth Rudetsky - April 18, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p` `Screen recording`
+: Soundcheck + Concert (except for the last song)
+
+NOTES
+: [Link](https://www.todaytix.com/x/nyc/shows/22913-stephanie-j.-block-and-sebastian-arcelus-and-seth-rudetsky) Low-quality screenrecording of the concert, technical issues towards the end.
+
+SUTTON FOSTER: Bring Me to Light - City Center - April, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.49 GB`
+
+NOTES
+: [Link](https://www.todaytix.com/x/nyc/shows/23081-sutton-foster-or-bring-me-to-light) Sutton Foster takes over New York City Center, filling it with her indomitable spirit, for a concert with her friends Raúl Esparza, Joaquina Kalukango, Kelli O’Hara, and Wren Rivera that celebrates their connections to the historic theater and reflects on the challenges facing all of us. Together, they enliven City Center with the hope of what lies ahead through performances of musical theater favorites from Anyone Can Whistle, Camelot, Oklahoma!, South Pacific, Violet, The Wild Party, and more. Accompanied by Music Director Michael Rafter (piano) and Matt Hinkley (guitar), Bring Me to Light is directed by Leigh Silverman, with Jeanine Tesori serving as Creative Producer.
+
 ### Apr 27, 2021
 
 Vanya and Sonia and Masha and Spike - Lincoln Center Theater - 2012

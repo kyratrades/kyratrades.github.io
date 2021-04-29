@@ -760,11 +760,24 @@ FORMAT
 The Seth Concert Series - August 16, 2020
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
+Pro-Shot
+{: .label .label-green }
+
 FORMAT
-: MP4 `720p`
+: MP4 `720p` `Screen recording`
+
+Stephanie J. Block and Sebastian Arcelus & Seth Rudetsky - April 18, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p` `Screen recording`
+: Soundcheck + Concert (except for the last song)
 
 NOTES
-: Screen recording of the livestream on the titled date
+: [Link](https://www.todaytix.com/x/nyc/shows/22913-stephanie-j.-block-and-sebastian-arcelus-and-seth-rudetsky) Low-quality screenrecording of the concert, technical issues towards the end. Please do not gift publicly!
 
 ### Audios
 
@@ -803,8 +816,23 @@ Sutton Foster and Seth Rudetsky: Broadway at The Art House - Provincetown, MA - 
 Pro-Shot
 {: .label .label-green }
 
+FORMAT
+: VOB+smalls `1 DVD`
+
 NOTES
 : This show was part of a series of 10 unrehearsed shows produced and hosted by Seth which featured him asking a series of questions of his guests (other shows featured Audra McDonald, Betty Buckley, Andrea Martin, Judy Kuhn, Alice Ripley, and Patti LuPone), then running to the piano to illustrate a point, or just an excuse for the guest to sing a song. Recorded live on July 4th and 5th, 2013 and edited together A
+
+SUTTON FOSTER: Bring Me to Light - City Center - April, 2021
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.49 GB`
+
+NOTES
+: [Link](https://www.todaytix.com/x/nyc/shows/23081-sutton-foster-or-bring-me-to-light) Sutton Foster takes over New York City Center, filling it with her indomitable spirit, for a concert with her friends Raúl Esparza, Joaquina Kalukango, Kelli O’Hara, and Wren Rivera that celebrates their connections to the historic theater and reflects on the challenges facing all of us. Together, they enliven City Center with the hope of what lies ahead through performances of musical theater favorites from Anyone Can Whistle, Camelot, Oklahoma!, South Pacific, Violet, The Wild Party, and more. Accompanied by Music Director Michael Rafter (piano) and Matt Hinkley (guitar), Bring Me to Light is directed by Leigh Silverman, with Jeanine Tesori serving as Creative Producer.
 
 ---
 
@@ -928,6 +956,18 @@ CAST
 
 NOTES
 : Shot in 16:9 widescreen. The first song was filmed a bit too dark (forgot to change settings), and the second song is audio-only (I don't remember why), but the rest of the concert video is intact. The video is steady with close zooms. No obstructions on main performers, but off-stage singers in a couple of the group numbers could not be filmed. Great music written by Tom Kitt (including songs from Next To Normal and High Fidelity), performed by some of the greatest talents on Broadway. (My personal favorite is Julia Murney's "Perfect".)
+
+West End Acoustic - April, 2021 (Streamed)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `2.14 GB`
+
+NOTES
+: Tyrone Huntley, Renée Lamb, Nicholas McLean, Maiya Quansah-Breed and Sam Tutty come together for an unplugged celebration of all your favourite musicals. Featuring songs from Dear Evan Hansen, Six, Little Shop of Horrors, West Side Story, The Wiz and many more. With musical direction and keys by Chris Poon alongside Sofie Veie on guitar, West End Acoustic was performed for a live audience at Riverside Studios in London on 8 December 2020.
 
 ### Audios
 
