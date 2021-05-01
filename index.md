@@ -38,7 +38,7 @@ Audios:
 2. ...
 ```
 
-If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too! Feel free to send a trade request for anything you want, I'll almost certainly find something from your list. However, I may decline a trade if you don't have your formats listed. I only trade for files in their original formats.
+If you already have other means of reaching me, you're welcome to use them too! Feel free to send a trade request for anything you want, I'll almost certainly find something from your list. However, I may decline a trade if you don't have your formats listed. I only trade for files in their original formats.
 
 You must include a link to and/or an attachment of your list. Whoever initiates a trade will send their links first.
 
@@ -49,7 +49,8 @@ Feel free to send enquiries about any items listed on my site.
 
 ### General wants
 These items are an instant trade for me:
-- File upgrades (original smalls, first generation/lower generation copies)
+- Original files or smalls that I'm missing
+- File upgrades to first generation or lower generation copies of DVDs
 - Any recordings of Megan Hilty, Stephanie J. Block, and Rachel York that I don't have
 
 For my specfic wants, please check <a href="https://kyratrades.github.io/wants">this page</a>.
