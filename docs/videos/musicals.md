@@ -7316,6 +7316,21 @@ FORMAT
 CAST
 : Lin-Manuel Miranda (Usnavi), Mandy Gonzalez (Nina), Christopher Jackson (Benny), Krysta Rodriguez (u/s Vanessa), Olga Merediz (Abuela Claudia), Carlos Gomez (Kevin), Priscilla Lopez (Camila), Robin de Jesús (Sonny), Andréa Burns (Daniela), Stephanie Klemons (u/s Carla), Seth Stewart (Grafitti Pete)
 
+In the Heights - Olney Theatre / Round House Theatre - October, 2017
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.76 GB`
+
+CAST
+: Robin de Jesús (Usnavi), Mili Diaz (Nina), Andre Hinds* (Benny u/s), Rayanne Gonzales (Abuela Claudia), Melissa Victor* (Vanessa u/s), Nastascia Diaz (Daniela), Michael J. Mainwaring (Sonny), Vilma Gil (Camila), Danny Bolero (Kevin), Eunice Bae* (Carla u/s), Juan Drigo Ricafort (Graffiti Pete), Tobias A. Young (Piragua Guy), Sharlane Conner, Willie Garner, Jesse Jones, Ashleigh King, Rebecca Kritzer, Briana Taylor
+
+NOTES
+: Super fun seeing this show with Robin de Jesús as Usnavi! Plus a number of understudies for this performance. Steady, clear 1080p HD 16:9 widescreen capture with minimal obstruction, only a couple of heads on the farthest downstage and sides of the stage. Mix of wides, medium, and close zooms to capture individual performances and ensemble numbers (the choreography was fun!). First minute or so of each act is audio only due to ushers, very few dropouts otherwise. Audio of a fundraising speech at the end of the show. Audio fed in from external source so it's super clear.
+
 ## Into the Woods
 
 Into the Woods - Broadway - May, 1989
@@ -8108,10 +8123,25 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 CAST
-: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Cody Hanford (Flounder)
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Tyler Maynard (Flotsam), JJ Singleton (Flounder)
 
 NOTES
 : Amazing show and performances beautifully captured. A
+
+The Little Mermaid - Pre-Broadway / Denver - September 1, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Tyler Maynard (Flotsam), Cody Hanford (Flounder)
+
+NOTES
+: This features the other Flounder. Amazing show and performances beautifully captured. A+
 
 The Little Mermaid - Broadway - January 30, 2008
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -12513,7 +12543,7 @@ NOTES
 
 ## SpongeBob SquarePants: The Broadway Musical
 
-SpongeBob SquarePants: The Broadway Musical - Pre-Broadway / Chicago - June 7, 2016 (Preview)
+SpongeBob SquarePants - Pre-Broadway / Chicago - June 7, 2016 (Preview)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 SunsetBlvd79
@@ -12528,7 +12558,22 @@ CAST
 NOTES
 : Only Known Capture of Emmy Raver-Lampman as Pearl
 
-SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) 
+Spongebob Squarepants - Broadway - September, 2018
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.62 GB`
+
+CAST
+: Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Christina Sajous (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Gaelen Gilliland (The Mayor), Brian Ray Norris (Eugene Krabs), Wesley Taylor (Sheldon Plankton), Catherine Ricafort (Karen the Computer), Jai'len Christine Li Josey (Pearl Krabs), Kelvin Moon Loh (Perch Perkins), Brandon Espinoza (Patchy the Pirate), Allan K Washington (Gary/Larry the Lobster), Abby C Smith (Mrs. Puff), JC Schuster (Old Man Jenkins), Tom Kenny (French Narrator), Kyle Matthew Hamilton (Electric Skate), Curtis Holbrook (Electric Skate), L'ogan J'ones (Electric Skate), Lauralyn McClelland (Sardine Corps), Vasthy Mompoint (Security Guard/Sardine Corps), Oneika Phillips (Sardine Corps), Jesse JP Johnson* (s/w Sardine Corps)
+
+NOTES
+: Filmed in 1080p HD 16:9 widescreen a couple weeks before the show closed. Very difficult to shoot around heads of some tall people, so quite a bit of obstruction in some scenes, but shot around as best as possible. Fun show, great energy from the cast as well as the audience who was loving every moment. First 30 seconds of Act 1 and first four minutes of Act 2 are audio only due to house lights being up. Audio fed in from external source so it's super clear.
+
+SpongeBob SquarePants - Broadway - September 16, 2018 (Closing Night) 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 NYCG8R 

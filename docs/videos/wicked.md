@@ -773,12 +773,8 @@ Wicked - Chicago - August 5, 2006
 SunsetBlvd79
 {: .label .label-blue }
 
-Issues
-{: .label .label-red }
-
 FORMAT
-: VOB+smalls `1 DVD` `2.60 GB` `Non-Original`
-: Recording of another DVD. Looking for the original with the polaroid menu.
+: VOB+smalls `1 DVD`
 
 CAST
 : Dee Roscioli (s/b Elphaba), Stacie Morgain Lewis (Glinda), Kristoffer Cusick (Fiyero), Gene Weygandt (The Wizard), Jill Hayman (u/s Madame Morrible), Kate Loprest (u/s Nessarose), Adam Fleming (Boq), Timothy Britten Parker (Doctor Dillamond)

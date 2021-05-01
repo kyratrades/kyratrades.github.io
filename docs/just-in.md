@@ -10,9 +10,43 @@ permalink: /just-in
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/just-in#april-2021">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021">March, 2021</a> • <a href="https://kyratrades.github.io/just-in#february-2021">February, 2021</a></p>
+<p align="center"><a href="https://kyratrades.github.io/just-in#may-2021">May, 2021</a> • <a href="https://kyratrades.github.io/just-in#april-2021">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021">March, 2021</a> • <a href="https://kyratrades.github.io/just-in#february-2021">February, 2021</a></p>
 
 ___
+
+## May, 2021
+
+### May 1, 2021
+
+In the Heights - Olney Theatre / Round House Theatre - October, 2017
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.76 GB`
+
+CAST
+: Robin de Jesús (Usnavi), Mili Diaz (Nina), Andre Hinds* (Benny u/s), Rayanne Gonzales (Abuela Claudia), Melissa Victor* (Vanessa u/s), Nastascia Diaz (Daniela), Michael J. Mainwaring (Sonny), Vilma Gil (Camila), Danny Bolero (Kevin), Eunice Bae* (Carla u/s), Juan Drigo Ricafort (Graffiti Pete), Tobias A. Young (Piragua Guy), Sharlane Conner, Willie Garner, Jesse Jones, Ashleigh King, Rebecca Kritzer, Briana Taylor
+
+NOTES
+: Super fun seeing this show with Robin de Jesús as Usnavi! Plus a number of understudies for this performance. Steady, clear 1080p HD 16:9 widescreen capture with minimal obstruction, only a couple of heads on the farthest downstage and sides of the stage. Mix of wides, medium, and close zooms to capture individual performances and ensemble numbers (the choreography was fun!). First minute or so of each act is audio only due to ushers, very few dropouts otherwise. Audio of a fundraising speech at the end of the show. Audio fed in from external source so it's super clear.
+
+Spongebob Squarepants - Broadway - September, 2018
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.62 GB`
+
+CAST
+: Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Christina Sajous (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Gaelen Gilliland (The Mayor), Brian Ray Norris (Eugene Krabs), Wesley Taylor (Sheldon Plankton), Catherine Ricafort (Karen the Computer), Jai'len Christine Li Josey (Pearl Krabs), Kelvin Moon Loh (Perch Perkins), Brandon Espinoza (Patchy the Pirate), Allan K Washington (Gary/Larry the Lobster), Abby C Smith (Mrs. Puff), JC Schuster (Old Man Jenkins), Tom Kenny (French Narrator), Kyle Matthew Hamilton (Electric Skate), Curtis Holbrook (Electric Skate), L'ogan J'ones (Electric Skate), Lauralyn McClelland (Sardine Corps), Vasthy Mompoint (Security Guard/Sardine Corps), Oneika Phillips (Sardine Corps), Jesse JP Johnson* (s/w Sardine Corps)
+
+NOTES
+: Filmed in 1080p HD 16:9 widescreen a couple weeks before the show closed. Very difficult to shoot around heads of some tall people, so quite a bit of obstruction in some scenes, but shot around as best as possible. Fun show, great energy from the cast as well as the audience who was loving every moment. First 30 seconds of Act 1 and first four minutes of Act 2 are audio only due to house lights being up. Audio fed in from external source so it's super clear.
 
 ## April, 2021
 
