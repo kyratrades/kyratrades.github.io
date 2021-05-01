@@ -10,7 +10,7 @@ permalink: /
 
 ### No. of items listed:
 
-<center>Videos: 1187</center>
+<center>Videos: 1189</center>
 
 <center>Audios: <code>TBA</code></center>
 
@@ -55,7 +55,7 @@ These items are an instant trade for me:
 For my specfic wants, please check <a href="https://kyratrades.github.io/wants">this page</a>.
 
 ### Links
-All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of ayour choosing.
+All the file sizes listed are calculated according to 1 GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of your choosing.
  
 ### Gifting policy
-I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots upon request (especially NTLive and RSC), just ask!
+I got my start from a fair number of generous traders, so I’m always happy to help new traders out, just ask!
