@@ -52,18 +52,6 @@ NOTES
 
 ### Apr 29, 2021
 
-Wicked - Seoul, Korea - March 28, 2014
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-FORMAT
-: WMV `720p` `4.57 GB`
-
-CAST
-: 옥주현 Ock Joo-Hyun (Elphaba), 김보경 Kim Bo Kyung (Glinda), 조상웅 Jo Sang Woong (Fiyero), 남경주 Nam Kyung Ju (The Wizard), 김영주 Kim Young Joo (Madame Morrible), 이에은 Lee Ye Eun (Nessarose), 긴동현 Kim Dong Hyun (Boq),  초정근 Cho Jung Keun (Doctor Dillamond)
-
-NOTES
-: One of the best wicked korean bootlegs to be ever filmed. Oak Joo Hyun is killing it with her ruffs and Kim Bo Kyung is a bouncy, funny but at times serious Glinda. During catfight after Fiyero swings in, Kim throws the hat accidentally to Oak's face but Oak and Kim both managed to stay in character despite some laughter from audience.
-
 Hello, Dolly! - World Tour - 1966
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -78,6 +66,18 @@ CAST
 
 NOTES
 : Hosted by Mary Martin. A TV documentary about the many different productions of the show from Broadway to London to Japan and beyond. Includes many rare clips. Most of the video focuses on the productions in Japan and Vietnam, featuring Martin. Some generational Loss.
+
+Wicked - Seoul, Korea - March 28, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: WMV `720p` `4.57 GB`
+
+CAST
+: 옥주현 Ock Joo-Hyun (Elphaba), 김보경 Kim Bo Kyung (Glinda), 조상웅 Jo Sang Woong (Fiyero), 남경주 Nam Kyung Ju (The Wizard), 김영주 Kim Young Joo (Madame Morrible), 이에은 Lee Ye Eun (Nessarose), 긴동현 Kim Dong Hyun (Boq),  초정근 Cho Jung Keun (Doctor Dillamond)
+
+NOTES
+: One of the best wicked korean bootlegs to be ever filmed. Oak Joo Hyun is killing it with her ruffs and Kim Bo Kyung is a bouncy, funny but at times serious Glinda. During catfight after Fiyero swings in, Kim throws the hat accidentally to Oak's face but Oak and Kim both managed to stay in character despite some laughter from audience.
 
 Little Shop of Horrors - Renaissance Theatre - April, 2021
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
