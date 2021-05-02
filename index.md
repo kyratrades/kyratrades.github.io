@@ -51,7 +51,7 @@ Feel free to send enquiries about any items listed on my site.
 These items are an instant trade for me:
 - Original files or smalls that I'm missing
 - File upgrades to first generation or lower generation copies of DVDs
-- Any recordings of Megan Hilty, Stephanie J. Block, and Rachel York that I don't have
+- Any recordings of Megan Hilty, Stephanie J. Block, and Rachel York that I don't already have
 
 For my specfic wants, please check <a href="https://kyratrades.github.io/wants">this page</a>.
 

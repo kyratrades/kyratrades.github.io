@@ -1159,6 +1159,18 @@ CAST
 NOTES
 : Great HD capture of the Broadway transfer. There are a few short scenes/moments far stage right blocked by a head, but nothing major. Beautiful production, performances and cast to match! A-
 
+Anastasia - Broadway - September 6, 2017
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+NYCG8R
+{: .label .label-blue }
+
+FOORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Christy Altomare (Anya), Derek Klena (Dmitry), Ramin Karimloo (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O’Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna)
+
 Anastasia - Broadway - September 17, 2017
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -1862,7 +1874,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-out-of-hell">Bat out of Hell</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -1983,6 +1995,68 @@ FORMAT
 
 CAST
 : Doug Storm (Bat Boy), Ashia DeLaBastide (Meredith Parker), JR Lotito (Dr Parker), Amanda Taraska (Shelley), Tony Frangipane (Sheriff), Mike Kaczurak (Bud), Mark Weekes (Reverend Hightower), Ron Menin (Rick), Susannah Hoffman (Ruthie)
+
+## Bat out of Hell
+
+Bat out of Hell - London Coliseum - July, 2017
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Andrew Polec (Strat), Christina Bennington (Raven), Rob Fowler (Falco), Sharon Sexton (Sloane), Danielle Steers (Zahara), Dom Hartley-Harris (Jagwire), Giovanni Spano (Ledoux), Patrick Sullivan (Blake), Aran MacRae (Tink), Georgia Carling (Valkyrie), Emily Benjamin (Mordema)
+
+NOTES
+: A strong capture of the full show, with wides, mediums, and closeups. There are no obstructions to the shot, apart from one head that occasionally gets in the way, but there is some wandering, a little spotlight washout (not too severe, however), and flickering at the 'floor lights'. Very stable footage which follows the action nicely. Plus, all the effects and stage tricks are included! Act Two is a little dark, although this is down to stage lighting more than camera settings. Due to the acoustics of the London Coliseum, the audio is a tiny bit muffled, but at a nice and steady volume. Includes glimpses of the curtain call. A-
+
+Bat Out of Hell - West End - May 30, 2018
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+LT 2:1
+{: .label .label-purple }
+
+FORMAT
+: MOV `1080p` `13.65 GB`
+
+CAST
+: Simon Gordon (alt. Strat), Georgia Carling (u/s Raven), Rob Fowler (Falco), Sharon Sexton (Sloane), Alex Thomas Smith (Tink), Danielle Steers (Zahara), Wayne Robinson (Jagwire), Patrick Sullivan (Blake)
+
+NOTES
+: Filmed from right stalls so there are times when the car is in the way and things that take place on the far left of the stage aren't visible (including Not Allowed), but most of the stage can be seen and what can is a very good quality.
+
+Bat Out of Hell - West End - August, 2018 (Highlights)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+westendmusical
+{: .label .label-blue }
+
+LT 2:1
+{: .label .label-purple }
+
+FORMAT
+: MP4 `1080p` `8.48 GB`
+
+CAST
+: Jordan Luke Gage (alt. Strat), Christina Bennington (Raven), Rob Fowler (Falco), Sharon Sexton (Sloane), Joseph Peacock (u/s Tink), Emily Benjamin (u/s Zahara), Wayne Robinson (Jagwire), Sam Toland (u/s Ledoux), Patrick Sullivan (Blake)
+
+NOTES
+: Act 1 Only. Alex Thomas-Smith is on for Tink during the opening, but Joseph Peacock takes over from the scene before Out of The Frying Pan.
+
+Bat Out of Hell - West End - December 15, 2018
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Steinmania
+{: .label .label-blue }
+
+FORMAT
+: MOV `1080p` `13.71 GB`
+
+CAST
+: Barney Wilkinson (u/s Strat), Georgia Carling (u/s Raven), Rob Fowler (Falco), Julie Stark (u/s Sloane), Rhianne-Louise Mccaulsky (u/s Zahara), Wayne Robinson (Jagwire), Eric Hallengren (u/s Ledoux), Jonathan Cordin (u/s Blake), Alex Thomas-Smith (Tink), Xena Gusthart (e/c Valkyrie), Charlotte Anne Steen (Liebeswoosh), Emily Benjamin (Mordema), Eve Norris (Scherzzo), Issac Edwards (Denym), Sam Toland (Judge)
+
+NOTES
+: Incomplete video. Cuts out during for crying out loud. Blind shot from the right hand side of the stage. Features Xena Gusthart (show's choreographer) in the ensemble due to limited ensemble members.
 
 ## Be More Chill
 

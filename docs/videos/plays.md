@@ -526,11 +526,6 @@ NOTES
 
 ## Noises Off
 
-### Wants
-{: .no_toc }
-
-Any videos I don't have and any better copies than the ones I have.
-
 Noises Off - Broadway - 1983
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
