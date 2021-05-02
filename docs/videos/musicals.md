@@ -2060,6 +2060,18 @@ NOTES
 
 ## Be More Chill
 
+Be More Chill - Two River Theatre - June 28, 2015 (Closing Night) (Highlights)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: MOV `1080p` `3.09 GB`
+
+CAST
+: Will Connolly (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Eric William Morris (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Katie Ladner (Jenna Rolan), Jake Boyd (Jake Dillinger), Gerard Canonico (Rich Goranski), Paul Whitty (Mr. Heere/Mr. Reyes/Scary Stockboy)
+
+NOTES
+: Only 35 minutes, ends after Jeremy gets his Squip. Only known video of the original Two River Theater production.
+
 Be More Chill - Broadway - March, 2019 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -2075,6 +2087,18 @@ CAST
 NOTES
 : Great clear video with excellent picture and good sound.
 
+Be More Chill - Broadway - June 23, 2019 (Matinee) (Highlights)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: MOV `1080p` `3.59 GB`
+
+CAST
+: Gerard Canonico (u/s Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Troy Iwata (u/s Rich Goranski), Joel Waggoner (t/r Mr. Heere/Mr. Reyes/Scary Stockboy)
+
+NOTES
+: Gerard's debut as Jeremy, and Troy's first performance as Rich on Broadway! Act One Only, ends after Two Player Game. Includes audios of the show—Act One starts at Do You Wanna ride, and Act Two is full. Filmed between two heads, but they don't interrupt the action for the most part. Only known footage of Gerard as Jeremy and Troy's only performance as Rich on Broadway.
+
 Be More Chill - Broadway - August 11, 2019 (Closing Night)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -2089,6 +2113,18 @@ CAST
 
 NOTES
 : Closing Night on Broadway! Fantastic HD stageshot from the rear right balcony without zooms. The action is caught really well and there is no washout. The cast were on top of their game for the final performance and includes the speeches after the show.
+
+Be More Chill - Broadway - August 11, 2019 (Closing Night)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: MOV `1080p` `22.07 GB`
+
+CAST
+: Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
+
+NOTES
+: Closing night! The energy in the theatre is absolutely incredible, with every song receiving a standing ovation. Filmed from one of the first few rows in the center orchestra, with several head obstructions. Blindshot, and the action isn’t always focused on, but what is captured is very nice quality!
 
 Be More Chill - Off-West End - February, 2020 (2)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }

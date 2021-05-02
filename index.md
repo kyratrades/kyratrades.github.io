@@ -56,7 +56,7 @@ These items are an instant trade for me:
 For my specfic wants, please check <a href="https://kyratrades.github.io/wants">this page</a>.
 
 ### Links
-All the file sizes listed are calculated according to 1 GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of your choosing.
+All the file sizes listed are calculated in gibibytes (1 GB = 1024 MB) - the same method as MEGA, Google Drive and Windows. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of your choosing.
  
 ### Gifting policy
 I got my start from a fair number of generous traders, so I’m always happy to help new traders out, just ask!
