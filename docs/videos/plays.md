@@ -748,7 +748,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB `NO SMALLS` `1 DVD`
+: VOB+smalls `1 DVD`
 
 CAST
 : Bradley Cooper (Pip / Theo), Julia Roberts (Nan / Lina), Paul Rudd (Walker / Ned)

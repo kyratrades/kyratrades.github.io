@@ -106,8 +106,6 @@ I'm looking for the original smalls of these items and I'm willing to trade for 
 
 - Sunset Boulevard - Los Angeles - June 17, 1994
 
-- Three Days of Rain - Broadway - May 31, 2006
-
 - Wicked - Broadway - October 7, 2007 \| SunsetBlvd79
 
 - Wicked - Broadway - January 13, 2009 \| SunsetBlvd79
