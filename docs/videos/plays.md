@@ -744,9 +744,6 @@ NOTES
 Three Days of Rain - Broadway - May 31, 2006
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
-Issues
-{: .label .label-red }
-
 FORMAT
 : VOB+smalls `1 DVD`
 
