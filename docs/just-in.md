@@ -106,7 +106,7 @@ FORMAT
 NOTES
 : Tyrone Huntley, Renée Lamb, Nicholas McLean, Maiya Quansah-Breed and Sam Tutty come together for an unplugged celebration of all your favourite musicals. Featuring songs from Dear Evan Hansen, Six, Little Shop of Horrors, West Side Story, The Wiz and many more. With musical direction and keys by Chris Poon alongside Sofie Veie on guitar, West End Acoustic was performed for a live audience at Riverside Studios in London on 8 December 2020.
 
-Rock of Ages Live: All Star Reunion Concert - April 23, 3021
+Rock of Ages Live: All Star Reunion Concert - April 23, 2021
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
