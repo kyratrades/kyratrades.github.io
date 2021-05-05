@@ -16,7 +16,22 @@ ___
 
 ## May, 2021
 
-### May 6, 2021
+### May 5, 2021
+
+Les Misérables in Concert - Hollywood Bowl - August 9, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: J Mark McVey (Jean Valjean), Brian Stokes Mitchell (Javert), Melora Hardin (Fantine), Michele Maika (Cosette), John Lloyd Young (Marius), Lea Michele (Éponine), Tom Lowe (Enjolras), Sage Ryan (Gavroche)
+
+MASTER'S NOTES
+: This proshot from the start, in terms of being filmed from the huge screens. It is a very nice capture and has great closeups. Not as crystal clear as one might hope, but very enjoyable, with only minor impurities here and there, but pretty steady. Lea was the standout here, just amazing. A-
 
 Wicked - Second National Tour (Munchkinland) - April 13, 2014 (Matinee) 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
