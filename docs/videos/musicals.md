@@ -5923,6 +5923,18 @@ CAST
 NOTES
 : Concert staging with the New York Philharmonic Orchestra. Starring Carol Burnett, Mandy Patinkin, Barbara Cook and Lee Remick. Proshot and a very nice concert, directly from dvd. A+
 
+Follies - Encores - February 9, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.69 GB`
+
+CAST
+: Victoria Clark (Sally Durant Plummer), Donna Murphy (Phyllis Rogers Stone), Cameron Adams, Andrew Fitch, Emily Fletcher, Jenifer Foote, Ben Hartley, Natalie King, Brian J Marcum, Barrett Martin, Shannon Marie O'Bryan, Denise Payne, Matt Wall, JD Webster, Kristen Beth Williams, Michael McGrath (Buddy Plummer), Victor Garber (Benjamin Stone), Christine Baranski (Carlotta Campion), Mimi Hines (Hattie Walker), Lucine Amara (Heidi Schiller), JoAnne Worley (Stella Deems), Gerry Vichi (Max Deems), Yvonne Constant (Solange LaFitte), Anne Rogers (Emily Whitman), Dorothy Stanley (Dee Dee West), Diane J Findlay (Sandra Donovan), Philip Bosco (Dimitri Weismann), Robert E Fitch (Theodore Whitman), Arthur Rubin (Roscoe), Clyde Alves (Kevin), Katie Klaus (Young Sally), Jenny Powers (Young Phyllis), Curtis Holbrook (Young Buddy), Colin Donnell (Young Benjamin), Jennifer Mathie (Young Carlotta), Leena Chopra (Young Heidi), Ashley Fife (Young Stella)
+
+NOTES
+: Some gen loss. A little shaky to start, and then improves greatly. Crisp, sharp images with great close ups.
+
 Follies - National Theatre - November 16, 2017
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -6292,6 +6304,18 @@ NOTES
 : Great HD capture of the show toward the end of the run. Despite what the reviews said, this is one show I thoroughly enjoyed and wish it had a better life on Broadway as it deserved! A-
 
 ## Grease
+
+Grease - Vienna - February 28, 1995
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.43 GB`
+
+CAST
+: Andreas Bieber (Danny Zuko), Susanne Eisenkolb (Sandy Dumbrowski), Brian Carmack (Kenickie), Pia Douwes (Betty Rizzo), Eric Minsk (Doody), Jens Janke (Eugene Florczyk), Ann Mandrella (Cha Cha)
+
+NOTES
+: Pia's last show.
 
 Grease - Manila, Philippines - August 15, 1995
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -9441,6 +9465,21 @@ NOTES
 
 ### MISC
 
+Les Misérables - Amsterdam, Netherlands - 1991/1992
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.21 GB`
+
+CAST
+: Henk Poort (Jean Valjean), Ernst Daniël Smid (Javert), Pia Douwes (Fantine), Marika Lansen (u/s Cosette), Danny de Munk (Marius), Vera Mann (Éponine), Uwe Kröger (u/s Enjolras), Filip Bolluyt (u/s Thénardier), Simone Kleinsma (Madame Thénardier), Peter de Smet, Maya Hakvoort
+
+NOTES
+: This video starts with the Les Mis flag and the last scene is a close-up, whereas the other video of this production starts with the 1815 Toulon logo.
+
 Les Misérables - Third National Tour - February 7, 2000
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -11917,6 +11956,33 @@ NOTES
 : Includes Livestream with Chat, Trivia breakout room, Rent Singalong, Reflections from Andy Señor Jr, James C. Nicola, & Victor I. Cazares, and bonus photos and materials from Rent through the years.
 
 ## Rock of Ages
+
+Rock of Ages - Broadway - April 12, 2009
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Constantine Maroulis (Drew), Amy Spanger (Sherrie), James Carpinello (Stacee Jaxx/Father), Tad Wilson (u/s Dennis), Mitchell Jarvis (Lonny), Michele Mais (Justice/Mother), Lauren Molina (Regina/Candi), Paul Schoeffler (Hertz), Wesley Taylor (Franz), Angel Reed (Young Groupie), Andre Ward (Mayor/Ja'Keith Gill), Savannah Wise (Waitress #1), Jeremy Woodard (Joey Primo/Sleazy Producer)
+
+MASTER'S NOTES
+: Has about 8 minutes of total blackouts, mostly towards the beginning. A fun show, especially if you like 80s music. A-
+
+Rock of Ages - Broadway - December 1, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Constantine Maroulis (Drew), Lauren Zakrin (Sherrie), Chester See (Stacee Jaxx/Father), Adam Dannheisser (Dennis), Genson Blimline (Lonny), Amma Osei (Justice/Mother), Josephine Rose Roberts (Regina/Candi), Paul Schoeffler (Hertz), Frankie J Grande (Franz), Alyssa Herrera (Young Groupie), Andre Ward (Mayor/Ja'Keith Gill), Ericka Hunter (Waitress #1), Josh Sassanella  (Joey Primo/Sleazy Producer), Tessa Alves (Constance Sack)
 
 ### Specials
 
