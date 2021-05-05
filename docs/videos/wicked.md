@@ -1827,7 +1827,8 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: `1` VOB+smalls `2 DVDs`
+: `2` Blu-ray ISO `LT`
 
 CAST
 : Laurel Harris (Elphaba), Kara Lindsay (Glinda), Matt Shingledecker (Fiyero), Gene Weygandt (The Wizard), Jane Brockman (u/s Madame Morrible), Emily Behny (Nessarose), Lee Slobotkin (Boq), John Hillner (Doctor Dillamond), Mark Shunkey (Chistery), Lauren Haughton (u/s Midwife), Kerry Blanchard (Witch\'s Mother), Wayne Schroder (Witch\'s Father / Ozian Official)

@@ -6943,9 +6943,13 @@ Heathers - Off-Broadway - May 25, 2014
 SJ Bernly
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : `1` VOB+smalls `2 DVDs`
 : `2` Blu-ray M2TS `24.19 GB` `LT`
+: The Blu-ray is the copy where Act 1 glitches towards the last 12 minutes or so. Unfortunately, it seems to be the only HD version in circulation.
 
 CAST
 : Barrett Wilbert Weed (Veronica), Dan Domenech (u/s J.D.), Charissa Hogeland (u/s Heather Chandler), Alice Lee (Heather Duke), Elle McLemore (Heather McNamara), Jon Eidson (Ram Sweeney), Evan Todd (Kurt Kelly), Katie Ladner (Martha Dunnstock), Michelle Duffy (Ms. Fleming), Anthony Crivello (Ram\'s Dad), Daniel Cooney (Kurt\'s Dad), Michelle Duffy (Veronica\'s Mum), Anthony Crivello (Big Bud Dean), Anthony Crivello (Coach Ripper), Dustin Sullivan (Beleaguered Geek), AJ Meijer (Preppy Stud), Matthew Schatz (u/s Hipster Dork), Molly Hager (u/s New Wave Girl), Rachel Flynn (Stoner Chick), Cait Fairbanks (Young Republicanette), Matthew Schatz (u/s Officer McCord), AJ Meijer (Officer Milner)

@@ -16,6 +16,23 @@ ___
 
 ## May, 2021
 
+### May 6, 2021
+
+Wicked - Second National Tour (Munchkinland) - April 13, 2014 (Matinee) 
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray ISO `LT`
+
+CAST
+: Laurel Harris (Elphaba), Kara Lindsay (Glinda), Matt Shingledecker (Fiyero), Gene Weygandt (The Wizard), Jane Brockman (u/s Madame Morrible), Emily Behny (Nessarose), Lee Slobotkin (Boq), John Hillner (Doctor Dillamond), Mark Shunkey (Chistery), Lauren Haughton (u/s Midwife), Kerry Blanchard (Witch\'s Mother), Wayne Schroder (Witch\'s Father / Ozian Official)
+
+NOTES
+: A perfect capture of the brand new tour cast. Kara\'s an excellent Glinda and really tugged at the heart with \"I\'m Not That Girl (Reprise).\" The show is completely intact with no no blackouts, no obstruction, and no washout. The video is very steady throughout and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call and Matt and Emily's very entertaining BC/EFA speech.
+
 ### May 1, 2021
 
 In the Heights - Olney Theatre / Round House Theatre - October, 2017
@@ -668,8 +685,12 @@ Heathers - Off-Broadway - May 25, 2014
 SJ Bernly
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : Blu-ray M2TS `24.19 GB` `LT`
+: This is the copy where Act 1 glitches towards the last 12 minutes or so. Unfortunately, it seems to be the only HD version in circulation.
 
 Something Rotten! - Broadway - June 20, 2016
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
