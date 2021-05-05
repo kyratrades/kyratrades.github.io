@@ -692,20 +692,20 @@ CAST
 NOTES
 : Multi-Camera Pro-Shot
 
-The Addams Family - Merzig, Germany - August 23, 2014
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
-
 The Addams Family - Merzig, Germany - August 23, 2014 (Matinee)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
+
+CAST
+: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
+
+The Addams Family - Merzig, Germany - August 23, 2014
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
 
 CAST
 : Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke)
@@ -9500,6 +9500,21 @@ COMMENTS
 
 CAST
 : Hugh Panaro (Jean Valjean), Paul Schoeffler (Javert), Jessica Bogart (Fantine), Julie Craig (Cosette), Josh Young (Marius), Christina DeCicco (Éponine), Jeffrey Coon (Enjolras), Scott Greer (Thénardier), Dawn Spence (Madame Thénardier), Dante Mignucci (Gavroche), Laurel Gwynne Yaros (Little Cosette), Maggie Fitzgerald (Young Éponine), Peter Schmitz (The Bishop), Fran Prisco (Grantaire), Ben Dibble (Combeferre), Steve Pacek (Jean Prouvaire), Constantine Germanacos (Factory Foreman), Denise Whelan (Factory Girl), Mary Martello (Crone)
+
+Les Misérables in Concert - Hollywood Bowl - August 9, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: J Mark McVey (Jean Valjean), Brian Stokes Mitchell (Javert), Melora Hardin (Fantine), Michele Maika (Cosette), John Lloyd Young (Marius), Lea Michele (Éponine), Tom Lowe (Enjolras), Sage Ryan (Gavroche)
+
+MASTER'S NOTES
+: This proshot from the start, in terms of being filmed from the huge screens. It is a very nice capture and has great closeups. Not as crystal clear as one might hope, but very enjoyable, with only minor impurities here and there, but pretty steady. Lea was the standout here, just amazing. A-
 
 Les Misérables - Spanish Tour - December 21, 2013 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
