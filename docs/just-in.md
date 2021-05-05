@@ -10,7 +10,7 @@ permalink: /just-in
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/just-in#may-2021">May, 2021</a> • <a href="https://kyratrades.github.io/just-in#april-2021">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021">March, 2021</a> • <a href="https://kyratrades.github.io/just-in#february-2021">February, 2021</a></p>
+<p align="center"><a href="https://kyratrades.github.io/just-in#may-2021">May, 2021</a> • <a href="https://kyratrades.github.io/just-in#april-2021">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021">March, 2021</a></p>
 
 ___
 
@@ -873,48 +873,3 @@ FORMAT
 
 CAST
 : Patrick Cassidy (Joseph), Amy Adams (Narrator), Todd DuBail (Pharaoh), Nicolas F Saverine (Jacob)
-
-## February, 2021
-
-Songs For A New World - Quarantine Edition - February, 2021
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `1080p` `2.14 GB` `WEB-DL`
-
-CAST
-: Rachel Tucker, Rachel John, Ramin Karimloo, Cedric Neal
-
-Simply Sondheim - Signature Theatre - 2021
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 `1080p` `English (.srt)`
-
-CAST
-: Norm Lewis, Solea Pfeiffer, Conrad Ricamora, Emily Skinner, Nicholas McDonough, Donna Migliaccio, Christopher Mueller, Katie Mariko Murray, Tracy Lynn Olivera, Paul Scanlan, Awa Sal Secka, Bobby Smith
-
-NOTES
-: Created specifically for Signature Theatre with special permission from Sondheim himself, this jam-packed revue features over 30 songs from the composer’s canon. With a lush 16-piece orchestra leading the way for 12 phenomenal singers, this exclusive event satisfies every Sondheim craving.
-: Includes full-show `1.45 GB`, audio-described version `1.11 GB`, English captions, Behind the Scenes `0.44 GB` and playbill.
-
-Evening Primrose - US television series ABC Stage 67 - 1966
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD`
-
-CAST
-: Anthony Perkins, Dorothy Stickney, Larry Gates, Charmian Carr
-
-NOTES
-: A rare television find, Evening Primrose is a 1966 musical that aired on ABC Stage 1967 and is most notable for its music and lyrics by a young Stephen Sondheim. The 52-minute black-and-white program was based on a story by John Collier and adapted by James Goldman, and the four songs are distinctively Sondheim.
