@@ -4338,7 +4338,9 @@ NOTES
 ### Specials
 
 A Chorus Line - Broadway 3,389th performance finale `MP4` `360p` `03:40`
+
 A Chorus Line 1976 Tony Awards `MP4` `1080p` `07:57`
+
 Every Little Step (Documentary) `MP4` `1080p` `1:33:15`
 
 ## A Christmas Carol Goes Wrong
