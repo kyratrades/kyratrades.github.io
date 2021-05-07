@@ -1851,6 +1851,21 @@ CAST
 NOTES
 : Master notes: This is one of my new favorite captures of the show, it follows the action very well for almost being in the front row of the theatre, and gives you a great perspective of the show that DVDs can not often give you. Her vocal and acting choices bring such a fresh twist to Elphaba. There was also a very drunk audience member near me in Act Two, that yells a few drunk remarks that had the audience laughing. Curtain call is included and audio is near perfect, synced with my Zoom H2.
 
+Wicked - Second National Tour (Munchkinland) - February 21, 2016
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: Blu-ray ISO `LT`
+
+CAST
+: Emily Koch (Elphaba), Amanda Jane Cooper (Glinda), Jake Boyd (Fiyero), Stuart Zagnit (The Wizard), Wendy Worthington (Madame Morrible), Beka Burnham (u/s Nessarose), Mark Shunkey (u/s Boq), Chad Jennings (Doctor Dillamond), Ben Susak (Chistery), Kelly Lafarga (u/s Witch's Mother), Wayne Schroder (Witch's Father / Ozian Official)
+
+NOTES
+: Beautiful HD Capture of this wonderful cast. This is perfectly captured with no obstruction, no blackouts, and no washout. It’s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
 Wicked - Second National Tour (Munchkinland) - September 7, 2016
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
