@@ -5943,6 +5943,9 @@ Follies - National Theatre - November 16, 2017
 Pro-Shot
 {: .label .label-green }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : MKV `1080p` `6.47 GB` `English (.srt)`
 : HEVC encode of the original livestream (.ts)
@@ -7461,6 +7464,9 @@ In the Heights - Olney Theatre / Round House Theatre - October, 2017
 
 juniper47
 {: .label .label-blue }
+
+Watched
+{: .label .label-yellow }
 
 FORMAT
 : MP4 `1080p` `5.76 GB`
