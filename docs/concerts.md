@@ -334,21 +334,21 @@ FORMAT
 : VOB+smalls `1 DVD`
 
 NOTES
-: 1. "Saturday Night Fever": "Nights On Broadway" w/Orfeh
+: 1. "Saturday Night Fever": "Nights On Broadway" w/ Orfeh
 2. "Riverdance" singers
-3. "Swing": "Cry Me a River" w/Laura Benanti
+3. "Swing": "Cry Me a River" w/ Laura Benanti
 4. "Les Miz": "On My Own"
 5. "Miss Saigon": "The American Dream"
-6. "Phantom": "Music of the Night" w/Howard McGillin
-7. "The Wild Party": "When It Ends" w/Eartha Kitt
-8. "The Music Man": "Lida Rose/Will I Ever Tell You?" w/Rebecca Luker & company
-9. "Cabaret": "Maybe This Time" w/Joely Fisher
-10. "Chicago": "My Own Best Friend" w/Charlotte d'Amboise & Sharon Lawrence
-11. "Jesus Christ Superstar": "Gethsemane" w/Glenn Carter
-12. "Kiss Me Kate": "Brush Up Your Shakespeare" w/Michael Mulheren & Lee Wilkof
+6. "Phantom": "Music of the Night" w/ Howard McGillin
+7. "The Wild Party": "When It Ends" w/ Eartha Kitt
+8. "The Music Man": "Lida Rose/Will I Ever Tell You?" w/ Rebecca Luker & company
+9. "Cabaret": "Maybe This Time" w/ Joely Fisher
+10. "Chicago": "My Own Best Friend" w/ Charlotte d'Amboise & Sharon Lawrence
+11. "Jesus Christ Superstar": "Gethsemane" w/ Glenn Carter
+12. "Kiss Me Kate": "Brush Up Your Shakespeare" w/ Michael Mulheren & Lee Wilkof
 13. "Jekyll & Hyde: "In His Eyes"
-14. "Footloose": "Footloose" w/Jeremy Kushnier & company
-15. "Fosse": "Life Is Just a Bowl of Cherries" w/Stephanie Pope
+14. "Footloose": "Footloose" w/ Jeremy Kushnier & company
+15. "Fosse": "Life Is Just a Bowl of Cherries" w/ Stephanie Pope
 : Well filmed between the heads in the crowd.   A
 
 Stars In The Alley - New York - June 4, 2003
