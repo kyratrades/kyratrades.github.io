@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Open for limited trades (wants only)"
+description: "Open for wants only"
 permalink: /
 ---
 
-# Open for general trades
+# Open for limited trades
 
 ### No. of items listed:
 
@@ -22,7 +22,7 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 ### Trading
-I am currently open to trading for [my wants](https://kyratrades.github.io/wants) only.
+I am currently only open to trading for [my wants](https://kyratrades.github.io/wants).
 
 All items listed "NFT" are by the request of the master, I will not trade or sell them.
 
