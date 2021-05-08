@@ -16,6 +16,82 @@ ___
 
 ## May, 2021
 
+### May 9, 2021
+
+Stephen Sondheim’s 80th Birthday Gala - New York City Center - April 26, 2010
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Len Cariou, Michael Cerveris, Claybourne Elder, Raul Esparza, Sutton Foster, Alexander Gemignani, Joanna Gleason, Alexander Hanson, Mark Jacoby, Nathan Lane, Angela Lansbury, Debra Monk, Ben Wright, Kim Crosby, Michele Pawk, Jim Walton, B.D. Wrong, Catherine Zeta-Jones, Chip Zien, Danielle Ferland
+
+NOTES
+: “New York City Center celebrates Stephen Sondheim on the occasion of his 80th birthday in this one-night-only gala celebration”. Well filmed from the balcony, but the balcony railing is visible in the wider shots. A
+
+Les Miscellaneous - Los Angeles - January 17, 2000
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Hosted by Jason Alexander, with Sam Harris, Colm Wilkinson, and the Los Angeles touring cast of Les Miserables (which included Sutton Foster and Kevin Early)
+
+NOTES
+: Presented at the Ahmanson Theatre, this was a one-night cabaret show benefiting the L.A. Gay & Lesbian Center's Jeffrey Goodman Special Care Clinic. The headliners sing solo numbers, while the Les Miserables cast offers songs from other hit musicals, including a satire of Les Miz (“More Miserable”) from the Off-Broadway hit Forbidden Broadway. Other highlights include Sam Harris singing “Bridge Over Troubled Water”, and “Revival”, and Colm Wilkinson singing “Bring Him Home”. The evening also included “A New World” by Jason Robert Brown, something from a developing musical about Charles Chaplin, "Rhythm of Life" from "Sweet Charity", a hilarious take on “Book Report” from You’re A Good Man, Charlie Brown, with new “Les Miz” lyrics, and lots more.
+: Filmed with multiple camcorders. A-
+
+Parade - Los Angeles - November 1, 2009 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: T.R. Knight (Leo Frank), Lara Pulver (Lucille Frank), Rose Sezniak (Mary Phagan), Christian Hoff (Hugh Dorsey), Michael Berresse (Governor Slaton), P.J. Griffith (Tom Watson), Curt Hansen (Frankie Epps), Davis Gaines (Judge Roan), Brad Anderson (Luther Rosser), David St. Louis (Newt Lee), Deidrie Henry (Minnie McKnight), Charlotte d'Amboise (Mrs. Phagan)
+
+NOTES
+: One short blackout in the first act, occasional spotlight washout, and some heads in the bottom of the frame, but nothing too bad. A-
+
+The Anarchist - Broadway - November 14, 2012
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.38 GB`
+
+CAST
+: Patti LuPone (Cathy), Debra Winger (Ann)
+
+NOTES
+: Written by David Mamet. Filmed on the second night of previews from the balcony of the Golden Theatre. The play closed after just 14 performances.  Well filmed. It takes the filmer a few minutes to settle down and find the stage. Balcony railing visible occasionally. A-
+
+High Fidelity - Birdland, New York - June 18, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Christian Anderson, Matt Kaplan, Paul Castree, Jay Klaitz, Julia Murney, Amy Spanger, Rachel Stern, Emily Swallow, Jon Patrick Walker, J.B. Wing, Kirsten Wyatt
+
+NOTES
+: Tom Kitt (music) and Amanda Green (lyrics) are joined by friends at Birdland in New York to celebrate the cast album release of the Broadway flop High Fidelity as part of the “Broadway at Birdland” series. The show features most of the music from High Fidelity, including some songs that were eventually cut in Boston prior to moving to New York. Songs include: Let’s Order In, Last Real Record Store, Desert Island, It’s No Problem, She Goes, Ready to Settle, Nine Percent Chance, more…
+: Due to the intimate size of the venue, there are occasionally heads in the shot and people walking around, but it’s still a good video. A-
+
+Encores! Bash 2003 - New York - November, 2003
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Betty Buckley, Bebe Neuwirth, Andrea Martin, Marin Mazzie, Laura Benanti, Sandy Duncan, Emily Skinner, Harolyn Blackwell, Simone, Jason Danieley, Ron Raines, Walter Bobbie, Marc Kudisch, Denis O’Hare, Erin Dilly, and Jerry Zaks
+
+NOTES
+: The concerts features songs from an array of musicals that have been presented at City Center since its opening in 1943. Included are tunes from Porgy and Bess, presented at City Center in 1943; Fiorello! (1962); Carousel (1957), Brigadoon (1962) and Finian's Rainbow (1966). Filmed from the balcony with some occasional “stage searching”. Not the complete show-the filmer seemed to turn the camera on and off and only filmed parts of the show. The disc includes about 36 minutes of footage. B
+
 ### May 5, 2021
 
 Grease - Vienna - February 28, 1995

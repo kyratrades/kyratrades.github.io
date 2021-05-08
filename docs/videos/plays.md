@@ -43,6 +43,20 @@ IMDB
 CAST
 : Adam Gillen (Wolfgang Amadeus Mozart), Luciene Msamat (Antonio Salieri), Karla Crome (Constanze Weber), Fleur deBray (Katherina Cavalieri), Wendy Dawn Thompson (Teresa Salieri), Tom Edden (Joseph II, Emperor of Austria), Geoffrey Beevers (Baron van Swieten), Andrew MacBean (Guiseppe Bonno), Alexandra Mathie (Count Johann Kilian Von Strack), Hugh Sacks (Count Orsini-Rosenberg), Everal Walsh (Major Domo)
 
+## The Anarchist
+
+The Anarchist - Broadway - November 14, 2012
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.38 GB`
+
+CAST
+: Patti LuPone (Cathy), Debra Winger (Ann)
+
+NOTES
+: Written by David Mamet. Filmed on the second night of previews from the balcony of the Golden Theatre. The play closed after just 14 performances.  Well filmed. It takes the filmer a few minutes to settle down and find the stage. Balcony railing visible occasionally. A-
+
 ## Beautiful Thing
 
 Beautiful Thing - London - May 22-23, 2013

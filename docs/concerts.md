@@ -273,6 +273,18 @@ CAST
 NOTES
 : This program features the music of Broadway composer Stephen Sondheim in a 1992 performance at Carnegie Hall. An American Musical Theatre writer for over 40 years, Stephen Sondheim has created the scores for hits such as Passion, Assassins, Bounce, Into The Woods, Sunday In The Park With George, Merrily We Roll Along, Sweeney Todd and Pacific Overtures. Featuring: Liza Minnelli, Patti LuPone, Bernadette Peters, Glenn Close and many more.
 
+Stephen Sondheim’s 80th Birthday Gala - New York City Center - April 26, 2010
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Len Cariou, Michael Cerveris, Claybourne Elder, Raul Esparza, Sutton Foster, Alexander Gemignani, Joanna Gleason, Alexander Hanson, Mark Jacoby, Nathan Lane, Angela Lansbury, Debra Monk, Ben Wright, Kim Crosby, Michele Pawk, Jim Walton, B.D. Wrong, Catherine Zeta-Jones, Chip Zien, Danielle Ferland
+
+NOTES
+: “New York City Center celebrates Stephen Sondheim on the occasion of his 80th birthday in this one-night-only gala celebration”. Well filmed from the balcony, but the balcony railing is visible in the wider shots. A
+
 New York Philharmonic: Celebrating Sondheim - Live From Lincoln Center (S44 E6) - December 31, 2019
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -797,17 +809,14 @@ FORMAT
 
 ## Sutton Foster
 
-Sutton Foster in Concert - Live From Lincoln Center (S43 E1) - April 20, 2018
+An Evening with Sutton Foster - Broadway - September 25, 2010
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
-Pro-Shot
-{: .label .label-green }
-
 FORMAT
-: MKV `720p` `1.19 GB`
+: VOB+smalls `1 DVD`
 
-CAST
-: Sutton Foster, Jonathan Groff (Guest)
+NOTES
+: Wonderful concert to inaugurate the new Broadway Playhouse in Chicago. Excellent Capture with no obstructions, songs include: Something's Coming (West Side Story), Not For the Life of Me (Millie), NYC (Annie), Astonishing (Little Women), Up On the Roof, Air Conditioner, Warm All Over (The Most Happy Fella), Show Off (Chaperone), Supposin'/Say That (Cut Songs from Millie), More to the Story (Cut song from Shrek), My Heart Was Set On You, Down with Love, I Like The Sunshine, Don't Rain On My Parade, The Late Late Show, Sunshine on My Shoulders, Anyone Can Whistle, Being Alive, Come the Wild Wild Weather, Once Upon A Time, Gimme Gimme (Millie), Defying Gravity.
 
 Sutton Foster and Seth Rudetsky: Broadway at The Art House - Provincetown, MA - July 4 and 5, 2013
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -820,6 +829,18 @@ FORMAT
 
 NOTES
 : This show was part of a series of 10 unrehearsed shows produced and hosted by Seth which featured him asking a series of questions of his guests (other shows featured Audra McDonald, Betty Buckley, Andrea Martin, Judy Kuhn, Alice Ripley, and Patti LuPone), then running to the piano to illustrate a point, or just an excuse for the guest to sing a song. Recorded live on July 4th and 5th, 2013 and edited together A
+
+Sutton Foster in Concert - Live From Lincoln Center (S43 E1) - April 20, 2018
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p` `1.19 GB`
+
+CAST
+: Sutton Foster, Jonathan Groff (Guest)
 
 SUTTON FOSTER: Bring Me to Light - City Center - April, 2021
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -880,6 +901,31 @@ CAST
 
 NOTES
 : A beautiful capture of this equally beautiful concert featuring the music of Boublil and Schonberg. Includes songs from Les Miserables, Miss Saigon, The Pirate Queen, Martin Guerre and La Revolution Francaise. This was a truely stunning concert with sensational performances and very well put together. Not only the solo performers shine, but the Orchestra and Choir are stunning! A
+
+Encores! Bash 2003 - New York - November, 2003
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Betty Buckley, Bebe Neuwirth, Andrea Martin, Marin Mazzie, Laura Benanti, Sandy Duncan, Emily Skinner, Harolyn Blackwell, Simone, Jason Danieley, Ron Raines, Walter Bobbie, Marc Kudisch, Denis O’Hare, Erin Dilly, and Jerry Zaks
+
+NOTES
+: The concerts features songs from an array of musicals that have been presented at City Center since its opening in 1943. Included are tunes from Porgy and Bess, presented at City Center in 1943; Fiorello! (1962); Carousel (1957), Brigadoon (1962) and Finian's Rainbow (1966). Filmed from the balcony with some occasional “stage searching”. Not the complete show-the filmer seemed to turn the camera on and off and only filmed parts of the show. The disc includes about 36 minutes of footage. B
+
+Les Miscellaneous - Los Angeles - January 17, 2000
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Hosted by Jason Alexander, with Sam Harris, Colm Wilkinson, and the Los Angeles touring cast of Les Miserables (which included Sutton Foster and Kevin Early)
+
+NOTES
+: Presented at the Ahmanson Theatre, this was a one-night cabaret show benefiting the L.A. Gay & Lesbian Center's Jeffrey Goodman Special Care Clinic. The headliners sing solo numbers, while the Les Miserables cast offers songs from other hit musicals, including a satire of Les Miz (“More Miserable”) from the Off-Broadway hit Forbidden Broadway. Other highlights include Sam Harris singing “Bridge Over Troubled Water”, and “Revival”, and Colm Wilkinson singing “Bring Him Home”. The evening also included “A New World” by Jason Robert Brown, something from a developing musical about Charles Chaplin, "Rhythm of Life" from "Sweet Charity", a hilarious take on “Book Report” from You’re A Good Man, Charlie Brown, with new “Les Miz” lyrics, and lots more.
+: Filmed with multiple camcorders. A-
 
 Hey, Mr. Producer!: The Musical World of Cameron Mackintosh - 1998
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }

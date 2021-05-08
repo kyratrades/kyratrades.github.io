@@ -1230,6 +1230,21 @@ NOTES
 
 ## Annie
 
+Annie - The Netherlands - 1997
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+LT 2:1
+{: .label .label-purple }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Nathalie van Gent, Nelly Frijda, Will van Selst, Margot Giselle, Suzanne Heyne, Dick Cohen, Hans van der Gragt
+
 Annie - 30th Anniversary Tour - October 1, 2006
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -7191,6 +7206,19 @@ CAST
 NOTES
 : Filmed from high in the balcony. Mostly a full shot with occasional obstructions and spotlight washout, but you still can get a good sense of the show.
 
+High Fidelity - Birdland, New York - June 18, 2007
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Christian Anderson, Matt Kaplan, Paul Castree, Jay Klaitz, Julia Murney, Amy Spanger, Rachel Stern, Emily Swallow, Jon Patrick Walker, J.B. Wing, Kirsten Wyatt
+
+NOTES
+: Tom Kitt (music) and Amanda Green (lyrics) are joined by friends at Birdland in New York to celebrate the cast album release of the Broadway flop High Fidelity as part of the “Broadway at Birdland” series. The show features most of the music from High Fidelity, including some songs that were eventually cut in Boston prior to moving to New York. Songs include: Let’s Order In, Last Real Record Store, Desert Island, It’s No Problem, She Goes, Ready to Settle, Nine Percent Chance, more…
+: Due to the intimate size of the venue, there are occasionally heads in the shot and people walking around, but it’s still a good video. A-
+
 ## High Society
 
 High Society - Broadway - April 19, 1998 (Preview)
@@ -10636,6 +10664,18 @@ NOTES
 : Cover-ups (sound only) for the first 3 to 4 minutes during the overture and then a perfect video. Includes scanned Playbill information, as well as NY1's opening night coverage, review and interview with Harry Connick JR and Kelli O'Hara. A
 
 ## Parade
+
+Parade - Los Angeles - November 1, 2009 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: T.R. Knight (Leo Frank), Lara Pulver (Lucille Frank), Rose Sezniak (Mary Phagan), Christian Hoff (Hugh Dorsey), Michael Berresse (Governor Slaton), P.J. Griffith (Tom Watson), Curt Hansen (Frankie Epps), Davis Gaines (Judge Roan), Brad Anderson (Luther Rosser), David St. Louis (Newt Lee), Deidrie Henry (Minnie McKnight), Charlotte d'Amboise (Mrs. Phagan)
+
+NOTES
+: One short blackout in the first act, occasional spotlight washout, and some heads in the bottom of the frame, but nothing too bad. A-
 
 Parade - Avery Fisher Hall, Lincoln Center - February 16, 2015
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
