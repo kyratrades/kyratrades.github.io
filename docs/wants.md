@@ -16,6 +16,8 @@ ___
 
 ## Completionism
 
+<center>I'll trade for ANY relevant items (videos & audios) that I don't already have</center>
+
 ### Performers
 
 - Megan Hilty
@@ -166,7 +168,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013 `video closes out when attempting to click on either act`
 
-#### I have a DVD recorder / re-authored copy for these, looking for the original (first generation) files:
+**I have a DVD recorder / re-authored copy for these, looking for the original (first generation) files:**
 
 - The Addams Family - Pre-Broadway / Chicago - December 27, 2009 \| SunsetBlvd79
 
@@ -280,7 +282,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Cabaret - Third Broadway Revival - December 28, 2014
 
-- If/Then - First National Tour - January 24, 2016 \| SJ Bernly
+- If/Then - First National Tour - January 24, 2016 \| SJ Bernly `Idina’s Last`
 
 ### Concert videos
 
@@ -290,7 +292,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Julia Murney - 54 Below - September 10, 2012 \| juniper47
 
-- Julia Murney - 54 Below - September 16, 2012 \| juniper47(Idina’s Last)
+- Julia Murney - 54 Below - September 16, 2012 \| juniper47
 
 ### Audios
 
