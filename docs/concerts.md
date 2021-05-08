@@ -327,6 +327,27 @@ FORMAT
 NOTES
 : Hosted by Bernadette Peters from Shubert Alley to benefit The League Of American Producers and Theatres. Featuring: Tom Wopat (My Defenses are Down-Annie Get Your Gun), Anthony Rapp, Roger Bart (Suppertime-You're a Good Man Charlie Brown), Cathy Rigby (I Won't Grow Up-Peter Pan), Ruthie Henshall, Roz Ryan (Class-Chicago), Mary McCormack (Cabaret-Cabaret), Alice Ripley (I Dreamed a Dream-Les Miz.), Bill Porter (Bui Doi-Miss Saigon), Linda Balgord (Memory-Cats), Hugh Panaro (Music of the Night-Phantom), Rob Evan (This is the Moment,-Jekyll & Hyde), Rachel York (Storybook-Scarlet Pimpernel), Gene Miller (Last Waltz for Dixie-The Civil War), Edie Falco, Scott Wolfe (Side Man), Tony Orlando & company of Smokey Joe's Cafe (Stand by Me-Smokey Joe's Cafe), Meg Tollis (Do Re Mi-Sound of Music), Company of Rent (Seasons Of Love-Rent), LaChanze, Alton Fitzgerald White (Wheels of a Dream-Ragtime), Stacie Francis, Jennifer Laura Thompson, Robin Baxter (Let's Hear It for the Boy-Footloose), Valerie Pettiford & Cast of Fosse (Life is Just a Bowl of Cherries-Fosse).  About 90 minutes.  Filmed from the crowd.   A-
 
+Stars In The Alley - New York - May 31, 2000
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: 1. "Saturday Night Fever": "Nights On Broadway" w/Orfeh, 2. "Riverdance" singers, 3. "Swing": "Cry Me a River" w/Laura Benanti, 4. "Les Miz": "On My Own", 5. "Miss Saigon": "The American Dream", 6. "Phantom": "Music of the Night" w/Howard McGillin, 7. "The Wild Party": "When It Ends" w/Eartha Kitt, 8. "The Music Man": "Lida Rose/Will I Ever Tell You?" w/Rebecca Luker & company, 9. "Cabaret": "Maybe This Time" w/Joely Fisher, 10."Chicago": "My Own Best Friend" w/Charlotte d'Amboise & Sharon Lawrence, 11."Jesus Christ Superstar": "Gethsemane" w/Glenn Carter, 12."Kiss Me, Kate": "Brush Up Your Shakespeare" w/Michael Mulheren & Lee Wilkof, 13."Jekyll & Hyde: "In His Eyes", 14."Footloose": "Footloose" w/Jeremy Kushnier & company, 15."Fosse": "Life Is Just a Bowl of Cherries" w/Stephanie Pope.
+: Well filmed between the heads in the crowd.   A
+
+Stars In The Alley - New York - June 4, 2003
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+: On the same DVD as [this]()
+
+NOTES
+: 1. Movin’ Out: “New York State Of Mind” (Michael Cavanagh).  2. Hairspray: “Welcome To The 60’s” (Company).  3. 42nd Street: “The Lullaby Of Broadway” (Tom Wopat).  4. A Year With Frog And Toad: “A Year With Frog And Toad” (Mark Linn-Baker, Jay Goede).  5. Nine: “In A Most Unusual Way” (Laura Benanti).  6. Cabaret: “Cabaret” (Deborah Gibson).  7. Rent: “Seasons Of Love” (Frenchie Davis).  8. Thoroughly Modern Millie: “Jimmy” (Sutton Foster).  9. Chicago: “When You’re Good To Mama”.  10. Urinetown: “It’s A Privilege To Pee” (Carolee Carmello and Company).  11. La Boheme (Christine Arand).  12. The Phantom Of The Opera: “The Music Of The Night” (Hugh Panaro).  13. Mamma Mia!: “The Winner Takes It All”  (Louise Pitre).  14. The Producers: “I Wanna Be A Producer” (Matthew Broderick and Company).  15. The Lion King: “Endless Night” (Josh Power).  16. Gypsy: “If Mama Were Married” (Kate Blanchard, Kate Reindeers).  17 The Look Of Love: “Alfie” (Liz Callaway).  18. Man Of La Mancha: “The Impossible Dream” (Brian Stokes Mitchell).
+:  About an hour and 20 minutes. The filmer is kind of all over the place on this one. Also included on the disc: Broadway Under The Stars, 6/13/03. B+
+
 ## Tony Awards
 
 ### Wants
@@ -886,6 +907,16 @@ CAST
 
 NOTES
 : Staged concert. Two cams edited together.
+
+Broadway In Bryant Park - New York - June 13, 2003
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Some of Broadway's biggest stars gathered at the second annual Broadway Under the Stars concert in Bryant Park. This year the event was hosted by Melanie Griffith (her hubby, Antonio Banderas, was supposed to co-host but was home with a fever) and featured guest appearances by Edie Falco, Mary Stuart Masterson, Brian Stokes Mitchell and his wife, actress Allyson Tucker. The lineup of performers read like a who's who of the theater world with Len Cariou, Laura Benanti, Carolee Carmello, Andrea McArdle, Linda Eder, Marin Mazzie, Raul Esparza, Norm Lewis, Tom Wopat, Bebe Neuwirth, Ann Reinking and others.
+: Filmed from the crowd with a few heads in the frame.  (Also included on the disc: Stars In The Alley, 2003)  A-
 
 Do You Hear the People Sing? - Indianapolis - October 7, 2011
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
