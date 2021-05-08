@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Open for limited trades
+<center>I am currently only open to trading for <a href="https://kyratrades.github.io/wants">my wants</a></center>
 
 ### No. of items listed:
 
@@ -22,7 +23,6 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 ### Trading
-I am currently only open to trading for [my wants](https://kyratrades.github.io/wants).
 
 All items listed "NFT" are by the request of the master, I will not trade or sell them.
 
