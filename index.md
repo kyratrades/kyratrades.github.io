@@ -9,8 +9,9 @@ permalink: /
 # Open for limited trades
 <center>I am currently only open to trading for <a href="https://kyratrades.github.io/wants">my wants</a></center>
 
-### No. of items listed:
+---
 
+### No. of items listed:
 <center>Videos: 1189</center>
 
 <center>Audios: <code>TBA</code></center>
