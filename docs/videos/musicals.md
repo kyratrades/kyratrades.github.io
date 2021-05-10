@@ -1260,7 +1260,7 @@ CAST
 NOTES
 : Shot 14 Rows back from the stage, amazing closups, heads in some frames at times, but not much. Wonderful production Annie and the Star to Be were sensational. Best Annie out there. A-
 
-Annie - North Shore Music Theatre, Beverly MA - 2012
+Annie - North Shore Music Theatre - 2012
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
@@ -3031,7 +3031,7 @@ NOTES
 
 ANY Cabaret Blu-rays, especially the one with Emma Stone.
 
-Cabaret - North Shore Music Theatre, Beverly MA - October, 1996
+Cabaret - North Shore Music Theatre - October, 1996
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
@@ -8486,7 +8486,7 @@ CAST
 NOTES
 : The San Francisco company of The Phantom Of The Opera presented this staged benefit concert. Nice two camera archival recording with sound system audio. There is a strong audio buzz.
 
-A Little Night Music - North Shore Music Theatre, Beverly MA - September, 2000
+A Little Night Music - North Shore Music Theatre - September, 2000
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
