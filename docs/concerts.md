@@ -939,6 +939,46 @@ CAST
 NOTES
 : Staged concert. Two cams edited together.
 
+Broadway Barks 10 - New York - July 10, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Sebastian Arcelus, Christine Baranski, Laura Benanti, Bill Berloni, Kerry Butler, Victoria Clark, Glenn Close, Charlotte d'Amboise, Harvey Fierstein, Boyd Gaines, Peter Gallagher, Joel Grey, Shuler Hensley, Jackie Hoffman, Cheyenne Jackson, Andy Karl, Lacey Kohl, Nathan Lane, Li Jun Li, Michael Longoria, Mario Lopez, Priscilla Lopez, Andrea Martin, Heather McRae, Matthew Morrison, Judy McLane, Michael Mulheren, Bebe Neuwith, Orfeh, Faith Prince, Pamela Remler, Loretta Ables Sayer, Jennifer Smith, among others.
+
+NOTES
+: “Mary Tyler Moore and Bernadette Peters will host the tenth annual BROADWAY BARKS!, a star-studded dog and cat adopt-a-thon benefiting New York City animal shelters and adoption agencies. The event, produced by Broadway Cares/Equity Fights AIDS and sponsored by the ASPCA and PEDIGREE with additional sponsorship by the New York Times.  Marking the 10th Anniversary of the organization, BROADWAY BARKS 10 will again help many of New York City's shelter animals find permanent homes by informing New Yorkers about the plight of the thousands of "homeless" dogs and cats in the metropolitan area. Last year's BROADWAY BARKS! attracted an audience of more than 6,000 theater fans, pet owners, and animal lovers, and featured the participation of more than 24 animal shelters from the New York City area, as well as Broadway stars from the hit shows of the season.”
+: Well filmed and crystal clear.   A
+
+Broadway On Broadway - 1998
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Hosted by Brian Stokes Mitchell.
+1. Overture of "Girl Crazy"
+2. "Chicago": "All That Jazz" w/ Ute Lemper and company
+3. "The Lion King": "Hukuna Matata" w/ Jason Raize and cast
+4. "The Sound of Music": "Do Re Mi" w/ Laura Benanti and children
+5. "Jekyll & Hyde: "This Is the Moment"/"In His Eyes" w/ Robert Cucciolli, Luba Mason, and Christiane Noll
+6. "Cats": "Memory" w/ Linda Balgard
+7. "Cabaret": The Band
+8. "Ragtime": "What a Game!" w/ Mark Jacoby & company
+9. "Rent": "Take Me or Leave Me"
+10. "Smokey Joe's Cafe": "On Broadway"/"I'm a Woman" w/ the company
+11. "Les Miz": "I Dreamed a Dream" w/ Alice Ripley
+12. "The Scarlet Pimpernel": "Into the Fire" w/ Douglas Sills and company
+13. "Phantom": "All I Ask of You"
+14. "Miss Saigon": "The Last Night of the World" w/ Will Chase
+15. "Titanic": "Ship of Dreams" w/ the company
+16. "On the Town": "New York, New York" w/ Jesse Tyler Ferguson and Perry Ojeda
+17. Finale: "Give My Regards to Broadway" (all the performers)
+: Nicely filmed from the crowd close to the stage.   A-
+
 Broadway In Bryant Park - New York - June 13, 2003
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
