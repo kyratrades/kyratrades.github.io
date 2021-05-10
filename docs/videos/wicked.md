@@ -960,8 +960,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: ISO `1 DVD` `3.85 GB`
-: [DVD menu](https://imgur.com/a/A9qmN1h) doesn't look like it's the original.
+: VOB+smalls `1 DVD`
 
 CAST
 : Carmen Cusack (Elphaba), Katie Rose Clarke (Glinda), Cliffton Hall (Fiyero), Lee Wilkof (The Wizard), Alma Cuervo (Madame Morrible), Deedee Magno Hall (Nessarose), Brad Weinstock (Boq), Tom Flynn (Doctor Dillamond)

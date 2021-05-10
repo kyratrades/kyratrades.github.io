@@ -162,8 +162,6 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - Broadway - March 13, 2008 \| juniper47 `cannot load video from DVD mneu`
 
-- Wicked - First National Tour (Emerald City) - December 12, 2007 \| SunsetBlvd79 `faulty VTS_01_3.VOB`
-
 - Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee) \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
 - Vanya and Sonia and Masha and Spike - Broadway - March 27, 2013 `video closes out when attempting to click on either act`
@@ -217,8 +215,6 @@ I'm looking for the original files released by the master for these items. I'm e
 - Wicked - First National Tour (Emerald City) - March 14, 2006 \| SunsetBlvd79
 
 - Wicked - First National Tour (Emerald City) - March 6, 2007 \| SunsetBlvd79 `should have the polaroid menu`
-
-- Wicked - First National Tour (Emerald City) - December 12, 2007 \| SunsetBlvd79 `should have the polaroid menu`
 
 - Wicked - West End - October 31, 2006 \| SunsetBlvd79 `should have the polaroid menu`
 
