@@ -3031,6 +3031,21 @@ NOTES
 
 ANY Cabaret Blu-rays, especially the one with Emma Stone.
 
+Cabaret - North Shore Music Theatre, Beverly MA - October, 1996
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.26 Gb`
+
+CAST
+: Jay Douglas (Emcee), Leah Lavish (Sally Bowles), Merle Louise (Fräulein Schneider), Michael Ingram (Herr Schultz), Richard Roland (Clifford Bradshaw), Tom Galantich (Ernst Ludwig), Jane Seaman (Fräulein Kost), Michelle Lipman (Lulu/Two Ladies Dancer), Charles Frizzell (Herman/Customs Officer/Max), Lesley Jennings (Frenchie/Gorilla), Mark Merchant (Bobby/Two Ladies Dancer), Carol Schuberg (Helga), Kevin Roberge (Victor), Brian O'Brien (Rudy)
+
+NOTES
+: Multicam Proshot, presented in the round with soundboard audio. Libretto based on the 1987 Broadway revival, more traditional approach than is produced nowadays. A bit dark, mainly due to original lighting design. Some slight generation loss.
+
 Cabaret - Second Broadway Revival - 1998 (Highlights) 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -10439,6 +10454,18 @@ CAST
 
 NOTES
 : 45 minutes of beautiful pro-shot material.
+
+Nine - Broadway Revival - March 30, 2003 (Preview)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.48 GB`
+
+CAST
+: Antonio Banderas (Guido Contini), Mary Stuart Masterson (Luisa), Chita Rivera (Liliane La Fleur), Laura Benanti (Claudia), Jane Krakowski (Carla), Mary Beth Peil (Guido's Mother), Myra Lucretia Taylor (Saraghina), Deirdre Goodwin (Our Lady of the Spa), Nell Campbell (Lina Darling), William Ulrich (Little Guido)
+
+NOTES
+: Some gen loss
 
 Nine - Broadway Revival - April, 2003
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
