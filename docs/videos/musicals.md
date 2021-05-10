@@ -5971,6 +5971,20 @@ CAST
 NOTES
 : London’s National Theatre production, broadcast live to cinemas around the world. The National Theatre revival is the first fully staged major London production of Follies to present the original Broadway version of the show. Sondheim and Goldman revised large parts of the show’s script and score for its 1987 London premiere, toning down the underlying bleakness of the Broadway original, and offering a more hopeful finale for its central characters. Director Dominic Cooke revisited early drafts of Goldman’s script, restoring original dialogue and moments that have not been seen in the production since its 1971 Broadway run.
 
+### Specials
+
+Follies: Ultimate Edit - Kennedy Center - May, 2011
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Bernadette Peters, Jan Maxwell, Danny Burstein, Rod Raines, Elaine Paige, Linda Lavin, Regine, Susan Watson, Terri White, Terrence Currier, Christian Delcroix, Rosalind Elias, Florence Lacey, David Sabin, Kirsten Scott
+
+NOTES
+: This video is an edit, splicing together the three bootlegs of the Kennedy Center run (5/11/11, 5/13/11, and 5/28/11) into the best video, free of obstruction, color corrected, noise reduced, etc.
+
 ## Fosse
 
 Fosse - Broadway - August, 2001

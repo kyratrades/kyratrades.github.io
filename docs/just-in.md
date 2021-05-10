@@ -92,6 +92,15 @@ CAST
 NOTES
 : The concerts features songs from an array of musicals that have been presented at City Center since its opening in 1943. Included are tunes from Porgy and Bess, presented at City Center in 1943; Fiorello! (1962); Carousel (1957), Brigadoon (1962) and Finian's Rainbow (1966). Filmed from the balcony with some occasional “stage searching”. Not the complete show-the filmer seemed to turn the camera on and off and only filmed parts of the show. The disc includes about 36 minutes of footage. B
 
+An Evening with Sutton Foster - Broadway - September 25, 2010
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Wonderful concert to inaugurate the new Broadway Playhouse in Chicago. Excellent Capture with no obstructions, songs include: Something's Coming (West Side Story), Not For the Life of Me (Millie), NYC (Annie), Astonishing (Little Women), Up On the Roof, Air Conditioner, Warm All Over (The Most Happy Fella), Show Off (Chaperone), Supposin'/Say That (Cut Songs from Millie), More to the Story (Cut song from Shrek), My Heart Was Set On You, Down with Love, I Like The Sunshine, Don't Rain On My Parade, The Late Late Show, Sunshine on My Shoulders, Anyone Can Whistle, Being Alive, Come the Wild Wild Weather, Once Upon A Time, Gimme Gimme (Millie), Defying Gravity.
+
 ### May 5, 2021
 
 Grease - Vienna - February 28, 1995
