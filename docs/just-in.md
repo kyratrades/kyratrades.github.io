@@ -54,7 +54,7 @@ CAST
 NOTES
 : Good clear with nice picture and sound. Disc also includes interviews, opening night footage and reviews. A
 
-Cabaret - North Shore Music Theatre, Beverly MA - October, 1996
+Cabaret - North Shore Music Theatre - October, 1996
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 Pro-Shot
