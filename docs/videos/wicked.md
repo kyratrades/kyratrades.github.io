@@ -833,7 +833,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls `1 DVD` `NO DVD menu`
+: VOB+smalls `1 DVD` `Non-original`
 
 CAST
 : Stephanie J Block (Elphaba), Kendra Kassebaum (Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Carol Kane (Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Timothy Britten Parker (Doctor Dillamond)

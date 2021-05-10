@@ -210,7 +210,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - Broadway - July 2, 2007 \| SunsetBlvd79 `should have the polaroid menu`
 
-- Wicked - First National Tour (Emerald City) - May 8, 2005 \| SunsetBlvd79
+- Wicked - First National Tour (Emerald City) - May 8, 2005 \| SunsetBlvd79 `should have the polaroid menu`
 
 - Wicked - First National Tour (Emerald City) - March 14, 2006 \| SunsetBlvd79
 
