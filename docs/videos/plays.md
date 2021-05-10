@@ -493,6 +493,20 @@ CAST
 NOTES
 : A fantastic show captured pretty well. There's a head that occasionally gets in the way, and there is a lot of noise from moving the camera, but you still get everything from the show. What a brilliant production! B+
 
+## The Motherfucker with the Hat
+
+The Motherfucker with the Hat - Broadway - March 26, 2011 (Preview)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Chris Rock, Bobby Cannavale, Elizabeth Rodriguez, Annabella Sciorra, Yul Vazquez
+
+NOTES
+: Good clear with nice picture and sound. Disc also includes interviews, opening night footage and reviews. A
+
 ## Much Ado About Nothing
 
 Much Ado About Nothing - Wyndham\'s Theatre, West End - September, 2011
