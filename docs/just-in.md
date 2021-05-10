@@ -16,6 +16,59 @@ ___
 
 ## May, 2021
 
+### May 11, 2021
+
+Nine - Broadway Revival - March 30, 2003 (Preview)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.48 GB`
+
+CAST
+: Antonio Banderas (Guido Contini), Mary Stuart Masterson (Luisa), Chita Rivera (Liliane La Fleur), Laura Benanti (Claudia), Jane Krakowski (Carla), Mary Beth Peil (Guido's Mother), Myra Lucretia Taylor (Saraghina), Deirdre Goodwin (Our Lady of the Spa), Nell Campbell (Lina Darling), William Ulrich (Little Guido)
+
+NOTES
+: Some gen loss
+
+Follies: Ultimate Edit - Kennedy Center - May, 2011
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Bernadette Peters, Jan Maxwell, Danny Burstein, Rod Raines, Elaine Paige, Linda Lavin, Regine, Susan Watson, Terri White, Terrence Currier, Christian Delcroix, Rosalind Elias, Florence Lacey, David Sabin, Kirsten Scott
+
+NOTES
+: This video is an edit, splicing together the three bootlegs of the Kennedy Center run (5/11/11, 5/13/11, and 5/28/11) into the best video, free of obstruction, color corrected, noise reduced, etc.
+
+The Motherfucker with the Hat - Broadway - March 26, 2011 (Preview)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Chris Rock, Bobby Cannavale, Elizabeth Rodriguez, Annabella Sciorra, Yul Vazquez
+
+NOTES
+: Good clear with nice picture and sound. Disc also includes interviews, opening night footage and reviews. A
+
+Cabaret - North Shore Music Theatre, Beverly MA - October, 1996
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.26 Gb`
+
+CAST
+: Jay Douglas (Emcee), Leah Lavish (Sally Bowles), Merle Louise (Fräulein Schneider), Michael Ingram (Herr Schultz), Richard Roland (Clifford Bradshaw), Tom Galantich (Ernst Ludwig), Jane Seaman (Fräulein Kost), Michelle Lipman (Lulu/Two Ladies Dancer), Charles Frizzell (Herman/Customs Officer/Max), Lesley Jennings (Frenchie/Gorilla), Mark Merchant (Bobby/Two Ladies Dancer), Carol Schuberg (Helga), Kevin Roberge (Victor), Brian O'Brien (Rudy)
+
+NOTES
+: Multicam Proshot, presented in the round with soundboard audio. Libretto based on the 1987 Broadway revival, more traditional approach than is produced nowadays. A bit dark, mainly due to original lighting design. Some slight generation loss.
+
 ### May 9, 2021
 
 Stephen Sondheim’s 80th Birthday Gala - New York City Center - April 26, 2010
