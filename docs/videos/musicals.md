@@ -5952,6 +5952,21 @@ CAST
 NOTES
 : Some gen loss. A little shaky to start, and then improves greatly. Crisp, sharp images with great close ups.
 
+Follies - Second Broadway Revival - December 6, 2011
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+NYCG8R
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Bernadette Peters (Sally Durant Plummer), Jan Maxwell (Phyllis Rogers Stone), Danny Burstein (Buddy Plummer), Ron Raines (Benjamin Stone), Elaine Paige (Carlotta Campion), Jayne Houdyshell (Hattie Walker), Rosalind Elias (Heidi Schiller), Terri White (Stella Deems), Mary Beth Peil (Solange LaFitte), Susan Watson (Emily Whitman), Florence Lacey (Sandra Donovan), Don Correia (Theodore Whitman), Danielle Jordan (u/s Young Sally), Kirsten Scott (Young Phyllis), Christian Delcroix (Young Buddy)
+
+MASTER'S NOTES
+: A+ I think this is a BEAUTIFUL video!!! No blackouts, no obstructions and always following the action closely. *Last few minutes are from 12/7/11
+
 Follies - National Theatre - November 16, 2017
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
