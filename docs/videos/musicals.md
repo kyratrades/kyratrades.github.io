@@ -114,6 +114,12 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Iona Alphonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
 
+MASTER'S NOTES
+: Filmed in 16:9 widescreen. Shot during previews, so MANY bits of dialogue are different from what they ended up with. This was also before they changed the ending of "Out of Control" when Stephanie got to sing that really high note at the end. But a fantastic, great energy performance, especially from the three leads. 
+: It was my first time filming this show, so I was a little jumpy. There are several blackouts: end of "Around Here" through most of "Here For You", toward end of "Tattletale" when tech problem, a bit after the malfunction (sadly missed when Allison ad-libbed and made Andy break/crack up), some of "I Killed the Boss", beginning of "Well-Oiled Machine", a perhaps a couple other very brief ones. There is very minor obstruction by a head, but is well shot around. Mostly steady filming with a good mix of wide and zoomed shots. Excellent sound from an external MD source. 
+: A few other notable things: the copy machine kind of broke during "Out of Control" but Stephanie sells the scene well. As previously mentioned, there was a technical set malfunction after "Tattletale" (which is sort of filmed) and when the show resumed, Allison made a GREAT hilarious ad-lib. During the maui wowie scene, Megan choked on "pot" smoke during one of her lines. And quite possibly the funniest was when Stephanie was pretending to crack up laughing and she found a Cheeto on the floor, picked it up, said "Oh, a Cheeto!" and popped it into her mouth. (This was the incident that prompted Joe Mantello to later write in the "I can't feel my lips" line.) 
+: Filmed during previews so there are some differences in dialogue and with the songs (i.e. Stephanie still had the very high note at the end of "Out of Control"). Some great ad-libs and flubs, one of which was after the show had to stop due to technical difficulty.
+
 9 to 5 - Pre-Broadway / Los Angeles - September 23, 2008
 {: .no_toc }
 
@@ -134,9 +140,14 @@ juniper47
 
 FORMAT
 : VOB+smalls `1 DVD`
+: Often confused for SunsetBlvd79's video from the same performance.
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
+
+MASTER'S NOTES
+: Excellent capture of an amazing show. The cast was on fire, especially Stephanie J. Block, who -- despite having been sick -- went all-out in "Get Out and Stay Out" and was fierce as hell. Allison's performance was one of the best ever, and Megan was her adorable self, playing Dolly Parton's role down to the finest details. The sets too are AMAZING. 
+: Filmed in 16:9 widescreen. Very steady, good mix of medium-wide shots and close-ups. Almost no blackouts and while there are a few heads in the wider frames, they are not obstructing any of the action. External audio fed from MD recorder so excellent, clear audio.
 
 9 to 5 - Pre-Broadway / Los Angeles - October 19, 2008 (Closing Night)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -149,8 +160,6 @@ Issues
 
 FORMAT
 : VOB+smalls `1 DVD`
-
-COMMENTS
 : Non-original smalls; Would trade for original files
 
 CAST
@@ -239,12 +248,11 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Gaelen Gilliland (u/s Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Dan Cooney (Dick), Van Hughes (Josh), Jeremy Davis (Bob Enright), Jessica Lea Patty (u/s Maria), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Charlie Pollock (Dwight), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
-NOTES
+MASTER'S NOTES
 : Filmed in 16:9 widescreen. Minor and only occasional obstruction from the woman sitting in front of me who kept leaning forward whenever she laughed at something. Virtually no blackouts (only during transitions) . External audio fed into video from two sources, so audio is clear. Good mix of close-ups and wider shots when multiple people were on stage to see their interactions.
-
 : Gaelen makes a great Judy -- very different from SJB, but extremely solid and made the role her own. Allison and Megan were on top of their game as well. A FANTASTIC FLUB occurred when Gaelen's scarf got tangled on her microphone wire and it took Allison a very long time to untie it, and by that time, she'd ad-libbed her way out of it and then collapsed in a heap of laughter. It was definitely one of those moments you're glad to have captured on video!
 
-9 to 5 - Broadway - September 6, 2009 (Closing Night)
+9 to 5 - Broadway - September 6, 2009 (Matinee) (Closing Night)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 juniper47
@@ -256,8 +264,8 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Jill Abramovitz (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Herman Payne, Jessica Lea Patty, Justin Bohon, Michael Mindlin, Paul Castree, Spencer Liff, Wayne Schroder
 
-NOTES
-: Final performance! Filmed in 16:9 widescreen. Few obstructions. Only in the wide shots when there are two heads on either side of the frame, but filmer does his/her best to shoot around them. External audio fed into video from MD recorder, so audio is very clear. A mix of close-ups and wider shots when multiple people were on stage to see their interactions. This was a gut-wrenchingly sad performance. Most of the cast members were in tears at some point or another during the show. In particular, Stephanie was sobbing through \"I Just Might\" and Allison started sobbing at the end of \"One of the Boys\". A few minor ad-libs and mishaps. One being when Allison pulled out a tape measure during the urinals bit of \"One of the Boys\". The cast was sad but they were clearly trying to have the times of their lives and go out with a bang. And they fed off the audience energy which was insane and very supportive.
+MASTER'S NOTES
+: Final performance! Filmed in 16:9 widescreen. Few obstructions. Only in the wide shots when there are two heads on either side of the frame, but filmer does his/her best to shoot around them. External audio fed into video from MD recorder, so audio is very clear. A mix of close-ups and wider shots when multiple people were on stage to see their interactions. This was a gut-wrenchingly sad performance. Most of the cast members were in tears at some point or another during the show. In particular, Stephanie was sobbing through "I Just Might" and Allison started sobbing at the end of "One of the Boys". A few minor ad-libs and mishaps. One being when Allison pulled out a tape measure during the urinals bit of "One of the Boys". The cast was sad but they were clearly trying to have the times of their lives and go out with a bang. And they fed off the audience energy which was insane and very supportive.
 
 ### MISC
 
@@ -5321,7 +5329,8 @@ CAST
 : Jonathan Crombie (Man in Chair), Jen Taylor Farrell (u/s Janet van de Graaf), Alicia Irving (The Drowsy Chaperone), Mark Ledbetter (Robert Martin), Noble Shropshire (Underling), Richard Vida (George), Peter Riopelle (Gangster \#1), Paul Riopelle (Gangster \#2), Cliff Bemis (Mr. Feldzieg), Linda Griffin (Kitty), Georgia Engel (Mrs. Tottendale), Dale Hensley (Aldolpho), NaTasha Yvette Williams (Trix)
 
 NOTES
-: Filmed in widescreen with no obstructions and almost no blackouts, great picture that follows the action very well.
+: Video begins about a minute and a half after the lights come up.
+: Jen Taylor Farrell's first performance as Janet u/s
 
 # E
 
@@ -5575,7 +5584,7 @@ FORMAT
 CAST
 : Julia Murney (Eva Perón), Eric Kunze (Che), Scott Blanks (Perón), Philip Michael Baskerville (Magaldi), Kari Yancy (Perón\'s Mistress)
 
-NOTES
+MASTER'S NOTES
 : Filmed in widescreen with no major obstructions, some great zooms, and a very steady, clear picture. Final performance of the Sacramento production. This production was performed in the round, so sometimes the actors have their backs to the camera, but it is overall very well balanced on all sides. The stage also rises and revolves, which is used to great effect during \"Don\'t Cry For Me, Argentina\"
 
 Evita - First Broadway Revival - March 14, 2012 (Preview)
@@ -7626,8 +7635,8 @@ FORMAT
 CAST
 : Beth Leavel (Witch), Hunter Foster (Baker), Brynn O\'Malley (Baker\'s Wife), Sara Jean Ford (Cinderella), Jennifer Cody (Little Red Riding Hood), Stanley Bahorek (Jack), Kevin Earley (Wolf/Cinderella\'s Prince), Greggory Brandt (Rapunzel\'s Prince), Betsy Lawrence (Jack\'s Mother), Kaitlyn Davidson (Rapunzel)
 
-NOTES
-: Not the closing performance as previously listed. This was the matinee performance, and the production had an evening show as their closing. A couple of minor obstructions but only in the wider shots. Almost no blackouts and nicely captured.
+MASTER'S NOTES
+: Filmed in 16:9 widescreen. A few minor obstructions but only in the wider shots and most filming is mid-zoom and close shots. Virtually no blackouts except during applause and filming is fairly steady. External audio is fed in from an MD recorder, therefore audio is very clear. The theatre is cavernous and huge so acoustics aren't the greatest (a little echo-y), but it's not too bad.
 
 Into the Woods - Regent\'s Park Open Air Theatre - September 9, 2010
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -10245,7 +10254,7 @@ FORMAT
 CAST
 : Jeremy Jordan (Jack Kelly), Kara Lindsay (Katherine Plumber), Andrew Keenan-Bolger (Crutchie), John Dossett (Joseph Pulitzer), Helen Anker (Medda Larkin), RJ Fattori (Les Jacobs), Ben Fankhauser (Davey Jacobs), Ryan Breslin (Race), Andy Richardson (Romeo), Brendon Stimson (Oscar Delancey), Mike Faist (Morris Delancey), Tommy Bracco (Spot Conlon), Aaron J Albano (Finch), Ryan Steele (Specs), Garett Hawe (Albert), John E Brady (Wiesel/Mr. Jacobi/Mayor), Mark Aldrich (Seitz), Laurie Veldheer (Hannah), Ephraim Sykes (Mush)
 
-NOTES
+MASTER'S NOTES
 : Filmed in 16:9 widescreen, almost no obstructions except for a head on the edge of the widest shots. Only very brief drop-outs for applause. Super fun for fans of the show to see the version before it came to Broadway. This is the only known full video of this pre-Broadway production. Yes, there is a typo in Andrew Keenan-Bolger's name in the video's cast list. Sorry. Audio fed in from external source, so the audio is nice and clear. Do not identify master or exact date.
 
 Newsies - Broadway - February 10, 2013
@@ -10322,7 +10331,7 @@ FORMAT
 CAST
 : Jessica Phillips (s/b Diana), J Robert Spencer (Dan), Kyle Dean Massey (Gabe), Jennifer Damiano (Natalie), Adam Chanler-Berat (Henry), Louis Hobson (Dr. Fine/Dr. Madden)
 
-NOTES
+MASTER'S NOTES
 : Filmed in 16:9 widescreen. Act One has a few minor obstructions from a head on the lower edge of the screen, but they are brief and was shot around as best as possible. Moved for Act Two and had zero obstructions. About 30 seconds to a minute or so of blackouts at the start of each act, otherwise complete. Mix of medium and close zooms, depending on the action in the scene. A few instances in the audio where there is cell phone interference, but it should not be terribly distracting.
 : A fantastic performance from all, but especially Jessica. She has an absolutely incredible voice, along with very heartfelt and sincere acting. She has completely made the role her own.
 : Rating: A-
@@ -10369,7 +10378,7 @@ FORMAT
 CAST
 : Judy McLane (Diana), Jonathan Rayson (Dan), Matt Dengler (Gabe), Ephie Aardema (Natalie), Alex Brightman (Henry), Ben Crawford (Dr. Fine/Dr. Madden)
 
-NOTES
+MASTER'S NOTES
 : Filmed in 16:9 widescreen. No obstructions, only one blackout in Act One due to late-comers, and a very brief one in Act Two due to a glitch in the video that had to get cut out. Steady filming with a good mix of close-ups and medium zooms for ensemble action on the very large set. External audio fed in from MD source so it is clear.
 : Overall, a very solid cast and excellent performances all-around. Judy McLane especially stood out as Diana, as did Jonathan Rayson as Dan. One of my favorite Diana/Dan combinations I've seen. Absolutely genuine and powerful acting from those two, which is pretty amazing considering the show's run was only three weeks long. They made very good use of some new staging and a new set, bringing out some new nuances to the show. Some elements I thought were essential to the Broadway/tour productions were missing, but it's nothing too drastic. There were also some very minor script changes that were interesting. Everyone (perhaps because it was the closing show) was giving 110% and was on fire.
 
@@ -10385,8 +10394,8 @@ FORMAT
 CAST
 : Kendra Kassebaum (Diana), Joe Cassidy (Dan), Jonathan Shew (Gabe), Andrea Ross (Natalie), AJ Holmes (Henry), Mark Farrell (Dr. Fine/Dr. Madden)
 
-NOTES
-: Kendra Kassebaum was such a phenomenal Diana - her acting was out of this world! Shot in 16:9 widescreen, a tad dark in some low-light scenes, but no obstructions at all. One brief blackout for the first minute of \"Why Stay?\" when a battery change was necessary. But also included (at the end of the DVD) is a clip of \"Why Stay?\" shot in its entirety from 2 days prior to make up for that. Quick drop-outs for applause. Also, the angle where my seat was weird, so there\'s slight tilt in the video. Audio fed in from external source, so the audio is nice and clear.
+MASTER'S NOTES
+: Kendra Kassebaum was such a phenomenal Diana - her acting was out of this world! Shot in 16:9 widescreen, a tad dark in some low-light scenes, but no obstructions at all. One brief blackout for the first minute of "Why Stay?" when a battery change was necessary. But also included (at the end of the DVD) is a clip of "Why Stay?" shot in its entirety from 2 days prior to make up for that. Quick drop-outs for applause. Also, the angle where my seat was weird, so there's slight tilt in the video. Audio fed in from external source, so the audio is nice and clear.
 
 Next to Normal - Fürth, Germany - November 2, 2013
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -11895,7 +11904,7 @@ FORMAT
 CAST
 : Sean Hayes (Chuck Baxter), Kristin Chenoweth (Fran Kubelik), Brian O\'Brien (u/s J.D. Sheldrake), Dick Latessa (Dr. Dreyfuss), Brooks Ashmanskas (Mr. Dobitch), Katie Finneran (Marge MacDougall), Helen Anker (Peggy Olson)
 
-NOTES
+MASTER'S NOTES
 : Filmed in 16:9 widescreen. No obstructions (no one sitting in front of me). A few very brief blackouts due to late-comers. Steady filming with a good mix of close-ups and medium zooms. External audio fed in from MD source so it is very clear.
 : This DVD also includes Katie Finneran's scenes from her final performance on October 10, 2010. She pretty much steals the show in Act Two and she very much deserved her Tony award for best featured actress in a musical last year. Sean Hayes and Kristin Chenoweth also deliver absolutely charming performances and it is clear that they had great chemistry together. The show's choreography was also inspired and charming. The Sept 22nd performance also included a couple of minor flubs, including one where Chenoweth drops her purse and she briefly ad-libs when she picks it up.
 
@@ -12040,6 +12049,10 @@ FORMAT
 
 CAST
 : Anthony Rapp (Mark Cohen), Adam Pascal (Roger Davis), Lexi Lawson (Mimi Márquez), Justin Johnston (Angel Dumott Schunard), Michael McElroy (Tom Collins), Nicolette Hart (Maureen Johnson), Haneefah Wood (Joanne Jefferson), Jacques C Smith (Benjamin Coffin III), Yuka Takara (Alexi Darling and others), Adam Halpin (Gordon/Mr. Grey), John Watson (Mr. Jefferson/Soloist \#2 and others), Trisha Jeffrey (u/s Mrs. Jefferson/Soloist \#1 and others), Telly Leung (Steve and others)
+
+MASTER'S NOTES
+:  Filmed in 16:9 widescreen. Almost no obstructions, with the exception of an instance where a few people left early and walked across the walkway. A couple of very brief blackouts, one during "Rent" because of latecomers and another during "Contact" when the bright light practically blinded me. External audio from MD fed into video, so audio is very clear. Also, there are some scenes that are very dimly lit so they were a little difficult to see, but I've edited the video to increase the contrast a bit.
+: The performance was fantastic and it totally reminded me of why I used to love this show so much. The audience was really ecstatic, lots of cheering, but luckily not too close to me so it isn't really all that obnoxious. The cast definitely was feeding off that energy as well, and there was no holding back of anything. After having seen Adam and Anthony a couple years ago, I thought they might be bored with the roles, but that isn't the case at all -- if anything, I think they are better now.
 
 RENT - Hollywood Bowl - August 6, 2010 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -14596,7 +14609,7 @@ FORMAT
 CAST
 : Janet Dacal (Alice), Kate Shindle (Mad Hatter), Carly Rose Sonenclar (Chloe/Ellie), Edward Staudenmayer (The White Rabbit), Karen Mason (Queen of Hearts), Darren Ritchie (Jack the White Knight), E Clayton Cornelious (Caterpillar), Jose Llana (El Gato/Chesire Cat), Danny Stiles (Morris the March Hare)
 
-NOTES
+MASTER'S NOTES
 : Filmed in 16:9 widescreen. Very few obstructions except for a head blocking the farthest corners of downstage stage left and right, but very little is missed there. Only a few brief blackouts in Act One due to late-comers. Steady filming with a good mix of close-ups and medium zooms for ensemble action. External audio fed in from MD source so it is very clear. A LOT of the show has changed over the course of the previews period, mostly for the better, although a few issues remain in Act Two. Nonetheless, it is a gorgeous show with great costumes, lighting and set design, not to mention some PHENOMENAL performances from Kate Shindle, Janet Dacal and Karen Mason. This performance, being just a few days before it closed, had a very enthusiastic and supportive audience with lots of entrance applause and cheering (but nothing obnoxious).
 
 # X
@@ -14616,6 +14629,10 @@ FORMAT
 
 CAST
 : Elizabeth Stanley (u/s Clio/Kira), Max von Essen (Sonny), Larry Marshall (Danny Maguire/Zeus), Annie Golden (Calliope/Aphrodite), NaTasha Yvette Williams (Melpomene/Medusa), Kevin Duda (Thalia/Siren/Young Danny/\'80s Singer/Cyclops), Veronica J Kuehn (Euterpe/Siren/\'40s Singer/Thetis), Chauntee Schuler (Erato/Siren/\'40s Singer/Eros/Hera), Jesse Warren Nager (Terpsicore/Siren/\'80s Singer/Hermes/Centaur)
+
+MASTER'S NOTES
+: Filmed in 16:9 widescreen. Audio from external MD recorder which is very clear, except for the last 2 minutes or so of the video, which uses the video camera's built-in mic. (The transition should be fairly smooth and only detectable on headphones.) Almost no obstructions and very few blackouts (only in between scenes). Mix of close zooms and some wide shots to see the entire ensemble.
+This show is such hilariously awesome crack. I don't think I could ever get sick of it. Elizabeth Stanley and Max von Essen capture the essence of Clio/Kira and Sonny so perfectly well and they have fantastic chemistry together. The ensemble members are also really fun to watch. Some of their antics are worth the price of admission by themselves.
 
 # Y
 

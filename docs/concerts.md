@@ -1140,7 +1140,7 @@ FORMAT
 CAST
 : Tom Kitt with Kelli O'Hara, Aaron Tveit, Alice Ripley, Amy Spanger, Gavin Creel, Billy Porter, Amanda Green, Jenn Colella, Julia Murney and Brooks Ashmanskas
 
-NOTES
+MASTER'S NOTES
 : Shot in 16:9 widescreen. The first song was filmed a bit too dark (forgot to change settings), and the second song is audio-only (I don't remember why), but the rest of the concert video is intact. The video is steady with close zooms. No obstructions on main performers, but off-stage singers in a couple of the group numbers could not be filmed. Great music written by Tom Kitt (including songs from Next To Normal and High Fidelity), performed by some of the greatest talents on Broadway. (My personal favorite is Julia Murney's "Perfect".)
 
 West End Acoustic - April, 2021 (Streamed)

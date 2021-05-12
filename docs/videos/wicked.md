@@ -1518,7 +1518,7 @@ FORMAT
 CAST
 : Eden Espinosa (Elphaba), Megan Hilty (Glinda), Kristoffer Cusick (Fiyero), John Rubinstein (The Wizard), Carol Kane (Madame Morrible), Marcie Dodd (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond), Peter John Chursin (Chistery), Linda Kerns (Midwife), Gina Starbuck (Witch\'s Mother), Matthew Stocke (Witch\'s Father / Ozian Official)
 
-NOTES
+MASTER'S NOTES
 : This show is Eden, Adam and Carol\'s last performances.
 
 Wicked - Los Angeles - January 18, 2008
