@@ -10,7 +10,7 @@ permalink: /wants
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/wants#completionism">Completionism</a> • <a href="https://kyratrades.github.io/wants#smalls">Smalls</a> • <a href="https://kyratrades.github.io/wants#file-upgrades">File upgrades</a> • <a href="https://kyratrades.github.io/wants#specific-wants">Specific wants</a></p>
+<p align="center"><a href="https://kyratrades.github.io/wants#completionism">Completionism</a> • <a href="https://kyratrades.github.io/wants#specific-wants">Specific wants</a> • <a href="https://kyratrades.github.io/wants#smalls">Smalls</a> • <a href="https://kyratrades.github.io/wants#file-upgrades">File upgrades</a></p>
 
 ___
 
@@ -57,6 +57,71 @@ ___
 - Any Blu-rays
 
 - Any Encores! videos
+
+---
+
+## Specific wants
+
+### Videos
+
+- The Scarlet Pimpernel: 
+    - February 6, 1999 (Highlights)
+    - March 7, 1999
+    - May 30, 1999 (Highlights)
+
+- Chicago - West End Revival - June 13, 2001 \| juniper47
+
+- [title of show] - Broadway - October 7, 2008 (Highlights) \| juniper47
+
+- The Drowsy Chaperone - National Tour - July 13, 2008 (Evening) \| juniper47
+
+- Hairspray - First National Tour - February 1, 2008 \| juniper47
+
+- Jersey Boys - First National Tour - November 30, 2007 \| juniper47
+
+- Jersey Boys - Las Vegas - December 22, 2007 \| juniper47
+
+- Les Misérables - Hollywood Bowl - August 9, 2008 \| juniper47
+
+- Les Misérables - Fourth National Tour - December 12, 2010 \| juniper47
+
+- The Marvelous Wonderettes - Musical Theatre West - April 24, 2010 (Matinee) \| juniper47
+
+- The Marvelous Wonderettes - Sacramento Music Circus - August 19, 2010 (Matinee) \| juniper47
+
+- Wicked - Broadway - May 14, 2008 \| juniper47
+
+- Wicked - Broadway - December 12, 2009 \| juniper47
+
+- Winter Wonderettes - Laguna Playhouse - December 19, 2009 \| juniper47
+
+- Xanadu - National Tour - December 31, 2008 (Matinee) (Highlights) \| juniper47
+
+### Blu-ray videos
+
+- The Addams Family - First National Tour - July, 2012
+
+- Cabaret - Third Broadway Revival - August 19, 2014 \| SJ Bernly
+
+- Cabaret - Third Broadway Revival - December 28, 2014
+
+- If/Then - First National Tour - January 24, 2016 \| SJ Bernly `Idina’s Last`
+
+- Grey Gardens - Los Angeles / Tour - August 26, 2016 `Date may be incorrect`
+
+- Mamma Mia! - Hollywood Bowl / Los Angeles - July 30, 2017 \| SJ Bernly `Closing Night`
+
+### Concert videos
+
+- Julia Murney - 54 Below - September 16, 2012 \| juniper47
+
+### Audios
+
+- My Fair Lady - BBC Radio 2 Broadcast - December 23, 1995
+
+- Network - National Theatre - November 9, 2017 (Preview)
+
+- Hayley Atwell in Rosmersholm / Measure for Measure / ANY shows
 
 ---
 
@@ -227,68 +292,3 @@ I'm looking for the original files released by the master for these items. I'm e
 ### Audios
 
 <p align="center"><small>...to be added</small></p>
-
----
-
-## Specific wants
-
-### Videos
-
-- The Scarlet Pimpernel: 
-    - February 6, 1999 (Highlights)
-    - March 7, 1999
-    - May 30, 1999 (Highlights)
-
-- Chicago - West End Revival - June 13, 2001 \| juniper47
-
-- [title of show] - Broadway - October 7, 2008 (Highlights) \| juniper47
-
-- The Drowsy Chaperone - National Tour - July 13, 2008 (Evening) \| juniper47
-
-- Hairspray - First National Tour - February 1, 2008 \| juniper47
-
-- Jersey Boys - First National Tour - November 30, 2007 \| juniper47
-
-- Jersey Boys - Las Vegas - December 22, 2007 \| juniper47
-
-- Les Misérables - Hollywood Bowl - August 9, 2008 \| juniper47
-
-- Les Misérables - Fourth National Tour - December 12, 2010 \| juniper47
-
-- The Marvelous Wonderettes - Musical Theatre West - April 24, 2010 (Matinee) \| juniper47
-
-- The Marvelous Wonderettes - Sacramento Music Circus - August 19, 2010 (Matinee) \| juniper47
-
-- Wicked - Broadway - May 14, 2008 \| juniper47
-
-- Wicked - Broadway - December 12, 2009 \| juniper47
-
-- Winter Wonderettes - Laguna Playhouse - December 19, 2009 \| juniper47
-
-- Xanadu - National Tour - December 31, 2008 (Matinee) (Highlights) \| juniper47
-
-### Blu-ray videos
-
-- The Addams Family - First National Tour - July, 2012
-
-- Cabaret - Third Broadway Revival - August 19, 2014 \| SJ Bernly
-
-- Cabaret - Third Broadway Revival - December 28, 2014
-
-- If/Then - First National Tour - January 24, 2016 \| SJ Bernly `Idina’s Last`
-
-- Grey Gardens - Los Angeles / Tour - August 26, 2016 `Date may be incorrect`
-
-- Mamma Mia! - Hollywood Bowl / Los Angeles - July 30, 2017 \| SJ Bernly `Closing Night`
-
-### Concert videos
-
-- Julia Murney - 54 Below - September 16, 2012 \| juniper47
-
-### Audios
-
-- My Fair Lady - BBC Radio 2 Broadcast - December 23, 1995
-
-- Network - National Theatre - November 9, 2017 (Preview)
-
-- Hayley Atwell in Rosmersholm / Measure for Measure / ANY shows
