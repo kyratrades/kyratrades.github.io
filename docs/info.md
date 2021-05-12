@@ -47,6 +47,6 @@ e/c
 
 ---
 
-### Traders
+### Recommended Traders
 
 <p align="center"><small>...to be added</small></p>
