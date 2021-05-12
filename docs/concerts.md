@@ -19,7 +19,7 @@ permalink: /concerts
 
 ### Performers
 
-<p align="center"><a href="https://kyratrades.github.io/concerts#bernadette-peters">Bernadette Peters</a> • <a href="https://kyratrades.github.io/concerts#eden-espinosa">Eden Espinosa</a> • <a href="https://kyratrades.github.io/concerts#eva-noblezada">Eva Noblezada</a> • <a href="https://kyratrades.github.io/concerts#laura-benanti">Laura Benanti</a> • <a href="https://kyratrades.github.io/concerts#lea-salonga">Lea Salonga</a> • <a href="https://kyratrades.github.io/concerts#liza-minnelli">Liza Minnelli</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#rachel-york">Rachel York</a> • <a href="https://kyratrades.github.io/concerts#shoshana-bean">Shoshana Bean</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#sutton-foster">Sutton Foster</a></p>
+<p align="center"><a href="https://kyratrades.github.io/concerts#bernadette-peters">Bernadette Peters</a> • <a href="https://kyratrades.github.io/concerts#eden-espinosa">Eden Espinosa</a> • <a href="https://kyratrades.github.io/concerts#eva-noblezada">Eva Noblezada</a> • <a href="https://kyratrades.github.io/concerts#julia-murney">Julia Murney</a> • <a href="https://kyratrades.github.io/concerts#laura-benanti">Laura Benanti</a> • <a href="https://kyratrades.github.io/concerts#lea-salonga">Lea Salonga</a> • <a href="https://kyratrades.github.io/concerts#liza-minnelli">Liza Minnelli</a> • <a href="https://kyratrades.github.io/concerts#megan-hilty">Megan Hilty</a> • <a href="https://kyratrades.github.io/concerts#patti-lupone">Patti Lupone</a> • <a href="https://kyratrades.github.io/concerts#rachel-york">Rachel York</a> • <a href="https://kyratrades.github.io/concerts#shoshana-bean">Shoshana Bean</a> • <a href="https://kyratrades.github.io/concerts#stephanie-j-block">Stephanie J. Block</a> • <a href="https://kyratrades.github.io/concerts#sutton-foster">Sutton Foster</a></p>
 
 ### MISC
 {: .no_toc }
@@ -544,6 +544,32 @@ FORMAT
 LINK
 : [Birdland](https://www.birdlandjazz.com/e/eva-noblezada-streamed-from-birdland--125407574431/)
 
+## Julia Murney
+
+Julia Murney - Feinstein's - May 18, 2009
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Solo concert at Feinstein's
+
+Julia Murney - 54 Below - September 10, 2012
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: Solo concert at 54 Below
+
 ## Laura Benanti
 
 Live from the West Side: Women of Broadway - November 14, 2020
@@ -989,6 +1015,18 @@ FORMAT
 NOTES
 : Some of Broadway's biggest stars gathered at the second annual Broadway Under the Stars concert in Bryant Park. This year the event was hosted by Melanie Griffith (her hubby, Antonio Banderas, was supposed to co-host but was home with a fever) and featured guest appearances by Edie Falco, Mary Stuart Masterson, Brian Stokes Mitchell and his wife, actress Allyson Tucker. The lineup of performers read like a who's who of the theater world with Len Cariou, Laura Benanti, Carolee Carmello, Andrea McArdle, Linda Eder, Marin Mazzie, Raul Esparza, Norm Lewis, Tom Wopat, Bebe Neuwirth, Ann Reinking and others.
 : Filmed from the crowd with a few heads in the frame. A-
+
+Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Julia Murney, David Burnham, Farah Alvin
 
 Do You Hear the People Sing? - Indianapolis - October 7, 2011
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }

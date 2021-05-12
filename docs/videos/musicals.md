@@ -3028,8 +3028,9 @@ NOTES
 ## Cabaret
 
 ### Wants
+{: .no_toc }
 
-ANY Cabaret Blu-rays, especially the one with Emma Stone.
+<center>Any Cabaret Blu-rays, especially the one with Emma Stone.</center>
 
 Cabaret - North Shore Music Theatre - October, 1996
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -7760,7 +7761,7 @@ NOTES
 
 # J
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/musicals#jawbreaker-the-musical">Jawbreaker: The Musical</a> • <a href="https://kyratrades.github.io/musicals#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/musicals#jesus-christ-superstar">Jesus Christ Superstar</a> • <a href="https://kyratrades.github.io/musicals#jesus-christ-superstar">Joseph and the Amazing Technicolor Dreamcoat</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/musicals#jawbreaker-the-musical">Jawbreaker: The Musical</a> • <a href="https://kyratrades.github.io/musicals#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/musicals#jerseys-boys">Jersey Boys</a> • <a href="https://kyratrades.github.io/musicals#jesus-christ-superstar">Jesus Christ Superstar</a> • <a href="https://kyratrades.github.io/musicals#joseph-and-the-amazing-technicolor-dreamcoat">Joseph and the Amazing Technicolor Dreamcoat</a></p>
 
 ## Jagged Little Pill
 
@@ -7851,6 +7852,23 @@ CAST
 
 NOTES
 : Surprisingly good for a video more than 20 years old of the Broadway transfer. The disc starts out with a few minutes of Alexis Smith promoting Platinum, with Gene Shallit. A
+
+## Jersey Boys
+
+Jersey Boys - Broadway - March 14, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Michael Longoria (Frankie Valli), Christian Hoff (Tommy Devito), John Leone (u/s Nick Massi), Sebastian Arcelus (Bob Gaudio), Jennifer Naimo (Mary Delgado), Peter Gregus (Bob Crewe), Mark Lotito (Gyp De Carlo), Travis Cloer (Joey), Donnie Kehr (Norm Waxman), Erica Piccininni (Lorraine), Sara Schmidt (Francine), Kris Coleman (Hal Miller), Eric Gutman (Hank Majewski)
+
+MASTER'S NOTES
+: A little shaky at times, minor obstruction on right side of screen at times, but nothing too bad. The last 10 minutes are audio only. Sebastian is wonderful in the role, from the master. A-
 
 ## Jesus Christ Superstar
 
@@ -8953,6 +8971,11 @@ NOTES
 : Presented at The Kennedy Center For The Performing Arts. Filmed between heads which rarely get in the way of the action. Occasional spotlight wash out.
 
 ## Mamma Mia!
+
+### Wants
+{: .no_toc }
+
+<center>The Hollywood Bowl Blu-ray with Dove Cameron.</center>
 
 Mamma Mia! - West End - September 14, 2002
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -11582,6 +11605,7 @@ NOTES
 
 ### Wants
 {: .no_toc }
+
 The Pirate Queen - Broadway - March 24, 2007 (Preview) `1 Disc, complete files`
 
 The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
@@ -12199,7 +12223,7 @@ Read more about the show's interesting history and the difference between each v
 ### Wants
 {: .no_toc }
 
-ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `March 9, 1999`, `May 30, 1999 (Highlights)`.
+ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `May 30, 1999 (Highlights)`.
 
 The Scarlet Pimpernel - Broadway - October, 1997 (SP1)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }

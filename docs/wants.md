@@ -210,7 +210,7 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - Broadway - July 2, 2007 \| SunsetBlvd79 `should have the polaroid menu`
 
-- Wicked - First National Tour (Emerald City) - May 8, 2005 \| SunsetBlvd79 `should have the polaroid menu`
+- Wicked - First National Tour (Emerald City) - May 8, 2005 \| SunsetBlvd79
 
 - Wicked - First National Tour (Emerald City) - March 14, 2006 \| SunsetBlvd79
 
@@ -237,7 +237,6 @@ I'm looking for the original files released by the master for these items. I'm e
 - The Scarlet Pimpernel: 
     - February 6, 1999 (Highlights)
     - March 7, 1999
-    - March 9, 1999
     - May 30, 1999 (Highlights)
 
 - Chicago - West End Revival - June 13, 2001 \| juniper47
@@ -251,8 +250,6 @@ I'm looking for the original files released by the master for these items. I'm e
 - Jersey Boys - First National Tour - November 30, 2007 \| juniper47
 
 - Jersey Boys - Las Vegas - December 22, 2007 \| juniper47
-
-- Jersey Boys - Broadway - March 14, 2008 \| juniper47
 
 - Les Misérables - Hollywood Bowl - August 9, 2008 \| juniper47
 
@@ -280,13 +277,11 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - If/Then - First National Tour - January 24, 2016 \| SJ Bernly `Idina’s Last`
 
+- Grey Gardens - Los Angeles / Tour - August 26, 2016 `Date may be incorrect`
+
+- Mamma Mia! - Hollywood Bowl / Los Angeles - July 30, 2017 \| SJ Bernly `Closing Night`
+
 ### Concert videos
-
-- Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009 \| juniper47
-
-- Julia Murney - Feinstein's - May 18, 2009 \| juniper47
-
-- Julia Murney - 54 Below - September 10, 2012 \| juniper47
 
 - Julia Murney - 54 Below - September 16, 2012 \| juniper47
 
