@@ -28,7 +28,10 @@ NFT
 : Not For Trade (do not request them)
 
 LT
-: Limited Trades
+: Limited Trades (Usually traded at a 2:1 ratio)
+
+VLT
+: Very Limited Trades (Usually traded at a 3:1 ratio)
 
 s/w
 : Swing
