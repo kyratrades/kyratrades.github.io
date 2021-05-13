@@ -9249,7 +9249,10 @@ FORMAT
 : MP4 `1080p` `6.25 GB`
 
 CAST
-: Olivia Kaufmann (s/b Cady Heron), Cailen Fu (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Tovi Wayne (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Aaron Alcaraz (s/w Marwan Jitla), Maria Briggs (s/w Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
+: Erika Henningsen (Cady Heron), Reneé Rapp (Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Aaron Alcaraz (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Brittany Nicholas (s/w Caitlyn Caussin), Curtis Holland (Jason Weems), Daryl Tofa (Marwan Jitla), Becca Petersen (Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
+
+NOTES
+: Erika’s last. Focuses a lot more Erika as opposed to the main action happening, as it’s her last show. Small part of the left area of the stage is blocked by a few heads.
 
 Mean Girls - Broadway - February, 2020 (Olivia and Cailen)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -9261,10 +9264,7 @@ FORMAT
 : MP4 `1080p` `6.09 GB`
 
 CAST
-: Erika Henningsen (Cady Heron), Reneé Rapp (Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Aaron Alcaraz (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Brittany Nicholas (s/w Caitlyn Caussin), Curtis Holland (Jason Weems), Daryl Tofa (Marwan Jitla), Becca Petersen (Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
-
-NOTES
-: Erika’s last. Focuses a lot more Erika as opposed to the main action happening, as it’s her last show. Small part of the left area of the stage is blocked by a few heads.
+: Olivia Kaufmann (s/b Cady Heron), Cailen Fu (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Tovi Wayne (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Aaron Alcaraz (s/w Marwan Jitla), Maria Briggs (s/w Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
 
 ## Les Misérables
 
