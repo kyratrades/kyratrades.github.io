@@ -121,7 +121,7 @@ MASTER'S NOTES
 : Filmed during previews so there are some differences in dialogue and with the songs (i.e. Stephanie still had the very high note at the end of "Out of Control"). Some great ad-libs and flubs, one of which was after the show had to stop due to technical difficulty.
 
 9 to 5 - Pre-Broadway / Los Angeles - September 23, 2008
-{: .no_toc }
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
