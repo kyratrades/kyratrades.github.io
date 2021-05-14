@@ -89,8 +89,6 @@ ___
 
 - The Marvelous Wonderettes - Sacramento Music Circus - August 19, 2010 (Matinee) \| juniper47
 
-- Wicked - Broadway - May 14, 2008 \| juniper47
-
 - Wicked - Broadway - December 12, 2009 \| juniper47
 
 - Winter Wonderettes - Laguna Playhouse - December 19, 2009 \| juniper47
