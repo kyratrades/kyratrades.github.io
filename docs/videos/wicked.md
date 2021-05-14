@@ -414,6 +414,18 @@ FORMAT
 CAST
 : Stephanie J Block (Elphaba), Annaleigh Ashford (Glinda), David Burnham (Fiyero), Lenny Wolpe (The Wizard), Miriam Margolyes (Madame Morrible), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Doctor Dillamond)
 
+Wicked - Broadway - May 14, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Lisa Brescia (s/b Elphaba), Kendra Kassebaum (Glinda), David Burnham (Fiyero), Miriam Margolyes (Morrible), Lenny Wolpe (Wizard), Cristy Candler (Nessarose), Ben Liebert (Boq), Steven Skybell (Dillamond), Brian Munn* (Witch's Father/Ozian Official u/s), Jason Davies* (Chistery u/s), Katie Webber (Witch's Mother), Kathy Santen (Midwife)
+
 Wicked - Broadway - June 15, 2008
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
