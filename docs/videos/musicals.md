@@ -1897,7 +1897,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-out-of-hell">Bat out of Hell</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-out-of-hell">Bat out of Hell</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bring-it-on-the-musical">Bring It On: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -2982,6 +2982,23 @@ CAST
 
 NOTES
 : Final performance. An electric performance right from the start. The enthusiastic audience is extremely supportive, and the cast gives emotional performances. Steve Martin joins the band for the Entr'Acte, and there's a standing ovation for him, as well as for Carmen following At Long Last. There were no speeches given, but the curtain call was much longer than usual with Steve, Edie, and Walter all taking bows, and Steve doing a short impromptu tap number. This is beautifully captured with no obstruction. There is a one minute blackout over the first scene just before She's Gone, but the rest of the show is complete. There is some slight washout in a few of the wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes the entire extended curtain call and playbill scans.
+
+## Bring It On: The Musical
+
+Bring It On - Broadway - October 24, 2012
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Taylor Louderman (Campbell), Adrienne Warren (Danielle), Elle McLemore (Eva), Janet Krupin (u/s Bridget), Jason Gotay (Randall), Ariana DeBose (Nautica), Michael Mindlin (u/s La Cienega), Neil Haskell (Steven), Calli Alden (u/s Kylar), Nikki Bohne (s/b Skylar), Nicolas Womack (Twig)
+
+NOTES
+: Heads at the bottom of the screen during a good part of the show when action takes place at the foot of the stage but it's shot around well. A-
 
 ## Bullets Over Broadway
 
@@ -7915,7 +7932,33 @@ CAST
 
 # K
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#kiss-me-kate">Kiss Me, Kate</a> • <a href="https://kyratrades.github.io/musicals#kiss-of-the-spider-woman">Kiss of the Spider Woman</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#kinky-boots">Kinky Boots</a> • <a href="https://kyratrades.github.io/musicals#kiss-me-kate">Kiss Me, Kate</a> • <a href="https://kyratrades.github.io/musicals#kiss-of-the-spider-woman">Kiss of the Spider Woman</a></p>
+
+## Kinky Boots
+
+Kinky Boots - Broadway - May-August, 2017
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: MP4 `720p` `1.22 GB`
+
+CAST
+: Brendon Urie (Charlie Price), J Harrison Ghee (Lola), Taylor Louderman (Lauren)
+
+NOTES
+: Starts at Sex is in the Heel
+
+Kinky Boots - Broadway - June 13, 2017
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: MOV `1080p` `10.42 GB`
+
+CAST
+: Brendon Urie (Charlie Price), J Harrison Ghee (Lola), Taylor Louderman (Lauren), Shannon O'Boyle (Nicola), Daniel Stewart Sherman (Don), Jake Katzman (Young Charlie)
+
+NOTES
+: Ends halfway through last song. No close-ups and a lot of washout so you can barely see their faces, but it is the only video known with this cast. Good audio.
 
 ## Kiss Me, Kate
 
@@ -9268,6 +9311,36 @@ FORMAT
 
 CAST
 : Olivia Kaufmann (s/b Cady Heron), Cailen Fu (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Catherine Brunell (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Drew Redington (Mr. Heron), Teddy Toye (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Tovi Wayne (s/w Tyler Kimble), Darius Barnes (Christian Wiggins), Pascal Pastrana (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Aaron Alcaraz (s/w Marwan Jitla), Maria Briggs (s/w Taylor Wedell), Sasha Hollinger (Rachel Hamilton), Bria Jene Williams (Grace Akinola), Susie Carroll (s/w Sonja Acquino)
+
+Mean Girls - First National Tour - February 23, 2020 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.80 GB`
+
+CAST
+: Danielle Wade (Cady Heron), Olivia Renteria (u/s Regina George), Megan Masako Haley (Gretchen Wieners), Jonalyn Saxer (Karen Smith), Mary Kate Morrissey (Janis Sarkisian), Eric Huffman (Damian Hubbard), Adante Carter (Aaron Samuels), Kabir Bery (Kevin Gnapoor), Gaelen Gilliland (Mrs. Heron/Ms. Norbury/Mrs. George), Lawrence Street (Principal Duvall), Will Branner (Mr. Heron), Will Branner (Coach Carr/Glen Coco/Math Moderator), Sarah Crane (Dawn Schweitzer), Sydney Mei Ruf-Wong (Lizzie Therman/Caroline Krafft), Sky Flaherty (Tyler Kimble), DeShawn Bowens (Christian Wiggins), Blake Zelesnikar (Shane Oman), Asia Kreitz (Sophie Kawachi), Mary Beth Donahoe (Caitlyn Caussin), David Wright Jr (Jason Weems), Fernell Hogan (Marwan Jitla), Ixchel Cuellar (s/w Taylor Wedell), Morgan Ashley Bryant (Rachel Hamilton), Niani Feelings (Grace Akinola), Kaitlyn Louise Smith (Sonja Acquino)
+
+NOTES
+: Some shakiness in the beginning, obstructions on the right from a head that was difficult to shoot around, the last eight minutes of video is blurry, mix of wides and lots of really great zooms that capture all of Olivia’s amazing facial expressions—she is a brilliant Regina—so terrifying she gives chills!!
+
+Mean Girls - First National Tour - February 23, 2020
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.34 GB`
+
+CAST
+: Mary Beth Donahoe (u/s Cady Heron), English Bernhardt (s/b Regina George), Megan Masako Haley (Gretchen Wieners), Jonalyn Saxer (Karen Smith), Mary Kate Morrissey (Janis Sarkisian), Eric Huffman (Damian Hubbard), Adante Carter (Aaron Samuels), Kabir Bery (Kevin Gnapoor), Gaelen Gilliland (Mrs. Heron/Ms. Norbury/Mrs. George), Lawrence Street (Principal Duvall), Will Branner (Mr. Heron), Will Branner (Coach Carr/Glen Coco/Math Moderator), Sarah Crane (Dawn Schweitzer), Sydney Mei Ruf-Wong (Lizzie Therman/Caroline Krafft), Sky Flaherty (Tyler Kimble), DeShawn Bowens (Christian Wiggins), Blake Zelesnikar (Shane Oman), Asia Kreitz (Sophie Kawachi), Grace Romanello (s/w Caitlyn Caussin), David Wright Jr (Jason Weems), Fernell Hogan (Marwan Jitla), Ixchel Cuellar (s/w Taylor Wedell), Morgan Ashley Bryant (Rachel Hamilton), Niani Feelings (Grace Akinola), Kaitlyn Louise Smith (Sonja Acquino)
+
+NOTES
+: Super crisp and clear capture, a mix of wides of the whole stage and some great zooms zooms. Missing a few small pieces, namely part of What’s Wrong With Me and Sexy due to battery conservation efforts. Very few if any obstructions. MB and English were BRILLIANT together!
 
 ## Les Misérables
 

@@ -283,6 +283,8 @@ I'm looking for the original files released by the master for these items. I'm e
 
 - Wicked - West End - October 18, 2007 \| SunsetBlvd79 `should have the polaroid menu`
 
+- Wicked - Chicago - August 31, 2005 \| SunsetBlvd79
+
 - Wicked - Los Angeles - April 23, 2008 \| SunsetBlvd79
 
 - Wicked - Los Angeles - August 9, 2008 \| SunsetBlvd79

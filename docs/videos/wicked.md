@@ -263,6 +263,21 @@ CAST
 NOTES
 : Crystal clear picture and sound of Ana\'s return to Wicked in the Broadway Cast. Missing 14 minutes in the middle of Act 2, but sound is there. A
 
+Wicked - Broadway - November 25, 2006 (Highlights)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+jstarz
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Ana Gasteyer (Elphaba), Katie Adams (s/b Glinda), Derrick Williams (Fiyero), David Garrison (The Wizard), Jayne Houdyshell (Madame Morrible), Jenna Leigh Green (Nessarose), Logan Lipton (Boq), Steven Skybell (Doctor Dillamond)
+
+NOTES
+: Act One plus a few minutes of Act Two before the camera was confiscated. Filmed from center of first row of mezz, so no head obstruction. A black bar sometimes appears on the bottom of the screen. Also the FIRST video that includes the brand new show changes carried over from London, in particular a hilarious new scene where Elphaba and Fiyero first meet and new “Dancing Through Life” choreography.
+
 Wicked - Broadway - January 20, 2007 (Matinee)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -765,6 +780,21 @@ CAST
 NOTES
 : Amazing Capture of Jennifer as Elphaba
 
+Wicked - Broadway - February 23, 2020 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+screechout
+{: .label .label-blue }
+
+FORMAT
+: MTS `7.63 GB`
+
+CAST
+: Hannah Corneau (Elphaba), Brittney Johnson (s/b Glinda), Jake Boyd (Fiyero), Michael McCormick (The Wizard), Alexandra Billings (Madame Morrible), Shoba Narayan (Nessarose), Riley Costello (Boq), Michael X Martin (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch's Mother), William Ryall (Witch's Father / Ozian Official), Alex Aquilino, Cary Tedder, Celia Hottenstein, Christianne Tisdale, Colby Q Lindeman, Courtney Iventosch, Dan Gleason, Emily Rogers, Jeff Heimbrock, Jeremy Thompson, Josh Daniel Green, Larkin Bogan, Lauren Cannon, Lauren Sambataro, Lindsay Janisse, Marissa Lupp, Matt Meigs, Meg Doherty, Nicky Venditti, Teneise Mitchell Ellis, William Ryall
+
+NOTES
+: Final matinee for Hannah and Jake, and Brittney's last show with them. The person in front of me wouldn't stop moving all show and I couldn't film around them a lot of the time.
+
 Wicked - Broadway - March, 2020
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -778,6 +808,24 @@ CAST
 : Jennifer DiNoia (s/b Elphaba), Celia Hottenstein (u/s Glinda), Sam Gravitte (Fiyero), Michael McCormick (The Wizard), Alexandra Billings (Madame Morrible), Shoba Narayan (Nessarose), Riley Costello (Boq), Michael X Martin (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch's Mother), Bret Shuford (u/s Witch's Father / Ozian Official)
 
 ## Chicago
+
+Wicked - Chicago - August 31, 2005
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD` `Non-original`
+
+CAST
+: Ana Gasteyer (Elphaba), Kate Reinders (Glinda), Kristoffer Cusick (Fiyero), Ben Vereen (t/r The Wizard), Rondi Reed (Madame Morrible), Heidi Kettenring (Nessarose), Telly Leung (Boq), Steven Skybell (Doctor Dillamond)
+
+NOTES
+: Filmed during Ben's one week stay in the Chicago Cast. Amazing video, possibly the best wicked video. Crystal clear picture and audio. Has cast curtain call doing the "Ben Vereen" dance at the end. A+
 
 Wicked - Chicago - August 5, 2006
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -1847,6 +1895,21 @@ CAST
 NOTES
 : A perfect capture of the brand new tour cast. Kara\'s an excellent Glinda and really tugged at the heart with \"I\'m Not That Girl (Reprise).\" The show is completely intact with no no blackouts, no obstruction, and no washout. The video is very steady throughout and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call and Matt and Emily's very entertaining BC/EFA speech.
 
+Wicked - Second National Tour (Munchkinland) - October 22, 2015 (Matinee)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Alyssa Fox (Elphaba), Carrie St Louis (Glinda), Jake Boyd (Fiyero), Stuart Zagnit (The Wizard), Wendy Worthington (Madame Morrible), Liana Hunt (Nessarose), Lee Slobotkin (Boq), Chad Jennings (Doctor Dillamond
+
+NOTES
+: Beautiful HD capture with no obstructions. Alssya has such power and control over her voice and character and is super strong. Carrie is just enthralling. Wonderful performances throughout!
+
 Wicked - Second National Tour (Munchkinland) - October 29, 2015
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -2002,6 +2065,18 @@ CAST
 NOTES
 : Awesome filming quality, very steady, great zooms and close-ups. Willemijn, Cèline, and Ferry are all phenomenal! A very funny mess-up takes place in act two. Penultimate show for production. Final show for Cèline Purcell and Ferry Doedens. Muck-up where Fiyero flies in with a broom instead of a rifle in Catfight
 
+Wicked - Scheveningen - January 11, 2013 (Closing Night)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Willemijn Verkaik (Elphaba), Yvonne Coldeweijer (Glinda), Jim Bakkum (Fiyero), Bill van Dijk (The Wizard), Pamela Teves (Madame Morrible), Jeroen Duijghuisen, Kelvin Wormgoor, Christanne de Bruijn (Nessarose), Niels Jacobs (Boq), Jochem Feste Roozemond (Doctor Dillamond), Ben Cox, Leo Alexander Hewitt, Tommie Luyben, Nuno Azevedo (Chistery), Neil Dolan, Michael Macalintal, Penny Vos (Midwife), Corinne Ponton, Chiara Ludemann, Heather Carino, Ianthe Tavernier, Vicky Riddoch (Witch's Mother), Kris Siekerman, Vivian Gomez, Suzanne de Heij, Rhys George, James Cook, Kit Gresty, Dieter Spileers, John ter Riet (Witch's Father / Ozian Official), Sandra Wijnhout, Myrthe Maljers, Manon Novak, Eva Scheffers
+
+NOTES
+: Last NL show. There's a missing part during WWOTE; Act 2 wanders (blind filming) but still very watchable, minor spotlight washout, overall a very pretty/colorful capture. The master got caught during 'Wicked Witch of the east' so the beginning of that scene is missing. After that moment, only blind filming, during the second half of wicked witch of the east, sometimes the sealing is filmed. After that still good capture with amazing close ups, but picture is askew sometimes/most of the time no zoom. Includes the speech from Joop van den Ende.
+
 ## Mexico
 
 Wicked - Mexico - 2006
@@ -2048,6 +2123,15 @@ CAST
 
 NOTES
 : One of the best wicked korean bootlegs to be ever filmed. Oak Joo Hyun is killing it with her ruffs and Kim Bo Kyung is a bouncy, funny but at times serious Glinda. During catfight after Fiyero swings in, Kim throws the hat accidentally to Oak's face but Oak and Kim both managed to stay in character despite some laughter from audience.
+
+Wicked - First Seoul Revival - August 6, 2016
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: AVI `480p` `4.14 GB`
+
+CAST
+: Cha Ji Yeon (Elphaba), Ivy (Glinda), Min Woo Hyuk (Fiyero), Lee Sang Jun (The Wizard), Kim Young Joo (Madame Morrible), Lee Yea Eun (Nessarose), Lee Woo Jong (Boq), Ji Hye Geun (Doctor Dillamond)
 
 ## Brazil
 
