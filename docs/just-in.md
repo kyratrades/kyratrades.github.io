@@ -16,44 +16,6 @@ ___
 
 ## May, 2021
 
-### May 12, 2021
-
-Julia Murney - Feinstein's - May 18, 2009
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-NOTES
-: Solo concert at Feinstein's
-
-Julia Murney - 54 Below - September 10, 2012
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-NOTES
-: Solo concert at 54 Below
-
-Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-juniper47
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Julia Murney, David Burnham, Farah Alvin
-
 ### May 11, 2021
 
 Broadway Barks 10 - New York - July 10, 2008
