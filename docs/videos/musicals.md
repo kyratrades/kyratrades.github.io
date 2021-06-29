@@ -3639,7 +3639,7 @@ CAST
 NOTES
 : Starts at the The invitation to the Jellicle ball and missing a couple of minutes at the start of act 2 two. Act one is filmed in night shot, and act two comes with a verry clear picture. Veerle Castelyn is followed a lot.
 
-Cats - Netherlands - September 16, 2007 (Unknown's video master) 
+Cats - Netherlands - September 16, 2007
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 FORMAT
