@@ -69,31 +69,9 @@ ___
     - March 7, 1999
     - May 30, 1999 (Highlights)
 
-- Chicago - West End Revival - June 13, 2001 \| juniper47
+- Chicago - West End Revival - June 13, 2001
 
-- [title of show] - Broadway - October 7, 2008 (Highlights) \| juniper47
-
-- The Drowsy Chaperone - National Tour - July 13, 2008 (Evening) \| juniper47
-
-- Hairspray - First National Tour - February 1, 2008 \| juniper47
-
-- Jersey Boys - First National Tour - November 30, 2007 \| juniper47
-
-- Jersey Boys - Las Vegas - December 22, 2007 \| juniper47
-
-- Les Misérables - Hollywood Bowl - August 9, 2008 \| juniper47
-
-- Les Misérables - Fourth National Tour - December 12, 2010 \| juniper47
-
-- The Marvelous Wonderettes - Musical Theatre West - April 24, 2010 (Matinee) \| juniper47
-
-- The Marvelous Wonderettes - Sacramento Music Circus - August 19, 2010 (Matinee) \| juniper47
-
-- Wicked - Broadway - December 12, 2009 \| juniper47
-
-- Winter Wonderettes - Laguna Playhouse - December 19, 2009 \| juniper47
-
-- Xanadu - National Tour - December 31, 2008 (Matinee) (Highlights) \| juniper47
+- Next to Normal - La Mirada - June 15, 2013 (Evening) \| juniper47
 
 ### Blu-ray videos
 
@@ -111,7 +89,7 @@ ___
 
 ### Concert videos
 
-- Julia Murney - 54 Below - September 16, 2012 \| juniper47
+- Julia Murney - Signature's Sizzlin' Summer Cabaret - August 6, 2011 \| juniper47
 
 ### Audios
 
@@ -222,8 +200,6 @@ I'm looking for the original files released by the master for these items. I'm e
 - Wicked - Broadway - October 14, 2006 \| SunsetBlvd79 `Stops working somewhere after 1:10:00`
 
 - Wicked - Broadway - July 3, 2007 `just doesn't work at all`
-
-- Wicked - Broadway - March 13, 2008 \| juniper47 `cannot load video from DVD mneu`
 
 - Wicked - First National Tour (Emerald City) - February 26, 2009 (Matinee) \| SunsetBlvd79 `faulty VTS_01_3.VOB`
 
