@@ -13146,6 +13146,18 @@ CAST
 NOTES
 : Pro-shot video filmed in a studio and not on stage
 
+Starlight Express - Broadway - January 8, 1989 (Closing Night)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.44 GB`
+
+CAST
+: Greg Mowry (Rusty), Reva Rice (Pearl), Jane Krakowski (Dinah), Todd Lester (Caboose), Michael Scott Gregory (Dustin)
+
+NOTES
+: Final Broadway performance.
+
 Starlight Express - Las Vegas - September 8, 1996
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
