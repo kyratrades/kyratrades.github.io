@@ -307,6 +307,9 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 
@@ -796,6 +799,9 @@ After Midnight - Broadway - May 18, 2014
 SunsetBlvd79
 {: .label .label-blue }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 
@@ -871,6 +877,9 @@ Ain\'t Too Proud - Pre-Broadway Tour - August 24, 2018 (Opening Night)
 
 thehouseonsunset
 {: .label .label-blue }
+
+MEGA only
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -1341,6 +1350,9 @@ CAST
 
 Annie 2: Miss Hannigan\'s Revenge - Kennedy Center (Washington DC) - December 23, 1989
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+MEGA only
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `1 DVD` `NO DVD menu`
@@ -1907,6 +1919,9 @@ Back to the Future - Manchester Opera House - February, 2020 (Preview)
 queenofthedead
 {: .label .label-blue }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : MP4 `1080p` `3.71 GB`
 
@@ -1962,6 +1977,9 @@ CAST
 The Band Wagon - Encores! - November 13, 2014
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 
@@ -1979,6 +1997,9 @@ Bandstand - Broadway - March 31, 2017 (Preview)
 SunsetBlvd79
 {: .label .label-blue }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `2 DVDs`
 
@@ -1995,6 +2016,9 @@ Bare: The Musical - Off-Broadway - December 2, 2012 (Preview)
 
 SunsetBlvd79
 {: .label .label-blue }
+
+MEGA only
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -2080,89 +2104,6 @@ CAST
 
 NOTES
 : Incomplete video. Cuts out during for crying out loud. Blind shot from the right hand side of the stage. Features Xena Gusthart (show's choreographer) in the ensemble due to limited ensemble members.
-
-## Be More Chill
-
-Be More Chill - Two River Theatre - June 28, 2015 (Closing Night) (Highlights)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-FORMAT
-: MOV `1080p` `3.09 GB`
-
-CAST
-: Will Connolly (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Eric William Morris (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Katie Ladner (Jenna Rolan), Jake Boyd (Jake Dillinger), Gerard Canonico (Rich Goranski), Paul Whitty (Mr. Heere/Mr. Reyes/Scary Stockboy)
-
-NOTES
-: Only 35 minutes, ends after Jeremy gets his Squip. Only known video of the original Two River Theater production.
-
-Be More Chill - Broadway - March, 2019 
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
-
-NOTES
-: Great clear video with excellent picture and good sound.
-
-Be More Chill - Broadway - June 23, 2019 (Matinee) (Highlights)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-FORMAT
-: MOV `1080p` `3.59 GB`
-
-CAST
-: Gerard Canonico (u/s Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Troy Iwata (u/s Rich Goranski), Joel Waggoner (t/r Mr. Heere/Mr. Reyes/Scary Stockboy)
-
-NOTES
-: Gerard's debut as Jeremy, and Troy's first performance as Rich on Broadway! Act One Only, ends after Two Player Game. Includes audios of the show—Act One starts at Do You Wanna ride, and Act Two is full. Filmed between two heads, but they don't interrupt the action for the most part. Only known footage of Gerard as Jeremy and Troy's only performance as Rich on Broadway.
-
-Be More Chill - Broadway - August 11, 2019 (Closing Night)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-notjustthespongenextdoor
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `17.38 GB`
-
-CAST
-: Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
-
-NOTES
-: Closing Night on Broadway! Fantastic HD stageshot from the rear right balcony without zooms. The action is caught really well and there is no washout. The cast were on top of their game for the final performance and includes the speeches after the show.
-
-Be More Chill - Broadway - August 11, 2019 (Closing Night)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-FORMAT
-: MOV `1080p` `22.07 GB`
-
-CAST
-: Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
-
-NOTES
-: Closing night! The energy in the theatre is absolutely incredible, with every song receiving a standing ovation. Filmed from one of the first few rows in the center orchestra, with several head obstructions. Blindshot, and the action isn’t always focused on, but what is captured is very nice quality!
-
-Be More Chill - Off-West End - February, 2020 (2)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-queenofthedead
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `6.82 GB ` `Compressed release`
-
-CAST
-: Scott Folan (Jeremy Heere), Blake Patrick Anderson (Michael Mell), Miracle Chance (Christine Canigula), Stewart Clarke (The SQUIP), Eloise Davies (Brooke Lohst), Millie O'Connell (Chloe Valentine), Renée Lamb (Jenna Rolan), Miles Paloma (Jake Dillinger), James Hameed (Rich Goranski), Christopher Fry (Mr. Heere/Mr. Reyes/Scary Stockboy)
-
-NOTES
-: Act 1 was filmed completely blind so some heads get cut off at times. 19.46GB uncompressed or 6.82GB compressed, in 2 mp4 files/2:04:27
 
 ## Beaches
 
@@ -5085,41 +5026,14 @@ NOTES
 
 ## Dear Evan Hansen
 
-Dear Evan Hansen - Broadway - November, 2016 (Preview)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Ben Platt (Evan Hansen), Rachel Bay Jones (Heidi Hansen), Laura Dreyfuss (Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), Michael Park (Larry Murphy), Mike Faist (Connor Murphy), Will Roland (Jared Kleinman), Kristolyn Lloyd (Alana Beck)
-
-NOTES
-: Excellent HD capture of the Broadway transfer. In the long journey to Broadway, the show still lives up to all it\'s hype and greatness. The cast gives amazing performances and leaves it all on the stage. A
-
-Dear Evan Hansen - Broadway - December, 2016 (Highlights) 
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `1 DVD`
-
-CAST
-: Ben Platt (Evan Hansen), Rachel Bay Jones (Heidi Hansen), Laura Dreyfuss (Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), Michael Park (Larry Murphy), Mike Faist (Connor Murphy), Will Roland (Jared Kleinman), Kristolyn Lloyd (Alana Beck)
-
-NOTES
-: Act One only! A nice capture with no washout and just one quick dropout during the scene after Waving Through a Window. There is one head that blocks part of the front of the stage, but it's worked around generally doesn't do more than block the actors' legs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent.
-
 Dear Evan Hansen - Broadway - December 29, 2018 (Highlights)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
 bluebird
 {: .label .label-blue }
+
+MEGA only
+{: .label .label-yellow }
 
 FORMAT
 : MP4 `1080p` `30.55 GB`
@@ -5129,36 +5043,6 @@ CAST
 
 NOTES
 : Act One only! Gabrielle is a wonderful Zoe and really gives the role her all. Filmed from the center mezzanine, with obstructions in the bottom of the screen, filmed between heads. Lots of washout, especially in the brighter scenes, but definitely watchable.
-
-Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-myroadofgoodintentions
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `16.79 GB`
-
-CAST
-: Sam Primack (alt Evan Hansen), Jessica Sherman (Heidi Hansen), Stephanie La Rochelle (Zoe Murphy), Claire Rankin (Cynthia Murphy), John Hemphill (Larry Murphy), Noah Kieserman (Connor Murphy), Alessandro Costantini (Jared Kleinman), Ciara Alyse Harris (Alana Beck)
-
-NOTES
-: High quality boot shot with an HD camera. Some shakiness and jumping around and quick zooms in and out to find the action as master was less familiar with this show. Really great captures of faces and mix of wide shots and zooms.
-
-Dear Evan Hansen - Broadway - January, 2020 
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `6.38 GB`
-
-CAST
-: Jordan Fisher (Evan Hansen), Jessica Phillips (Heidi Hansen), Gabrielle Carrubba (Zoe Murphy), Christiane Noll (Cynthia Murphy), Ivan Hernandez (Larry Murphy), Dan Macke (t/r Connor Murphy), Jared Goldsmith (Jared Kleinman), Phoebe Koyabe (Alana Beck)
-
-NOTES
-: The video starts just after Anybody Have a Map.
 
 ## Der Besuch der alten Dame
 
