@@ -10,9 +10,55 @@ permalink: /just-in
 
 ### Quick links
 
-<p align="center"><a href="https://kyratrades.github.io/just-in#june-2021">June, 2021</a> • <a href="https://kyratrades.github.io/just-in#may-2021">May, 2021</a> • <a href="https://kyratrades.github.io/just-in#april-2021">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021">March, 2021</a></p>
+<p align="center"><a href="https://kyratrades.github.io/just-in#july-2021">July, 2021</a> • <a href="https://kyratrades.github.io/just-in#june-2021">June, 2021</a> • <a href="https://kyratrades.github.io/just-in#may-2021">May, 2021</a> • <a href="https://kyratrades.github.io/just-in#april-2021">April, 2021</a> • <a href="https://kyratrades.github.io/just-in#march-2021">March, 2021</a></p>
 
 ___
+
+## July, 2021
+
+### July 16, 2021
+
+Hairspray - First National Tour - February 1, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `1st gen`
+
+CAST
+: Brooklyn Pulver (Tracy Turnblad), Jerry O'Boyle (Edna Turnblad), Pearl Thomas (Amber Von Tussle), Angela Birchett (Motormouth Maybelle), Sharon Malane (Penny Pingleton), Kristin Stewart (Velma Von Tussle), Dan Ferretti (Wilbur Turnblad), Constantine Rousouli (Link Larkin), Donell James Foreman (Seaweed J. Stubbs), Jarret Mallon (Corny Collins), Marsena Eunince Bowers (Little Inez), Arjana Andris (Prudence (Prudy) Pingleton)
+
+The Drowsy Chaperone - National Tour - July 13, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `1st gen`
+
+CAST
+: Jonathan Crombie (Man in Chair), Georgia Engel (Mrs. Tottendale), Robert Dorfman (Underling), Mark Ledbetter (Robert Martin), Richard Vida (George), Cliff Bemis (Feldzieg), Marla Mindelle (Kitty), Paul Riopelle (Gangster #1), Peter Riopelle (Gangster #2), Dale Hensley (Aldolpho), Andrea Chamberlain (Janet Van De Graaff), Nancy Opel (The Drowsy Chaperone), Fran Jaye (Trix), Chuck Rea (Super, Ensemble), Kevin Crewell, Jen Taylor Farrell, Tiffany Haas, Jennifer Swiderski
+
+MASTER'S NOTES
+: Filmed in widescreen with almost no obstructions except for a few occasions when people leaned forward, a few blackouts totalling 10-12 minutes in all but none more than a couple minutes each.
+
+\[title of show\] - Broadway - October 7, 2008 (Highlights)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `1st gen`
+
+CAST
+: Heidi Blickenstaff (Heidi), Hunter Bell (Hunter), Jeff Bowen (Jeff), Larry Pressgrove (Larry), Susan Blackwell (Susan)
+
+MASTER'S NOTES
+: Includes first half of show up to end of "Die, Vampire, Die!" plus all of "A Way Back to Then". First few minutes are with a suboptimal camera setting but then it gets fixed. Some obstruction from a head blocking a part of the bottom section of the frame at some angles. A-
 
 ## June, 2021
 

@@ -5333,6 +5333,21 @@ CAST
 NOTES
 : Beautiful Filming and picture. Great shots! A+
 
+The Drowsy Chaperone - National Tour - July 13, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `1st gen`
+
+CAST
+: Jonathan Crombie (Man in Chair), Georgia Engel (Mrs. Tottendale), Robert Dorfman (Underling), Mark Ledbetter (Robert Martin), Richard Vida (George), Cliff Bemis (Feldzieg), Marla Mindelle (Kitty), Paul Riopelle (Gangster #1), Peter Riopelle (Gangster #2), Dale Hensley (Aldolpho), Andrea Chamberlain (Janet Van De Graaff), Nancy Opel (The Drowsy Chaperone), Fran Jaye (Trix), Chuck Rea (Super, Ensemble), Kevin Crewell, Jen Taylor Farrell, Tiffany Haas, Jennifer Swiderski
+
+MASTER'S NOTES
+: Filmed in widescreen with almost no obstructions except for a few occasions when people leaned forward, a few blackouts totalling 10-12 minutes in all but none more than a couple minutes each.
+
 The Drowsy Chaperone - National Tour - October 8, 2008
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
@@ -6884,6 +6899,18 @@ CAST
 
 NOTES
 : Great Dvd with crystal clear picture & sound. Cast had lots of energy and Understudies did a great job! A
+
+Hairspray - First National Tour - February 1, 2008
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `1st gen`
+
+CAST
+: Brooklyn Pulver (Tracy Turnblad), Jerry O'Boyle (Edna Turnblad), Pearl Thomas (Amber Von Tussle), Angela Birchett (Motormouth Maybelle), Sharon Malane (Penny Pingleton), Kristin Stewart (Velma Von Tussle), Dan Ferretti (Wilbur Turnblad), Constantine Rousouli (Link Larkin), Donell James Foreman (Seaweed J. Stubbs), Jarret Mallon (Corny Collins), Marsena Eunince Bowers (Little Inez), Arjana Andris (Prudence (Prudy) Pingleton)
 
 Hairspray - NBC Live - December 7, 2016
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
@@ -9436,7 +9463,7 @@ CAST
 : Randal Keith (Jean Valjean), Michael McCarthy (Javert), Jayne Paterson (Fantine), Sandra Turley (Cosette), Kevin Kern (Marius), Diana Kaarina (Éponine), Christopher Mark Peterson (Enjolras), Stephen Brian Patterson (Thénardier), Aymee Garcia (Madame Thénardier)
 
 NOTES
-: Closing show highlights but not the complete show. The digital video is 1 hour and 5 minutes long. The numbers included are One Day More, On My Own, Bring Him Home, A Little Fall Of Rain, Javert\'s Death, Empty Chairs At Empty Tables, And The Finale as well as the curtain speeches and the high school cast performances; 1st generation from t
+: Closing show highlights but not the complete show. The digital video is 1 hour and 5 minutes long. The numbers included are One Day More, On My Own, Bring Him Home, A Little Fall Of Rain, Javert\'s Death, Empty Chairs At Empty Tables, And The Finale as well as the curtain speeches and the high school cast performances
 
 ### 10th Anniversary Concert
 
@@ -13848,6 +13875,21 @@ NOTES
 : Camcorder video, mostly wide shot with a few zooms. The only known video of this production.
 
 ## \[title of show\]
+
+\[title of show\] - Broadway - October 7, 2008 (Highlights)
+{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `1st gen`
+
+CAST
+: Heidi Blickenstaff (Heidi), Hunter Bell (Hunter), Jeff Bowen (Jeff), Larry Pressgrove (Larry), Susan Blackwell (Susan)
+
+MASTER'S NOTES
+: Includes first half of show up to end of "Die, Vampire, Die!" plus all of "A Way Back to Then". First few minutes are with a suboptimal camera setting but then it gets fixed. Some obstruction from a head blocking a part of the bottom section of the frame at some angles. A-
 
 \[title of show\] - London Coliseum - November, 2020
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
