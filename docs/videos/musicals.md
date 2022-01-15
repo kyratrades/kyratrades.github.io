@@ -1909,7 +1909,7 @@ NOTES
 
 # B
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-out-of-hell">Bat out of Hell</a> • <a href="https://kyratrades.github.io/musicals#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bring-it-on-the-musical">Bring It On: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/musicals#the-bakers-wife">The Baker's Wife</a> • <a href="https://kyratrades.github.io/musicals#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/musicals#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/musicals#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bat-out-of-hell">Bat out of Hell</a> • <a href="https://kyratrades.github.io/musicals#beaches">Beaches</a> • <a href="https://kyratrades.github.io/musicals#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/musicals#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/musicals#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/musicals#before-after">Before After</a> • <a href="https://kyratrades.github.io/musicals#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/musicals#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bitter-and-happy">Bitter And Happy</a> • <a href="https://kyratrades.github.io/musicals#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/musicals#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/musicals#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/musicals#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/musicals#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/musicals#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/musicals#the-boy-friend">The Boy Friend</a> • <a href="https://kyratrades.github.io/musicals#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/musicals#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/musicals#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/musicals#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/musicals#bring-it-on-the-musical">Bring It On: The Musical</a> • <a href="https://kyratrades.github.io/musicals#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/musicals#bye-bye-birdie">Bye Bye Birdie</a></p>
 
 ## Back to the Future: The Musical
 
@@ -2416,6 +2416,9 @@ Big Fish - Musical Theatre West - November 1, 2014
 
 SJ Bernly
 {: .label .label-blue }
+
+MEGA only
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -4875,7 +4878,7 @@ CAST
 
 # D
 
-<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/musicals#der-besuch-der-alten-dame">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doctor-zhivago">Doctor Zhivago</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+<p align="center"><a href="https://kyratrades.github.io/musicals#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/musicals#der-besuch-der-alten-dame">Der Besuch der alten Dame</a> • <a href="https://kyratrades.github.io/musicals#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/musicals#dirty-rotten-scoundrels">Dirty Rotten Scoundrels</a> • <a href="https://kyratrades.github.io/musicals#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/musicals#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/musicals#do-i-hear-a-waltz">Do I Hear a Waltz?</a> • <a href="https://kyratrades.github.io/musicals#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/musicals#doctor-zhivago">Doctor Zhivago</a> • <a href="https://kyratrades.github.io/musicals#doubt">Doubt</a> • <a href="https://kyratrades.github.io/musicals#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/musicals#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
 
 ## Damn Yankees
 
@@ -4890,26 +4893,6 @@ CAST
 
 NOTES
 : Some generational loss, but a great bootleg version of show! Also features various TV clips.
-
-## Dear Evan Hansen
-
-Dear Evan Hansen - Broadway - December 29, 2018 (Highlights)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-bluebird
-{: .label .label-blue }
-
-MEGA only
-{: .label .label-yellow }
-
-FORMAT
-: MP4 `1080p` `30.55 GB`
-
-CAST
-: Taylor Trensch (Evan Hansen), Nicole Van Giesen (u/s Heidi Hansen), Gabrielle Carrubba (u/s Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), Michael Park (Larry Murphy), Alex Boniello (Connor Murphy), Sky Lakota-Lynch (Jared Kleinman), Phoenix Best (Alana Beck)
-
-NOTES
-: Act One only! Gabrielle is a wonderful Zoe and really gives the role her all. Filmed from the center mezzanine, with obstructions in the bottom of the screen, filmed between heads. Lots of washout, especially in the brighter scenes, but definitely watchable.
 
 ## Der Besuch der alten Dame
 
