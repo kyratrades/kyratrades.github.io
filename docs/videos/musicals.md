@@ -2113,6 +2113,9 @@ Beaches - Chicago - June 25, 2015
 SunsetBlvd79
 {: .label .label-blue }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `2 DVDs`
 
@@ -2198,36 +2201,6 @@ CAST
 
 NOTES
 : A beautiful HD capture of Melissa Benoist\'s run in the show. She develiers a wonderful and beautiful performance as Carole and also has great vocals! The whole cast is spectacular and the show is still running strong for being on broadway for five years! Nice capture with filmed with a mix of wides, mediums and close-ups! Includes curtain call and encore. File quality/format varies across traders.
-
-Beautiful - Broadway - October, 2019 
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `5.63 GB`
-
-CAST
-: Sarah Bockel (Carole King), Cory Jeacoma (Gerry Goffin), Jessica Keenan Wynn (Cynthia Weil), Ben Jacoby (Barry Mann), Paul Anthony Stewart (Don Kirshner), Liz Larsen (Genie Klein), Ashley De La Rosa (Janelle Woods/Shirelle), Elena Ricardo (Betty)
-
-NOTES
-: Beautiful HD capture of the show, filmed from the orchestra before closing. The video starts when Carole mentions being from Brooklyn. Act Two starts part of the way through "Chains." Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
-
-Beautiful - Second UK Tour - February, 2020
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-hitmewithyourbethshot
-{: .label .label-blue }
-
-FORMAT
-: MTS `14.54 GB`
-
-CAST
-: Vicki Manser (alt Carole King), Adam Gillian (Gerry Goffin), Laura Baldwin (Cynthia Weil), Cameron Sharp (Barry Mann), Oliver Boot (Don Kirshner), Susie Fenwick (Genie Klein), Carly Cook (Marilyn Wald), Katrina May (Janelle Woods/Shirelle), Mica Townsend (Little Eva/Shirelle), Julia Dray (s/w Betty), Grant McConey (Nick/Righteous Brother), Jordan Fox (Neil Sedaka/Righteous Brother/Lou Adler), Louise Francis (Lucille/Shirelle)
-
-NOTES
-: This video is never to be publicly shared on YouTube, Tumblr, Facebook, Stage Dork, etc.
 
 ## Beauty and the Beast (Disney)
 
@@ -2394,53 +2367,6 @@ COMMENTS
 
 CAST
 : Bernadette Peters (Female 1), Cyrille Aimee (Female 2), Elizabeth Parkinson (Female Dancer 1), Grasan Kingsberry (Male Dancer 1), Jeremy Jordan (Male 2), Meg Gillentine (Female Dancer 2), Norm Lewis (Male 1), Tyler Hanes (Male Dancer 2)
-
-## Beetlejuice
-
-Beetlejuice - Broadway - July, 2019 (Sophia Anne Caruso)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `5.63 GB`
-
-CAST
-: Alex Brightman (Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), Rob McClure (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
-
-NOTES
-: Good HD capture from the right orchestra with beautiful zooms and way less obstructions than the March video. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
-
-Beetlejuice - Broadway - September, 2019 (Presley Ryan)
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `5.50 GB`
-
-CAST
-: Alex Brightman (Beetlejuice), Presley Ryan (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
-
-NOTES
-: Beautiful HD capture of the incredible Presley Ryan as Lydia and David's first week as Adam! Filmed from the left orchestra without obstructions with a mix of wides, mediums, and closeups. This is hands down the best video of the show to date. Starts about 3 minutes into performance (mid whole being dead thing).
-
-Beetlejuice - Broadway - November, 2019
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-StarCuffedJeans
-{: .label .label-blue }
-
-FORMAT
-: MP4 `1080p` `5.67 GB`
-
-CAST
-: Will Blum (u/s Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Kim Sava (u/s Delia Deetz/Miss Argentina), Sean Montgomery (u/s Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno)
-
-NOTES
-: A few heads show up briefly and a quick video drop after the first two songs. Covers from opening song to final applause, great shot.
 
 ## Before After
 
@@ -2690,6 +2616,9 @@ NOTES
 Bonnie and Clyde - La Jolla Playhouse - November 14, 2009 (Matinee) (Preview)
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
+MEGA only
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 
@@ -2704,6 +2633,9 @@ Bonnie and Clyde - Broadway - November 9, 2011 (Preview)
 
 NYCG8R 
 {: .label .label-blue }
+
+MEGA only
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `1 DVD`
