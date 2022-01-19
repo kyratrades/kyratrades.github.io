@@ -6726,21 +6726,6 @@ CAST
 NOTES
 : More new performers captured in this phenomenal show. Lexi is lovely as Eliza and makes the role her own. Standout understudies were Sydney and Andrew - both give fantastic performances as Burr and Lafayette/Jefferson. My best capture of this show to date. It's fully captured with no washouts and no blackouts, just a couple very quick dropouts between scenes. There are a couple heads that can be seen occasionally, but they are worked around and don't obstruct the action. It\'s filmed in 16:9, with a mix of wides, mediums and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
-Hamilton - Chicago - October 2, 2016
-{: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls `2 DVDs`
-
-CAST
-: Joseph Morales (alt Alexander Hamilton), Ari Afsar (Eliza Hamilton), Joshua Henry (Aaron Burr), Karen Olivo (Angelica Schuyler), Jonathan Kirkland (George Washington), Chris De'Sean Lee (Marquis de Lafayette/Thomas Jefferson), Wallace Smith (Hercules Mulligan/James Madison), Jose Ramos (John Laurens/Philip Hamilton), Samantha Marie Ware (Peggy Schuyler/Maria Reynolds), Alexander Gemignani (King George III)
-
-NOTES
-: Stunning capture of the Chicago company and Joseph's first performance as Hamilton. Such a talented and wonderful cast. Ari and Karen just blew my mind with perfection! A+
-
 Hamilton - First National Tour (Angelica) - August 12, 2017 (Matinee) 
 {: .fw-500 .text-grey-dk-300 .text-gamma .d-inline-block }
 
